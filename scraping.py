@@ -3,10 +3,20 @@ from selenium import webdriver
 import time
 from bs4 import BeautifulSoup
 
-
 #opening browser
 browser = webdriver.Chrome()
 browser.get('https://bioportal.bioontology.org/ontologies/MEDDRA/?p=classes')
+time.sleep(3)
+
+
+img2 = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
+
+
+while img2:
+    img2.click()
+    browser.execute_script("arguments[0].scrollIntoView(true);", img2)
+    time.sleep(3)
+    img2 = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
 
 
 #giving time to execute js
@@ -31,10 +41,6 @@ while True:
         break
     name.append(text)
     i = i + 1
-
-
-#exiting the browser
-browser.quit()
 
 
 #printing the contents

@@ -13,22 +13,21 @@ img = browser.find_element_by_class_name("folder-close").find_element_by_class_n
 folder_close = browser.find_elements_by_class_name("folder-close")
 
 while True:
+    folder_close = browser.find_elements_by_class_name("folder-close")
     if folder_close:
+        img = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
         img.click()
         time.sleep(2)
         browser.execute_script("arguments[0].scrollIntoView(true);", img)
-        folder_close = browser.find_elements_by_class_name("folder-close")
-        if folder_close:
-            img = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
+    else:
+        folder_close_last = browser.find_elements_by_class_name("folder-close-last")
+        if folder_close_last:
+            img = browser.find_element_by_class_name("folder-close-last").find_element_by_class_name("trigger")
+            browser.execute_script("arguments[0].scrollIntoView(true);", img)
+            img.click()
+            time.sleep(2)
         else:
-            folder_close_last = browser.find_elements_by_class_name("folder-close-last")
-            if folder_close_last:
-                img = browser.find_element_by_class_name("folder-close-last").find_element_by_class_name("trigger")
-                browser.execute_script("arguments[0].scrollIntoView(true);", img)
-                img.click()
-                time.sleep(2)
-            else:
-                break
+            break
 
 
 

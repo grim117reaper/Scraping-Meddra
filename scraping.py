@@ -8,15 +8,28 @@ browser = webdriver.Chrome()
 browser.get('https://bioportal.bioontology.org/ontologies/MEDDRA/?p=classes')
 time.sleep(3)
 
+img = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
 
-img2 = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
+folder_close = browser.find_elements_by_class_name("folder-close")
 
+while True:
+    if folder_close:
+        img.click()
+        time.sleep(2)
+        browser.execute_script("arguments[0].scrollIntoView(true);", img)
+        folder_close = browser.find_elements_by_class_name("folder-close")
+        if folder_close:
+            img = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
+        else:
+            folder_close_last = browser.find_elements_by_class_name("folder-close-last")
+            if folder_close_last:
+                img = browser.find_element_by_class_name("folder-close-last").find_element_by_class_name("trigger")
+                browser.execute_script("arguments[0].scrollIntoView(true);", img)
+                img.click()
+                time.sleep(2)
+            else:
+                break
 
-while img2:
-    img2.click()
-    browser.execute_script("arguments[0].scrollIntoView(true);", img2)
-    time.sleep(3)
-    img2 = browser.find_element_by_class_name("folder-close").find_element_by_class_name("trigger")
 
 
 #giving time to execute js

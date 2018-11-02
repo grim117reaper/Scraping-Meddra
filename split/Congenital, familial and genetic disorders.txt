@@ -1,0 +1,1574 @@
+l0< Congenital, familial and genetic disorders>
+l1< Blood and lymphatic system disorders congenital >
+l2< Anaemias congenital (excl haemoglobinopathies) >
+ABO haemolytic disease of newborn
+Blood incompatibility haemolytic anaemia of newborn
+Congenital anaemia
+Congenital aplastic anaemia
+Erythroblastosis foetalis
+Hereditary haemolytic anaemia
+Hereditary sideroblastic anaemia
+Hereditary stomatocytosis
+Hexokinase deficiency anaemia
+Pyruvate kinase deficiency anaemia
+Red blood cell enzymes abnormal
+Rhesus haemolytic disease of newborn
+l2</ Anaemias congenital (excl haemoglobinopathies) >
+l2< Coagulation disorders congenital >
+Antithrombin III deficiency
+Coagulation factor mutation
+Congenital coagulopathy
+Congenital dysfibrinogenaemia
+Congenital hypercoagulation
+Congenital thrombocyte disorder
+Factor I deficiency
+Factor II deficiency
+Factor II mutation
+Factor III deficiency
+Factor IX deficiency
+Factor V deficiency
+Factor V Leiden mutation
+Factor VII deficiency
+Factor VIII deficiency
+Factor X deficiency
+Factor XI deficiency
+Factor XII deficiency
+Factor XIII deficiency
+Haemophilia
+Haemophilia A with anti factor VIII
+Haemophilia A without inhibitors
+Haemophilia B with anti factor IX
+Haemophilia B without inhibitors
+MYH9-related disease
+Platelet glycoprotein gene mutation
+Protein C deficiency
+Protein S deficiency
+Sticky platelet syndrome
+Von Willebrand's disease
+l2</ Coagulation disorders congenital >
+l2< Haematological disorders congenital NEC >
+Amegakaryocytic thrombocytopenia
+Congenital dyskeratosis
+Congenital haematological disorder
+Congenital thrombocytopenia
+Congenital white blood cell disorder
+Elliptocytosis hereditary
+Familial haemophagocytic lymphohistiocytosis
+Familial polycythaemia
+Hereditary spherocytosis
+Hypersplenism congenital
+Infantile genetic agranulocytosis
+Neonatal alloimmune thrombocytopenia
+Neonatal leukaemia
+l2</ Haematological disorders congenital NEC >
+l2< Haemoglobinopathies congenital >
+Congenital methaemoglobinaemia
+Delta-beta thalassaemia
+Double heterozygous sickling disorders
+Haemoglobin C disease
+Haemoglobin C trait
+Haemoglobin D disease
+Haemoglobin D trait
+Haemoglobin E disease
+Haemoglobin E trait
+Haemoglobin E-thalassaemia disease
+Haemoglobinopathy
+Sickle cell anaemia
+Sickle cell trait
+Thalassaemia
+Thalassaemia alpha
+Thalassaemia beta
+Thalassaemia sickle cell
+l2</ Haemoglobinopathies congenital >
+l2< Lymphatic system disorders congenital >
+Accessory spleen
+Asplenia
+Cardiac lymphangioma
+Congenital chylothorax
+Congenital lymphoedema
+Cystic lymphangioma
+Lymphangiectasia intestinal congenital
+Pulmonary lymphangiectasia
+Spleen malformation
+Splenic hamartoma
+l2</ Lymphatic system disorders congenital >
+l1</ Blood and lymphatic system disorders congenital >
+l1< Cardiac and vascular disorders congenital >
+l2< Arterial disorders congenital >
+Congenital arterial malformation
+Congenital coronary artery malformation
+Congenital pulmonary artery anomaly
+Ductus arteriosus premature closure
+Ductus arteriosus stenosis foetal
+Intracranial arterial fenestration
+Pulmonary artery atresia
+Pulmonary artery stenosis congenital
+Single umbilical artery
+Umbilical artery hypoplasia
+l2</ Arterial disorders congenital >
+l2< Cardiac disorders congenital NEC >
+Arrhythmogenic right ventricular dysplasia
+Atrioventricular node dispersion
+Chiari network
+Cor biloculare
+Cor triatriatum
+Endocardial fibroelastosis
+Heart block congenital
+Heart disease congenital
+Inherited cardiac conduction disorder
+Left ventricular false tendon
+Long QT syndrome congenital
+Lown-Ganong-Levine syndrome
+Myocardial bridging
+Non-compaction cardiomyopathy
+Right ventricular false tendon
+Timothy syndrome
+Wolff-Parkinson-White syndrome congenital
+l2</ Cardiac disorders congenital NEC >
+l2< Cardiac hypoplasias congenital >
+Hypoplastic left heart syndrome
+Hypoplastic right heart syndrome
+Uhl's anomaly
+Ventricular hypoplasia
+l2</ Cardiac hypoplasias congenital >
+l2< Cardiac malpositions congenital >
+Cardiac malposition
+Dextrocardia
+Ectopia cordis
+Laevocardia
+l2</ Cardiac malpositions congenital >
+l2< Cardiac septal defects congenital >
+Atrial septal defect
+Atrioventricular septal defect
+Cardiac septal defect
+Hypertrophic cardiomyopathy
+Left-to-right cardiac shunt
+Univentricular heart
+Ventricular septal defect
+l2</ Cardiac septal defects congenital >
+l2< Cardiac valve disorders congenital >
+Aortic valve atresia
+Bicuspid aortic valve
+Bicuspid pulmonary valve
+Congenital aortic valve incompetence
+Congenital aortic valve stenosis
+Congenital heart valve disorder
+Congenital heart valve incompetence
+Congenital mitral valve incompetence
+Congenital mitral valve stenosis
+Congenital pulmonary valve atresia
+Congenital pulmonary valve disorder
+Congenital tricuspid valve atresia
+Congenital tricuspid valve incompetence
+Congenital tricuspid valve stenosis
+Ebstein's anomaly
+Mitral valve atresia
+Mitral valve hypoplasia
+Parachute mitral valve
+Pulmonary valve stenosis congenital
+Shone complex
+Williams syndrome
+l2</ Cardiac valve disorders congenital >
+l2< Cardiovascular disorders congenital NEC >
+Congenital cardiovascular anomaly
+Left ventricle outflow tract obstruction
+Pseudotruncus arteriosus
+Right ventricle outflow tract obstruction
+Right-to-left cardiac shunt
+l2</ Cardiovascular disorders congenital NEC >
+l2< Great vessel disorders congenital >
+Aorta hypoplasia
+Coarctation of the aorta
+Congenital aortic anomaly
+Congenital aortic atresia
+Congenital aortic dilatation
+Congenital aortic stenosis
+Congenital great vessel anomaly
+Corrected transposition of great vessels
+Double outlet left ventricle
+Double outlet right ventricle
+Interruption of aortic arch
+Right aortic arch
+Transposition of the great vessels
+Truncus arteriosus persistent
+l2</ Great vessel disorders congenital >
+l2< Multiple cardiac abnormalities congenital >
+Fallot's pentalogy
+Fallot's tetralogy
+Fallot's trilogy
+Multiple cardiac defects
+l2</ Multiple cardiac abnormalities congenital >
+l2< Persistent foetal circulation disorders >
+Patent ductus arteriosus
+Persistent foetal circulation
+l2</ Persistent foetal circulation disorders >
+l2< Vascular anomalies congenital NEC >
+Alveolar capillary dysplasia
+Aorticopulmonary septal defect
+Arteriovenous malformation
+Cerebral arteriovenous malformation haemorrhagic
+Cerebrovascular arteriovenous malformation
+Cobb syndrome
+Congenital arteriovenous fistula
+Congenital cerebrovascular anomaly
+Congenital gastrointestinal vessel anomaly
+Cutaneovisceral angiomatosis with thrombocytopenia
+Cystic angiomatosis
+Gastrointestinal arteriovenous malformation
+Haemangioma congenital
+Haemorrhagic arteriovenous malformation
+Hamartoma vascular
+Hepatic arteriovenous malformation
+Klippel-Trenaunay syndrome
+Parkes-Weber syndrome
+Portal venous system anomaly
+Pulmonary arteriovenous fistula
+Renal arteriovenous malformation
+Renal vessel congenital anomaly
+Retinal arteriovenous malformation
+Spinal vessel congenital anomaly
+Sturge-Weber syndrome
+Vascular malformation
+Vein of Galen aneurysmal malformation
+Venolymphatic malformation
+Vertebral artery hypoplasia
+Wyburn Mason's syndrome
+l2</ Vascular anomalies congenital NEC >
+l2< Venous disorders congenital >
+Anomalous pulmonary venous connection
+Ductus venosus agenesis
+Malformation venous
+Persistent left superior vena cava
+Preduodenal portal vein
+Scimitar syndrome
+Venous angioma of brain
+l2</ Venous disorders congenital >
+l1</ Cardiac and vascular disorders congenital >
+l1< Chromosomal abnormalities and abnormal gene carriers >
+l2< Abnormal gene carriers >
+Amyotrophic lateral sclerosis gene carrier
+Asymptomatic gene carrier
+Cancer gene carrier
+Cystic fibrosis carrier
+DNA mismatch repair protein gene mutation
+Duchenne muscular dystrophy gene carrier
+Factor V Leiden carrier
+Fragile X carrier
+Haemophilia carrier
+LDLR mutation
+Li-Fraumeni syndrome
+Mismatch repair cancer syndrome
+l2</ Abnormal gene carriers >
+l2< Autosomal chromosomal abnormalities >
+18q minus syndrome
+Angelman's syndrome
+Autosomal chromosome anomaly
+Baraitser Rodeck Garner syndrome
+Beckwith-Wiedemann syndrome
+Cowden's disease
+Cri du Chat syndrome
+Emanuel syndrome
+Fatal familial insomnia
+Fryns syndrome
+Holt-Oram syndrome
+Hyper IgE syndrome
+Langer-Giedion syndrome
+Oculopharyngeal dystrophy
+Triple A syndrome
+Trisomy 11
+Trisomy 12
+Trisomy 13
+Trisomy 14
+Trisomy 15
+Trisomy 17
+Trisomy 18
+Trisomy 21
+Trisomy 22
+Trisomy 4p
+Trisomy 8
+Trisomy 9
+Waardenburg syndrome
+Werner's syndrome
+Wolf-Hirschhorn syndrome
+Wolfram syndrome
+l2</ Autosomal chromosomal abnormalities >
+l2< Chromosomal abnormalities NEC >
+Chimerism
+Chromosomal deletion
+Chromosomal mutation
+Cytogenetic abnormality
+Foetal chromosome abnormality
+Gene mutation
+Lamin A/C gene mutation
+Mosaicism
+Mutagenic effect
+l2</ Chromosomal abnormalities NEC >
+l2< Sex chromosomal abnormalities >
+Fragile X syndrome
+Gonadal dysgenesis
+Klinefelter's syndrome
+Sex chromosome abnormality
+Turner's syndrome
+X-linked chromosomal disorder
+XXX syndrome
+XXXY syndrome
+XXYY syndrome
+XYY syndrome
+Y-linked chromosomal disorder
+l2</ Sex chromosomal abnormalities >
+l1</ Chromosomal abnormalities and abnormal gene carriers >
+l1< Congenital and hereditary disorders NEC >
+l2< Chemically-induced congenital syndromes >
+Angiotensin converting enzyme inhibitor foetopathy
+Diethylstilboestrol syndrome
+Foetal alcohol syndrome
+Foetal anticonvulsant syndrome
+Foetal methotrexate syndrome
+Foetal retinoid syndrome
+Foetal warfarin syndrome
+Thalidomide embryopathy
+l2</ Chemically-induced congenital syndromes >
+l2< Congenital disorders NEC >
+Acardia
+Aplasia
+Barakat syndrome
+Blau syndrome
+Carcinogenic effect in offspring
+Carney complex
+CHARGE syndrome
+Congenital anomaly
+Congenital anomaly in offspring
+Congenital benign neoplasm
+Congenital cyst
+Congenital dermal sinus
+Congenital malignant neoplasm
+Congenital midline defect
+Congenital neoplasm
+Congenital teratoma
+Conjoined twins
+Familial amyloidosis
+Foetal cystic hygroma
+Foetal malformation
+Hamartoma
+Hemihypertrophy
+Hereditary angioedema
+Hereditary disorder
+Hereditary neuropathic amyloidosis
+Heterotaxia
+Kaufman-McKusick syndrome
+Keratitis-ichthyosis-deafness syndrome
+Kleefstra syndrome
+Menkes' syndrome
+Multiple congenital abnormalities
+Pallister-Killian syndrome
+Phakomatosis
+Progeria
+Special senses congenital anomaly
+Teratogenicity
+Twin reversed arterial perfusion sequence malformation
+VACTERL syndrome
+Young's syndrome
+l2</ Congenital disorders NEC >
+l1</ Congenital and hereditary disorders NEC >
+l1< Cytoplasmic disorders congenital >
+l2< Genetic mitochondrial abnormalities NEC >
+Alpers' disease
+Congenital mitochondrial cytopathy
+Hereditary optic atrophy
+Kearns-Sayre syndrome
+MELAS syndrome
+Mitochondrial DNA deletion
+Mitochondrial DNA depletion
+Mitochondrial DNA duplication
+Mitochondrial DNA mutation
+Mitochondrial encephalomyopathy
+Mitochondrial hepatopathy
+Mitochondrial myopathy
+Mitochondrial neurogastrointestinal encephalopathy
+MLASA syndrome
+Myoclonic epilepsy and ragged-red fibres
+Neuropathy, ataxia, retinitis pigmentosa syndrome
+Pearson's syndrome
+Progressive external ophthalmoplegia
+l2</ Genetic mitochondrial abnormalities NEC >
+l1</ Cytoplasmic disorders congenital >
+l1< Ear and labyrinthine disorders congenital >
+l2< Ear disorders congenital NEC >
+Anomaly of middle ear congenital
+Branchio-oto-renal syndrome
+Congenital anomalies of ear ossicles
+Congenital anomaly of inner ear
+Congenital Eustachian tube anomaly
+Ear malformation
+Postauricular fistula
+l2</ Ear disorders congenital NEC >
+l2< External ear disorders congenital >
+Accessory auricle
+Anomaly of external ear congenital
+Anotia
+Congenital aural fistula
+Constricted ear deformity
+External auditory canal atresia
+Low set ears
+Macrotia
+Microtia
+Protuberant ear
+l2</ External ear disorders congenital >
+l2< Hearing disorders congenital >
+Auditory neuropathy spectrum disorder
+Congenital hearing disorder
+Deaf mutism
+Deafness congenital
+l2</ Hearing disorders congenital >
+l1</ Ear and labyrinthine disorders congenital >
+l1< Endocrine disorders congenital >
+l2< Adrenal disorders congenital >
+Adrenal insufficiency neonatal
+Adrenogenital syndrome
+Congenital adrenal gland hypoplasia
+Congenital anomaly of adrenal gland
+l2</ Adrenal disorders congenital >
+l2< Endocrine disorders congenital NEC >
+Apparent mineralocorticoid excess
+Congenital androgen deficiency
+Congenital central diabetes insipidus
+Congenital endocrine anomaly
+Congenital hypoparathyroidism
+Cystic fibrosis related diabetes
+Diabetic foetopathy
+Ectopic posterior pituitary gland
+Familial hypocalciuric hypercalcaemia
+Familial medullary thyroid cancer
+Hyperinsulinism syndrome
+Hypopituitarism foetal
+Multiple endocrine neoplasia
+Multiple endocrine neoplasia Type 1
+Multiple endocrine neoplasia Type 2
+Multiple endocrine neoplasia Type 2A
+Multiple endocrine neoplasia Type 2B
+Olfacto genital dysplasia
+Pseudohypoparathyroidism
+l2</ Endocrine disorders congenital NEC >
+l2< Thyroid disorders congenital >
+Congenital hyperthyroidism
+Congenital hypothyroidism
+Congenital thyroid disorder
+Ectopic thyroid
+Generalised resistance to thyroid hormone
+Goitre congenital
+Thyroglossal cyst
+Thyroglossal fistula
+Thyroid hemiagenesis
+Thyroid malformation
+l2</ Thyroid disorders congenital >
+l1</ Endocrine disorders congenital >
+l1< Eye disorders congenital >
+l2< Anterior and posterior chamber disorders congenital >
+Anterior chamber cleavage syndrome
+Congenital vitreous anomaly
+Developmental glaucoma
+Eye anterior chamber congenital anomaly
+Posterior segment of eye anomaly congenital
+l2</ Anterior and posterior chamber disorders congenital >
+l2< Corneal and scleral disorders congenital >
+Congenital corneal anomaly
+Congenital scleral disorder
+Corneal dystrophy
+Corneal opacity congenital
+Macrocornea
+Microcornea
+l2</ Corneal and scleral disorders congenital >
+l2< Eyelid disorders congenital >
+Blepharophimosis congenital
+Congenital epiblepharon
+Congenital eyelid malformation
+Distichiasis
+Entropion congenital
+Eyelid ptosis congenital
+Marcus Gunn syndrome
+Prominent epicanthal folds
+l2</ Eyelid disorders congenital >
+l2< Iris and choroid disorders congenital >
+Aniridia
+Choroidal coloboma
+Congenital choroidal anomaly
+Congenital eye naevus
+Congenital iris anomaly
+Hereditary choroidal dystrophy
+Heterochromia iridis
+Iris coloboma
+Persistent pupillary membrane
+l2</ Iris and choroid disorders congenital >
+l2< Lacrimal system disorders congenital >
+Congenital lacrimal gland anomaly
+Congenital lacrimal passage anomaly
+Dacryostenosis congenital
+Lacrimal punctum agenesis
+l2</ Lacrimal system disorders congenital >
+l2< Lens disorders congenital >
+Aphakia congenital
+Cataract congenital
+Congenital lenticonus
+Lens abnormality, congenital
+Mittendorf dot
+Spherophakia
+l2</ Lens disorders congenital >
+l2< Ocular disorders congenital NEC >
+Amblyopia congenital
+Anomaly of orbit, congenital
+Anophthalmos
+Blindness congenital
+Coloboma
+Colour blindness
+Congenital astigmatism
+Congenital eye disorder
+Congenital myopia
+Congenital oculomotor apraxia
+Congenital visual acuity reduced
+Cryptophthalmos
+Cystic eyeball, congenital
+Duane's syndrome
+Exophthalmos congenital
+Lipodermoid tumour
+Microphthalmos
+Ocular albinism
+Strabismus congenital
+l2</ Ocular disorders congenital NEC >
+l2< Optic nerve and optic disc disorders congenital >
+Congenital optic nerve anomaly
+Morning glory syndrome
+Optic disc pit
+Optic nerve hypoplasia
+Septo-optic dysplasia
+Tilted disc syndrome
+l2</ Optic nerve and optic disc disorders congenital >
+l2< Retinal disorders congenital >
+Alstroem syndrome
+Chorioretinal degeneration congenital
+Congenital night blindness
+Congenital retinoblastoma
+Haemangioma of retina
+Hereditary retinal dystrophy
+Leber's congenital amaurosis
+Macular dystrophy congenital
+Norrie's disease
+Retinal anomaly congenital
+Retinal coloboma
+Retinitis pigmentosa
+Retinopathy congenital
+Retinoschisis congenital
+Stargardt's disease
+Stickler's syndrome
+Usher's syndrome
+Wagner's disease
+l2</ Retinal disorders congenital >
+l1</ Eye disorders congenital >
+l1< Gastrointestinal tract disorders congenital >
+l2< Anorectal disorders congenital >
+Anal atresia
+Anorectal agenesis
+Anterior displaced anus
+Preternatural anus
+Rectal atresia
+l2</ Anorectal disorders congenital >
+l2< Dental disorders congenital >
+Anodontia
+Dentinogenesis imperfecta
+Hypodontia
+Odontogenic cyst
+Periodontal congenital anomaly
+Tooth discolouration congenital
+Tooth hypoplasia
+Tooth malformation hereditary
+l2</ Dental disorders congenital >
+l2< Gastric disorders congenital >
+Congenital gastric anomaly
+Congenital hiatus hernia
+Pyloric stenosis
+l2</ Gastric disorders congenital >
+l2< Gastrointestinal tract disorders congenital NEC >
+Abdominal transposition
+Abdominal wall anomaly
+Berdon's syndrome
+Congenital abdominal hernia
+Congenital inguinal hernia
+Congenital umbilical hernia
+Cystic fibrosis gastrointestinal disease
+Diverticulitis Meckel's
+Eagle Barrett syndrome
+Exomphalos
+Gastrointestinal disorder congenital
+Gastrointestinal malformation
+Gastroschisis
+Hernia congenital
+Multiple gastrointestinal atresias
+Umbilical malformation
+l2</ Gastrointestinal tract disorders congenital NEC >
+l2< Intestinal disorders congenital >
+Adenomatous polyposis coli
+Congenital intestinal malformation
+Congenital intestinal obstruction
+Congenital large intestinal atresia
+Congenital megacolon
+Congenital small intestinal atresia
+Dolichocolon
+Duodenal atresia
+Duplex appendix
+Enteric duplication
+Hereditary non-polyposis colorectal cancer syndrome
+Hollow visceral myopathy
+Ileal atresia
+Intestinal atresia
+Intestinal malrotation
+Intestinal neuronal dysplasia
+Intestinal transposition
+Microcolon
+Microvillous inclusion disease
+Mobile caecum syndrome
+Muir-Torre syndrome
+Peutz-Jeghers syndrome
+Vitello-intestinal duct remnant
+l2</ Intestinal disorders congenital >
+l2< Oesophageal disorders congenital >
+Congenital oesophageal anomaly
+Congenital oesophageal stenosis
+Congenital oesophageal web
+Imperforate oesophagus
+Oesophageal atresia
+Oesophageal cyst
+l2</ Oesophageal disorders congenital >
+l2< Oral cavity disorders congenital NEC >
+Cleft uvula
+Congenital oral malformation
+Labial tie
+Uvula aplasia
+l2</ Oral cavity disorders congenital NEC >
+l2< Palate disorders congenital >
+Cleft lip and palate
+Cleft palate
+High arched palate
+l2</ Palate disorders congenital >
+l2< Pancreatic disorders congenital >
+Annular pancreas
+Congenital ectopic pancreas
+Congenital pancreatic anomaly
+Cystic fibrosis pancreatic
+Hereditary pancreatitis
+Johanson-Blizzard syndrome
+Pancreas divisum
+Shwachman-Diamond syndrome
+l2</ Pancreatic disorders congenital >
+l2< Salivary gland disorders congenital >
+Accessory salivary gland
+Congenital salivary gland anomaly
+l2</ Salivary gland disorders congenital >
+l2< Tongue disorders congenital >
+Aglossia
+Ankyloglossia congenital
+Congenital tongue anomaly
+Fissure of tongue, congenital
+Macroglossia
+Microglossia
+l2</ Tongue disorders congenital >
+l1</ Gastrointestinal tract disorders congenital >
+l1< Hepatobiliary disorders congenital >
+l2< Hepatobiliary abnormalities congenital >
+Accessory liver lobe
+Alagille syndrome
+Anomalous arrangement of pancreaticobiliary duct
+Biliary hamartoma
+Cholangiectasis congenital
+Choledochal cyst
+Congenital absence of bile ducts
+Congenital cystic disease of liver
+Congenital hepatic fibrosis
+Congenital hepatobiliary anomaly
+Congenital hepatomegaly
+Cystic fibrosis hepatic disease
+Dilatation intrahepatic duct congenital
+Gallbladder agenesis
+Gallbladder anomaly congenital
+Haemochromatosis trait
+Hepatic hamartoma
+Hereditary haemochromatosis
+Malformation biliary
+Neonatal haemochromatosis
+Polycystic liver disease
+Progressive familial intrahepatic cholestasis
+l2</ Hepatobiliary abnormalities congenital >
+l1</ Hepatobiliary disorders congenital >
+l1< Immune system disorders congenital >
+l2< Immune system abnormalities congenital >
+Activated PI3 kinase delta syndrome
+Ataxia telangiectasia
+Autoimmune lymphoproliferative syndrome
+Bruton's agammaglobulinaemia
+Chediak-Higashi syndrome
+Chronic granulomatous disease
+Combined immunodeficiency
+Complement deficiency disease
+Congenital hypogammaglobulinaemia
+Congenital thymus absence
+Deficiency of the interleukin-1 receptor antagonist
+Deficiency of the interleukin-36 receptor antagonist
+DiGeorge's syndrome
+Familial mediterranean fever
+Hyper IgM syndrome
+Immunodeficiency congenital
+Interferon gamma receptor deficiency
+Majeed's syndrome
+Mevalonic aciduria
+Myeloperoxidase deficiency
+Omenn syndrome
+Primary immunodeficiency syndrome
+Pyogenic sterile arthritis pyoderma gangrenosum and acne syndrome
+Thymus hypoplasia
+Tumour necrosis factor receptor-associated periodic syndrome
+Wiskott-Aldrich syndrome
+X-linked lymphoproliferative syndrome
+l2</ Immune system abnormalities congenital >
+l1</ Immune system disorders congenital >
+l1< Infections and infestations congenital >
+l2< Bacterial infections congenital >
+Congenital syphilis
+Congenital syphilitic encephalitis
+Congenital syphilitic meningitis
+Congenital syphilitic osteochondritis
+Conjunctivitis gonococcal neonatal
+l2</ Bacterial infections congenital >
+l2< Infections congenital NEC >
+Congenital infection
+Infantile septic granulomatosis
+l2</ Infections congenital NEC >
+l2< Mycobacterial infections congenital >
+Congenital tuberculosis
+l2</ Mycobacterial infections congenital >
+l2< Protozoal infections congenital >
+Congenital malaria
+Congenital toxoplasmosis
+l2</ Protozoal infections congenital >
+l2< Viral infections congenital >
+Congenital condyloma
+Congenital cytomegalovirus infection
+Congenital hepatitis B infection
+Congenital herpes simplex infection
+Congenital HIV infection
+Congenital rubella infection
+Congenital varicella infection
+l2</ Viral infections congenital >
+l1</ Infections and infestations congenital >
+l1< Metabolic and nutritional disorders congenital >
+l2< Inborn errors of amino acid metabolism >
+Albinism
+Alkaptonuria
+Aminoaciduria
+Arginase deficiency
+Argininosuccinate lyase deficiency
+Argininosuccinate synthetase deficiency
+Aspartate-glutamate-transporter deficiency
+Biotinidase deficiency
+Carbamoyl phosphate synthetase deficiency
+Cystathionine beta-synthase deficiency
+Cystinosis
+Cystinuria
+Glutathione synthetase deficiency
+Hartnup disease
+Homocystinaemia
+Homocystinuria
+Hydroxyprolinaemia
+Hypermethioninaemia
+Hypermethioniuria
+Hyperprolinaemia
+Lysinuric protein intolerance
+Maple syrup disease
+Methylenetetrahydrofolate reductase deficiency
+Methylenetetrahydrofolate reductase gene mutation
+Methylmalonic aciduria
+Molybdenum cofactor deficiency
+Multiple carboxylase deficiency
+N-acetylglutamate synthase deficiency
+Nonketotic hyperglycinaemia
+Ornithine transcarbamoylase deficiency
+Phenylketonuria
+Rett syndrome
+Sarcosinaemia
+Tetrahydrobiopterin deficiency
+Tyrosinaemia
+Urea cycle disorder
+l2</ Inborn errors of amino acid metabolism >
+l2< Inborn errors of bilirubin metabolism >
+Crigler-Najjar syndrome
+Dubin-Johnson syndrome
+Gilbert's syndrome
+Inborn error of bilirubin metabolism
+Rotor's syndrome
+l2</ Inborn errors of bilirubin metabolism >
+l2< Inborn errors of carbohydrate metabolism (excl glucose) >
+Carbohydrate metabolism disorder
+Congenital disorder of glycosylation
+Essential fructosuria
+Galactosaemia
+Glucose-6-phosphate dehydrogenase deficiency
+Glucose-galactose malabsorption
+Glycogen storage disease type I
+Glycogen storage disease type II
+Glycogen storage disease type III
+Glycogen storage disease type IV
+Glycogen storage disease type V
+Glycogen storage disease type VI
+Glycogen storage disease type VII
+Glycogen storage disease type VIII
+Glycogen storage disorder
+Hereditary fructose intolerance
+Metabolic myopathy
+Pyruvate carboxylase deficiency
+Sucrase-isomaltase deficiency
+l2</ Inborn errors of carbohydrate metabolism (excl glucose) >
+l2< Inborn errors of lipid metabolism >
+3-hydroxyacetyl-coenzyme A dehydrogenase deficiency
+Barth syndrome
+Beta ketothiolase deficiency
+Carnitine palmitoyltransferase deficiency
+Carnitine-acylcarnitine translocase deficiency
+Congenital carnitine deficiency
+Familial high density lipoprotein deficiency
+Familial hypertriglyceridaemia
+Fatty acid oxidation disorder
+Inborn error of lipid metabolism
+Lecithin-cholesterol acyltransferase deficiency
+Lipid proteinosis
+Long-chain acyl-coenzyme A dehydrogenase deficiency
+Medium-chain acyl-coenzyme A dehydrogenase deficiency
+Membranous lipodystrophy
+Phytosterolaemia
+Primary hypercholesterolaemia
+Short-chain acyl-coenzyme A dehydrogenase deficiency
+Smith-Lemli-Opitz syndrome
+Tangier disease
+Trifunctional protein deficiency
+Type I hyperlipidaemia
+Type II hyperlipidaemia
+Type IIa hyperlipidaemia
+Type IIb hyperlipidaemia
+Type III hyperlipidaemia
+Type IV hyperlipidaemia
+Type V hyperlipidaemia
+Very long-chain acyl-coenzyme A dehydrogenase deficiency
+l2</ Inborn errors of lipid metabolism >
+l2< Inborn errors of metabolism NEC >
+2-Hydroxyglutaric aciduria
+Acetylcholinesterase deficiency
+Alpha-1 anti-trypsin deficiency
+Citrate transporter deficiency
+Congenital intrinsic factor deficiency
+Congenital oxalosis
+Hyper IgD syndrome
+Hypophosphatasia
+Inborn error of metabolism
+Mevalonate kinase deficiency
+Mitochondrial enzyme deficiency
+Primary insulin like growth factor-1 deficiency
+Pseudocholinesterase deficiency
+Trimethylaminuria
+l2</ Inborn errors of metabolism NEC >
+l2< Inborn errors of porphyrin metabolism >
+Porphyria
+Porphyria acute
+Porphyria non-acute
+Porphyrin metabolism disorder
+Porphyrinuria
+l2</ Inborn errors of porphyrin metabolism >
+l2< Inborn errors of steroid synthesis >
+11-beta-hydroxylase deficiency
+17,20-desmolase deficiency
+17-alpha-hydroxylase deficiency
+20,22-desmolase deficiency
+21-hydroxylase deficiency
+5-alpha-reductase deficiency
+Inborn error in primary bile acid synthesis
+l2</ Inborn errors of steroid synthesis >
+l2< Lysosomal storage disorders >
+Aspartylglucosaminuria
+Canavan disease
+Dysmyelination
+Fabry's disease
+Gaucher's disease
+Gaucher's disease type I
+Gaucher's disease type II
+Gaucher's disease type III
+Hermansky-Pudlak syndrome
+Krabbe's disease
+Leukodystrophy
+Lipidosis
+Lysosomal acid lipase deficiency
+Metachromatic leukodystrophy
+Mucolipidosis
+Mucolipidosis type I
+Mucolipidosis type II
+Mucolipidosis type III
+Mucolipidosis type IV
+Mucopolysaccharidosis
+Mucopolysaccharidosis I
+Mucopolysaccharidosis II
+Mucopolysaccharidosis III
+Mucopolysaccharidosis IV
+Mucopolysaccharidosis V
+Mucopolysaccharidosis VI
+Mucopolysaccharidosis VII
+Neuronal ceroid lipofuscinosis
+Niemann-Pick disease
+Pelizaeus-Merzbacher disease
+Refsum's disease
+Tay-Sachs disease
+l2</ Lysosomal storage disorders >
+l2< Purine metabolism disorders congenital >
+Adenine phosphoribosyl transferase deficiency
+Hypoxanthine-guanine phosphoribosyl transferase deficiency
+l2</ Purine metabolism disorders congenital >
+l2< Pyrimidine metabolism disorders congenital >
+Dihydropyrimidine dehydrogenase deficiency
+Oroticaciduria congenital
+l2</ Pyrimidine metabolism disorders congenital >
+l1</ Metabolic and nutritional disorders congenital >
+l1< Musculoskeletal and connective tissue disorders congenital >
+l2< Connective tissue disorders congenital >
+Arterial tortuosity syndrome
+Congenital cutis laxa
+Ehlers-Danlos syndrome
+Neonatal lupus erythematosus
+Pseudoxanthoma elasticum
+l2</ Connective tissue disorders congenital >
+l2< Musculoskeletal and connective tissue disorders of face, neck and jaw congenital >
+Branchial cleft sinus
+Branchial cyst
+Branchiogenic syndrome
+Cervical auricle
+Cleft lip
+Cleidocranial dysostosis
+Congenital jaw malformation
+Congenital lip fistula
+Cyclopia
+Dentofacial anomaly
+Dysgnathia
+Fibrous dysplasia of jaw
+Gnathoschisis
+Hypertelorism of orbit
+Hypotelorism of orbit
+Macrocheilia
+Macrogenia
+Macrognathia
+Macrostomia
+Mandibulofacial dysostosis
+Maxillonasal dysplasia
+Microcheilia
+Microgenia
+Micrognathia
+Microstomia
+Nijmegen breakage syndrome
+Opitz-G/BBB syndrome
+Otocephaly
+Pierre Robin syndrome
+Preauricular cyst
+Pterygium colli
+Rubinstein-Taybi syndrome
+Velo-cardio-facial syndrome
+l2</ Musculoskeletal and connective tissue disorders of face, neck and jaw congenital >
+l2< Musculoskeletal and connective tissue disorders of limbs congenital >
+Accessory carpal bone
+Accessory navicular syndrome
+Adactyly
+Amniotic band syndrome
+Arachnodactyly
+Brachydactyly
+Camptodactyly congenital
+Camptomelia
+Carpus curvus
+Central core disease
+Chronic infantile neurological cutaneous and articular syndrome
+Clinodactyly
+Congenital amputation
+Congenital bowing of long bones
+Congenital claw toe
+Congenital flat feet
+Congenital foot malformation
+Congenital hand malformation
+Congenital hyperextension of knee
+Congenital knee deformity
+Congenital knee dislocation
+Congenital limb hyperextension
+Cryopyrin associated periodic syndrome
+Developmental hip dysplasia
+Dyschondrosteosis
+Ectrodactyly
+Familial cold autoinflammatory syndrome
+Femoral anteversion
+Femoral retroversion
+Femur-fibula-ulna complex
+Fibula agenesis
+Fraser syndrome
+Gollop-Wolfgang complex
+Hand-foot-genital syndrome
+Hypochondroplasia
+Larsen syndrome
+Limb hypoplasia congenital
+Limb malformation
+Limb reduction defect
+Macrodactyly
+Marfan's syndrome
+Metatarsus primus varus
+Monopodia
+Morton's syndrome
+Muckle-Wells syndrome
+Os trigonum
+Phalangeal agenesis
+Phalangeal hypoplasia
+Poland's syndrome
+Polydactyly
+Proximal focal femoral deficiency
+Radioulnar synostosis
+Sirenomelia
+Syndactyly
+Talipes
+Thrombocytopenia-absent radius syndrome
+Tibial agenesis
+Tibial torsion
+Vertical talus
+l2</ Musculoskeletal and connective tissue disorders of limbs congenital >
+l2< Musculoskeletal and connective tissue disorders of skull congenital >
+Apert's syndrome
+Bannayan-Riley-Ruvalcaba syndrome
+Brachycephaly
+Congenital absence of cranial vault
+Craniofacial deformity
+Craniofacial dysostosis
+Craniolacunia
+Craniorachischisis
+Craniosynostosis
+Craniotabes
+Familial scaphocephaly syndrome
+Foramen magnum stenosis
+Hypocalvaria
+Iniencephaly
+Macrocephaly
+Microcephaly
+Oculoauriculovertebral dysplasia
+Plagiocephaly
+Platybasia
+Scaphocephaly
+Skull malformation
+l2</ Musculoskeletal and connective tissue disorders of skull congenital >
+l2< Musculoskeletal and connective tissue disorders of spine congenital >
+Arcuate foramen
+Caudal regression syndrome
+Congenital absence of vertebra
+Congenital hyperextension of spine
+Congenital kyphoscoliosis
+Congenital scoliosis
+Congenital spinal fusion
+Congenital spinal stenosis
+Congenital spondylolisthesis
+Congenital spondylolysis
+Congenital torticollis
+Currarino syndrome
+Hemivertebra
+Kimmerle's anomaly
+Klippel-Feil syndrome
+Kyphosis congenital
+Lumbarisation
+Platyspondylia
+Sacral hypoplasia
+Sacralisation
+Spine malformation
+Spondyloepiphyseal dysplasia
+Supernumerary vertebra
+Transitional vertebrae
+l2</ Musculoskeletal and connective tissue disorders of spine congenital >
+l2< Musculoskeletal and connective tissue disorders of trunk congenital (excl spine) >
+Cervical rib
+Congenital clavicular agenesis
+Congenital deformity of clavicle
+Congenital elevation of scapula
+Pectus carinatum
+Pectus excavatum
+Rib hypoplasia
+Rib synostosis
+Synostosis
+l2</ Musculoskeletal and connective tissue disorders of trunk congenital (excl spine) >
+l2< Musculoskeletal disorders congenital NEC >
+Aase syndrome
+Acrodysostosis
+Bloom syndrome
+Cartilage-hair hypoplasia
+Cohen syndrome
+Congenital fibrosarcoma
+Congenital joint malformation
+Congenital multiplex arthrogryposis
+Congenital musculoskeletal anomaly
+Cornelia de Lange syndrome
+Costello syndrome
+Dubowitz syndrome
+Dysmorphism
+Ellis-van Creveld syndrome
+Faciodigitogenital dysplasia
+Floating-Harbor syndrome
+Freeman-Sheldon syndrome
+Juvenile Paget's disease
+Kabuki make-up syndrome
+Laron syndrome
+Lowry-Wood syndrome
+Meier-Gorlin syndrome
+Metaphyseal dysplasia
+Multiple epiphyseal dysplasia
+Nail-patella syndrome
+Noonan syndrome
+Oculodentodigital dysplasia
+Oral-facial-digital syndrome type II
+PHACES syndrome
+Popliteal pterygium syndrome
+Proteus syndrome
+Schinzel-Giedion syndrome
+Silver-Russell syndrome
+Sotos' syndrome
+Thanatophoric dwarfism
+Trichorhinophalangeal syndrome
+Weill-Marchesani syndrome
+Wildervanck syndrome
+Winchester syndrome
+l2</ Musculoskeletal disorders congenital NEC >
+l2< Non-site specific bone disorders congenital >
+Albright's disease
+Congenital osteodystrophy
+Congenital pseudarthrosis
+Dermatofibrosis lenticularis disseminata
+Fibrous dysplasia of bone
+Gorham's disease
+Hereditary hypophosphataemic rickets
+Hereditary multiple osteochondromas
+Infantile cortical hyperostosis
+Kenny-Caffey syndrome
+Osteogenesis imperfecta
+Osteopathia striata
+Osteopetrosis
+Osteopoikilosis
+Osteoporosis-pseudoglioma syndrome
+Pachydermoperiostosis
+Schimke immunoosseous dysplasia
+Skeletal dysplasia
+l2</ Non-site specific bone disorders congenital >
+l2< Non-site specific cartilage disorders congenital >
+Asphyxiating thoracic dystrophy
+Chondrodystrophy
+Chondroectodermal dysplasia
+l2</ Non-site specific cartilage disorders congenital >
+l2< Non-site specific muscle disorders congenital >
+Accessory muscle
+Becker's muscular dystrophy
+Benign congenital hypotonia
+Congenital floppy infant
+Congenital muscle absence
+Congenital myopathy
+Duchenne muscular dystrophy
+Facioscapulohumeral muscular dystrophy
+Familial tremor
+Fibrodysplasia ossificans progressiva
+GNE myopathy
+Greig's syndrome
+Kinematic imbalances due to suboccipital strain
+Muscular dystrophy
+Myotonia congenita
+Myotonic dystrophy
+Rippling muscle disease
+Welander distal myopathy
+l2</ Non-site specific muscle disorders congenital >
+l1</ Musculoskeletal and connective tissue disorders congenital >
+l1< Neurological disorders congenital >
+l2< Central nervous system disorders congenital NEC >
+Brain malformation
+Central nervous system dermoid tumour
+Congenital central hypoventilation syndrome
+Congenital central nervous system anomaly
+Congenital spinal cord anomaly
+Diastematomyelia
+Diencephalic syndrome of infancy
+Encephalocele
+Encephalocutaneous angiomatosis
+Hepato-lenticular degeneration
+Hereditary areflexic dystasia
+Intracranial lipoma
+Lipomeningocele
+Meningocele
+Meningomyelocele
+Neural tube defect
+Rathke's cleft cyst
+Spina bifida
+Spina bifida cystica
+Spina bifida occulta
+Subependymal nodular heterotopia
+Syringomyelia
+Von Hippel-Lindau disease
+l2</ Central nervous system disorders congenital NEC >
+l2< Cerebellar disorders congenital >
+Arnold-Chiari malformation
+Cerebellar dysplasia
+Cerebellar hypoplasia
+Congenital cerebellar agenesis
+Dentatorubral-pallidoluysian atrophy
+Friedreich's ataxia
+Joubert syndrome
+Primary cerebellar degeneration
+Progressive cerebellar degeneration
+Spinocerebellar ataxia
+l2</ Cerebellar disorders congenital >
+l2< Cerebral disorders congenital >
+Adrenoleukodystrophy
+Allan-Herndon-Dudley syndrome
+Anencephaly
+Cerebral atrophy congenital
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+Cerebral dysgenesis
+Cerebral palsy
+Cerebrohepatorenal syndrome
+Congenital aqueductal stenosis
+Congenital brain damage
+Congenital cerebral cyst
+Congenital cerebral haemangioma
+Congenital choroid plexus cyst
+Congenital hydrocephalus
+Cortical dysplasia
+Dandy-Walker syndrome
+Double cortex syndrome
+Dyke-Davidoff-Masson syndrome
+Early onset familial Alzheimer's disease
+Familial infantile bilateral striatal necrosis
+Glucose transporter type 1 deficiency syndrome
+Hemimegalencephaly
+Hereditary cerebral degeneration
+Holoprosencephaly
+Hydranencephaly
+Hypothalamic hamartoma
+Lissencephaly
+Microencephaly
+Neuronal migration disorder
+Pachygyria
+Periventricular nodular heterotopia
+Polymicrogyria
+Porencephaly
+Primary familial brain calcification
+Schizencephaly
+Septum pellucidum agenesis
+Tuberous sclerosis
+l2</ Cerebral disorders congenital >
+l2< Neurological disorders congenital NEC >
+Aicardi's syndrome
+Alternating hemiplegia of childhood
+Baltic myoclonic epilepsy
+Benign familial neonatal convulsions
+Bulbospinal muscular atrophy congenital
+Cockayne's syndrome
+Congenital anosmia
+Congenital cranial nerve paralysis
+Congenital facial nerve hypoplasia
+Congenital flaccid paralysis
+Congenital hemiparesis
+Congenital Horner's syndrome
+Congenital neurological degeneration
+Congenital neurological disorder
+Congenital nystagmus
+Dopa-responsive dystonia
+Early onset primary dystonia
+Epilepsy congenital
+Familial amyotrophic lateral sclerosis
+Familial hemiplegic migraine
+Familial periodic paralysis
+Hereditary motor neurone disease
+Hereditary spastic paraplegia
+Huntington's disease
+Hyperexplexia
+Lafora's myoclonic epilepsy
+Laurence-Moon-Bardet-Biedl syndrome
+Moebius II syndrome
+Mount-Reback syndrome
+Neurofibromatosis
+Olfactory nerve agenesis
+Perry syndrome
+Prader-Willi syndrome
+Riley-Day syndrome
+Severe myoclonic epilepsy of infancy
+Sjogren-Larsson syndrome
+Spinal muscular atrophy
+Tourette's disorder
+l2</ Neurological disorders congenital NEC >
+l2< Peripheral nervous system disorders congenital NEC >
+Adult polyglucosan body disease
+Congenital neuropathy
+Hereditary motor and sensory neuropathy
+Hereditary neuropathy with liability to pressure palsies
+Sensory neuropathy hereditary
+l2</ Peripheral nervous system disorders congenital NEC >
+l1</ Neurological disorders congenital >
+l1< Renal and urinary tract disorders congenital >
+l2< Bladder disorders congenital >
+Bladder agenesis
+Congenital bladder anomaly
+Congenital bladder diverticulum
+Congenital bladder neck obstruction
+Congenital ectopic bladder
+Congenital ureterovesical junction anomaly
+Congenital vesicoureteric reflux
+Foetal megacystis
+Urachal abnormality
+l2</ Bladder disorders congenital >
+l2< Renal and urinary tract disorders congenital NEC >
+Bartter's syndrome
+Congenital genitourinary abnormality
+Congenital hydronephrosis
+Congenital urethral anomaly
+Congenital urinary tract obstruction
+Delayed foetal renal development
+Dent's disease
+Denys-Drash syndrome
+Gitelman's syndrome
+Hereditary leiomyomatosis renal cell carcinoma
+Hereditary papillary renal carcinoma
+Primary familial hypomagnesaemia
+Urethral atresia
+Urethral valves
+Urinary tract malformation
+l2</ Renal and urinary tract disorders congenital NEC >
+l2< Renal disorders congenital >
+Accessory kidney
+Alport's syndrome
+Benign familial haematuria
+Congenital calyceal diverticulum
+Congenital cystic kidney disease
+Congenital hydrocele renalis
+Congenital nephrogenic diabetes insipidus
+Congenital nephrotic syndrome
+Congenital pyelocaliectasis
+Congenital renal cyst
+Congenital renal disorder
+Ectopic kidney
+Extrarenal pelvis
+Familial renal glycosuria
+Fanconi syndrome
+Kidney duplex
+Kidney malformation
+Kidney malrotation
+Liddle's syndrome
+Mesoblastic nephroma
+Oculocerebrorenal syndrome
+Pelvic kidney
+Potter's syndrome
+Renal aplasia
+Renal dysplasia
+Renal fusion anomaly
+Renal hypoplasia
+Renal malposition
+l2</ Renal disorders congenital >
+l2< Ureteric disorders congenital >
+Congenital megaureter
+Congenital ureteric anomaly
+Congenital ureterocele
+Double ureter
+Ectopic ureter
+Ureteric atresia
+l2</ Ureteric disorders congenital >
+l1</ Renal and urinary tract disorders congenital >
+l1< Reproductive tract and breast disorders congenital >
+l2< Breast disorders congenital >
+Accessory breast
+Breast malformation
+Supernumerary nipple
+l2</ Breast disorders congenital >
+l2< Female reproductive tract disorders congenital >
+Congenital fallopian tube anomaly
+Congenital genital malformation female
+Congenital labia pudendi adhesions
+Congenital ovarian anomaly
+Congenital uterine anomaly
+Congenital vaginal cyst
+Ectopic ovary
+Imperforate hymen
+Mayer-Rokitansky-Kuster-Hauser syndrome
+Mesonephric duct cyst
+Multiple cutaneous and uterine leiomyomatosis
+Ovarian agenesis
+Ovarian hypoplasia
+Pseudohermaphroditism female
+Septate hymen
+Uterine aplasia
+Uterine cervix hypoplasia
+Uterine hypoplasia
+Vaginal atresia
+Vaginal hypoplasia
+Vaginal septum
+l2</ Female reproductive tract disorders congenital >
+l2< Male reproductive tract disorders congenital >
+Anorchism
+Buried penis syndrome
+Chordee
+Congenital genital malformation male
+Congenital monorchidism
+Congenital scrotal hypertrophy
+Congenital varicocele
+Congenital vas deferens absence
+Cryptorchism
+Epispadias
+Frasier syndrome
+Frenulum breve
+Hooded prepuce
+Hydrocele
+Hypospadias
+Micropenis
+Penile torsion
+Penoscrotal fusion
+Penoscrotal transposition
+Phimosis
+Pseudohermaphroditism male
+Reproductive tract hypoplasia, male
+Sertoli-cell-only syndrome
+Testicular dysplasia
+Testotoxicosis
+l2</ Male reproductive tract disorders congenital >
+l2< Reproductive tract disorders congenital NEC >
+Androgen insensitivity syndrome
+Cloacal exstrophy
+Congenital genital malformation
+Disorder of sex development
+Genitalia external ambiguous
+Hermaphroditism
+Persistent cloaca
+Persistent urogenital sinus
+Pseudohermaphroditism
+Virilism foetal
+l2</ Reproductive tract disorders congenital NEC >
+l1</ Reproductive tract and breast disorders congenital >
+l1< Respiratory disorders congenital >
+l2< Diaphragmatic disorders congenital >
+Congenital diaphragmatic anomaly
+Congenital diaphragmatic eventration
+Congenital diaphragmatic hernia
+Diaphragmatic aplasia
+l2</ Diaphragmatic disorders congenital >
+l2< Laryngeal and tracheal disorders congenital >
+Congenital epiglottal anomaly
+Congenital high airway obstruction syndrome
+Congenital laryngeal stridor
+Congenital tracheomalacia
+Laryngeal cleft
+Laryngeal web
+Laryngo-onycho-cutaneous syndrome
+Laryngocele
+Laryngomalacia
+Tracheal atresia
+Tracheal web
+Tracheo-oesophageal fistula
+l2</ Laryngeal and tracheal disorders congenital >
+l2< Nasal disorders congenital >
+Congenital nose malformation
+Congenital perforated nasal septum
+Hypoplastic nasal cartilage
+Paranasal sinus aplasia
+l2</ Nasal disorders congenital >
+l2< Pharyngeal disorders congenital >
+Choanal atresia
+Choanal stenosis
+Congenital pharyngeal anomaly
+Diverticulum of pharynx, congenital
+Nasopharyngeal atresia
+Tornwaldt cyst
+l2</ Pharyngeal disorders congenital >
+l2< Pulmonary and bronchial disorders congenital >
+Azygos lobe
+Bronchogenic cyst
+Congenital bronchiectasis
+Congenital bronchomalacia
+Congenital cystic lung
+Congenital emphysema
+Congenital pneumonia
+Cystic fibrosis
+Cystic fibrosis lung
+Pulmonary aplasia
+Pulmonary hypoplasia
+Pulmonary malformation
+Pulmonary sequestration
+l2</ Pulmonary and bronchial disorders congenital >
+l2< Respiratory tract disorders congenital NEC >
+Congenital pulmonary hypertension
+Primary ciliary dyskinesia
+Respiratory tract malformation
+l2</ Respiratory tract disorders congenital NEC >
+l1</ Respiratory disorders congenital >
+l1< Skin and subcutaneous tissue disorders congenital >
+l2< Hair and nail disorders congenital >
+Achromotrichia congenital
+Congenital hair disorder
+Congenital hypertrichosis
+Congenital nail disorder
+Congenital trichomegaly
+Nail aplasia
+Platonychia
+l2</ Hair and nail disorders congenital >
+l2< Skin and subcutaneous tissue disorders congenital NEC >
+Abnormal palmar/plantar creases
+Acral peeling skin syndrome
+Acrodermatitis enteropathica
+Acrokeratosis verruciformis
+Adams-Oliver syndrome
+Aplasia cutis congenita
+Ash leaf macule
+Basal cell naevus syndrome
+Benign familial pemphigus
+Birt-Hogg-Dube syndrome
+Birth mark
+Bloch-Sulzberger syndrome
+CANDLE syndrome
+Collodion baby
+Congenital acrochordon
+Congenital ectodermal dysplasia
+Congenital generalised lipodystrophy
+Congenital melanocytic naevus
+Congenital melanosis
+Congenital naevus
+Congenital pigmentation disorder
+Congenital poikiloderma
+Congenital skin dimples
+Congenital skin disorder
+Dermatoglyphic anomaly
+Dermoid cyst
+Dowling-Degos disease
+Dysplastic naevus syndrome
+Epidermal naevus
+Epidermal naevus syndrome
+Epidermolysis
+Epidermolysis bullosa
+Erythrokeratodermia variabilis
+Harlequin foetus
+Hereditary haemorrhagic telangiectasia
+Hereditary palmoplantar keratoderma
+Hypomelanosis of Ito
+Ichthyosis
+Keratolysis exfoliativa congenital
+Keratosis follicular
+Lichen spinulosus
+Melkersson-Rosenthal syndrome
+Multiple lentigines syndrome
+Naevus anaemicus
+Naevus flammeus
+Naevus spider congenital
+Netherton's syndrome
+Olmsted syndrome
+Ota's naevus
+Pachyonychia congenita
+Pilonidal cyst congenital
+Porokeratosis
+Sclerotylosis
+Sebaceous naevus
+Skin hypoplasia
+Skin malformation
+Steatocystoma multiplex
+Telangiectasia congenital
+Xeroderma pigmentosum
+l2</ Skin and subcutaneous tissue disorders congenital NEC >
+l1</ Skin and subcutaneous tissue disorders congenital >
+l0</ Congenital, familial and genetic disorders>

@@ -1,0 +1,2741 @@
+l0< Neoplasms benign, malignant and unspecified (incl cysts and polyps)>
+l1< Breast neoplasms benign (incl nipple) >
+l2< Breast and nipple neoplasms benign >
+Benign breast neoplasm
+Benign nipple neoplasm
+Breast adenoma
+Breast cyst
+Breast cyst rupture
+Breast fibroma
+Fibroadenoma of breast
+Fibrocystic breast disease
+Haemangioma of breast
+Haemorrhagic breast cyst
+Intracystic breast papilloma
+Intraductal papilloma of breast
+Lipoma of breast
+l2</ Breast and nipple neoplasms benign >
+l1</ Breast neoplasms benign (incl nipple) >
+l1< Breast neoplasms malignant and unspecified (incl nipple) >
+l2< Breast and nipple neoplasms malignant >
+Apocrine breast carcinoma
+Breast angiosarcoma
+Breast angiosarcoma metastatic
+Breast cancer
+Breast cancer female
+Breast cancer in situ
+Breast cancer male
+Breast cancer metastatic
+Breast cancer recurrent
+Breast cancer stage I
+Breast cancer stage II
+Breast cancer stage III
+Breast cancer stage IV
+Breast sarcoma
+Breast sarcoma metastatic
+Breast sarcoma recurrent
+HER-2 positive breast cancer
+Hormone refractory breast cancer
+Inflammatory carcinoma of breast recurrent
+Inflammatory carcinoma of breast stage III
+Inflammatory carcinoma of breast stage IV
+Inflammatory carcinoma of the breast
+Intraductal papillary breast neoplasm
+Intraductal proliferative breast lesion
+Invasive breast carcinoma
+Invasive ductal breast carcinoma
+Invasive lobular breast carcinoma
+Invasive papillary breast carcinoma
+Lobular breast carcinoma in situ
+Malignant nipple neoplasm
+Malignant nipple neoplasm female
+Malignant nipple neoplasm male
+Medullary carcinoma of breast
+Metaplastic breast carcinoma
+Mucinous breast carcinoma
+Neuroendocrine breast tumour
+Oestrogen receptor positive breast cancer
+Paget's disease of nipple
+Squamous cell breast carcinoma
+Triple negative breast cancer
+Tubular breast carcinoma
+l2</ Breast and nipple neoplasms malignant >
+l2< Breast neoplasms unspecified malignancy >
+Breast neoplasm
+Nipple neoplasm
+Phyllodes tumour
+l2</ Breast neoplasms unspecified malignancy >
+l1</ Breast neoplasms malignant and unspecified (incl nipple) >
+l1< Cutaneous neoplasms benign >
+l2< Skin cysts and polyps >
+Dermal cyst
+Infected dermal cyst
+Scrotal cyst
+l2</ Skin cysts and polyps >
+l2< Skin neoplasms benign >
+Acanthoma
+Acrochordon
+Anogenital warts
+Becker's naevus
+Benign neoplasm of skin
+Birt-Hogg-Dube syndrome
+Bowenoid papulosis
+Congenital acrochordon
+Congenital melanocytic naevus
+Congenital naevus
+Dysplastic naevus
+Epithelioma adenoides cysticum
+Fibrous histiocytoma
+Haemangioma of skin
+Hair follicle tumour benign
+Infected naevus
+Juvenile melanoma benign
+Leser-Trelat sign
+Melanocytic naevus
+Multinucleate cell angiohistiocytoma
+Multiple cutaneous and uterine leiomyomatosis
+Naevus haemorrhage
+Naevus lipomatosus cutaneous superficialis
+Osteoma cutis
+Pyogenic granuloma
+Sebaceous adenoma
+Seborrhoeic keratosis
+Silicon granuloma
+Skin papilloma
+Steatocystoma multiplex
+Sweat gland tumour
+Viral acanthoma
+Warty dyskeratoma
+l2</ Skin neoplasms benign >
+l1</ Cutaneous neoplasms benign >
+l1< Endocrine neoplasms benign >
+l2< Adrenal neoplasms benign >
+Adrenal adenoma
+Benign neoplasm of adrenal gland
+l2</ Adrenal neoplasms benign >
+l2< Endocrine neoplasms benign NEC >
+Benign endocrine neoplasm
+Benign neoplasm of islets of Langerhans
+Hypothalamic hamartoma
+Paraganglion neoplasm benign
+Parathyroid cyst
+Parathyroid tumour benign
+Pituitary cyst
+Pituitary tumour benign
+l2</ Endocrine neoplasms benign NEC >
+l2< Thyroid neoplasms benign >
+Benign neoplasm of thyroid gland
+Haemorrhagic thyroid cyst
+Thyroglossal cyst
+Thyroid adenoma
+Thyroid cyst
+l2</ Thyroid neoplasms benign >
+l1</ Endocrine neoplasms benign >
+l1< Endocrine neoplasms malignant and unspecified >
+l2< Adrenal neoplasms malignant >
+Adrenal gland cancer
+Adrenal gland cancer metastatic
+Adrenocortical carcinoma
+l2</ Adrenal neoplasms malignant >
+l2< Carcinoid tumours >
+Carcinoid tumour
+Carcinoid tumour of the appendix
+Carcinoid tumour of the caecum
+Carcinoid tumour of the duodenum
+Carcinoid tumour of the gastrointestinal tract
+Carcinoid tumour of the pancreas
+Carcinoid tumour of the prostate
+Carcinoid tumour of the small bowel
+Carcinoid tumour of the stomach
+Carcinoid tumour pulmonary
+Metastatic carcinoid tumour
+l2</ Carcinoid tumours >
+l2< Endocrine neoplasms malignant and unspecified NEC >
+Adrenal cyst
+Adrenal neoplasm
+Craniopharyngioma
+Endocrine neoplasm
+Endocrine neoplasm malignant
+Hormone-secreting ovarian tumour
+Malignant pituitary tumour
+Neuroendocrine carcinoma
+Neuroendocrine carcinoma metastatic
+Neuroendocrine tumour
+Non-secretory adenoma of pituitary
+Paraganglion neoplasm
+Paraganglion neoplasm malignant
+Parathyroid tumour
+Parathyroid tumour malignant
+Pituitary cancer metastatic
+Pituitary neoplasm malignant recurrent
+Pituitary tumour
+Pituitary tumour recurrent
+Thyroid neoplasm
+l2</ Endocrine neoplasms malignant and unspecified NEC >
+l2< Hormone secreting pituitary neoplasms >
+ACTH-producing pituitary tumour
+Growth hormone-producing pituitary tumour
+Prolactin-producing pituitary tumour
+Secretory adenoma of pituitary
+Thyroid stimulating hormone-producing pituitary tumour
+l2</ Hormone secreting pituitary neoplasms >
+l2< Islet cell neoplasms and APUDoma NEC >
+APUDoma
+Gastrinoma
+Gastrinoma malignant
+Gastroenteropancreatic neuroendocrine tumour disease
+Glucagonoma
+Insulinoma
+Malignant neoplasm of islets of Langerhans
+Metastatic glucagonoma
+Neurotensinoma
+Pancreatic neuroendocrine tumour
+Pancreatic neuroendocrine tumour metastatic
+Phaeochromocytoma
+Phaeochromocytoma crisis
+Phaeochromocytoma malignant
+Somatostatinoma
+Vipoma
+l2</ Islet cell neoplasms and APUDoma NEC >
+l2< Multiple endocrine neoplasias >
+Familial medullary thyroid cancer
+Multiple endocrine neoplasia
+Multiple endocrine neoplasia Type 1
+Multiple endocrine neoplasia Type 2
+Multiple endocrine neoplasia Type 2A
+Multiple endocrine neoplasia Type 2B
+l2</ Multiple endocrine neoplasias >
+l2< Thyroid neoplasms malignant >
+Anaplastic thyroid cancer
+Follicular thyroid cancer
+Huerthle cell carcinoma
+Medullary thyroid cancer
+Papillary thyroid cancer
+Poorly differentiated thyroid carcinoma
+Thyroid cancer
+Thyroid cancer metastatic
+Thyroid cancer recurrent
+Thyroid cancer stage 0
+Thyroid cancer stage I
+Thyroid cancer stage II
+Thyroid cancer stage III
+Thyroid cancer stage IV
+l2</ Thyroid neoplasms malignant >
+l1</ Endocrine neoplasms malignant and unspecified >
+l1< Gastrointestinal neoplasms benign >
+l2< Gastrointestinal neoplasms benign NEC >
+Abdominal wall cyst
+Abdominal wall neoplasm benign
+Benign abdominal neoplasm
+Benign gastrointestinal neoplasm
+Benign mesenteric neoplasm
+Benign pancreatic neoplasm
+Benign peritoneal neoplasm
+Benign small intestinal neoplasm
+Gastric haemangioma
+Gastrointestinal polyp
+Gastrointestinal polyp haemorrhage
+Gastrointestinal tract adenoma
+Gingival cyst
+Intestinal angioma
+Intestinal cyst
+Intestinal polyp
+Intra-abdominal haemangioma
+Intraductal papillary mucinous neoplasm
+Large intestine benign neoplasm
+Mesenteric cyst
+Pancreatic cyst
+Pancreatic cyst rupture
+Peutz-Jeghers syndrome
+Retroperitoneum cyst
+Small intestine polyp
+Stoma site polyp
+l2</ Gastrointestinal neoplasms benign NEC >
+l2< Lip and oral cavity neoplasms benign >
+Adenolymphoma
+Ameloblastoma
+Benign keratocystic odontogenic neoplasm
+Benign salivary gland neoplasm
+Buccal polyp
+Cementoblastoma
+Dental cyst
+Gingival polyp
+Lip neoplasm benign
+Mouth cyst
+Odontogenic cyst
+Oral fibroma
+Oral haemangioma
+Oral neoplasm benign
+Oral papilloma
+Papillary cystadenoma lymphomatosum
+Pleomorphic adenoma
+Salivary gland adenoma
+Salivary gland cyst
+Tongue cyst
+Tongue neoplasm benign
+Tongue polyp
+White sponge naevus
+l2</ Lip and oral cavity neoplasms benign >
+l2< Lower gastrointestinal neoplasms benign >
+Anal polyp
+Appendix adenoma
+Benign anorectal neoplasm
+Colon adenoma
+Large intestine fibroma
+Large intestine polyp
+Rectal adenoma
+Rectal polyp
+l2</ Lower gastrointestinal neoplasms benign >
+l2< Upper gastrointestinal neoplasms benign >
+Benign duodenal neoplasm
+Benign gastric neoplasm
+Benign oesophageal neoplasm
+Duodenal polyp
+Gastric adenoma
+Gastric cyst
+Gastric polyps
+Oesophageal cyst
+Oesophageal papilloma
+Oesophageal polyp
+l2</ Upper gastrointestinal neoplasms benign >
+l1</ Gastrointestinal neoplasms benign >
+l1< Gastrointestinal neoplasms malignant and unspecified >
+l2< Anal canal neoplasms malignant >
+Anal cancer
+Anal cancer metastatic
+Anal cancer recurrent
+Anal cancer stage 0
+Anal cancer stage I
+Anal cancer stage II
+Anal cancer stage III
+Anal cancer stage IV
+Anal squamous cell carcinoma
+l2</ Anal canal neoplasms malignant >
+l2< Colorectal and anal neoplasms malignancy unspecified >
+Adenomatous polyposis coli
+Anal neoplasm
+Colon neoplasm
+Hereditary non-polyposis colorectal cancer syndrome
+Rectal neoplasm
+l2</ Colorectal and anal neoplasms malignancy unspecified >
+l2< Colorectal neoplasms malignant >
+Adenocarcinoma of appendix
+Adenocarcinoma of colon
+Appendix cancer
+Colon cancer
+Colon cancer metastatic
+Colon cancer recurrent
+Colon cancer stage 0
+Colon cancer stage I
+Colon cancer stage II
+Colon cancer stage III
+Colon cancer stage IV
+Colorectal adenocarcinoma
+Colorectal cancer
+Colorectal cancer metastatic
+Colorectal cancer recurrent
+Colorectal cancer stage I
+Colorectal cancer stage II
+Colorectal cancer stage III
+Colorectal cancer stage IV
+Colorectal carcinoma stage 0
+Malignant anorectal neoplasm
+Mucinous adenocarcinoma of appendix
+Muir-Torre syndrome
+Rectal adenocarcinoma
+Rectal cancer
+Rectal cancer metastatic
+Rectal cancer recurrent
+Rectal cancer stage 0
+Rectal cancer stage I
+Rectal cancer stage II
+Rectal cancer stage III
+Rectal cancer stage IV
+Rectosigmoid cancer
+Rectosigmoid cancer metastatic
+Rectosigmoid cancer recurrent
+Rectosigmoid cancer stage 0
+Rectosigmoid cancer stage I
+Rectosigmoid cancer stage II
+Rectosigmoid cancer stage III
+Rectosigmoid cancer stage IV
+Undifferentiated carcinoma of colon
+l2</ Colorectal neoplasms malignant >
+l2< Gastric neoplasms malignant >
+Adenocarcinoma gastric
+Gastric cancer
+Gastric cancer recurrent
+Gastric cancer stage 0
+Gastric cancer stage I
+Gastric cancer stage II
+Gastric cancer stage III
+Gastric cancer stage IV
+Gastric sarcoma
+Gastrooesophageal cancer
+HER-2 positive gastric cancer
+Linitis plastica
+Metastatic gastric cancer
+l2</ Gastric neoplasms malignant >
+l2< Gastrointestinal neoplasms malignancy unspecified NEC >
+Abdominal wall neoplasm
+Cronkhite-Canada syndrome
+Duodenal neoplasm
+Gastric neoplasm
+Gastrointestinal neoplasm
+Gastrointestinal stromal tumour
+Gastrointestinal submucosal tumour
+Mesenteric neoplasm
+Neoplasm of appendix
+Pancreatic neoplasm
+Peritoneal cyst
+Peritoneal gliomatosis
+Peritoneal neoplasm
+Retroperitoneal neoplasm
+Retroperitoneal neoplasm metastatic
+l2</ Gastrointestinal neoplasms malignancy unspecified NEC >
+l2< Gastrointestinal neoplasms malignant NEC >
+Abdominal wall neoplasm malignant
+Desmoplastic small round cell tumour
+Gastrointestinal cancer metastatic
+Gastrointestinal carcinoma
+Gastrointestinal carcinoma in situ
+Gastrointestinal melanoma
+Gastrointestinal stromal cancer
+Intestinal adenocarcinoma
+Malignant mesenteric neoplasm
+Malignant peritoneal neoplasm
+Peritoneal carcinoma metastatic
+Peritoneal sarcoma
+Retroperitoneal cancer
+l2</ Gastrointestinal neoplasms malignant NEC >
+l2< Lip and oral cavity neoplasms malignancy unspecified >
+Erythroplasia of lip
+Lip neoplasm
+Oral neoplasm
+Oropharyngeal neoplasm
+Tongue neoplasm
+l2</ Lip and oral cavity neoplasms malignancy unspecified >
+l2< Lip and oral cavity neoplasms malignant >
+Gingival cancer
+Lip and/or oral cavity cancer
+Lip and/or oral cavity cancer recurrent
+Lip and/or oral cavity cancer stage 0
+Lip and/or oral cavity cancer stage I
+Lip and/or oral cavity cancer stage II
+Lip and/or oral cavity cancer stage III
+Lip and/or oral cavity cancer stage IV
+Lip neoplasm malignant stage unspecified
+Lip squamous cell carcinoma
+Malignant palate neoplasm
+Oral cavity cancer metastatic
+Squamous cell carcinoma of the oral cavity
+Squamous cell carcinoma of the tongue
+Tongue cancer metastatic
+Tongue cancer recurrent
+Tongue carcinoma stage 0
+Tongue carcinoma stage I
+Tongue carcinoma stage II
+Tongue carcinoma stage III
+Tongue carcinoma stage IV
+Tongue neoplasm malignant stage unspecified
+l2</ Lip and oral cavity neoplasms malignant >
+l2< Oesophageal neoplasms malignancy unspecified >
+Oesophageal neoplasm
+l2</ Oesophageal neoplasms malignancy unspecified >
+l2< Oesophageal neoplasms malignant >
+Oesophageal adenocarcinoma
+Oesophageal adenocarcinoma recurrent
+Oesophageal adenocarcinoma stage 0
+Oesophageal adenocarcinoma stage I
+Oesophageal adenocarcinoma stage II
+Oesophageal adenocarcinoma stage III
+Oesophageal adenocarcinoma stage IV
+Oesophageal cancer metastatic
+Oesophageal carcinoma
+Oesophageal carcinoma recurrent
+Oesophageal carcinoma stage 0
+Oesophageal squamous cell carcinoma
+Oesophageal squamous cell carcinoma metastatic
+Oesophageal squamous cell carcinoma recurrent
+Oesophageal squamous cell carcinoma stage 0
+Oesophageal squamous cell carcinoma stage I
+Oesophageal squamous cell carcinoma stage II
+Oesophageal squamous cell carcinoma stage III
+Oesophageal squamous cell carcinoma stage IV
+l2</ Oesophageal neoplasms malignant >
+l2< Pancreatic neoplasms malignant (excl islet cell and carcinoid) >
+Acinar cell carcinoma of pancreas
+Adenocarcinoma pancreas
+Ductal adenocarcinoma of pancreas
+Intraductal papillary-mucinous carcinoma of pancreas
+Mucinous cystadenocarcinoma of pancreas
+Pancreatic carcinoma
+Pancreatic carcinoma metastatic
+Pancreatic carcinoma recurrent
+Pancreatic carcinoma stage 0
+Pancreatic carcinoma stage I
+Pancreatic carcinoma stage II
+Pancreatic carcinoma stage III
+Pancreatic carcinoma stage IV
+Pancreatic sarcoma
+Pancreatoblastoma
+Serous cystadenocarcinoma of pancreas
+Solid pseudopapillary tumour of the pancreas
+l2</ Pancreatic neoplasms malignant (excl islet cell and carcinoid) >
+l2< Salivary gland neoplasms malignant >
+Acinic cell carcinoma of salivary gland
+Adenocarcinoma of salivary gland
+Adenoid cystic carcinoma of salivary gland
+Carcinoma ex-pleomorphic adenoma
+Metastatic salivary gland cancer
+Mucoepidermoid carcinoma of salivary gland
+Salivary gland cancer
+Salivary gland cancer recurrent
+Salivary gland cancer stage 0
+Salivary gland cancer stage I
+Salivary gland cancer stage II
+Salivary gland cancer stage III
+Salivary gland cancer stage IV
+l2</ Salivary gland neoplasms malignant >
+l2< Salivary gland neoplasms unspecified malignancy >
+Salivary gland neoplasm
+l2</ Salivary gland neoplasms unspecified malignancy >
+l2< Small intestinal neoplasms malignant >
+Malignant neoplasm papilla of Vater
+Small intestine adenocarcinoma
+Small intestine carcinoma
+Small intestine carcinoma metastatic
+Small intestine carcinoma recurrent
+Small intestine carcinoma stage 0
+Small intestine carcinoma stage I
+Small intestine carcinoma stage II
+Small intestine carcinoma stage III
+Small intestine carcinoma stage IV
+l2</ Small intestinal neoplasms malignant >
+l1</ Gastrointestinal neoplasms malignant and unspecified >
+l1< Haematopoietic neoplasms (excl leukaemias and lymphomas) >
+l2< Haematologic neoplasms NEC >
+Benign lymph node neoplasm
+Benign spleen tumour
+Bone marrow leukaemic cell infiltration
+Bone marrow tumour cell infiltration
+Haemangioma of spleen
+Haematological malignancy
+Haematopoietic neoplasm
+Lymphatic system neoplasm
+Malignant mast cell neoplasm
+Malignant splenic neoplasm
+Marrow hyperplasia
+Minimal residual disease
+Splenic hamartoma
+Splenic neoplasm malignancy unspecified
+l2</ Haematologic neoplasms NEC >
+l2< Haematological cysts and polyps >
+Splenic cyst
+l2</ Haematological cysts and polyps >
+l2< Histiocytoses >
+Erdheim-Chester disease
+Familial haemophagocytic lymphohistiocytosis
+Follicular dendritic cell sarcoma
+Histiocytic medullary reticulosis
+Histiocytic sarcoma
+Histiocytosis
+Langerhans cell sarcoma
+Langerhans' cell histiocytosis
+Lymphohistiocytosis
+Malignant histiocytosis
+Multicentric reticulohistiocytosis
+Omenn syndrome
+Rosai-Dorfman syndrome
+Solitary epithelioid histiocytoma
+l2</ Histiocytoses >
+l2< Lymphoproliferative disorders NEC (excl leukaemias and lymphomas) >
+Castleman's disease
+Epstein Barr virus positive mucocutaneous ulcer
+Epstein-Barr virus associated lymphoproliferative disorder
+Histiocytic necrotising lymphadenitis
+Lymphoproliferative disorder
+Lymphoproliferative disorder in remission
+Post transplant lymphoproliferative disorder
+X-linked lymphoproliferative syndrome
+l2</ Lymphoproliferative disorders NEC (excl leukaemias and lymphomas) >
+l2< Myeloproliferative disorders (excl leukaemias) >
+Blast cell proliferation
+Essential thrombocythaemia
+Leukoerythroblastosis
+Myeloblastoma
+Myelofibrosis
+Myeloid metaplasia
+Myeloproliferative neoplasm
+Polycythaemia vera
+Primary myelofibrosis
+l2</ Myeloproliferative disorders (excl leukaemias) >
+l1</ Haematopoietic neoplasms (excl leukaemias and lymphomas) >
+l1< Hepatic and biliary neoplasms benign >
+l2< Hepatobiliary cysts and polyps >
+Biliary cyst
+Biliary polyp
+Choledochal cyst
+Congenital cystic disease of liver
+Gallbladder polyp
+Haemorrhagic hepatic cyst
+Hepatic cyst
+Hepatic cyst infection
+Hepatic cyst ruptured
+Hepatobiliary cyst
+l2</ Hepatobiliary cysts and polyps >
+l2< Hepatobiliary neoplasms benign >
+Benign biliary neoplasm
+Benign hepatic neoplasm
+Benign hepatobiliary neoplasm
+Benign neoplasm of ampulla of Vater
+Biliary adenoma
+Biliary hamartoma
+Cholangioadenoma
+Focal nodular hyperplasia
+Gallbladder adenoma
+Gallbladder papilloma
+Haemangioma of liver
+Hepatic adenoma
+Hepatic haemangioma rupture
+Hepatic hamartoma
+l2</ Hepatobiliary neoplasms benign >
+l1</ Hepatic and biliary neoplasms benign >
+l1< Hepatobiliary neoplasms malignant and unspecified >
+l2< Bile duct neoplasms malignant >
+Bile duct adenocarcinoma
+Bile duct adenosquamous carcinoma
+Bile duct cancer
+Bile duct cancer recurrent
+Bile duct cancer stage 0
+Bile duct cancer stage I
+Bile duct cancer stage II
+Bile duct cancer stage III
+Bile duct cancer stage IV
+Bile duct squamous cell carcinoma
+Biliary cancer metastatic
+Cholangiocarcinoma
+Cholangiosarcoma
+l2</ Bile duct neoplasms malignant >
+l2< Gallbladder neoplasms malignant >
+Gallbladder adenocarcinoma
+Gallbladder adenosquamous carcinoma
+Gallbladder cancer
+Gallbladder cancer metastatic
+Gallbladder cancer recurrent
+Gallbladder cancer stage 0
+Gallbladder cancer stage I
+Gallbladder cancer stage II
+Gallbladder cancer stage III
+Gallbladder cancer stage IV
+Gallbladder squamous cell carcinoma
+l2</ Gallbladder neoplasms malignant >
+l2< Hepatic neoplasms malignant >
+Hepatic angiosarcoma
+Hepatic cancer
+Hepatic cancer metastatic
+Hepatic cancer recurrent
+Hepatic cancer stage I
+Hepatic cancer stage II
+Hepatic cancer stage III
+Hepatic cancer stage IV
+Hepatocellular carcinoma
+Liver carcinoma ruptured
+l2</ Hepatic neoplasms malignant >
+l2< Hepatobiliary neoplasms malignancy unspecified >
+Ampullary polyp
+Biliary neoplasm
+Gallbladder neoplasm
+Hepatic neoplasm
+Hepatobiliary neoplasm
+Tumour of ampulla of Vater
+l2</ Hepatobiliary neoplasms malignancy unspecified >
+l2< Hepatobiliary neoplasms malignant NEC >
+Hepatobiliary cancer
+Hepatobiliary cancer in situ
+Malignant neoplasm of ampulla of Vater
+Mixed hepatocellular cholangiocarcinoma
+l2</ Hepatobiliary neoplasms malignant NEC >
+l2< Hepatoblastomas >
+Hepatoblastoma
+Hepatoblastoma recurrent
+l2</ Hepatoblastomas >
+l1</ Hepatobiliary neoplasms malignant and unspecified >
+l1< Leukaemias >
+l2< Leukaemias acute lymphocytic >
+Acute lymphocytic leukaemia
+Acute lymphocytic leukaemia (in remission)
+Acute lymphocytic leukaemia recurrent
+Acute lymphocytic leukaemia refractory
+B precursor type acute leukaemia
+B-cell type acute leukaemia
+Burkitt's leukaemia
+Mature B-cell type acute leukaemia
+T-cell type acute leukaemia
+l2</ Leukaemias acute lymphocytic >
+l2< Leukaemias acute myeloid >
+Acute megakaryocytic leukaemia
+Acute megakaryocytic leukaemia (in remission)
+Acute monocytic leukaemia
+Acute monocytic leukaemia (in remission)
+Acute myeloid leukaemia
+Acute myeloid leukaemia (in remission)
+Acute myeloid leukaemia recurrent
+Acute myelomonocytic leukaemia
+Acute promyelocytic leukaemia
+Erythraemic myelosis (in remission)
+Erythroleukaemia
+Transformation to acute myeloid leukaemia
+l2</ Leukaemias acute myeloid >
+l2< Leukaemias acute NEC >
+Acute biphenotypic leukaemia
+Acute leukaemia
+Acute leukaemia in remission
+Acute undifferentiated leukaemia
+Blast cell crisis
+l2</ Leukaemias acute NEC >
+l2< Leukaemias chronic lymphocytic >
+Chronic lymphocytic leukaemia
+Chronic lymphocytic leukaemia (in remission)
+Chronic lymphocytic leukaemia recurrent
+Chronic lymphocytic leukaemia refractory
+Chronic lymphocytic leukaemia stage 0
+Chronic lymphocytic leukaemia stage 1
+Chronic lymphocytic leukaemia stage 2
+Chronic lymphocytic leukaemia stage 3
+Chronic lymphocytic leukaemia stage 4
+Chronic lymphocytic leukaemia transformation
+Hairy cell leukaemia
+Hairy cell leukaemia recurrent
+Prolymphocytic leukaemia
+Trisomy 12
+l2</ Leukaemias chronic lymphocytic >
+l2< Leukaemias chronic myeloid >
+Chronic eosinophilic leukaemia
+Chronic myeloid leukaemia
+Chronic myeloid leukaemia (in remission)
+Chronic myeloid leukaemia recurrent
+Chronic myeloid leukaemia transformation
+Juvenile chronic myelomonocytic leukaemia
+l2</ Leukaemias chronic myeloid >
+l2< Leukaemias chronic NEC >
+Chronic leukaemia
+Chronic leukaemia in remission
+l2</ Leukaemias chronic NEC >
+l2< Leukaemias chronic T-cell >
+Large granular lymphocytosis
+Natural killer-cell leukaemia
+T-cell chronic lymphocytic leukaemia
+T-cell prolymphocytic leukaemia
+l2</ Leukaemias chronic T-cell >
+l2< Leukaemias lymphocytic NEC >
+Lymphocytic leukaemia
+Lymphoid leukaemia (in remission)
+l2</ Leukaemias lymphocytic NEC >
+l2< Leukaemias myeloid NEC >
+Blast crisis in myelogenous leukaemia
+Chloroma
+Chloroma (in remission)
+Eosinophilic leukaemia
+Leukaemia basophilic
+Leukaemia granulocytic
+Leukaemia monocytic
+Monocytic leukaemia in remission
+Myeloid leukaemia
+Myeloid leukaemia in remission
+l2</ Leukaemias myeloid NEC >
+l2< Leukaemias NEC >
+Aleukaemic leukaemia
+Central nervous system leukaemia
+Leukaemia
+Leukaemia cutis
+Leukaemia in remission
+Leukaemia recurrent
+Leukaemic cardiac infiltration
+Leukaemic infiltration
+Leukaemic infiltration extramedullary
+Leukaemic infiltration gingiva
+Leukaemic infiltration hepatic
+Leukaemic infiltration ovary
+Leukaemic infiltration pulmonary
+Leukaemic infiltration renal
+Leukaemic retinopathy
+Mastocytic leukaemia
+Neonatal leukaemia
+l2</ Leukaemias NEC >
+l2< Myelodysplastic syndromes >
+5q minus syndrome
+Chronic myelomonocytic leukaemia
+Chronic myelomonocytic leukaemia (in remission)
+Myelodysplastic syndrome
+Myelodysplastic syndrome transformation
+Myelodysplastic syndrome unclassifiable
+Refractory anaemia with an excess of blasts
+Refractory anaemia with ringed sideroblasts
+Refractory cytopenia with multilineage dysplasia
+Refractory cytopenia with unilineage dysplasia
+l2</ Myelodysplastic syndromes >
+l1</ Leukaemias >
+l1< Lymphomas Hodgkin's disease >
+l2< Hodgkin's disease lymphocyte depletion type >
+Hodgkin's disease lymphocyte depletion stage I site unspecified
+Hodgkin's disease lymphocyte depletion stage I subdiaphragm
+Hodgkin's disease lymphocyte depletion stage I supradiaphragm
+Hodgkin's disease lymphocyte depletion stage II site unspecified
+Hodgkin's disease lymphocyte depletion stage II subdiaphragm
+Hodgkin's disease lymphocyte depletion stage II supradiaphragm
+Hodgkin's disease lymphocyte depletion type recurrent
+Hodgkin's disease lymphocyte depletion type refractory
+Hodgkin's disease lymphocyte depletion type stage III
+Hodgkin's disease lymphocyte depletion type stage IV
+Hodgkin's disease lymphocyte depletion type stage unspecified
+l2</ Hodgkin's disease lymphocyte depletion type >
+l2< Hodgkin's disease lymphocyte predominance type >
+Hodgkin's disease lymphocyte predominance stage I site unspec
+Hodgkin's disease lymphocyte predominance stage I subdiaphragm
+Hodgkin's disease lymphocyte predominance stage I supradiaphragm
+Hodgkin's disease lymphocyte predominance stage II site unspec
+Hodgkin's disease lymphocyte predominance stage II subdiaphragm
+Hodgkin's disease lymphocyte predominance stage II supradiaphragm
+Hodgkin's disease lymphocyte predominance type recurrent
+Hodgkin's disease lymphocyte predominance type refractory
+Hodgkin's disease lymphocyte predominance type stage III
+Hodgkin's disease lymphocyte predominance type stage IV
+Hodgkin's disease lymphocyte predominance type stage unspecified
+l2</ Hodgkin's disease lymphocyte predominance type >
+l2< Hodgkin's disease mixed cellularity type >
+Hodgkin's disease mixed cellularity recurrent
+Hodgkin's disease mixed cellularity refractory
+Hodgkin's disease mixed cellularity stage I site unspecified
+Hodgkin's disease mixed cellularity stage I subdiaphragmatic
+Hodgkin's disease mixed cellularity stage I supradiaphragmatic
+Hodgkin's disease mixed cellularity stage II subdiaphragmatic
+Hodgkin's disease mixed cellularity stage II supradiaphragmatic
+Hodgkin's disease mixed cellularity stage III
+Hodgkin's disease mixed cellularity stage IV
+Hodgkin's disease mixed cellularity stage unspecified
+l2</ Hodgkin's disease mixed cellularity type >
+l2< Hodgkin's disease NEC >
+Hodgkin's disease
+Hodgkin's disease recurrent
+Hodgkin's disease refractory
+Hodgkin's disease stage I
+Hodgkin's disease stage II
+Hodgkin's disease stage III
+Hodgkin's disease stage IV
+Hodgkin's disease unclassifiable
+Nodular lymphocyte predominant Hodgkin lymphoma
+l2</ Hodgkin's disease NEC >
+l2< Hodgkin's disease nodular sclerosis type >
+Hodgkin's disease nodular sclerosis
+Hodgkin's disease nodular sclerosis recurrent
+Hodgkin's disease nodular sclerosis refractory
+Hodgkin's disease nodular sclerosis stage I
+Hodgkin's disease nodular sclerosis stage II
+Hodgkin's disease nodular sclerosis stage III
+Hodgkin's disease nodular sclerosis stage IV
+l2</ Hodgkin's disease nodular sclerosis type >
+l1</ Lymphomas Hodgkin's disease >
+l1< Lymphomas NEC >
+l2< Lymphomas unclassifiable malignant >
+Composite lymphoma
+Malignant lymphoma unclassifiable high grade
+Malignant lymphoma unclassifiable low grade
+l2</ Lymphomas unclassifiable malignant >
+l2< Lymphomas unspecified NEC >
+Anaplastic large-cell lymphoma
+Blastic plasmacytoid dendritic cell neoplasia
+Central nervous system lymphoma
+Disseminated large cell lymphoma
+Lymphocytic lymphoma
+Lymphoma
+Lymphoma AIDS related
+Lymphoma transformation
+Malignant lymphoid neoplasm
+Metastatic lymphoma
+Primary cardiac lymphoma
+l2</ Lymphomas unspecified NEC >
+l1</ Lymphomas NEC >
+l1< Lymphomas non-Hodgkin's B-cell >
+l2< B-cell lymphomas NEC >
+B-cell lymphoma
+B-cell lymphoma recurrent
+B-cell lymphoma refractory
+B-cell lymphoma stage I
+B-cell lymphoma stage II
+B-cell lymphoma stage III
+B-cell lymphoma stage IV
+Double hit lymphoma
+Epstein-Barr virus associated lymphoma
+High-grade B-cell lymphoma
+Lymphoma cutis
+Ocular lymphoma
+Primary effusion lymphoma
+Thyroid B-cell lymphoma
+Triple hit lymphoma
+l2</ B-cell lymphomas NEC >
+l2< B-cell small lymphocytic lymphomas >
+B-cell prolymphocytic leukaemia
+B-cell small lymphocytic lymphoma
+B-cell small lymphocytic lymphoma recurrent
+B-cell small lymphocytic lymphoma refractory
+B-cell small lymphocytic lymphoma stage I
+B-cell small lymphocytic lymphoma stage II
+B-cell small lymphocytic lymphoma stage III
+B-cell small lymphocytic lymphoma stage IV
+l2</ B-cell small lymphocytic lymphomas >
+l2< B-cell unclassifiable lymphomas >
+B-cell unclassifiable lymphoma high grade
+B-cell unclassifiable lymphoma low grade
+l2</ B-cell unclassifiable lymphomas >
+l2< Burkitt's lymphomas >
+Burkitt's lymphoma
+Burkitt's lymphoma recurrent
+Burkitt's lymphoma refractory
+Burkitt's lymphoma stage I
+Burkitt's lymphoma stage II
+Burkitt's lymphoma stage III
+Burkitt's lymphoma stage IV
+l2</ Burkitt's lymphomas >
+l2< Diffuse large B-cell lymphomas >
+Diffuse large B-cell lymphoma
+Diffuse large B-cell lymphoma recurrent
+Diffuse large B-cell lymphoma refractory
+Diffuse large B-cell lymphoma stage I
+Diffuse large B-cell lymphoma stage II
+Diffuse large B-cell lymphoma stage III
+Diffuse large B-cell lymphoma stage IV
+Richter's syndrome
+l2</ Diffuse large B-cell lymphomas >
+l2< Extranodal marginal zone B-cell lymphomas (low grade B-cell) >
+Extranodal marginal zone B-cell lymphoma (MALT type)
+Extranodal marginal zone B-cell lymphoma (MALT type) recurrent
+Extranodal marginal zone B-cell lymphoma (MALT type) refractory
+Extranodal marginal zone B-cell lymphoma (MALT type) stage I
+Extranodal marginal zone B-cell lymphoma (MALT type) stage II
+Extranodal marginal zone B-cell lymphoma (MALT type) stage III
+Extranodal marginal zone B-cell lymphoma (MALT type) stage IV
+l2</ Extranodal marginal zone B-cell lymphomas (low grade B-cell) >
+l2< Follicle centre lymphomas diffuse predominantly small cell >
+Follicle centre lymphoma diffuse small cell lymphoma
+Follicle centre lymphoma diffuse small cell lymphoma recurrent
+Follicle centre lymphoma diffuse small cell lymphoma refractory
+Follicle centre lymphoma diffuse small cell lymphoma stage I
+Follicle centre lymphoma diffuse small cell lymphoma stage II
+Follicle centre lymphoma diffuse small cell lymphoma stage III
+Follicle centre lymphoma diffuse small cell lymphoma stage IV
+l2</ Follicle centre lymphomas diffuse predominantly small cell >
+l2< Follicle centre lymphomas, follicular grade I, II, III >
+Follicle centre lymphoma, follicular grade I, II, III
+Follicle centre lymphoma, follicular grade I, II, III recurrent
+Follicle centre lymphoma, follicular grade I, II, III refractory
+Follicle centre lymphoma, follicular grade I, II, III stage I
+Follicle centre lymphoma, follicular grade I, II, III stage II
+Follicle centre lymphoma, follicular grade I, II, III stage III
+Follicle centre lymphoma, follicular grade I, II, III stage IV
+Primary gastrointestinal follicular lymphoma
+l2</ Follicle centre lymphomas, follicular grade I, II, III >
+l2< High grade B-cell lymphomas Burkitt-like lymphoma >
+High grade B-cell lymphoma Burkitt-like lymphoma
+High grade B-cell lymphoma Burkitt-like lymphoma recurrent
+High grade B-cell lymphoma Burkitt-like lymphoma refractory
+High grade B-cell lymphoma Burkitt-like lymphoma stage I
+High grade B-cell lymphoma Burkitt-like lymphoma stage II
+High grade B-cell lymphoma Burkitt-like lymphoma stage III
+High grade B-cell lymphoma Burkitt-like lymphoma stage IV
+l2</ High grade B-cell lymphomas Burkitt-like lymphoma >
+l2< Lymphoplasmacytoid lymphomas/immunocytomas >
+Lymphoplasmacytoid lymphoma/immunocytoma
+Lymphoplasmacytoid lymphoma/immunocytoma recurrent
+Lymphoplasmacytoid lymphoma/immunocytoma refractory
+Lymphoplasmacytoid lymphoma/immunocytoma stage I
+Lymphoplasmacytoid lymphoma/immunocytoma stage II
+Lymphoplasmacytoid lymphoma/immunocytoma stage III
+Lymphoplasmacytoid lymphoma/immunocytoma stage IV
+l2</ Lymphoplasmacytoid lymphomas/immunocytomas >
+l2< Mantle cell lymphomas >
+Mantle cell lymphoma
+Mantle cell lymphoma recurrent
+Mantle cell lymphoma refractory
+Mantle cell lymphoma stage I
+Mantle cell lymphoma stage II
+Mantle cell lymphoma stage III
+Mantle cell lymphoma stage IV
+l2</ Mantle cell lymphomas >
+l2< Marginal zone lymphomas NEC >
+Marginal zone lymphoma
+Marginal zone lymphoma recurrent
+Marginal zone lymphoma refractory
+Marginal zone lymphoma stage I
+Marginal zone lymphoma stage II
+Marginal zone lymphoma stage III
+Marginal zone lymphoma stage IV
+l2</ Marginal zone lymphomas NEC >
+l2< Nodal marginal zone B-cell lymphomas >
+Nodal marginal zone B-cell lymphoma
+Nodal marginal zone B-cell lymphoma recurrent
+Nodal marginal zone B-cell lymphoma refractory
+Nodal marginal zone B-cell lymphoma stage I
+Nodal marginal zone B-cell lymphoma stage II
+Nodal marginal zone B-cell lymphoma stage III
+Nodal marginal zone B-cell lymphoma stage IV
+l2</ Nodal marginal zone B-cell lymphomas >
+l2< Precursor B-lymphoblastic lymphomas >
+Precursor B-lymphoblastic lymphoma
+Precursor B-lymphoblastic lymphoma recurrent
+Precursor B-lymphoblastic lymphoma refractory
+Precursor B-lymphoblastic lymphoma stage I
+Precursor B-lymphoblastic lymphoma stage II
+Precursor B-lymphoblastic lymphoma stage III
+Precursor B-lymphoblastic lymphoma stage IV
+l2</ Precursor B-lymphoblastic lymphomas >
+l2< Primary mediastinal large B-cell lymphomas >
+Primary mediastinal large B-cell lymphoma
+Primary mediastinal large B-cell lymphoma recurrent
+Primary mediastinal large B-cell lymphoma refractory
+Primary mediastinal large B-cell lymphoma stage I
+Primary mediastinal large B-cell lymphoma stage II
+Primary mediastinal large B-cell lymphoma stage III
+Primary mediastinal large B-cell lymphoma stage IV
+l2</ Primary mediastinal large B-cell lymphomas >
+l2< Splenic marginal zone lymphomas >
+Splenic marginal zone lymphoma
+Splenic marginal zone lymphoma recurrent
+Splenic marginal zone lymphoma refractory
+Splenic marginal zone lymphoma stage I
+Splenic marginal zone lymphoma stage II
+Splenic marginal zone lymphoma stage III
+Splenic marginal zone lymphoma stage IV
+l2</ Splenic marginal zone lymphomas >
+l2< Waldenstrom's macroglobulinaemias >
+Waldenstrom's macroglobulinaemia
+Waldenstrom's macroglobulinaemia recurrent
+Waldenstrom's macroglobulinaemia refractory
+Waldenstrom's macroglobulinaemia stage I
+Waldenstrom's macroglobulinaemia stage II
+Waldenstrom's macroglobulinaemia stage III
+Waldenstrom's macroglobulinaemia stage IV
+l2</ Waldenstrom's macroglobulinaemias >
+l1</ Lymphomas non-Hodgkin's B-cell >
+l1< Lymphomas non-Hodgkin's T-cell >
+l2< Adult T-cell lymphomas/leukaemias >
+Adult T-cell lymphoma/leukaemia
+Adult T-cell lymphoma/leukaemia recurrent
+Adult T-cell lymphoma/leukaemia refractory
+Adult T-cell lymphoma/leukaemia stage I
+Adult T-cell lymphoma/leukaemia stage II
+Adult T-cell lymphoma/leukaemia stage III
+Adult T-cell lymphoma/leukaemia stage IV
+Hepatosplenic T-cell lymphoma
+l2</ Adult T-cell lymphomas/leukaemias >
+l2< Anaplastic large cell lymphomas T- and null-cell types >
+Anaplastic large cell lymphoma T- and null-cell types
+Anaplastic large cell lymphoma T- and null-cell types recurrent
+Anaplastic large cell lymphoma T- and null-cell types refractory
+Anaplastic large cell lymphoma T- and null-cell types stage I
+Anaplastic large cell lymphoma T- and null-cell types stage II
+Anaplastic large cell lymphoma T- and null-cell types stage III
+Anaplastic large cell lymphoma T- and null-cell types stage IV
+T-cell lymphoma
+T-cell lymphoma recurrent
+T-cell lymphoma refractory
+T-cell lymphoma stage I
+T-cell lymphoma stage II
+T-cell lymphoma stage III
+T-cell lymphoma stage IV
+l2</ Anaplastic large cell lymphomas T- and null-cell types >
+l2< Angiocentric lymphomas >
+Angiocentric lymphoma
+Angiocentric lymphoma recurrent
+Angiocentric lymphoma refractory
+Angiocentric lymphoma stage I
+Angiocentric lymphoma stage II
+Angiocentric lymphoma stage III
+Angiocentric lymphoma stage IV
+l2</ Angiocentric lymphomas >
+l2< Angioimmunoblastic T-cell lymphomas >
+Angioimmunoblastic T-cell lymphoma
+Angioimmunoblastic T-cell lymphoma recurrent
+Angioimmunoblastic T-cell lymphoma refractory
+Angioimmunoblastic T-cell lymphoma stage I
+Angioimmunoblastic T-cell lymphoma stage II
+Angioimmunoblastic T-cell lymphoma stage III
+Angioimmunoblastic T-cell lymphoma stage IV
+l2</ Angioimmunoblastic T-cell lymphomas >
+l2< Intestinal T-cell lymphomas >
+Enteropathy-associated T-cell lymphoma
+Intestinal T-cell lymphoma recurrent
+Intestinal T-cell lymphoma refractory
+Intestinal T-cell lymphoma stage I
+Intestinal T-cell lymphoma stage II
+Intestinal T-cell lymphoma stage III
+Intestinal T-cell lymphoma stage IV
+l2</ Intestinal T-cell lymphomas >
+l2< Mycoses fungoides >
+Mycosis fungoides
+Mycosis fungoides recurrent
+Mycosis fungoides refractory
+Mycosis fungoides stage I
+Mycosis fungoides stage II
+Mycosis fungoides stage III
+Mycosis fungoides stage IV
+l2</ Mycoses fungoides >
+l2< Peripheral T-cell lymphomas NEC >
+Peripheral T-cell lymphoma unspecified
+Peripheral T-cell lymphoma unspecified recurrent
+Peripheral T-cell lymphoma unspecified refractory
+Peripheral T-cell lymphoma unspecified stage I
+Peripheral T-cell lymphoma unspecified stage II
+Peripheral T-cell lymphoma unspecified stage III
+Peripheral T-cell lymphoma unspecified stage IV
+l2</ Peripheral T-cell lymphomas NEC >
+l2< Precursor T-lymphoblastic lymphomas/leukaemias >
+Natural killer-cell lymphoblastic lymphoma
+Precursor T-lymphoblastic lymphoma/leukaemia
+Precursor T-lymphoblastic lymphoma/leukaemia recurrent
+Precursor T-lymphoblastic lymphoma/leukaemia refractory
+Precursor T-lymphoblastic lymphoma/leukaemia stage I
+Precursor T-lymphoblastic lymphoma/leukaemia stage II
+Precursor T-lymphoblastic lymphoma/leukaemia stage III
+Precursor T-lymphoblastic lymphoma/leukaemia stage IV
+l2</ Precursor T-lymphoblastic lymphomas/leukaemias >
+l2< T-cell unclassifiable lymphomas >
+T-cell unclassifiable lymphoma high grade
+T-cell unclassifiable lymphoma low grade
+l2</ T-cell unclassifiable lymphomas >
+l1</ Lymphomas non-Hodgkin's T-cell >
+l1< Lymphomas non-Hodgkin's unspecified histology >
+l2< Non-Hodgkin's lymphomas NEC >
+Cutaneous lymphoma
+Gastrointestinal lymphoma
+Leukaemic lymphoma
+Non-Hodgkin's lymphoma
+Non-Hodgkin's lymphoma metastatic
+Non-Hodgkin's lymphoma recurrent
+Non-Hodgkin's lymphoma refractory
+Non-Hodgkin's lymphoma stage I
+Non-Hodgkin's lymphoma stage II
+Non-Hodgkin's lymphoma stage III
+Non-Hodgkin's lymphoma stage IV
+Plasmablastic lymphoma
+l2</ Non-Hodgkin's lymphomas NEC >
+l2< Non-Hodgkin's lymphomas transformed recurrent >
+Non-Hodgkin's lymphoma transformed recurrent
+l2</ Non-Hodgkin's lymphomas transformed recurrent >
+l2< Non-Hodgkin's lymphomas unspecified histology aggressive >
+Immunoblastic lymphoma
+Non-Hodgkin's lymphoma unspecified histology aggressive
+Non-Hodgkin's lymphoma unspecified histology aggressive recurrent
+Non-Hodgkin's lymphoma unspecified histology aggressive refractory
+Non-Hodgkin's lymphoma unspecified histology aggressive stage I
+Non-Hodgkin's lymphoma unspecified histology aggressive stage II
+Non-Hodgkin's lymphoma unspecified histology aggressive stage III
+Non-Hodgkin's lymphoma unspecified histology aggressive stage IV
+l2</ Non-Hodgkin's lymphomas unspecified histology aggressive >
+l2< Non-Hodgkin's lymphomas unspecified histology indolent >
+Non-Hodgkin's lymphoma unspecified histology indolent
+Non-Hodgkin's lymphoma unspecified histology indolent stage I
+Non-Hodgkin's lymphoma unspecified histology indolent stage II
+Non-Hodgkin's lymphoma unspecified histology indolent stage III
+Non-Hodgkin's lymphoma unspecified histology indolent stage IV
+l2</ Non-Hodgkin's lymphomas unspecified histology indolent >
+l1</ Lymphomas non-Hodgkin's unspecified histology >
+l1< Mesotheliomas >
+l2< Mesotheliomas benign >
+Benign mesothelioma
+Benign pleural mesothelioma
+l2</ Mesotheliomas benign >
+l2< Mesotheliomas malignant and unspecified >
+Biphasic mesothelioma
+Desmoplastic mesothelioma
+Epithelioid mesothelioma
+Mesothelioma
+Mesothelioma malignant
+Mesothelioma malignant recurrent
+Pericardial mesothelioma malignant
+Pericardial mesothelioma malignant recurrent
+Peritoneal mesothelioma malignant
+Peritoneal mesothelioma malignant recurrent
+Pleural mesothelioma
+Pleural mesothelioma malignant
+Pleural mesothelioma malignant recurrent
+Sarcomatoid mesothelioma
+l2</ Mesotheliomas malignant and unspecified >
+l1</ Mesotheliomas >
+l1< Metastases >
+l2< Metastases to specified sites >
+Intestinal metastasis
+Lymphangiosis carcinomatosa
+Metastases to abdominal cavity
+Metastases to abdominal wall
+Metastases to adrenals
+Metastases to biliary tract
+Metastases to bladder
+Metastases to bone
+Metastases to bone marrow
+Metastases to breast
+Metastases to central nervous system
+Metastases to chest wall
+Metastases to diaphragm
+Metastases to Eustachian tube
+Metastases to eye
+Metastases to fallopian tube
+Metastases to gallbladder
+Metastases to gastrointestinal tract
+Metastases to heart
+Metastases to kidney
+Metastases to larynx
+Metastases to liver
+Metastases to lung
+Metastases to lymph nodes
+Metastases to meninges
+Metastases to mouth
+Metastases to muscle
+Metastases to nasal sinuses
+Metastases to neck
+Metastases to nervous system
+Metastases to oesophagus
+Metastases to ovary
+Metastases to pancreas
+Metastases to pelvis
+Metastases to penis
+Metastases to perineum
+Metastases to peripheral nervous system
+Metastases to peripheral vascular system
+Metastases to peritoneum
+Metastases to pharynx
+Metastases to pituitary gland
+Metastases to placenta
+Metastases to pleura
+Metastases to prostate
+Metastases to rectum
+Metastases to reproductive organ
+Metastases to retroperitoneum
+Metastases to salivary gland
+Metastases to skin
+Metastases to soft tissue
+Metastases to spinal cord
+Metastases to spine
+Metastases to spleen
+Metastases to stomach
+Metastases to testicle
+Metastases to the mediastinum
+Metastases to the respiratory system
+Metastases to thorax
+Metastases to thyroid
+Metastases to tonsils
+Metastases to trachea
+Metastases to urinary tract
+Metastases to uterus
+Metastases to vagina
+l2</ Metastases to specified sites >
+l2< Metastases to unknown and unspecified sites >
+Metastasis
+l2</ Metastases to unknown and unspecified sites >
+l1</ Metastases >
+l1< Miscellaneous and site unspecified neoplasms benign >
+l2< Aural neoplasms benign >
+Aural cystadenoma
+Aural polyp
+Benign ear neoplasm
+Benign middle ear neoplasm
+Cholesteatoma
+Cholesterin granuloma of middle ear
+Cholesterol granuloma
+Glomus tympanicum tumour
+Mastoid cyst
+Mucosal cyst of postmastoidectomy cavity
+l2</ Aural neoplasms benign >
+l2< Cardiovascular neoplasms benign >
+Benign cardiac neoplasm
+Benign pericardium neoplasm
+Benign vascular neoplasm
+Cardiac fibroma
+Cardiac haemangioma benign
+Cardiac lymphangioma
+Cardiac myxoma
+Cardiac neurofibroma
+Cardiac valve fibroelastoma
+Carney complex
+Cystic angiomatosis
+Gorham's disease
+Haemangioma
+Haemangioma congenital
+Haemangioma-thrombocytopenia syndrome
+Hamartoma vascular
+Infantile haemangioma
+Infected lymphocele
+Intravascular papillary endothelial hyperplasia
+Lymphocele
+PHACES syndrome
+Ulcerated haemangioma
+l2</ Cardiovascular neoplasms benign >
+l2< Neoplasms benign site unspecified NEC >
+Adenoma benign
+Administration site cyst
+Angiofibroma
+Application site cyst
+Bannayan-Riley-Ruvalcaba syndrome
+Benign joint neoplasm
+Benign neoplasm
+Calcifying fibrous pseudotumour
+Chemodectoma
+Congenital benign neoplasm
+Congenital cyst
+Cowden's disease
+Cyst
+Cyst rupture
+Dermoid cyst
+Fibroma
+Haemophilic pseudotumour
+Haemorrhagic cyst
+Hamartoma
+Implant site cyst
+Infantile septic granulomatosis
+Infected cyst
+Infusion site cyst
+Injection site cyst
+Medical device site cyst
+Oncocytoma
+Papilloma
+Phakomatosis
+Polyp
+Retention cyst
+Teratoma benign
+Vaccination site cyst
+l2</ Neoplasms benign site unspecified NEC >
+l1</ Miscellaneous and site unspecified neoplasms benign >
+l1< Miscellaneous and site unspecified neoplasms malignant and unspecified >
+l2< Aural neoplasms malignant and unspecified >
+Adenoid cystic carcinoma of external auditory canal
+Ear neoplasm
+Ear neoplasm malignant
+Malignant middle ear neoplasm
+Malignant neoplasm of auricular cartilage
+Otic cancer metastatic
+l2</ Aural neoplasms malignant and unspecified >
+l2< Cardiovascular neoplasms malignant and unspecified >
+Angiosarcoma
+Angiosarcoma metastatic
+Angiosarcoma non-metastatic
+Angiosarcoma recurrent
+Cardiac neoplasm malignant
+Cardiac neoplasm unspecified
+Cardiac teratoma
+Endotheliomatosis
+Haemangiopericytoma
+Malignant haemangiopericytoma
+Malignant haemangiopericytoma metastatic
+Malignant haemangiopericytoma recurrent
+Malignant pericardial neoplasm
+Pericardial neoplasm
+Stewart-Treves syndrome
+Vascular neoplasm
+l2</ Cardiovascular neoplasms malignant and unspecified >
+l2< Extragonadal primary germ cell neoplasms >
+Extragonadal primary embryonal carcinoma
+Extragonadal primary germ cell tumour
+Extragonadal primary germ cell tumour mixed
+Extragonadal primary germ cell tumour mixed stage I
+Extragonadal primary germ cell tumour mixed stage II
+Extragonadal primary germ cell tumour mixed stage III
+Extragonadal primary malignant teratoma
+Extragonadal primary non-seminoma
+Extragonadal primary non-seminoma stage I
+Extragonadal primary non-seminoma stage II
+Extragonadal primary non-seminoma stage III
+Extragonadal primary non-seminoma stage IV
+Extragonadal primary seminoma (pure)
+Extragonadal primary seminoma (pure) stage I
+Extragonadal primary seminoma (pure) stage II
+Extragonadal primary seminoma (pure) stage III
+Extragonadal primary seminoma (pure) stage IV
+Malignant hydatidiform mole
+l2</ Extragonadal primary germ cell neoplasms >
+l2< Germ cell neoplasms site unspecified NEC >
+Choriocarcinoma
+Congenital teratoma
+Germ cell cancer
+Germ cell cancer metastatic
+Germ cell neoplasm
+Gestational trophoblastic tumour
+Metastatic choriocarcinoma
+Teratoma
+Yolk sac tumour site unspecified
+l2</ Germ cell neoplasms site unspecified NEC >
+l2< Neoplasms malignant site unspecified NEC >
+Adenocarcinoma
+Adenoid cystic carcinoma
+Adenosquamous cell carcinoma
+Basosquamous carcinoma
+Cancer in remission
+Carcinogenic effect in offspring
+Carcinoma in situ
+Congenital malignant neoplasm
+Head and neck cancer
+Head and neck cancer metastatic
+Head and neck cancer stage I
+Head and neck cancer stage II
+Head and neck cancer stage III
+Head and neck cancer stage IV
+Malignant joint neoplasm
+Malignant melanoma of sites other than skin
+Malignant neoplasm of unknown primary site
+Malignant neoplasm progression
+Malignant polyp
+Malignant transformation
+Maternal cancer in pregnancy
+Metastatic neoplasm
+Metastatic squamous cell carcinoma
+Microsatellite instability cancer
+Mismatch repair cancer syndrome
+Mixed adenoneuroendocrine carcinoma
+Mucoepidermoid carcinoma
+Musculoskeletal cancer
+Neoplasm malignant
+NUT midline carcinoma
+Recurrent cancer
+Refractory cancer
+Rhabdoid tumour
+Second primary malignancy
+Signet-ring cell carcinoma
+Small cell carcinoma
+Squamous cell carcinoma
+Squamous cell carcinoma of head and neck
+Tumour budding
+Tumour invasion
+l2</ Neoplasms malignant site unspecified NEC >
+l2< Neoplasms unspecified malignancy and site unspecified NEC >
+Abdominal neoplasm
+Cartilage neoplasm
+Congenital neoplasm
+Erythroplasia
+Granular cell tumour
+Joint neoplasm
+Neoplasm
+Neoplasm progression
+Neoplasm recurrence
+Pelvic neoplasm
+Pseudosarcoma
+Queyrat erythroplasia
+Smooth muscle cell neoplasm
+l2</ Neoplasms unspecified malignancy and site unspecified NEC >
+l1</ Miscellaneous and site unspecified neoplasms malignant and unspecified >
+l1< Neoplasm related morbidities >
+l2< Ectopic hormone secretion syndromes associated with neoplasias >
+Carcinoid crisis
+Carcinoid heart disease
+Carcinoid syndrome
+Ectopic ACTH syndrome
+Ectopic aldosterone secretion
+Ectopic antidiuretic hormone secretion
+Ectopic calcitonin production
+Ectopic chorionic gonadotrophin secretion
+Ectopic growth hormone secretion
+Ectopic hormone secretion
+Ectopic parathyroid hormone production
+Ectopic prolactin secretion
+Ectopic renin secretion
+Hypercalcitoninaemia
+l2</ Ectopic hormone secretion syndromes associated with neoplasias >
+l2< Oncologic complications and emergencies >
+Acquired thalassaemia
+Bence Jones proteinuria
+Bone marrow reticulin fibrosis
+Breakthrough pain
+Cachexia
+Cancer pain
+Chiasma syndrome
+Clonal evolution
+Elephantiasis nostras verrucosa
+Fungating wound
+Garcin syndrome
+Haemorrhagic tumour necrosis
+Horner's syndrome
+Infected neoplasm
+Inferior vena cava syndrome
+Intracranial tumour haemorrhage
+Intratumoural aneurysm
+Leukostasis syndrome
+Malignant ascites
+Malignant bowel obstruction
+Malignant dysphagia
+Malignant exophthalmos
+Malignant pleural effusion
+Malignant psoas syndrome
+Malignant urinary tract obstruction
+Meigs' syndrome
+Metastatic pulmonary embolism
+Myeloma cast nephropathy
+Necrolytic migratory erythema
+Neoplasm swelling
+Numb chin syndrome
+Oncologic complication
+Pancoast's syndrome
+Pathological fracture
+Pericardial effusion malignant
+Pericarditis malignant
+Peritumoural oedema
+Pseudoachalasia
+Pseudocirrhosis
+Pseudomyxoma peritonei
+Pulmonary tumour thrombotic microangiopathy
+Pyoderma gangrenosum
+Superior vena cava syndrome
+Trousseau's syndrome
+Tumour associated fever
+Tumour cavitation
+Tumour cell mobilisation
+Tumour compression
+Tumour embolism
+Tumour exudation
+Tumour fistulisation
+Tumour flare
+Tumour haemorrhage
+Tumour inflammation
+Tumour lysis syndrome
+Tumour necrosis
+Tumour obstruction
+Tumour pain
+Tumour perforation
+Tumour pruritus
+Tumour pseudoprogression
+Tumour rupture
+Tumour thrombosis
+Tumour ulceration
+l2</ Oncologic complications and emergencies >
+l2< Paraneoplastic syndromes NEC >
+Acanthosis nigricans
+Acrokeratosis paraneoplastica
+Carcinomatous polyarthritis
+Diffuse uveal melanocytic proliferation
+Encephalitis autoimmune
+Hypercalcaemia of malignancy
+Hypertrophic osteoarthropathy
+Limbic encephalitis
+Myasthenic syndrome
+Neuromyotonia
+Oncogenic osteomalacia
+Palmar fasciitis
+Paraneoplastic arthritis
+Paraneoplastic dermatomyositis
+Paraneoplastic dermatosis
+Paraneoplastic encephalomyelitis
+Paraneoplastic glomerulonephritis
+Paraneoplastic nephrotic syndrome
+Paraneoplastic neurological syndrome
+Paraneoplastic pemphigus
+Paraneoplastic pleural effusion
+Paraneoplastic rash
+Paraneoplastic retinopathy
+Paraneoplastic syndrome
+Paraneoplastic thrombosis
+Polyneuropathy in malignant disease
+Secondary cerebellar degeneration
+Stauffer's syndrome
+l2</ Paraneoplastic syndromes NEC >
+l1</ Neoplasm related morbidities >
+l1< Nervous system neoplasms benign >
+l2< Gliomas benign >
+Astrocytoma, low grade
+Brain stem glioma benign
+Oligodendroglioma benign
+l2</ Gliomas benign >
+l2< Meningiomas benign >
+Meningioma benign
+Spinal meningioma benign
+l2</ Meningiomas benign >
+l2< Nervous system cysts and polyps >
+Arachnoid cyst
+Cerebral cyst
+Choroid fissure cyst
+Colloid brain cyst
+Congenital cerebral cyst
+Congenital choroid plexus cyst
+Intraneural cyst
+Nervous system cyst
+Perineurial cyst
+Pineal gland cyst
+Spinal meningeal cyst
+l2</ Nervous system cysts and polyps >
+l2< Nervous system neoplasms benign NEC >
+Benign neoplasm of pineal gland
+Benign neoplasm of spinal cord
+Brain neoplasm benign
+Cerebellar haemangioma
+Cerebral haemangioma
+Cerebral hygroma
+Choroid plexus papilloma
+Congenital cerebral haemangioma
+Cranial nerve neoplasm benign
+Craniopharyngioma benign
+Ependymoma benign
+Glomus jugulare tumour
+Haemangioblastoma
+Intracranial haemangioma
+Nervous system neoplasm benign
+Neurilemmoma benign
+Neurofibroma
+Neurofibromatosis
+Venous angioma of brain
+l2</ Nervous system neoplasms benign NEC >
+l2< Neuromas >
+Acoustic neuroma
+Ganglioneuroma
+Neuroma
+l2</ Neuromas >
+l1</ Nervous system neoplasms benign >
+l1< Nervous system neoplasms malignant and unspecified NEC >
+l2< Central nervous system neoplasms malignant NEC >
+Atypical teratoid/rhabdoid tumour of CNS
+Brain cancer metastatic
+Brain neoplasm malignant
+Brain sarcoma
+Brain teratoma
+Central nervous system melanoma
+Choroid plexus carcinoma
+CNS germinoma
+Intracranial germ cell tumour
+Malignant cranial nerve neoplasm
+Malignant neoplasm of spinal cord
+Nongerminomatous germ cell tumour of the CNS
+l2</ Central nervous system neoplasms malignant NEC >
+l2< Glial tumours malignant >
+Anaplastic astrocytoma
+Anaplastic oligodendroglioma
+Astrocytoma malignant
+Brain stem glioma
+Ependymoma malignant
+Glioblastoma
+Glioblastoma multiforme
+Gliomatosis cerebri
+Gliosarcoma
+Malignant glioma
+Malignant oligodendroglioma
+Medulloblastoma
+Medulloblastoma recurrent
+Metastatic glioma
+Oligoastrocytoma
+l2</ Glial tumours malignant >
+l2< Meningiomas malignant >
+Anaplastic meningioma
+Haemangiopericytoma of meninges
+Intracranial meningioma malignant
+Malignant meningioma metastatic
+Meningioma malignant
+Spinal meningioma malignant
+l2</ Meningiomas malignant >
+l2< Nervous system neoplasms malignant NEC >
+Aesthesioneuroblastoma
+Central nervous system neuroblastoma
+Ganglioneuroblastoma
+Malignant nervous system neoplasm
+Metastatic nervous system neoplasm
+Neonatal neuroblastoma
+Neuroblastoma
+Neuroblastoma recurrent
+Peripheral nerve sheath tumour malignant
+Primitive neuroectodermal tumour
+Primitive neuroectodermal tumour metastatic
+l2</ Nervous system neoplasms malignant NEC >
+l2< Nervous system neoplasms unspecified malignancy NEC >
+Angiocentric glioma
+Astroblastoma
+Astrocytoma
+Brain neoplasm
+Carotid body tumour
+Central nervous system dermoid tumour
+Central nervous system neoplasm
+Cerebellar tumour
+Cerebellopontine angle tumour
+Ependymoma
+Extradural neoplasm
+Ganglioglioma
+Glioma
+Glioneuronal tumour
+Meningeal neoplasm
+Meningioma
+Nervous system neoplasm
+Neuroectodermal neoplasm
+Oligodendroglioma
+Peripheral nervous system neoplasm
+Schwannoma
+Spinal cord neoplasm
+l2</ Nervous system neoplasms unspecified malignancy NEC >
+l2< Pineal neoplasms >
+Pineal germinoma
+Pineal neoplasm
+Pineal parenchymal neoplasm malignant
+Pinealoblastoma
+Pinealoma
+Pineocytoma
+l2</ Pineal neoplasms >
+l1</ Nervous system neoplasms malignant and unspecified NEC >
+l1< Ocular neoplasms >
+l2< Ocular cysts and polyps >
+Conjunctival cyst
+Corneal cyst
+Cystic eyeball, congenital
+Iris cyst
+Lacrimal cyst
+Vitreous cyst
+l2</ Ocular cysts and polyps >
+l2< Ocular melanomas >
+Choroid melanoma
+Conjunctival melanoma
+Intraocular melanoma
+Iris melanoma
+Malignant melanoma of eyelid
+Metastatic ocular melanoma
+Retinal melanoma
+l2</ Ocular melanomas >
+l2< Ocular neoplasms benign >
+Benign neoplasm of choroid
+Benign neoplasm of conjunctiva
+Benign neoplasm of cornea
+Benign neoplasm of eye
+Benign neoplasm of eyelid
+Benign neoplasm of lacrimal duct
+Benign neoplasm of lacrimal gland
+Benign neoplasm of optic nerve
+Benign neoplasm of orbit
+Benign neoplasm of retina
+Blepharal papilloma
+Choroidal haemangioma
+Congenital eye naevus
+Eye haemangioma
+Eye naevus
+Eyelid haemangioma
+Haemangioma of retina
+Lipodermoid tumour
+Papilloma conjunctival
+Retinal melanocytoma
+l2</ Ocular neoplasms benign >
+l2< Ocular neoplasms malignancy unspecified >
+Choroid neoplasm
+Conjunctival neoplasm
+Conjunctival primary acquired melanosis
+Corneoconjunctival intraepithelial neoplasia
+Eyelid tumour
+Iris neoplasm
+Lacrimal duct neoplasm
+Neoplasm of cornea unspecified malignancy
+Neoplasm of orbit
+Ocular haemangiopericytoma
+Ocular neoplasm
+Optic glioma
+Optic nerve neoplasm
+Ota's naevus
+Retinal neoplasm
+Retro-orbital neoplasm
+l2</ Ocular neoplasms malignancy unspecified >
+l2< Ocular neoplasms malignant (excl melanomas) >
+Carcinoma in situ of eye
+Congenital retinoblastoma
+Extraocular retinoblastoma
+Malignant neoplasm of choroid
+Malignant neoplasm of conjunctiva
+Malignant neoplasm of cornea
+Malignant neoplasm of eye
+Malignant neoplasm of eyelid
+Malignant neoplasm of lacrimal duct
+Malignant neoplasm of lacrimal gland
+Malignant neoplasm of orbit
+Malignant neoplasm of retina
+Ocular cancer metastatic
+Retinoblastoma
+l2</ Ocular neoplasms malignant (excl melanomas) >
+l1</ Ocular neoplasms >
+l1< Plasma cell neoplasms >
+l2< Plasma cell myelomas >
+Leptomeningeal myelomatosis
+Plasma cell leukaemia
+Plasma cell leukaemia in remission
+Plasma cell myeloma
+Plasma cell myeloma in remission
+Plasma cell myeloma recurrent
+Plasmacytoma
+POEMS syndrome
+l2</ Plasma cell myelomas >
+l2< Plasma cell neoplasms NEC >
+Gammopathy
+Heavy chain disease
+Hypergammaglobulinaemia benign monoclonal
+Light chain disease
+Monoclonal gammopathy
+Paraproteinaemia
+TEMPI syndrome
+l2</ Plasma cell neoplasms NEC >
+l1</ Plasma cell neoplasms >
+l1< Renal and urinary tract neoplasms benign >
+l2< Renal neoplasms benign >
+Benign renal neoplasm
+Congenital cystic kidney disease
+Congenital renal cyst
+Kidney angiomyolipoma
+Mesoblastic nephroma
+Papillary tumour of renal pelvis
+Renal adenoma
+Renal cyst
+Renal cyst haemorrhage
+Renal cyst infection
+Renal cyst ruptured
+Renal haemangioma
+Renal oncocytoma
+l2</ Renal neoplasms benign >
+l2< Urinary tract neoplasms benign >
+Benign genitourinary tract neoplasm
+Benign neoplasm of bladder
+Benign neoplasm of ureter
+Benign neoplasm of urethra
+Benign urinary tract neoplasm
+Bladder cyst
+Bladder papilloma
+Ureteral cyst
+Ureteral polyp
+Ureteric papilloma
+Urethral adenoma
+Urethral cyst
+Urethral papilloma
+Urethral polyp
+Urinary bladder adenoma
+Urinary bladder polyp
+Urinary tract polyp
+l2</ Urinary tract neoplasms benign >
+l1</ Renal and urinary tract neoplasms benign >
+l1< Renal and urinary tract neoplasms malignant and unspecified >
+l2< Bladder neoplasms malignant >
+Bladder adenocarcinoma recurrent
+Bladder adenocarcinoma stage 0
+Bladder adenocarcinoma stage I
+Bladder adenocarcinoma stage II
+Bladder adenocarcinoma stage III
+Bladder adenocarcinoma stage IV
+Bladder adenocarcinoma stage unspecified
+Bladder cancer
+Bladder cancer recurrent
+Bladder cancer stage 0, with cancer in situ
+Bladder cancer stage 0, without cancer in situ
+Bladder cancer stage I, with cancer in situ
+Bladder cancer stage I, without cancer in situ
+Bladder cancer stage II
+Bladder cancer stage III
+Bladder cancer stage IV
+Bladder squamous cell carcinoma recurrent
+Bladder squamous cell carcinoma stage 0
+Bladder squamous cell carcinoma stage I
+Bladder squamous cell carcinoma stage II
+Bladder squamous cell carcinoma stage III
+Bladder squamous cell carcinoma stage IV
+Bladder squamous cell carcinoma stage unspecified
+Bladder transitional cell carcinoma
+Bladder transitional cell carcinoma metastatic
+Bladder transitional cell carcinoma recurrent
+Bladder transitional cell carcinoma stage 0
+Bladder transitional cell carcinoma stage I
+Bladder transitional cell carcinoma stage II
+Bladder transitional cell carcinoma stage III
+Bladder transitional cell carcinoma stage IV
+Metastatic carcinoma of the bladder
+Neuroendocrine carcinoma of the bladder
+l2</ Bladder neoplasms malignant >
+l2< Renal neoplasms malignant >
+Clear cell renal cell carcinoma
+Clear cell sarcoma of the kidney
+Denys-Drash syndrome
+Hereditary leiomyomatosis renal cell carcinoma
+Hereditary papillary renal carcinoma
+Metastatic renal cell carcinoma
+Nephroblastoma
+Non-renal cell carcinoma of kidney
+Papillary renal cell carcinoma
+Renal cancer
+Renal cancer metastatic
+Renal cancer recurrent
+Renal cancer stage I
+Renal cancer stage II
+Renal cancer stage III
+Renal cancer stage IV
+Renal cell carcinoma
+Renal cell carcinoma recurrent
+Renal cell carcinoma stage I
+Renal cell carcinoma stage II
+Renal cell carcinoma stage III
+Renal cell carcinoma stage IV
+Rhabdoid tumour of the kidney
+l2</ Renal neoplasms malignant >
+l2< Renal pelvis and ureter neoplasms malignant >
+Malignant neoplasm of renal pelvis
+Transitional cell cancer of renal pelvis and ureter metastatic
+Transitional cell cancer of the renal pelvis and ureter
+Transitional cell cancer of the renal pelvis and ureter localised
+Transitional cell cancer of the renal pelvis and ureter recurrent
+Transitional cell cancer of the renal pelvis and ureter regional
+Ureteric cancer
+Ureteric cancer local
+Ureteric cancer metastatic
+Ureteric cancer recurrent
+Ureteric cancer regional
+l2</ Renal pelvis and ureter neoplasms malignant >
+l2< Urinary tract neoplasms malignant NEC >
+Genitourinary melanoma
+Malignant genitourinary tract neoplasm
+Malignant neoplasm of paraurethral glands
+Malignant urinary tract neoplasm
+Transitional cell carcinoma
+Transitional cell carcinoma metastatic
+Transitional cell carcinoma recurrent
+Transitional cell carcinoma urethra
+Urethral cancer
+Urethral cancer metastatic
+Urethral cancer recurrent
+Urethral melanoma metastatic
+Urinary tract carcinoma in situ
+l2</ Urinary tract neoplasms malignant NEC >
+l2< Urinary tract neoplasms unspecified malignancy NEC >
+Bladder neoplasm
+Renal neoplasm
+Ureteral neoplasm
+Urethral neoplasm
+Urinary tract neoplasm
+l2</ Urinary tract neoplasms unspecified malignancy NEC >
+l1</ Renal and urinary tract neoplasms malignant and unspecified >
+l1< Reproductive and genitourinary neoplasms gender unspecified NEC >
+l2< Genitourinary neoplasms malignancy and gender unspecified >
+Buschke-Lowenstein's tumour
+Genital cyst
+Genitourinary tract neoplasm
+Perineal cyst
+l2</ Genitourinary neoplasms malignancy and gender unspecified >
+l1</ Reproductive and genitourinary neoplasms gender unspecified NEC >
+l1< Reproductive neoplasms female benign >
+l2< Cervix neoplasms benign >
+Benign neoplasm of cervix uteri
+Cervical cyst
+Cervical polyp
+Cervix adenomatous polyp
+Cervix warts
+l2</ Cervix neoplasms benign >
+l2< Ovarian neoplasms benign >
+Benign ovarian tumour
+Haemorrhagic ovarian cyst
+Hyperreactio luteinalis
+Ovarian adenoma
+Ovarian cyst
+Ovarian cyst ruptured
+Ovarian cyst torsion
+Ovarian fibroma
+Ovarian germ cell teratoma benign
+l2</ Ovarian neoplasms benign >
+l2< Reproductive neoplasms female benign NEC >
+Adnexa uteri cyst
+Benign fallopian tube neoplasm
+Benign female reproductive tract neoplasm
+Benign hydatidiform mole
+Cystadenofibroma of fallopian tube
+Fallopian tube cyst
+Fallopian tube leiomyoma
+Mesonephric duct cyst
+Pelvic cyst
+Placental chorioangioma
+Placental polyp
+Umbilical cord cyst
+l2</ Reproductive neoplasms female benign NEC >
+l2< Uterine neoplasms benign >
+Benign uterine neoplasm
+Endometrial adenoma
+Intravenous leiomyomatosis
+Uterine cyst
+Uterine leiomyoma
+Uterine myoma expulsion
+Uterine polyp
+l2</ Uterine neoplasms benign >
+l2< Vaginal neoplasms benign >
+Bartholin's cyst
+Benign vaginal neoplasm
+Congenital vaginal cyst
+Vaginal cyst
+Vaginal polyp
+Vulvovaginal warts
+l2</ Vaginal neoplasms benign >
+l2< Vulval neoplasms benign >
+Benign vulval neoplasm
+Vulva cyst
+Vulval polyp
+l2</ Vulval neoplasms benign >
+l1</ Reproductive neoplasms female benign >
+l1< Reproductive neoplasms female malignant and unspecified >
+l2< Cervix neoplasms malignant >
+Adenocarcinoma of the cervix
+Adenosquamous carcinoma of the cervix
+Cervix cancer metastatic
+Cervix carcinoma
+Cervix carcinoma recurrent
+Cervix carcinoma stage 0
+Cervix carcinoma stage I
+Cervix carcinoma stage II
+Cervix carcinoma stage III
+Cervix carcinoma stage IV
+Clear cell carcinoma of cervix
+Small cell carcinoma of the cervix
+Squamous cell carcinoma of the cervix
+l2</ Cervix neoplasms malignant >
+l2< Endometrial neoplasms malignant >
+Clear cell endometrial carcinoma
+Endometrial adenocarcinoma
+Endometrial cancer
+Endometrial cancer metastatic
+Endometrial cancer recurrent
+Endometrial cancer stage 0
+Endometrial cancer stage I
+Endometrial cancer stage II
+Endometrial cancer stage III
+Endometrial cancer stage IV
+Endometrial sarcoma
+Endometrial sarcoma metastatic
+Endometrial sarcoma recurrent
+Endometrial stromal sarcoma
+Mucinous endometrial carcinoma
+Papillary serous endometrial carcinoma
+Squamous endometrial carcinoma
+l2</ Endometrial neoplasms malignant >
+l2< Fallopian tube neoplasms malignant >
+Fallopian tube cancer
+Fallopian tube cancer metastatic
+Fallopian tube cancer stage I
+Fallopian tube cancer stage II
+Fallopian tube cancer stage III
+Fallopian tube cancer stage IV
+l2</ Fallopian tube neoplasms malignant >
+l2< Female reproductive neoplasms malignant NEC >
+Female reproductive tract carcinoma in situ
+Genital neoplasm malignant female
+Malignant neoplasm of placenta
+Malignant neoplasm of uterine adnexa
+Mueller's mixed tumour
+l2</ Female reproductive neoplasms malignant NEC >
+l2< Female reproductive neoplasms unspecified malignancy >
+Borderline mucinous tumour of ovary
+Borderline ovarian tumour
+Borderline serous tumour of ovary
+Brenner tumour
+Cervix neoplasm
+Endometrial neoplasm
+Erythroplasia of vulva
+Fallopian tube neoplasm
+Female reproductive neoplasm
+Ovarian germ cell tumour
+Ovarian granulosa cell tumour
+Ovarian granulosa-theca cell tumour
+Ovarian neoplasm
+Ovarian Sertoli-Leydig cell tumour
+Ovarian theca cell tumour
+Placental neoplasm
+Uterine neoplasm
+Vaginal neoplasm
+Vulval neoplasm
+l2</ Female reproductive neoplasms unspecified malignancy >
+l2< Ovarian germ cell neoplasms malignant >
+Ovarian dysgerminoma stage I
+Ovarian dysgerminoma stage II
+Ovarian dysgerminoma stage III
+Ovarian dysgerminoma stage IV
+Ovarian dysgerminoma stage unspecified
+Ovarian embryonal carcinoma
+Ovarian germ cell cancer
+Ovarian germ cell cancer stage I
+Ovarian germ cell cancer stage II
+Ovarian germ cell cancer stage III
+Ovarian germ cell cancer stage IV
+Ovarian germ cell choriocarcinoma
+Ovarian germ cell choriocarcinoma stage I
+Ovarian germ cell choriocarcinoma stage II
+Ovarian germ cell choriocarcinoma stage III
+Ovarian germ cell choriocarcinoma stage IV
+Ovarian germ cell embryonal carcinoma stage I
+Ovarian germ cell embryonal carcinoma stage II
+Ovarian germ cell embryonal carcinoma stage III
+Ovarian germ cell embryonal carcinoma stage IV
+Ovarian germ cell endodermal sinus tumour
+Ovarian germ cell endodermal sinus tumour stage I
+Ovarian germ cell endodermal sinus tumour stage II
+Ovarian germ cell endodermal sinus tumour stage III
+Ovarian germ cell endodermal sinus tumour stage IV
+Ovarian germ cell polyembryoma
+Ovarian germ cell polyembryoma stage I
+Ovarian germ cell polyembryoma stage II
+Ovarian germ cell polyembryoma stage III
+Ovarian germ cell polyembryoma stage IV
+Ovarian germ cell teratoma
+Ovarian germ cell teratoma stage I
+Ovarian germ cell teratoma stage II
+Ovarian germ cell teratoma stage III
+Ovarian germ cell teratoma stage IV
+Ovarian germ cell tumour mixed
+l2</ Ovarian germ cell neoplasms malignant >
+l2< Ovarian neoplasms malignant (excl germ cell) >
+Cystadenocarcinoma ovary
+Malignant ovarian cyst
+Mucinous cystadenocarcinoma ovary
+Ovarian cancer
+Ovarian cancer metastatic
+Ovarian cancer recurrent
+Ovarian cancer stage I
+Ovarian cancer stage II
+Ovarian cancer stage III
+Ovarian cancer stage IV
+Ovarian clear cell carcinoma
+Ovarian endometrioid carcinoma
+Ovarian epithelial cancer
+Ovarian epithelial cancer metastatic
+Ovarian epithelial cancer recurrent
+Ovarian epithelial cancer stage I
+Ovarian epithelial cancer stage II
+Ovarian epithelial cancer stage III
+Ovarian epithelial cancer stage IV
+Ovarian low malignant potential tumour
+Ovarian stromal cancer
+Serous cystadenocarcinoma ovary
+l2</ Ovarian neoplasms malignant (excl germ cell) >
+l2< Uterine neoplasms malignant NEC >
+Metastatic uterine cancer
+Uterine cancer
+Uterine carcinoma in situ
+l2</ Uterine neoplasms malignant NEC >
+l2< Vaginal neoplasms malignant >
+Adenosquamous carcinoma of vagina
+Squamous cell carcinoma of the vagina
+Vaginal adenocarcinoma
+Vaginal cancer
+Vaginal cancer metastatic
+Vaginal cancer recurrent
+Vaginal cancer stage 0
+Vaginal cancer stage I
+Vaginal cancer stage II
+Vaginal cancer stage III
+Vaginal cancer stage IVA
+Vaginal cancer stage IVB
+l2</ Vaginal neoplasms malignant >
+l2< Vulval neoplasms malignant >
+Paget's disease of the vulva
+Squamous cell carcinoma of the vulva
+Vulval cancer
+Vulval cancer metastatic
+Vulval cancer recurrent
+Vulval cancer stage 0
+Vulval cancer stage I
+Vulval cancer stage II
+Vulval cancer stage III
+Vulval cancer stage IV
+Vulvar adenocarcinoma
+l2</ Vulval neoplasms malignant >
+l1</ Reproductive neoplasms female malignant and unspecified >
+l1< Reproductive neoplasms male benign >
+l2< Prostatic neoplasms benign >
+Benign neoplasm of prostate
+Prostatic adenoma
+Prostatic cyst
+Prostatic polyp
+l2</ Prostatic neoplasms benign >
+l2< Reproductive neoplasms male benign NEC >
+Benign male reproductive tract neoplasm
+Benign neoplasm of epididymis
+Benign neoplasm of scrotum
+Benign neoplasm of seminal vesicle
+Benign neoplasm of testis
+Benign penile neoplasm
+Epididymal cyst
+Pearly penile papules
+Penile wart
+Seminal vesicular cyst
+Spermatocele
+Testicle adenoma
+Testicular cyst
+Testicular papilloma
+Testicular teratoma benign
+l2</ Reproductive neoplasms male benign NEC >
+l1</ Reproductive neoplasms male benign >
+l1< Reproductive neoplasms male malignant and unspecified >
+l2< Penile neoplasms malignant >
+Carcinoma in situ of penis
+Paget's disease of penis
+Penile cancer
+Penile squamous cell carcinoma
+Penis carcinoma metastatic
+Penis carcinoma recurrent
+Penis carcinoma stage I
+Penis carcinoma stage II
+Penis carcinoma stage III
+Penis carcinoma stage IV
+l2</ Penile neoplasms malignant >
+l2< Prostatic neoplasms malignant >
+Hormone-dependent prostate cancer
+Hormone-refractory prostate cancer
+Prostate cancer
+Prostate cancer metastatic
+Prostate cancer recurrent
+Prostate cancer stage 0
+Prostate cancer stage I
+Prostate cancer stage II
+Prostate cancer stage III
+Prostate cancer stage IV
+l2</ Prostatic neoplasms malignant >
+l2< Reproductive neoplasms male malignant NEC >
+Epididymal cancer
+Genital cancer male
+Genital cancer male in situ
+Malignant neoplasm of seminal vesicle
+Malignant neoplasm of spermatic cord
+Scrotal cancer
+l2</ Reproductive neoplasms male malignant NEC >
+l2< Reproductive neoplasms male unspecified malignancy >
+Epididymal neoplasm
+Erythroplasia of penis
+Granulosa cell tumour of the testis
+Leydig cell tumour of the testis
+Male reproductive tract neoplasm
+Neoplasm prostate
+Penile neoplasm
+Sertoli cell testicular tumour
+Testicular germ cell tumour
+Testicular neoplasm
+l2</ Reproductive neoplasms male unspecified malignancy >
+l2< Testicular neoplasms malignant >
+Frasier syndrome
+Seminoma
+Spermatocytic seminoma
+Testicular cancer metastatic
+Testicular choriocarcinoma
+Testicular choriocarcinoma recurrent
+Testicular choriocarcinoma stage I
+Testicular choriocarcinoma stage II
+Testicular choriocarcinoma stage III
+Testicular embryonal carcinoma
+Testicular embryonal carcinoma stage I
+Testicular embryonal carcinoma stage II
+Testicular embryonal carcinoma stage III
+Testicular germ cell cancer
+Testicular germ cell cancer metastatic
+Testicular germ cell tumour mixed
+Testicular germ cell tumour mixed stage I
+Testicular germ cell tumour mixed stage II
+Testicular germ cell tumour mixed stage III
+Testicular malignant teratoma
+Testicular malignant teratoma stage I
+Testicular malignant teratoma stage II
+Testicular malignant teratoma stage III
+Testicular seminoma (pure)
+Testicular seminoma (pure) stage I
+Testicular seminoma (pure) stage II
+Testicular seminoma (pure) stage III
+Testicular yolk sac tumour
+Testicular yolk sac tumour stage I
+Testicular yolk sac tumour stage II
+Testicular yolk sac tumour stage III
+Testis cancer
+Testis cancer recurrent
+l2</ Testicular neoplasms malignant >
+l1</ Reproductive neoplasms male malignant and unspecified >
+l1< Respiratory and mediastinal neoplasms benign (excl mesotheliomas) >
+l2< Mediastinal neoplasms benign >
+Benign mediastinal neoplasm
+Benign neoplasm of thymus
+Mediastinal cyst
+Thymic cyst
+l2</ Mediastinal neoplasms benign >
+l2< Nasal and paranasal sinus neoplasms benign >
+Chronic rhinosinusitis with nasal polyps
+Juvenile angiofibroma
+Nasal cyst
+Nasal neoplasm benign
+Nasal polyps
+Paranasal cyst
+Paranasal sinus benign neoplasm
+Sinonasal papilloma
+Sinus polyp
+Sinus polyp degeneration
+l2</ Nasal and paranasal sinus neoplasms benign >
+l2< Oropharyngeal, nasopharyngeal and tonsillar neoplasms benign >
+Nasopharyngeal neoplasm benign
+Nasopharyngeal polyp
+Oropharyngeal neoplasm benign
+Tonsillar cyst
+Tonsillar neoplasm benign
+l2</ Oropharyngeal, nasopharyngeal and tonsillar neoplasms benign >
+l2< Pharyngeal and laryngeal neoplasms benign >
+Benign laryngeal neoplasm
+Branchial cyst
+Epiglottic cyst
+Hypopharyngeal neoplasm benign
+Laryngeal cyst
+Laryngeal papilloma
+Laryngeal polyp
+Pharyngeal cyst
+Pharyngeal neoplasm benign
+Pharyngeal polyp
+Tornwaldt cyst
+Tracheal papilloma
+Vocal cord cyst
+Vocal cord polyp
+l2</ Pharyngeal and laryngeal neoplasms benign >
+l2< Respiratory tract and pleural neoplasms benign NEC >
+Acquired bronchial cyst
+Benign lung neoplasm
+Benign pleural neoplasm
+Benign respiratory tract neoplasm
+Benign tracheal neoplasm
+Bronchial neoplasm benign
+Bronchial polyp
+Endobronchial lipoma
+Lung cyst
+Pleural cyst
+Respiratory papilloma
+l2</ Respiratory tract and pleural neoplasms benign NEC >
+l1</ Respiratory and mediastinal neoplasms benign (excl mesotheliomas) >
+l1< Respiratory and mediastinal neoplasms malignant and unspecified >
+l2< Hypopharyngeal neoplasms malignant and unspecified >
+Hypopharyngeal cancer
+Hypopharyngeal cancer recurrent
+Hypopharyngeal cancer stage 0
+Hypopharyngeal cancer stage I
+Hypopharyngeal cancer stage II
+Hypopharyngeal cancer stage III
+Hypopharyngeal cancer stage IV
+Hypopharyngeal neoplasm
+Squamous cell carcinoma of the hypopharynx
+l2</ Hypopharyngeal neoplasms malignant and unspecified >
+l2< Laryngeal neoplasms malignancy unspecified >
+Laryngeal neoplasm
+Vocal cord neoplasm
+l2</ Laryngeal neoplasms malignancy unspecified >
+l2< Laryngeal neoplasms malignant >
+Epiglottic carcinoma
+Glottis carcinoma
+Laryngeal cancer
+Laryngeal cancer metastatic
+Laryngeal cancer recurrent
+Laryngeal cancer stage 0
+Laryngeal cancer stage I
+Laryngeal cancer stage II
+Laryngeal cancer stage III
+Laryngeal cancer stage IV
+Laryngeal squamous cell carcinoma
+Postcricoid cancer
+l2</ Laryngeal neoplasms malignant >
+l2< Mediastinal neoplasms malignancy unspecified NEC >
+Good syndrome
+Mediastinum neoplasm
+Neoplasm of thymus
+Thymoma
+l2</ Mediastinal neoplasms malignancy unspecified NEC >
+l2< Mediastinal neoplasms malignant >
+Malignant mediastinal neoplasm
+Malignant neoplasm of thorax
+Malignant neoplasm of thymus
+Thymic cancer metastatic
+Thymoma malignant
+Thymoma malignant recurrent
+l2</ Mediastinal neoplasms malignant >
+l2< Non-small cell neoplasms malignant of the respiratory tract cell type specified >
+Adenosquamous cell lung cancer
+Adenosquamous cell lung cancer recurrent
+Adenosquamous cell lung cancer stage 0
+Adenosquamous cell lung cancer stage I
+Adenosquamous cell lung cancer stage II
+Adenosquamous cell lung cancer stage III
+Adenosquamous cell lung cancer stage IV
+Large cell lung cancer
+Large cell lung cancer metastatic
+Large cell lung cancer recurrent
+Large cell lung cancer stage 0
+Large cell lung cancer stage I
+Large cell lung cancer stage II
+Large cell lung cancer stage III
+Large cell lung cancer stage IV
+Lung adenocarcinoma
+Lung adenocarcinoma recurrent
+Lung adenocarcinoma stage 0
+Lung adenocarcinoma stage I
+Lung adenocarcinoma stage II
+Lung adenocarcinoma stage III
+Lung adenocarcinoma stage IV
+Lung squamous cell carcinoma metastatic
+Lung squamous cell carcinoma recurrent
+Lung squamous cell carcinoma stage 0
+Lung squamous cell carcinoma stage I
+Lung squamous cell carcinoma stage II
+Lung squamous cell carcinoma stage III
+Lung squamous cell carcinoma stage IV
+Non-small cell lung cancer
+Non-small cell lung cancer metastatic
+Non-small cell lung cancer recurrent
+Non-small cell lung cancer stage 0
+Non-small cell lung cancer stage I
+Non-small cell lung cancer stage II
+Non-small cell lung cancer stage III
+Non-small cell lung cancer stage IIIA
+Non-small cell lung cancer stage IIIB
+Non-small cell lung cancer stage IV
+Squamous cell carcinoma of lung
+l2</ Non-small cell neoplasms malignant of the respiratory tract cell type specified >
+l2< Oropharyngeal, nasopharyngeal and tonsillar neoplasms malignant and unspecified >
+Keratinising squamous cell carcinoma of nasopharynx
+Nasopharyngeal cancer
+Nasopharyngeal cancer metastatic
+Nasopharyngeal cancer recurrent
+Nasopharyngeal cancer stage 0
+Nasopharyngeal cancer stage I
+Nasopharyngeal cancer stage II
+Nasopharyngeal cancer stage III
+Nasopharyngeal cancer stage IV
+Nonkeratinising carcinoma of nasopharynx
+Oropharyngeal cancer
+Oropharyngeal cancer recurrent
+Oropharyngeal cancer stage 0
+Oropharyngeal cancer stage I
+Oropharyngeal cancer stage II
+Oropharyngeal cancer stage III
+Oropharyngeal cancer stage IV
+Oropharyngeal lymphoepithelioma
+Oropharyngeal squamous cell carcinoma
+Tonsil cancer
+Tonsil cancer metastatic
+Tonsillar neoplasm
+Undifferentiated nasopharyngeal carcinoma
+l2</ Oropharyngeal, nasopharyngeal and tonsillar neoplasms malignant and unspecified >
+l2< Paranasal sinus and nasal cavity neoplasms malignant and unspecified >
+Nasal cavity cancer
+Nasal neoplasm
+Nasal sinus cancer
+Paranasal sinus and nasal cavity malignant neoplasm
+Paranasal sinus and nasal cavity malignant neoplasm recurrent
+Paranasal sinus and nasal cavity malignant neoplasm stage 0
+Paranasal sinus and nasal cavity malignant neoplasm stage I
+Paranasal sinus and nasal cavity malignant neoplasm stage II
+Paranasal sinus and nasal cavity malignant neoplasm stage III
+Paranasal sinus and nasal cavity malignant neoplasm stage IV
+Sinus cancer metastatic
+l2</ Paranasal sinus and nasal cavity neoplasms malignant and unspecified >
+l2< Pharyngeal neoplasms malignant and unspecified >
+Pharyngeal cancer
+Pharyngeal cancer metastatic
+Pharyngeal cancer recurrent
+Pharyngeal cancer stage 0
+Pharyngeal cancer stage I
+Pharyngeal cancer stage II
+Pharyngeal cancer stage III
+Pharyngeal cancer stage IV
+Pharyngeal neoplasm
+Squamous cell carcinoma of pharynx
+l2</ Pharyngeal neoplasms malignant and unspecified >
+l2< Respiratory tract and pleural neoplasms malignancy unspecified NEC >
+Bronchial neoplasm
+Diaphragm neoplasm
+Lung neoplasm
+Maxillofacial sinus neoplasm
+Paranasal sinus neoplasm
+Pleural neoplasm
+Respiratory tract neoplasm
+Tracheal neoplasm
+l2</ Respiratory tract and pleural neoplasms malignancy unspecified NEC >
+l2< Respiratory tract and pleural neoplasms malignant cell type unspecified NEC >
+Bronchial carcinoma
+Bronchioloalveolar carcinoma
+Carcinoma in situ of trachea
+Lung cancer metastatic
+Lung carcinoma cell type unspecified recurrent
+Lung carcinoma cell type unspecified stage 0
+Lung carcinoma cell type unspecified stage I
+Lung carcinoma cell type unspecified stage II
+Lung carcinoma cell type unspecified stage III
+Lung carcinoma cell type unspecified stage IV
+Lung infiltration malignant
+Lung neoplasm malignant
+Malignant neoplasm of pleura
+Malignant neoplasm of pleura metastatic
+Malignant respiratory tract neoplasm
+Metastatic bronchial carcinoma
+Neuroendocrine tumour of the lung
+Neuroendocrine tumour of the lung metastatic
+Pancoast's tumour
+Pleural sarcoma
+Respiratory tract carcinoma in situ
+Throat cancer
+Tracheal cancer
+l2</ Respiratory tract and pleural neoplasms malignant cell type unspecified NEC >
+l2< Respiratory tract small cell carcinomas >
+Small cell lung cancer
+Small cell lung cancer extensive stage
+Small cell lung cancer limited stage
+Small cell lung cancer metastatic
+Small cell lung cancer recurrent
+l2</ Respiratory tract small cell carcinomas >
+l1</ Respiratory and mediastinal neoplasms malignant and unspecified >
+l1< Skeletal neoplasms benign >
+l2< Bone neoplasms benign (excl cysts) >
+Benign bone neoplasm
+Bone giant cell tumour benign
+Fibrous cortical defect
+Haemangioma of bone
+Osteofibroma
+Osteoma
+l2</ Bone neoplasms benign (excl cysts) >
+l2< Cartilage neoplasms benign >
+Benign cartilage neoplasm
+Chondroblastoma
+Chondroma
+Chondromatosis
+Enchondromatosis
+Hereditary multiple osteochondromas
+Osteochondroma
+l2</ Cartilage neoplasms benign >
+l2< Skeletal cysts benign >
+Aneurysmal bone cyst
+Bone cyst
+Jaw cyst
+l2</ Skeletal cysts benign >
+l1</ Skeletal neoplasms benign >
+l1< Skeletal neoplasms malignant and unspecified >
+l2< Bone neoplasms malignant (excl sarcomas) >
+Bone cancer
+Bone cancer metastatic
+l2</ Bone neoplasms malignant (excl sarcomas) >
+l2< Bone neoplasms unspecified malignancy >
+Bone giant cell tumour
+Bone neoplasm
+Chordoma
+Intraosseous angioma
+l2</ Bone neoplasms unspecified malignancy >
+l2< Bone sarcomas >
+Bone giant cell tumour malignant
+Bone sarcoma
+Ewing's sarcoma
+Ewing's sarcoma metastatic
+Ewing's sarcoma recurrent
+Malignant fibrous histiocytoma of bone
+Osteosarcoma
+Osteosarcoma metastatic
+Osteosarcoma recurrent
+Peripheral neuroepithelioma of bone
+Peripheral neuroepithelioma of bone metastatic
+Peripheral neuroepithelioma of bone recurrent
+Peripheral primitive neuroectodermal bone tumour
+l2</ Bone sarcomas >
+l2< Cartilage sarcomas >
+Chondrosarcoma
+Chondrosarcoma metastatic
+Chondrosarcoma recurrent
+l2</ Cartilage sarcomas >
+l1</ Skeletal neoplasms malignant and unspecified >
+l1< Skin neoplasms malignant and unspecified >
+l2< Skin melanomas (excl ocular) >
+Acral lentiginous melanoma
+Acral lentiginous melanoma stage I
+Acral lentiginous melanoma stage II
+Acral lentiginous melanoma stage III
+Acral lentiginous melanoma stage IV
+Desmoplastic melanoma
+Lentigo maligna
+Lentigo maligna recurrent
+Lentigo maligna stage I
+Lentigo maligna stage II
+Lentigo maligna stage III
+Lentigo maligna stage IV
+Malignant blue naevus
+Malignant melanoma
+Malignant melanoma in situ
+Malignant melanoma stage I
+Malignant melanoma stage II
+Malignant melanoma stage III
+Malignant melanoma stage IV
+Melanoma recurrent
+Metastatic malignant melanoma
+Naevoid melanoma
+Nodular melanoma
+Superficial spreading melanoma stage I
+Superficial spreading melanoma stage II
+Superficial spreading melanoma stage III
+Superficial spreading melanoma stage IV
+Superficial spreading melanoma stage unspecified
+l2</ Skin melanomas (excl ocular) >
+l2< Skin neoplasms malignant and unspecified (excl melanoma) >
+Atypical fibroxanthoma
+Basal cell carcinoma
+Basal cell naevus syndrome
+Basosquamous carcinoma of skin
+Bowen's disease
+Carcinoma in situ of skin
+Dysplastic naevus syndrome
+Eccrine carcinoma
+Epidermal naevus syndrome
+Extramammary Paget's disease
+Hidradenocarcinoma
+Keratoacanthoma
+Malignant sweat gland neoplasm
+Marjolin's ulcer
+Mastocytoma
+Neoplasm skin
+Neuroendocrine carcinoma of the skin
+Pilomatrix carcinoma
+Porocarcinoma
+Sebaceous carcinoma
+Skin angiosarcoma
+Skin cancer
+Skin cancer metastatic
+Skin neoplasm bleeding
+Skin squamous cell carcinoma metastatic
+Squamous cell carcinoma of skin
+l2</ Skin neoplasms malignant and unspecified (excl melanoma) >
+l1</ Skin neoplasms malignant and unspecified >
+l1< Soft tissue neoplasms benign >
+l2< Soft tissue neoplasms benign NEC >
+Adenolipoma
+Amyloidoma
+Angiolipoma
+Angiomyofibroblastoma
+Angiomyolipoma
+Angiomyxoma
+Benign muscle neoplasm
+Benign soft tissue neoplasm
+Chest wall cyst
+Cystic lymphangioma
+Desmoid tumour
+Elastofibroma
+Fibromatosis
+Foetal cystic hygroma
+Giant cell tumour of tendon sheath
+Glomus tumour
+Hygroma colli
+Inflammatory pseudotumour
+Intravascular lipoma
+Knuckle pads
+Leiomyoma
+Lipoblastoma
+Lipofibroma
+Lipoma
+Lymphangioma
+Meniscus cyst
+Myelolipoma
+Myolipoma
+Nodular fasciitis
+Pericardial cyst
+Phosphaturic mesenchymal tumour
+Rhabdomyoma
+Synovial cyst
+Xanthogranuloma
+l2</ Soft tissue neoplasms benign NEC >
+l1</ Soft tissue neoplasms benign >
+l1< Soft tissue neoplasms malignant and unspecified >
+l2< Alveolar soft part sarcomas >
+Alveolar soft part sarcoma
+Alveolar soft part sarcoma metastatic
+Alveolar soft part sarcoma recurrent
+l2</ Alveolar soft part sarcomas >
+l2< Epithelioid sarcomas >
+Epithelioid sarcoma
+Epithelioid sarcoma metastatic
+Epithelioid sarcoma recurrent
+l2</ Epithelioid sarcomas >
+l2< Extraskeletal chondrosarcomas >
+Extraskeletal chondrosarcoma metastatic
+Extraskeletal chondrosarcoma recurrent
+Extraskeletal myxoid chondrosarcoma
+l2</ Extraskeletal chondrosarcomas >
+l2< Extraskeletal Ewing's sarcomas >
+Extra-osseous Ewing's sarcoma
+Extra-osseous Ewing's sarcoma metastatic
+Extra-osseous Ewing's sarcoma recurrent
+l2</ Extraskeletal Ewing's sarcomas >
+l2< Extraskeletal osteosarcomas >
+Extraskeletal osteosarcoma
+Extraskeletal osteosarcoma metastatic
+Extraskeletal osteosarcoma recurrent
+l2</ Extraskeletal osteosarcomas >
+l2< Fibrosarcomas malignant >
+Congenital fibrosarcoma
+Dermatofibrosarcoma protuberans
+Dermatofibrosarcoma protuberans metastatic
+Fibrosarcoma
+Fibrosarcoma metastatic
+l2</ Fibrosarcomas malignant >
+l2< Fibrous histiocytomas malignant >
+Inflammatory malignant fibrous histiocytoma
+Malignant fibrous histiocytoma
+Malignant fibrous histiocytoma metastatic
+Malignant fibrous histiocytoma recurrent
+Malignant giant cell fibrous histiocytoma
+Myxofibrosarcoma
+Pleomorphic malignant fibrous histiocytoma
+l2</ Fibrous histiocytomas malignant >
+l2< Kaposi's sarcomas >
+Immune reconstitution inflammatory syndrome associated Kaposi's sarcoma
+Kaposi's sarcoma
+Kaposi's sarcoma AIDS related
+Kaposi's sarcoma classical type
+l2</ Kaposi's sarcomas >
+l2< Leiomyosarcomas >
+Leiomyosarcoma
+Leiomyosarcoma metastatic
+Leiomyosarcoma recurrent
+Small intestine leiomyosarcoma
+Testicular leiomyosarcoma
+Uterine leiomyosarcoma
+l2</ Leiomyosarcomas >
+l2< Liposarcomas malignant >
+Dedifferentiated liposarcoma
+Liposarcoma
+Liposarcoma metastatic
+Liposarcoma recurrent
+Mixed-type liposarcoma
+Myxoid liposarcoma
+Pleomorphic liposarcoma
+Round cell liposarcoma
+l2</ Liposarcomas malignant >
+l2< Lymphangiosarcomas >
+Lymphangiosarcoma
+l2</ Lymphangiosarcomas >
+l2< Mesenchymomas malignant >
+Malignant mesenchymoma
+Malignant mesenchymoma metastatic
+Malignant mesenchymoma recurrent
+l2</ Mesenchymomas malignant >
+l2< Neurofibrosarcomas >
+Neurofibrosarcoma
+Neurofibrosarcoma metastatic
+Neurofibrosarcoma recurrent
+l2</ Neurofibrosarcomas >
+l2< Rhabdomyosarcomas >
+Alveolar rhabdomyosarcoma
+Embryonal rhabdomyosarcoma
+Rhabdomyosarcoma
+Rhabdomyosarcoma recurrent
+l2</ Rhabdomyosarcomas >
+l2< Soft tissue neoplasms malignant and unspecified NEC (excl sarcomas) >
+Chest wall tumour
+Connective tissue neoplasm
+Inflammatory myofibroblastic tumour
+Malignant connective tissue neoplasm
+Muscle neoplasm
+Peripheral neuroepithelioma of soft tissue
+Peripheral primitive neuroectodermal tumour of soft tissue
+Soft tissue neoplasm
+Tendon neoplasm
+l2</ Soft tissue neoplasms malignant and unspecified NEC (excl sarcomas) >
+l2< Soft tissue sarcomas histology unspecified >
+Clear cell sarcoma of soft tissue
+Malignant muscle neoplasm
+Sarcoma
+Sarcoma metastatic
+Sarcoma of skin
+Sarcoma uterus
+Sarcomatosis
+Soft tissue sarcoma
+Spindle cell sarcoma
+Synovial sarcoma
+Synovial sarcoma metastatic
+Synovial sarcoma recurrent
+Undifferentiated sarcoma
+Urinary bladder sarcoma
+l2</ Soft tissue sarcomas histology unspecified >
+l1</ Soft tissue neoplasms malignant and unspecified >
+l0</ Neoplasms benign, malignant and unspecified (incl cysts and polyps)>

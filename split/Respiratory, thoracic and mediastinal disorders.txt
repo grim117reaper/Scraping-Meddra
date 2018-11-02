@@ -1,0 +1,1257 @@
+l0< Respiratory, thoracic and mediastinal disorders>
+l1< Bronchial disorders (excl neoplasms) >
+l2< Bronchial conditions NEC >
+Acquired bronchial cyst
+Allergic bronchitis
+Biliary-bronchial fistula
+Bronchial anastomosis complication
+Bronchial disorder
+Bronchial dysplasia
+Bronchial fistula
+Bronchial haemorrhage
+Bronchial injury
+Bronchial polyp
+Bronchial secretion retention
+Bronchial ulceration
+Bronchial varices
+Bronchial varices haemorrhage
+Bronchial wall thickening
+Bronchiectasis
+Bronchiolitis
+Bronchitis chemical
+Broncholithiasis
+Bronchomalacia
+Congenital bronchiectasis
+Congenital bronchomalacia
+Eosinophilic bronchitis
+Fibrinous bronchitis
+Infective exacerbation of bronchiectasis
+Noninfective bronchitis
+Oesophagobronchial fistula
+Primary ciliary dyskinesia
+Yellow nail syndrome
+l2</ Bronchial conditions NEC >
+l2< Bronchospasm and obstruction >
+Acute post asthmatic amyotrophy
+Airway remodelling
+Aspirin-exacerbated respiratory disease
+Asthma
+Asthma exercise induced
+Asthma late onset
+Asthma-chronic obstructive pulmonary disease overlap syndrome
+Asthmatic crisis
+Bronchial hyperreactivity
+Bronchial obstruction
+Bronchial oedema
+Bronchitis chronic
+Bronchospasm
+Bronchospasm paradoxical
+Bronchostenosis
+Chronic obstructive pulmonary disease
+Cystic fibrosis
+Cystic fibrosis lung
+Infantile asthma
+Infective exacerbation of chronic obstructive airways disease
+Infective pulmonary exacerbation of cystic fibrosis
+Obliterative bronchiolitis
+Obstructive airways disorder
+Occupational asthma
+Reactive airways dysfunction syndrome
+Reversible airways obstruction
+Severe asthma with fungal sensitisation
+Status asthmaticus
+Unilateral bronchospasm
+Wheezing
+l2</ Bronchospasm and obstruction >
+l1</ Bronchial disorders (excl neoplasms) >
+l1< Congenital respiratory tract disorders >
+l2< Congenital lower respiratory tract disorders >
+Azygos lobe
+Bronchogenic cyst
+Congenital cystic lung
+Fryns syndrome
+Pulmonary aplasia
+Pulmonary hypoplasia
+Pulmonary malformation
+Pulmonary sequestration
+l2</ Congenital lower respiratory tract disorders >
+l2< Congenital upper respiratory tract disorders >
+CHARGE syndrome
+Choanal atresia
+Choanal stenosis
+Congenital epiglottal anomaly
+Congenital laryngeal stridor
+Congenital nose malformation
+Congenital pharyngeal anomaly
+Diverticulum of pharynx, congenital
+Laryngeal cleft
+Laryngeal web
+Laryngocele
+Nasopharyngeal atresia
+Oculopharyngeal dystrophy
+l2</ Congenital upper respiratory tract disorders >
+l1</ Congenital respiratory tract disorders >
+l1< Lower respiratory tract disorders (excl obstruction and infection) >
+l2< Lower respiratory tract inflammatory and immunologic conditions >
+Alveolitis
+Alveolitis allergic
+Alveolitis necrotising
+Diffuse alveolar damage
+Diffuse panbronchiolitis
+Eosinophilia myalgia syndrome
+Eosinophilic granulomatosis with polyangiitis
+Eosinophilic pneumonia
+Eosinophilic pneumonia acute
+Eosinophilic pneumonia chronic
+Goodpasture's syndrome
+Graft versus host disease in lung
+Granulomatosis with polyangiitis
+Granulomatous pneumonitis
+Heart-lung transplant rejection
+Langerhans' cell histiocytosis
+Loeffler's syndrome
+Lower respiratory tract inflammation
+Lung transplant rejection
+Lupus pneumonitis
+Mendelson's syndrome
+Necrotising bronchiolitis
+Organic dust toxic syndrome
+Pneumonia aspiration
+Pneumonia lipoid
+Pneumonitis
+Pulmonary eosinophilia
+Pulmonary granuloma
+Pulmonary renal syndrome
+Pulmonary sarcoidosis
+Pulmonary sensitisation
+Pulmonary vasculitis
+Rheumatoid lung
+Systemic sclerosis pulmonary
+Toxic oil syndrome
+Tropical eosinophilia
+l2</ Lower respiratory tract inflammatory and immunologic conditions >
+l2< Lower respiratory tract radiation disorders >
+Pulmonary radiation injury
+Radiation alveolitis
+Radiation fibrosis - lung
+Radiation pneumonitis
+l2</ Lower respiratory tract radiation disorders >
+l2< Occupational parenchymal lung disorders >
+Asbestosis
+Berylliosis
+Byssinosis
+Caplan's syndrome
+Dust inhalation pneumopathy
+Pneumoconiosis
+Pneumonitis chemical
+Silicosis
+Silicotuberculosis
+l2</ Occupational parenchymal lung disorders >
+l2< Parenchymal lung disorders NEC >
+Acute interstitial pneumonitis
+Alveolar lung disease
+Alveolar proteinosis
+Antisynthetase syndrome
+Atelectasis
+Bronchopulmonary disease
+Combined pulmonary fibrosis and emphysema
+Complications of transplanted lung
+Congenital emphysema
+Cystic lung disease
+Emphysema
+Engraftment syndrome
+Idiopathic interstitial pneumonia
+Idiopathic pneumonia syndrome
+Idiopathic pulmonary fibrosis
+Interstitial lung disease
+Lung consolidation
+Lung cyst
+Lung induration
+Lung infiltration
+Lung perforation
+Lymphangioleiomyomatosis
+MacLeod's syndrome
+Middle lobe syndrome
+Multifocal micronodular pneumocyte hyperplasia
+Neuroendocrine cell hyperplasia of infancy
+Organising pneumonia
+Progressive massive fibrosis
+Pulmonary air leakage
+Pulmonary alveolar haemorrhage
+Pulmonary alveolar microlithiasis
+Pulmonary amyloidosis
+Pulmonary calcification
+Pulmonary cavitation
+Pulmonary contusion
+Pulmonary fibrosis
+Pulmonary fistula
+Pulmonary haemosiderosis
+Pulmonary interstitial emphysema syndrome
+Pulmonary necrosis
+Pulmonary nodular lymphoid hyperplasia
+Pulmonary ossification
+Pulmonary pneumatocele
+Pulmonary toxicity
+Restrictive allograft syndrome
+Restrictive pulmonary disease
+Traumatic lung injury
+l2</ Parenchymal lung disorders NEC >
+l2< Pulmonary oedemas >
+Acute lung injury
+Acute pulmonary oedema
+Acute respiratory distress syndrome
+Leukostasis syndrome
+Non-cardiogenic pulmonary oedema
+Polymer fume fever
+Pulmonary congestion
+Pulmonary oedema
+Pulmonary oedema neonatal
+Pulmonary oedema post fume inhalation
+Reexpansion pulmonary oedema
+Transfusion-related acute lung injury
+l2</ Pulmonary oedemas >
+l1</ Lower respiratory tract disorders (excl obstruction and infection) >
+l1< Neonatal respiratory disorders >
+l2< Neonatal hypoxic conditions >
+Apparent life threatening event
+Cardio-respiratory arrest neonatal
+Cyanosis neonatal
+Dry lung syndrome
+Gasping syndrome
+Hypoventilation neonatal
+Infantile apnoea
+Neonatal anoxia
+Neonatal asphyxia
+Neonatal behavioural syndrome
+Neonatal hypoxia
+Neonatal respiratory arrest
+Neonatal respiratory depression
+Neonatal respiratory distress syndrome
+Neonatal respiratory failure
+Pulmonary lymphangiectasia
+l2</ Neonatal hypoxic conditions >
+l2< Newborn respiratory disorders NEC >
+Atelectasis neonatal
+Bronchopulmonary dysplasia
+Congenital pneumonia
+Congenital pulmonary hypertension
+Immature larynx
+Immature respiratory system
+Meconium aspiration syndrome
+Neonatal alveolar aeration excessive
+Neonatal aspiration
+Neonatal respiratory acidosis
+Neonatal respiratory alkalosis
+Neonatal tachypnoea
+Pulmonary dysmaturity syndrome
+Respiratory disorder neonatal
+Respiratory tract haemorrhage neonatal
+Transient tachypnoea of the newborn
+l2</ Newborn respiratory disorders NEC >
+l1</ Neonatal respiratory disorders >
+l1< Pleural disorders >
+l2< Pleural conditions NEC >
+Bronchopleural fistula
+Gastropleural fistula
+Oesophagopleural fistula
+Pleural adhesion
+Pleural calcification
+Pleural cyst
+Pleural disorder
+Pleural fibrosis
+Pleural fistula
+Pleural thickening
+Pleurocutaneous fistula
+l2</ Pleural conditions NEC >
+l2< Pleural infections and inflammations >
+Dressler's syndrome
+Epidemic pleurodynia
+Infectious pleural effusion
+Lupus pleurisy
+Pleural infection
+Pleural infection bacterial
+Pleurisy
+Pleurisy viral
+Pleuropericarditis
+Pyopneumothorax
+Tuberculous pleurisy
+l2</ Pleural infections and inflammations >
+l2< Pleural neoplasms >
+Benign pleural mesothelioma
+Benign pleural neoplasm
+Malignant neoplasm of pleura
+Malignant neoplasm of pleura metastatic
+Malignant pleural effusion
+Meigs' syndrome
+Metastases to pleura
+Pleural mesothelioma
+Pleural mesothelioma malignant
+Pleural mesothelioma malignant recurrent
+Pleural neoplasm
+Pleural sarcoma
+l2</ Pleural neoplasms >
+l2< Pneumothorax and pleural effusions NEC >
+Capnothorax
+Chylothorax
+Congenital chylothorax
+Eosinophilic pleural effusion
+Haemothorax
+Hepatic hydrothorax
+Hydrothorax
+Paraneoplastic pleural effusion
+Pleural effusion
+Pleuroperitoneal communication
+Pneumothorax
+Pneumothorax spontaneous
+Pneumothorax traumatic
+Procedural pneumothorax
+Traumatic haemothorax
+l2</ Pneumothorax and pleural effusions NEC >
+l1</ Pleural disorders >
+l1< Pulmonary vascular disorders >
+l2< Pulmonary hypertensions >
+Alveolar capillary dysplasia
+Cor pulmonale
+Cor pulmonale acute
+Cor pulmonale chronic
+Portopulmonary hypertension
+Pulmonary arterial hypertension
+Pulmonary artery wall hypertrophy
+Pulmonary hypertension
+Pulmonary hypertensive crisis
+Right ventricular hypertension
+Right-to-left cardiac shunt
+l2</ Pulmonary hypertensions >
+l2< Pulmonary thrombotic and embolic conditions >
+Anaphylactoid syndrome of pregnancy
+Cement embolism
+Metastatic pulmonary embolism
+Obstetrical pulmonary embolism
+Post procedural pulmonary embolism
+Pulmonary artery thrombosis
+Pulmonary embolism
+Pulmonary infarction
+Pulmonary microemboli
+Pulmonary oil microembolism
+Pulmonary thrombosis
+Pulmonary tumour thrombotic microangiopathy
+Pulmonary venous thrombosis
+l2</ Pulmonary thrombotic and embolic conditions >
+l2< Vascular pulmonary disorders NEC >
+Acute chest syndrome
+Bronchial artery aneurysm
+Hepatopulmonary syndrome
+Pulmonary arteriopathy
+Pulmonary arteriovenous fistula
+Pulmonary artery aneurysm
+Pulmonary artery dilatation
+Pulmonary artery occlusion
+Pulmonary artery stenosis
+Pulmonary artery stenosis congenital
+Pulmonary capillary haemangiomatosis
+Pulmonary hypoperfusion
+Pulmonary vascular disorder
+Pulmonary vascular resistance abnormality
+Pulmonary vein occlusion
+Pulmonary vein stenosis
+Pulmonary veno-occlusive disease
+l2</ Vascular pulmonary disorders NEC >
+l1</ Pulmonary vascular disorders >
+l1< Respiratory disorders NEC >
+l2< Breathing abnormalities >
+Acute promyelocytic leukaemia differentiation syndrome
+Apnoea
+Apnoeic attack
+Bendopnoea
+Bradypnoea
+Breath holding
+Breathing-related sleep disorder
+Cardiac asthma
+Central-alveolar hypoventilation
+Cheyne-Stokes respiration
+Congenital central hypoventilation syndrome
+Dyspnoea
+Dyspnoea at rest
+Dyspnoea exertional
+Dyspnoea paroxysmal nocturnal
+Grunting
+Hyperventilation
+Hypopnoea
+Hypoventilation
+IDH differentiation syndrome
+Irregular breathing
+Kussmaul respiration
+Mouth breathing
+Nocturnal dyspnoea
+Orthopnoea
+Perry syndrome
+Pickwickian syndrome
+Platypnoea
+Prolonged expiration
+Psychogenic respiratory distress
+Respiration abnormal
+Respiratory arrest
+Respiratory depression
+Respiratory depth decreased
+Respiratory depth increased
+Respiratory distress
+Respiratory dyskinesia
+Respiratory fatigue
+Sleep apnoea syndrome
+Tachypnoea
+Transfusion-associated dyspnoea
+Trepopnoea
+Upper airway resistance syndrome
+l2</ Breathing abnormalities >
+l2< Conditions associated with abnormal gas exchange >
+Alveolar aeration excessive
+Anaemic hypoxia
+Anoxia
+Asphyxia
+Brain hypoxia
+Cyanosis
+Cyanosis central
+Hypercapnia
+Hypercapnic coma
+Hyperoxia
+Hypocapnia
+Hypoxia
+Hypoxia intolerance
+Hypoxic-ischaemic encephalopathy
+Respiratory acidosis
+Respiratory alkalosis
+Respiratory gas exchange disorder
+l2</ Conditions associated with abnormal gas exchange >
+l2< Coughing and associated symptoms >
+Allergic cough
+Cough
+Cough decreased
+Haemoptysis
+Post-tussive vomiting
+Productive cough
+Sputum decreased
+Sputum discoloured
+Sputum increased
+Sputum purulent
+Sputum retention
+l2</ Coughing and associated symptoms >
+l2< Respiratory failures (excl neonatal) >
+Acute respiratory failure
+Cardio-respiratory arrest
+Cardio-respiratory distress
+Cardiopulmonary failure
+Chronic respiratory failure
+Postoperative respiratory distress
+Postoperative respiratory failure
+Respiratory failure
+Respiratory paralysis
+l2</ Respiratory failures (excl neonatal) >
+l2< Respiratory tract disorders NEC >
+Airway burns
+Airway complication of anaesthesia
+Allergic respiratory disease
+Anaesthetic complication pulmonary
+Aspiration
+Bronchial metaplasia
+Bronchopneumopathy
+Chemical burn of respiratory tract
+Chronic respiratory disease
+Dependence on respirator
+Foreign body aspiration
+Foreign body in respiratory tract
+Lung disorder
+Lung hernia
+Mechanical ventilation complication
+Post pneumonectomy syndrome
+Pulmonary mass
+Respiratory complication associated with device
+Respiratory disorder
+Respiratory fume inhalation disorder
+Respiratory tract congestion
+Respiratory tract haemorrhage
+Respiratory tract inflammation
+Respiratory tract irritation
+Respiratory tract malformation
+Respiratory tract oedema
+Respiratory tract ulceration
+TEMPI syndrome
+Thoracic haemorrhage
+Upper airway necrosis
+Ventilation perfusion mismatch
+l2</ Respiratory tract disorders NEC >
+l1</ Respiratory disorders NEC >
+l1< Respiratory tract infections >
+l2< Bacterial lower respiratory tract infections >
+Atypical mycobacterial lower respiratory tract infection
+Atypical mycobacterial pneumonia
+Bronchitis bacterial
+Bronchitis haemophilus
+Bronchitis moraxella
+Bronchitis pneumococcal
+Lower respiratory tract infection bacterial
+Lung infection pseudomonal
+Pneumonia acinetobacter
+Pneumonia anthrax
+Pneumonia bacterial
+Pneumonia bordetella
+Pneumonia chlamydial
+Pneumonia escherichia
+Pneumonia haemophilus
+Pneumonia klebsiella
+Pneumonia legionella
+Pneumonia moraxella
+Pneumonia pneumococcal
+Pneumonia proteus
+Pneumonia pseudomonal
+Pneumonia salmonella
+Pneumonia serratia
+Pneumonia staphylococcal
+Pneumonia streptococcal
+Pneumonia tularaemia
+Pseudomonas bronchitis
+Psittacosis
+Pulmonary syphilis
+Pulmonary tuberculoma
+Pulmonary tuberculosis
+l2</ Bacterial lower respiratory tract infections >
+l2< Bacterial upper respiratory tract infections >
+Bacterial rhinitis
+Bacterial tracheitis
+Diphtheria
+Enterobacter tracheobronchitis
+Epiglottitis haemophilus
+Laryngitis bacterial
+Lemierre syndrome
+Oropharyngeal gonococcal infection
+Pertussis
+Pharyngitis bacterial
+Pharyngitis streptococcal
+Rhinoscleroma
+Sinusitis bacterial
+Staphylococcal pharyngitis
+Tonsillitis bacterial
+Tonsillitis streptococcal
+Tuberculous laryngitis
+Upper respiratory tract infection bacterial
+l2</ Bacterial upper respiratory tract infections >
+l2< Fungal lower respiratory tract infections >
+Actinomycotic pulmonary infection
+Acute pulmonary histoplasmosis
+Aspergilloma
+Bronchitis fungal
+Bronchopulmonary aspergillosis
+Candida pneumonia
+Chronic pulmonary histoplasmosis
+Coccidioidomycosis
+Lower respiratory tract infection fungal
+Pneumocystis jirovecii pneumonia
+Pneumonia blastomyces
+Pneumonia cryptococcal
+Pneumonia fungal
+Pulmonary mycosis
+Pulmonary trichosporonosis
+l2</ Fungal lower respiratory tract infections >
+l2< Fungal upper respiratory tract infections >
+Candidiasis of trachea
+Fungal pharyngitis
+Fungal rhinitis
+Fungal tracheitis
+Laryngitis fungal
+Oropharyngitis fungal
+Sinusitis fungal
+Tonsillitis fungal
+Upper respiratory fungal infection
+l2</ Fungal upper respiratory tract infections >
+l2< Lower respiratory tract infections NEC >
+Atypical pneumonia
+Bronchitis
+Bronchitis mycoplasmal
+Bronchopulmonary aspergillosis allergic
+Embolic pneumonia
+Enterobacter pneumonia
+Haemorrhagic pneumonia
+Lower respiratory tract infection
+Lung abscess
+Lung infection
+Miliary pneumonia
+Neonatal pneumonia
+Pneumonia
+Pneumonia mycoplasmal
+Pneumonia necrotising
+Post procedural pneumonia
+Pulmonary sepsis
+Young's syndrome
+l2</ Lower respiratory tract infections NEC >
+l2< Parasitic lower respiratory tract infections >
+Amoebic lung abscess
+Dirofilariasis
+Paragonimiasis
+Parasitic lung infection
+Parasitic pneumonia
+Pneumonia helminthic
+Pneumonia toxoplasmal
+Pulmonary echinococciasis
+l2</ Parasitic lower respiratory tract infections >
+l2< Respiratory tract infections NEC >
+Mucormycosis
+Parainfluenzae virus infection
+Respiratory moniliasis
+Respiratory tract infection
+Respiratory tract infection bacterial
+Respiratory tract infection fungal
+Respiratory tract infection viral
+l2</ Respiratory tract infections NEC >
+l2< Upper respiratory tract infections NEC >
+Acute sinusitis
+Adenoiditis
+Cellulitis laryngeal
+Cellulitis pharyngeal
+Chronic sinusitis
+Chronic tonsillitis
+Croup infectious
+Epiglottitis
+Epiglottitis obstructive
+Laryngitis
+Laryngotracheitis obstructive
+Nasal abscess
+Nasal candidiasis
+Nasal vestibulitis
+Nasopharyngitis
+Oro-pharyngeal aspergillosis
+Oropharyngeal candidiasis
+Peritonsillar abscess
+Peritonsillitis
+Pharyngeal abscess
+Pharyngeal chlamydia infection
+Pharyngitis
+Pharyngitis mycoplasmal
+Pharyngoconjunctival fever of children
+Pharyngolaryngeal abscess
+Pharyngotonsillitis
+Pseudocroup
+Rhinitis
+Rhinolaryngitis
+Rhinotracheitis
+Sinobronchitis
+Sinusitis
+Sinusitis aspergillus
+Subglottic laryngitis
+Thornwaldt disease
+Tonsillitis
+Tracheitis
+Tracheitis obstructive
+Tracheobronchitis
+Tracheobronchitis mycoplasmal
+Upper aerodigestive tract infection
+Upper respiratory tract infection
+Upper respiratory tract infection helminthic
+l2</ Upper respiratory tract infections NEC >
+l2< Viral lower respiratory tract infections >
+Bronchitis viral
+Hantavirus pulmonary infection
+Herpes simplex pneumonia
+Lower respiratory tract herpes infection
+Lower respiratory tract infection viral
+Metapneumovirus infection
+Middle East respiratory syndrome
+Pneumonia adenoviral
+Pneumonia cytomegaloviral
+Pneumonia herpes viral
+Pneumonia influenzal
+Pneumonia measles
+Pneumonia parainfluenzae viral
+Pneumonia respiratory syncytial viral
+Pneumonia viral
+Respiratory syncytial virus bronchiolitis
+Respiratory syncytial virus bronchitis
+Severe acute respiratory syndrome
+Varicella zoster pneumonia
+l2</ Viral lower respiratory tract infections >
+l2< Viral upper respiratory tract infections >
+Adenoviral upper respiratory infection
+Avian influenza
+H1N1 influenza
+H2N2 influenza
+Herpes pharyngitis
+Herpes simplex pharyngitis
+Herpes zoster pharyngitis
+Influenza
+Laryngitis viral
+Nasal herpes
+Parainfluenzae viral laryngotracheobronchitis
+Respiratory syncytial virus infection
+Tracheobronchitis viral
+Viral epiglottitis
+Viral pharyngitis
+Viral rhinitis
+Viral sinusitis
+Viral tonsillitis
+Viral tracheitis
+Viral upper respiratory tract infection
+l2</ Viral upper respiratory tract infections >
+l1</ Respiratory tract infections >
+l1< Respiratory tract neoplasms >
+l2< Lower respiratory tract neoplasms >
+Adenosquamous cell lung cancer
+Adenosquamous cell lung cancer recurrent
+Adenosquamous cell lung cancer stage 0
+Adenosquamous cell lung cancer stage I
+Adenosquamous cell lung cancer stage II
+Adenosquamous cell lung cancer stage III
+Adenosquamous cell lung cancer stage IV
+Benign lung neoplasm
+Benign respiratory tract neoplasm
+Bronchial carcinoma
+Bronchial neoplasm
+Bronchial neoplasm benign
+Bronchioloalveolar carcinoma
+Carcinoid tumour pulmonary
+Endobronchial lipoma
+Large cell lung cancer
+Large cell lung cancer metastatic
+Large cell lung cancer recurrent
+Large cell lung cancer stage 0
+Large cell lung cancer stage I
+Large cell lung cancer stage II
+Large cell lung cancer stage III
+Large cell lung cancer stage IV
+Leukaemic infiltration pulmonary
+Lung adenocarcinoma
+Lung adenocarcinoma recurrent
+Lung adenocarcinoma stage 0
+Lung adenocarcinoma stage I
+Lung adenocarcinoma stage II
+Lung adenocarcinoma stage III
+Lung adenocarcinoma stage IV
+Lung cancer metastatic
+Lung carcinoma cell type unspecified recurrent
+Lung carcinoma cell type unspecified stage 0
+Lung carcinoma cell type unspecified stage I
+Lung carcinoma cell type unspecified stage II
+Lung carcinoma cell type unspecified stage III
+Lung carcinoma cell type unspecified stage IV
+Lung infiltration malignant
+Lung neoplasm
+Lung neoplasm malignant
+Lung squamous cell carcinoma metastatic
+Lung squamous cell carcinoma recurrent
+Lung squamous cell carcinoma stage 0
+Lung squamous cell carcinoma stage I
+Lung squamous cell carcinoma stage II
+Lung squamous cell carcinoma stage III
+Lung squamous cell carcinoma stage IV
+Metastases to lung
+Metastatic bronchial carcinoma
+Neuroendocrine tumour of the lung
+Neuroendocrine tumour of the lung metastatic
+Non-small cell lung cancer
+Non-small cell lung cancer metastatic
+Non-small cell lung cancer recurrent
+Non-small cell lung cancer stage 0
+Non-small cell lung cancer stage I
+Non-small cell lung cancer stage II
+Non-small cell lung cancer stage III
+Non-small cell lung cancer stage IIIA
+Non-small cell lung cancer stage IIIB
+Non-small cell lung cancer stage IV
+Small cell lung cancer
+Small cell lung cancer extensive stage
+Small cell lung cancer limited stage
+Small cell lung cancer metastatic
+Small cell lung cancer recurrent
+Squamous cell carcinoma of lung
+l2</ Lower respiratory tract neoplasms >
+l2< Respiratory tract neoplasms NEC >
+Diaphragm neoplasm
+Malignant neoplasm of thorax
+Metastases to the respiratory system
+Metastases to thorax
+Pancoast's syndrome
+Pancoast's tumour
+Respiratory papilloma
+l2</ Respiratory tract neoplasms NEC >
+l2< Upper respiratory tract neoplasms >
+Benign laryngeal neoplasm
+Benign tracheal neoplasm
+Carcinoma in situ of trachea
+Epiglottic carcinoma
+Glottis carcinoma
+Hypopharyngeal cancer
+Hypopharyngeal cancer recurrent
+Hypopharyngeal cancer stage 0
+Hypopharyngeal cancer stage I
+Hypopharyngeal cancer stage II
+Hypopharyngeal cancer stage III
+Hypopharyngeal cancer stage IV
+Hypopharyngeal neoplasm
+Hypopharyngeal neoplasm benign
+Juvenile angiofibroma
+Keratinising squamous cell carcinoma of nasopharynx
+Laryngeal cancer
+Laryngeal cancer metastatic
+Laryngeal cancer recurrent
+Laryngeal cancer stage 0
+Laryngeal cancer stage I
+Laryngeal cancer stage II
+Laryngeal cancer stage III
+Laryngeal cancer stage IV
+Laryngeal neoplasm
+Laryngeal papilloma
+Laryngeal squamous cell carcinoma
+Maxillofacial sinus neoplasm
+Metastases to larynx
+Metastases to nasal sinuses
+Metastases to pharynx
+Metastases to tonsils
+Metastases to trachea
+Nasal cavity cancer
+Nasal neoplasm
+Nasal neoplasm benign
+Nasal sinus cancer
+Nasopharyngeal cancer
+Nasopharyngeal cancer metastatic
+Nasopharyngeal cancer recurrent
+Nasopharyngeal cancer stage 0
+Nasopharyngeal cancer stage I
+Nasopharyngeal cancer stage II
+Nasopharyngeal cancer stage III
+Nasopharyngeal cancer stage IV
+Nasopharyngeal neoplasm benign
+Nasopharyngeal polyp
+Nonkeratinising carcinoma of nasopharynx
+Oropharyngeal cancer
+Oropharyngeal cancer recurrent
+Oropharyngeal cancer stage 0
+Oropharyngeal cancer stage I
+Oropharyngeal cancer stage II
+Oropharyngeal cancer stage III
+Oropharyngeal cancer stage IV
+Oropharyngeal lymphoepithelioma
+Oropharyngeal neoplasm
+Oropharyngeal neoplasm benign
+Oropharyngeal squamous cell carcinoma
+Paranasal sinus and nasal cavity malignant neoplasm
+Paranasal sinus and nasal cavity malignant neoplasm recurrent
+Paranasal sinus and nasal cavity malignant neoplasm stage 0
+Paranasal sinus and nasal cavity malignant neoplasm stage I
+Paranasal sinus and nasal cavity malignant neoplasm stage II
+Paranasal sinus and nasal cavity malignant neoplasm stage III
+Paranasal sinus and nasal cavity malignant neoplasm stage IV
+Paranasal sinus benign neoplasm
+Paranasal sinus neoplasm
+Pharyngeal cancer
+Pharyngeal cancer metastatic
+Pharyngeal cancer recurrent
+Pharyngeal cancer stage 0
+Pharyngeal cancer stage I
+Pharyngeal cancer stage II
+Pharyngeal cancer stage III
+Pharyngeal cancer stage IV
+Pharyngeal neoplasm
+Pharyngeal neoplasm benign
+Postcricoid cancer
+Sinonasal papilloma
+Sinus cancer metastatic
+Squamous cell carcinoma of pharynx
+Squamous cell carcinoma of the hypopharynx
+Throat cancer
+Tonsil cancer
+Tonsil cancer metastatic
+Tonsillar cyst
+Tonsillar neoplasm
+Tonsillar neoplasm benign
+Tracheal cancer
+Tracheal neoplasm
+Tracheal papilloma
+Undifferentiated nasopharyngeal carcinoma
+Vocal cord neoplasm
+l2</ Upper respiratory tract neoplasms >
+l1</ Respiratory tract neoplasms >
+l1< Respiratory tract signs and symptoms >
+l2< Lower respiratory tract signs and symptoms >
+Bronchial irritation
+Bronchoplegia
+Decreased bronchial secretion
+Egobronchophony
+Hiccups
+Increased bronchial secretion
+Increased viscosity of bronchial secretion
+Lower respiratory tract congestion
+Lung hyperinflation
+Lung hypoinflation
+Pleuritic pain
+Pulmonary haematoma
+Pulmonary haemorrhage
+Pulmonary pain
+Rales
+Respiratory fremitus
+Rhonchi
+l2</ Lower respiratory tract signs and symptoms >
+l2< Respiratory signs and symptoms NEC >
+Allergic respiratory symptom
+Chest discomfort
+Chest pain
+Clubbing
+Diaphragmalgia
+Glossoptosis
+Hypertrophic osteoarthropathy
+Nasal flaring
+Non-cardiac chest pain
+Oculorespiratory syndrome
+Painful respiration
+Pleural rub
+Respiratory symptom
+Suffocation feeling
+Use of accessory respiratory muscles
+Xyphoid retraction
+l2</ Respiratory signs and symptoms NEC >
+l2< Upper respiratory tract signs and symptoms >
+Aphonia
+Catarrh
+Choking
+Choking sensation
+Dry throat
+Dysphonia
+Increased upper airway secretion
+Increased viscosity of upper respiratory secretion
+Laryngeal discomfort
+Laryngeal pain
+Nasal crease
+Nasal discharge discolouration
+Nasal discomfort
+Nasal obstruction
+Nasopharyngeal reflux
+Oropharyngeal blistering
+Oropharyngeal cobble stone mucosa
+Oropharyngeal discolouration
+Oropharyngeal discomfort
+Oropharyngeal pain
+Oropharyngeal plaque
+Oropharyngeal scar
+Paranasal sinus discomfort
+Presbyphonia
+Rhinalgia
+Rhinorrhoea
+Sinus headache
+Sinus pain
+Sneezing
+Snoring
+Spasmodic dysphonia
+Speech disorder
+Stertor
+Throat clearing
+Throat irritation
+Throat lesion
+Throat tightness
+Upper airway obstruction
+Upper respiratory tract congestion
+Upper respiratory tract inflammation
+Upper respiratory tract irritation
+Upper-airway cough syndrome
+Yawning
+l2</ Upper respiratory tract signs and symptoms >
+l1</ Respiratory tract signs and symptoms >
+l1< Thoracic disorders (excl lung and pleura) >
+l2< Diaphragmatic disorders >
+Acquired diaphragmatic eventration
+Congenital diaphragmatic anomaly
+Congenital diaphragmatic eventration
+Congenital diaphragmatic hernia
+Congenital hiatus hernia
+Diaphragm muscle weakness
+Diaphragmatic abnormal relaxation
+Diaphragmatic aplasia
+Diaphragmatic disorder
+Diaphragmatic hernia
+Diaphragmatic hernia gangrenous
+Diaphragmatic hernia, obstructive
+Diaphragmatic injury
+Diaphragmatic paralysis
+Diaphragmatic rupture
+Diaphragmatic spasm
+Hiatus hernia
+Hiatus hernia strangulated
+Hiatus hernia, obstructive
+Incarcerated hiatus hernia
+Metastases to diaphragm
+Shrinking lung syndrome
+l2</ Diaphragmatic disorders >
+l2< Mediastinal disorders >
+Benign mediastinal neoplasm
+Benign neoplasm of thymus
+Good syndrome
+Hilar lymphadenopathy
+Lymphadenopathy mediastinal
+Malignant mediastinal neoplasm
+Malignant neoplasm of thymus
+Mediastinal abscess
+Mediastinal cyst
+Mediastinal disorder
+Mediastinal effusion
+Mediastinal fibrosis
+Mediastinal haematoma
+Mediastinal haemorrhage
+Mediastinal mass
+Mediastinal shift
+Mediastinitis
+Mediastinum neoplasm
+Metastases to the mediastinum
+Neoplasm of thymus
+Paratracheal lymphadenopathy
+Pneumomediastinum
+Pulmonary hilar enlargement
+Pulmonary hilum mass
+Staphylococcal mediastinitis
+Thymic cancer metastatic
+Thymoma
+Thymoma malignant
+Thymoma malignant recurrent
+l2</ Mediastinal disorders >
+l2< Thoracic musculoskeletal disorders >
+Barrel chest
+Deformity thorax
+Flail chest
+Flat chest
+Funnel chest acquired
+Keeled chest acquired
+Musculoskeletal chest pain
+Pectus carinatum
+Pectus excavatum
+Post-thoracotomy pain syndrome
+Postoperative thoracic procedure complication
+Respiratory muscle weakness
+Scoliosis
+Sternitis
+l2</ Thoracic musculoskeletal disorders >
+l1</ Thoracic disorders (excl lung and pleura) >
+l1< Upper respiratory tract disorders (excl infections) >
+l2< Laryngeal and adjacent sites disorders NEC (excl infections and neoplasms) >
+Adductor vocal cord weakness
+Epiglottic cyst
+Epiglottic erythema
+Epiglottic mass
+Epiglottis ulcer
+Laryngeal atrophy
+Laryngeal cyst
+Laryngeal disorder
+Laryngeal dysplasia
+Laryngeal dyspnoea
+Laryngeal erythema
+Laryngeal fistula
+Laryngeal granuloma
+Laryngeal haematoma
+Laryngeal haemorrhage
+Laryngeal hypertrophy
+Laryngeal infiltration
+Laryngeal inflammation
+Laryngeal injury
+Laryngeal keratotic plaque
+Laryngeal leukoplakia
+Laryngeal mass
+Laryngeal necrosis
+Laryngeal pachyderma
+Laryngeal polyp
+Laryngeal rheumatoid arthritis
+Laryngeal tremor
+Laryngeal ulceration
+Laryngeal ventricle prolapse
+Laryngitis allergic
+Laryngo-onycho-cutaneous syndrome
+Larynx irritation
+Ortner's syndrome
+Paralysis recurrent laryngeal nerve
+Radiation larynx injury
+Reflux laryngitis
+Sulcus vocalis
+Vocal cord atrophy
+Vocal cord cyst
+Vocal cord disorder
+Vocal cord dysfunction
+Vocal cord inflammation
+Vocal cord leukoplakia
+Vocal cord paralysis
+Vocal cord paresis
+Vocal cord polyp
+Vocal cord thickening
+l2</ Laryngeal and adjacent sites disorders NEC (excl infections and neoplasms) >
+l2< Laryngeal spasm, oedema and obstruction >
+Angioedema
+Congenital high airway obstruction syndrome
+Croup noninfectious
+Epiglottic oedema
+Laryngeal obstruction
+Laryngeal oedema
+Laryngeal stenosis
+Laryngomalacia
+Laryngospasm
+Laryngotracheal oedema
+Stridor
+l2</ Laryngeal spasm, oedema and obstruction >
+l2< Nasal congestion and inflammations >
+Eosinophilic rhinitis
+Nasal congestion
+Nasal inflammation
+Rebound nasal congestion
+Rhinitis allergic
+Rhinitis atrophic
+Rhinitis hypertrophic
+Rhinitis perennial
+Rhinitis ulcerative
+Seasonal allergy
+Vasomotor rhinitis
+l2</ Nasal congestion and inflammations >
+l2< Nasal disorders NEC >
+Anosmia
+Congenital anosmia
+Congenital perforated nasal septum
+Empty nose syndrome
+Epistaxis
+Hyposmia
+Intranasal hypoaesthesia
+Intranasal paraesthesia
+Nasal adhesions
+Nasal cavity mass
+Nasal cavity toxicity
+Nasal crusting
+Nasal cyst
+Nasal disorder
+Nasal dryness
+Nasal injury
+Nasal mucosa atrophy
+Nasal mucosal discolouration
+Nasal mucosal disorder
+Nasal mucosal erosion
+Nasal mucosal hypertrophy
+Nasal mucosal ulcer
+Nasal necrosis
+Nasal odour
+Nasal oedema
+Nasal polyps
+Nasal pruritus
+Nasal septum deviation
+Nasal septum disorder
+Nasal septum haematoma
+Nasal septum perforation
+Nasal septum ulceration
+Nasal turbinate abnormality
+Nasal turbinate hypertrophy
+Nasal ulcer
+Nasal valve collapse
+Nasal varices
+Parosmia
+Rhinolithiasis
+l2</ Nasal disorders NEC >
+l2< Paranasal sinus disorders (excl infections and neoplasms) >
+Allergic sinusitis
+Chronic eosinophilic rhinosinusitis
+Chronic hyperplastic eosinophilic sinusitis
+Chronic rhinosinusitis with nasal polyps
+Maxillary sinus pseudocyst
+Oroantral fistula
+Paranasal cyst
+Paranasal sinus aplasia
+Paranasal sinus haematoma
+Paranasal sinus haemorrhage
+Paranasal sinus hypersecretion
+Paranasal sinus hyposecretion
+Paranasal sinus injury
+Paranasal sinus mucosal hypertrophy
+Paranasal sinus necrosis
+Silent sinus syndrome
+Sinus barotrauma
+Sinus congestion
+Sinus disorder
+Sinus perforation
+Sinus polyp
+Sinus polyp degeneration
+Sinusitis noninfective
+l2</ Paranasal sinus disorders (excl infections and neoplasms) >
+l2< Pharyngeal disorders (excl infections and neoplasms) >
+Adenoidal disorder
+Adenoidal hypertrophy
+Allergic pharyngitis
+Angina gangrenous
+Atrophic pharyngitis
+Corrosive oropharyngeal injury
+Dysaesthesia pharynx
+Hyperactive pharyngeal reflex
+Hypopharyngeal synechiae
+Oropharyngeal dysplasia
+Oropharyngeal oedema
+Oropharyngeal spasm
+Oropharyngeal swelling
+PFAPA syndrome
+Pharyngeal anastomotic leak
+Pharyngeal cyst
+Pharyngeal disorder
+Pharyngeal dyskinesia
+Pharyngeal enanthema
+Pharyngeal erosion
+Pharyngeal erythema
+Pharyngeal exfoliation
+Pharyngeal exudate
+Pharyngeal fistula
+Pharyngeal haematoma
+Pharyngeal haemorrhage
+Pharyngeal hypertrophy
+Pharyngeal hypoaesthesia
+Pharyngeal inflammation
+Pharyngeal injury
+Pharyngeal lesion
+Pharyngeal leukoplakia
+Pharyngeal mass
+Pharyngeal necrosis
+Pharyngeal oedema
+Pharyngeal paraesthesia
+Pharyngeal polyp
+Pharyngeal pouch
+Pharyngeal stenosis
+Pharyngeal ulceration
+Pharyngo-oesophageal diverticulum
+Pharynx radiation injury
+Tonsillar atrophy
+Tonsillar disorder
+Tonsillar erythema
+Tonsillar exudate
+Tonsillar haemorrhage
+Tonsillar hypertrophy
+Tonsillar inflammation
+Tonsillar ulcer
+Tonsillolith
+Tornwaldt cyst
+Velopharyngeal incompetence
+l2</ Pharyngeal disorders (excl infections and neoplasms) >
+l2< Tracheal disorders (excl infections and neoplasms) >
+Acquired tracheo-oesophageal fistula
+Congenital tracheomalacia
+Endotracheal intubation complication
+Excessive dynamic airway collapse
+Tracheal atresia
+Tracheal calcification
+Tracheal deviation
+Tracheal dilatation
+Tracheal disorder
+Tracheal diverticulum
+Tracheal erythema
+Tracheal fistula
+Tracheal haemorrhage
+Tracheal inflammation
+Tracheal mass
+Tracheal obstruction
+Tracheal obstruction extrinsic
+Tracheal oedema
+Tracheal pain
+Tracheal radiation injury
+Tracheal stenosis
+Tracheal ulcer
+Tracheal web
+Tracheo-oesophageal fistula
+Tracheobroncheopathia osteoclastica
+Tracheobronchial dyskinesia
+Tracheobronchomegaly
+Tracheomalacia
+Tracheostomy malfunction
+VACTERL syndrome
+l2</ Tracheal disorders (excl infections and neoplasms) >
+l1</ Upper respiratory tract disorders (excl infections) >
+l0</ Respiratory, thoracic and mediastinal disorders>

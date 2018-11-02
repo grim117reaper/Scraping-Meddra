@@ -1,0 +1,1784 @@
+l0< Vascular disorders>
+l1< Aneurysms and artery dissections >
+l2< Aneurysms and dissections non-site specific >
+Aneurysm
+Aneurysm arteriovenous
+Aneurysm perforation
+Aneurysm recanalisation
+Aneurysm ruptured
+Arterial intramural haematoma
+Artery dissection
+Infective aneurysm
+Intratumoural aneurysm
+Shunt aneurysm
+Vascular access site dissection
+Vascular dissection
+Vein dissection
+Venous aneurysm
+l2</ Aneurysms and dissections non-site specific >
+l2< Aneurysms and dissections site specific NEC >
+Arterioenteric fistula
+Bronchial artery aneurysm
+Cardiac aneurysm
+Coeliac artery aneurysm
+Coronary artery aneurysm
+Coronary artery dissection
+Dissecting coronary artery aneurysm
+Hepatic artery aneurysm
+Mesenteric artery aneurysm
+Pulmonary artery aneurysm
+Renal aneurysm
+Renal artery dissection
+Retinal aneurysm
+Retinal aneurysm rupture
+Splenic artery aneurysm
+Splenic vein aneurysm
+l2</ Aneurysms and dissections site specific NEC >
+l2< Aortic aneurysms and dissections >
+Acute aortic syndrome
+Aortic aneurysm
+Aortic aneurysm rupture
+Aortic aneurysm syphilitic
+Aortic dissection
+Aortic dissection rupture
+Aortic intramural haematoma
+False lumen dilatation of aortic dissection
+Penetrating aortic ulcer
+Penetrating atherosclerotic ulcer
+l2</ Aortic aneurysms and dissections >
+l2< Cerebrovascular aneurysms and dissections >
+Basilar artery aneurysm
+Carotid aneurysm rupture
+Carotid artery aneurysm
+Carotid artery dissection
+Cerebral aneurysm perforation
+Cerebral aneurysm ruptured syphilitic
+Charcot-Bouchard microaneurysms
+Intracranial aneurysm
+Intracranial artery dissection
+Ruptured cerebral aneurysm
+Vertebral artery aneurysm
+Vertebral artery dissection
+Wyburn Mason's syndrome
+l2</ Cerebrovascular aneurysms and dissections >
+l2< Peripheral aneurysms and dissections >
+Arteriovenous fistula aneurysm
+Arteriovenous graft aneurysm
+Femoral artery aneurysm
+Femoral artery dissection
+Peripheral artery aneurysm
+Peripheral artery aneurysm rupture
+Peripheral artery dissection
+Subclavian artery aneurysm
+l2</ Peripheral aneurysms and dissections >
+l1</ Aneurysms and artery dissections >
+l1< Arteriosclerosis, stenosis, vascular insufficiency and necrosis >
+l2< Aortic necrosis and vascular insufficiency >
+Aortic arteriosclerosis
+Aortic necrosis
+Aortic occlusion
+Aortic restenosis
+Aortic root compression
+Aortic stenosis
+Coarctation of the aorta
+Congenital aortic stenosis
+Leriche syndrome
+l2</ Aortic necrosis and vascular insufficiency >
+l2< Cerebrovascular and spinal necrosis and vascular insufficiency >
+Amaurosis fugax
+Anterior spinal artery syndrome
+Basal ganglia infarction
+Basal ganglia stroke
+Basilar artery occlusion
+Basilar artery stenosis
+Brain hypoxia
+Brain stem infarction
+Brain stem ischaemia
+Brain stem stroke
+Capsular warning syndrome
+Carotid arteriosclerosis
+Carotid artery calcification
+Carotid artery dolichoectasia
+Carotid artery insufficiency
+Carotid artery occlusion
+Carotid artery restenosis
+Carotid artery stenosis
+Central nervous system necrosis
+Cerebellar artery occlusion
+Cerebellar infarction
+Cerebellar ischaemia
+Cerebellar stroke
+Cerebral arteriosclerosis
+Cerebral artery occlusion
+Cerebral artery restenosis
+Cerebral artery stenosis
+Cerebral circulatory failure
+Cerebral infarction
+Cerebral infarction foetal
+Cerebral ischaemia
+Cerebral small vessel ischaemic disease
+Cerebral vascular occlusion
+Cerebral vasoconstriction
+Cerebrovascular insufficiency
+Cerebrovascular stenosis
+Delayed ischaemic neurological deficit
+Hypoxic-ischaemic encephalopathy
+Inner ear infarction
+Internal carotid artery kinking
+Intraoperative cerebral artery occlusion
+Ischaemic cerebral infarction
+Ischaemic stroke
+Jugular vein occlusion
+Lacunar infarction
+Lacunar stroke
+Lateral medullary syndrome
+Migrainous infarction
+Millard-Gubler syndrome
+Pituitary infarction
+Post procedural stroke
+Post-anoxic myoclonus
+Precerebral arteriosclerosis
+Precerebral artery occlusion
+Raymond-Cestan syndrome
+Reversible cerebral vasoconstriction syndrome
+Reversible ischaemic neurological deficit
+Seizure anoxic
+Spinal claudication
+Spinal cord infarction
+Spinal cord ischaemia
+Thalamic infarction
+Transient ischaemic attack
+Vascular cognitive impairment
+Vascular dementia
+Vascular encephalopathy
+Vertebral artery occlusion
+Vertebral artery stenosis
+Vertebrobasilar dolichoectasia
+Vertebrobasilar insufficiency
+Vestibular ischaemia
+White matter lesion
+l2</ Cerebrovascular and spinal necrosis and vascular insufficiency >
+l2< Coronary necrosis and vascular insufficiency >
+Acute coronary syndrome
+Acute myocardial infarction
+Angina pectoris
+Angina unstable
+Anginal equivalent
+Arteriosclerosis coronary artery
+Arteriospasm coronary
+Coronary artery compression
+Coronary artery disease
+Coronary artery insufficiency
+Coronary artery occlusion
+Coronary artery reocclusion
+Coronary artery restenosis
+Coronary artery stenosis
+Coronary bypass stenosis
+Coronary no-reflow phenomenon
+Coronary ostial stenosis
+Coronary vascular graft occlusion
+Coronary vascular graft stenosis
+Coronary vein stenosis
+Ischaemic cardiomyopathy
+Kounis syndrome
+Microvascular coronary artery disease
+Myocardial infarction
+Myocardial ischaemia
+Myocardial necrosis
+Myocardial reperfusion injury
+Myocardial stunning
+Papillary muscle infarction
+Postinfarction angina
+Prinzmetal angina
+Silent myocardial infarction
+Stress cardiomyopathy
+Subendocardial ischaemia
+l2</ Coronary necrosis and vascular insufficiency >
+l2< Gastrointestinal necrosis and vascular insufficiency >
+Abdominal strangulated hernia
+Coeliac artery compression syndrome
+Coeliac artery stenosis
+Colitis ischaemic
+Colon gangrene
+Diaphragmatic hernia gangrenous
+Femoral hernia gangrenous
+Femoral hernia strangulated
+Gastrointestinal gangrene
+Gastrointestinal ischaemia
+Gastrointestinal mucosal necrosis
+Gastrointestinal necrosis
+Gastrointestinal stoma necrosis
+Hernia gangrenous
+Hiatus hernia strangulated
+Ileal gangrene
+Incisional hernia gangrenous
+Inguinal hernia gangrenous
+Inguinal hernia strangulated
+Intestinal angina
+Intestinal gangrene
+Intestinal infarction
+Intestinal ischaemia
+Ischaemic enteritis
+Ischaemic gastritis
+Ischaemic pancreatitis
+Jejunal gangrene
+Mesenteric arterial occlusion
+Mesenteric arteriosclerosis
+Mesenteric artery stenosis
+Mesenteric phlebosclerosis
+Mesenteric vascular insufficiency
+Mesenteric vascular occlusion
+Mesenteric venous occlusion
+Omental infarction
+Omental necrosis
+Pancreatic infarction
+Peritoneal necrosis
+Small intestine gangrene
+Strangulated umbilical hernia
+Tongue infarction
+Tongue necrosis
+Umbilical hernia gangrenous
+l2</ Gastrointestinal necrosis and vascular insufficiency >
+l2< Hepatic and portal necrosis and vascular insufficiency >
+Biliary ischaemia
+Hepatic artery occlusion
+Hepatic artery stenosis
+Hepatic infarction
+Hepatic ischaemia
+Hepatic vein occlusion
+Hepatic vein stenosis
+Ischaemic hepatitis
+Portal vein occlusion
+Portal vein stenosis
+Retrograde portal vein flow
+Splenic infarction
+Venoocclusive liver disease
+l2</ Hepatic and portal necrosis and vascular insufficiency >
+l2< Musculoskeletal necrosis and vascular insufficiency >
+Arteriosclerotic gangrene
+Bone infarction
+Chest wall necrosis
+Compartment syndrome
+Diabetic foot infection
+Gangrene
+Gangrene neonatal
+Gas gangrene
+Muscle hypoxia
+Orbital compartment syndrome
+Osteonecrosis
+Osteonecrosis of external auditory canal
+Osteonecrosis of jaw
+Osteoradionecrosis
+Purple glove syndrome
+l2</ Musculoskeletal necrosis and vascular insufficiency >
+l2< Non-site specific necrosis and vascular insufficiency NEC >
+Arterial bypass stenosis
+Arterial dolichoectasia
+Arterial insufficiency
+Arterial occlusive disease
+Arterial restenosis
+Arterial spasm
+Arterial stenosis
+Arteriosclerosis
+Arteriosclerosis Moenckeberg-type
+Artificial blood vessel occlusion
+Atherosclerotic plaque rupture
+Fibromuscular dysplasia
+Graft ischaemia
+Haemorrhagic infarction
+Incision site vessel occlusion
+Infarction
+Ischaemia
+Malignant atrophic papulosis
+Malnutrition-inflammation-atherosclerosis syndrome
+Man-in-the-barrel syndrome
+Necrosis
+Necrosis ischaemic
+Necrosis of artery
+Peripheral venous disease
+Phlebosclerosis
+Plaque shift
+Post angioplasty restenosis
+Septic necrosis
+Soft tissue necrosis
+Steal syndrome
+Stoma site ischaemia
+Strangulated hernia
+Tumour necrosis
+Vascular compression
+Vascular graft occlusion
+Vascular graft restenosis
+Vascular graft stenosis
+Vascular insufficiency
+Vascular occlusion
+Vascular stenosis
+Vascular stent occlusion
+Vascular stent restenosis
+Vascular stent stenosis
+Vascular stent thrombosis
+Vasospasm
+Venous occlusion
+Venous stenosis
+l2</ Non-site specific necrosis and vascular insufficiency NEC >
+l2< Peripheral vasoconstriction, necrosis and vascular insufficiency >
+Atrophie blanche
+Brachial artery entrapment syndrome
+Chillblains
+Choroidal sclerosis
+Claudication of jaw muscles
+Dependent rubor
+Diabetic foot
+Diabetic gangrene
+Diabetic macroangiopathy
+Diabetic microangiopathy
+Diabetic ulcer
+Diabetic vascular disorder
+Digital pitting scar
+Dry gangrene
+Eschar
+Extremity necrosis
+Extrinsic iliac vein compression
+Frostbite
+Hand-arm vibration syndrome
+Iliac artery disease
+Iliac artery occlusion
+Iliac vein occlusion
+Intermittent claudication
+Ischaemic limb pain
+Ischaemic neuropathy
+Ischaemic skin ulcer
+May-Thurner syndrome
+Mucocutaneous flap necrosis
+Peripheral arterial occlusive disease
+Peripheral arterial reocclusion
+Peripheral artery occlusion
+Peripheral artery restenosis
+Peripheral artery stenosis
+Peripheral coldness
+Peripheral ischaemia
+Poor peripheral circulation
+Popliteal artery entrapment syndrome
+Raynaud's phenomenon
+Scleroderma associated digital ulcer
+Skin flap necrosis
+Skin ulcer
+Spontaneous amputation
+Subclavian artery occlusion
+Subclavian artery stenosis
+Subclavian coronary steal syndrome
+Subclavian vein occlusion
+Subclavian vein stenosis
+Vasoconstriction
+Venous ulcer pain
+l2</ Peripheral vasoconstriction, necrosis and vascular insufficiency >
+l2< Renal necrosis and vascular insufficiency >
+Ischaemic nephropathy
+Renal arteriosclerosis
+Renal artery arteriosclerosis
+Renal artery fibromuscular dysplasia
+Renal artery occlusion
+Renal artery stenosis
+Renal cortical necrosis
+Renal infarct
+Renal ischaemia
+Renal necrosis
+Renal transplant torsion
+l2</ Renal necrosis and vascular insufficiency >
+l2< Reproductive system necrosis and vascular insufficiency >
+Penile artery occlusion
+Penile necrosis
+Perineal necrosis
+Placental infarction
+Placental insufficiency
+Placental necrosis
+Scrotal gangrene
+Testicular infarction
+Testicular necrosis
+Uterine ischaemia
+Uterine necrosis
+l2</ Reproductive system necrosis and vascular insufficiency >
+l2< Retinal necrosis and vascular insufficiency >
+Macular ischaemia
+Macular vasospasm
+Necrotising herpetic retinopathy
+Necrotising retinitis
+Optic ischaemic neuropathy
+Optic nerve infarction
+Purtscher retinopathy
+Retinal artery spasm
+Retinal artery stenosis
+Retinal infarction
+Retinal ischaemia
+Retinal vascular occlusion
+Venous stasis retinopathy
+l2</ Retinal necrosis and vascular insufficiency >
+l2< Site specific necrosis and vascular insufficiency NEC >
+Abdominal compartment syndrome
+Adrenal cortex necrosis
+Anterior segment ischaemia
+Bladder necrosis
+Bone marrow ischaemia
+Bone marrow necrosis
+Brachiocephalic arteriosclerosis
+Brachiocephalic artery occlusion
+Brachiocephalic artery stenosis
+Brachiocephalic vein occlusion
+Brachiocephalic vein stenosis
+Choroidal infarction
+Coeliac artery occlusion
+Inferior vena cava stenosis
+Inferior vena cava syndrome
+Inferior vena caval occlusion
+Nail necrosis
+Ocular ischaemic syndrome
+Paranasal sinus necrosis
+Pharyngeal necrosis
+Pulmonary artery occlusion
+Pulmonary artery stenosis
+Pulmonary artery stenosis congenital
+Pulmonary infarction
+Pulmonary vein occlusion
+Pulmonary vein stenosis
+Splenic artery stenosis
+Splenic vein occlusion
+Superior vena cava occlusion
+Superior vena cava stenosis
+Superior vena cava syndrome
+Thyroid infarction
+Umbilical cord occlusion
+l2</ Site specific necrosis and vascular insufficiency NEC >
+l1</ Arteriosclerosis, stenosis, vascular insufficiency and necrosis >
+l1< Decreased and nonspecific blood pressure disorders and shock >
+l2< Blood pressure disorders NEC >
+Autonomic nervous system imbalance
+Blood pressure fluctuation
+Blood pressure inadequately controlled
+Labile blood pressure
+Non-dipping
+Orthostatic intolerance
+l2</ Blood pressure disorders NEC >
+l2< Circulatory collapse and shock >
+Acute prerenal failure
+Anaphylactic shock
+Anaphylactoid shock
+Cardiogenic shock
+Circulatory collapse
+Circulatory failure neonatal
+CT hypotension complex
+Distributive shock
+Dizziness
+Dizziness exertional
+Dizziness postural
+Endotoxic shock
+Heat stroke
+Hypoperfusion
+Hypovolaemic shock
+Neurogenic shock
+Obstructive shock
+Peripheral circulatory failure
+Prerenal failure
+Presyncope
+Septic shock
+Severe invasive streptococcal infection
+Shock
+Shock haemorrhagic
+Shock symptom
+Syncope
+Toxic shock syndrome
+Toxic shock syndrome staphylococcal
+Toxic shock syndrome streptococcal
+Waterhouse-Friderichsen syndrome
+l2</ Circulatory collapse and shock >
+l2< Vascular hypotensive disorders >
+Anaphylactic reaction
+Anaphylactoid reaction
+Autonomic failure syndrome
+Bezold-Jarisch reflex
+Capillary leak syndrome
+Cardiovascular insufficiency
+Diastolic hypotension
+Hypotension
+Hypotensive transfusion reaction
+Mesenteric traction syndrome
+Multiple system atrophy
+Neonatal hypotension
+Nitritoid reaction
+Orthostatic hypotension
+Procedural hypotension
+Systemic inflammatory response syndrome
+Trigemino-cardiac reflex
+Vasoplegia syndrome
+l2</ Vascular hypotensive disorders >
+l1</ Decreased and nonspecific blood pressure disorders and shock >
+l1< Embolism and thrombosis >
+l2< Aortic embolism and thrombosis >
+Aortic embolus
+Aortic thrombosis
+l2</ Aortic embolism and thrombosis >
+l2< Cerebrovascular embolism and thrombosis >
+Basilar artery thrombosis
+Brain stem embolism
+Brain stem thrombosis
+Carotid arterial embolus
+Carotid artery thrombosis
+Cavernous sinus thrombosis
+Cerebellar artery thrombosis
+Cerebellar embolism
+Cerebral artery embolism
+Cerebral artery thrombosis
+Cerebral gas embolism
+Cerebral microembolism
+Cerebral septic infarct
+Cerebral thrombosis
+Cerebral venous thrombosis
+Cerebrospinal thrombotic tamponade
+Embolic cerebral infarction
+Embolic stroke
+Intracranial venous sinus thrombosis
+Moyamoya disease
+Precerebral artery thrombosis
+Superior sagittal sinus thrombosis
+Thrombotic cerebral infarction
+Thrombotic stroke
+Transverse sinus thrombosis
+Vertebral artery thrombosis
+l2</ Cerebrovascular embolism and thrombosis >
+l2< Gastrointestinal embolism and thrombosis >
+Mesenteric artery embolism
+Mesenteric artery thrombosis
+Mesenteric vein thrombosis
+Splenic artery thrombosis
+Splenic embolism
+Splenic thrombosis
+Thrombosis mesenteric vessel
+Truncus coeliacus thrombosis
+Visceral venous thrombosis
+l2</ Gastrointestinal embolism and thrombosis >
+l2< Hepatic and portal embolism and thrombosis >
+Budd-Chiari syndrome
+Hepatic artery embolism
+Hepatic artery thrombosis
+Hepatic vascular thrombosis
+Hepatic vein embolism
+Hepatic vein thrombosis
+Portal pyaemia
+Portal vein thrombosis
+Portosplenomesenteric venous thrombosis
+Splenic vein thrombosis
+l2</ Hepatic and portal embolism and thrombosis >
+l2< Non-site specific embolism and thrombosis >
+Administration site thrombosis
+Air embolism
+Antiphospholipid syndrome
+Application site thrombosis
+Arterial thrombosis
+Arteriovenous fistula thrombosis
+Arteriovenous graft site stenosis
+Arteriovenous graft thrombosis
+Atheroembolism
+Calcium embolism
+Catheter site thrombosis
+Device embolisation
+Device related thrombosis
+Disseminated intravascular coagulation
+Disseminated intravascular coagulation in newborn
+Embolia cutis medicamentosa
+Embolism
+Embolism arterial
+Embolism venous
+Fat embolism
+Foreign body embolism
+Graft thrombosis
+Heparin-induced thrombocytopenia
+Implant site thrombosis
+Infective thrombosis
+Infusion site thrombosis
+Injection site thrombosis
+Instillation site thrombosis
+Mahler sign
+Medical device site thrombosis
+Microembolism
+Paradoxical embolism
+Paraneoplastic thrombosis
+Paroxysmal nocturnal haemoglobinuria
+Post thrombotic syndrome
+Postoperative thrombosis
+Postpartum thrombosis
+Postpartum venous thrombosis
+Septic embolus
+Shunt thrombosis
+Stoma site thrombosis
+Thrombophlebitis migrans
+Thrombophlebitis neonatal
+Thrombosis
+Thrombosis in device
+Thrombotic microangiopathy
+Trousseau's syndrome
+Tumour embolism
+Tumour thrombosis
+Vaccination site thrombosis
+Vascular graft thrombosis
+Vascular pseudoaneurysm thrombosis
+Venous intravasation
+Venous recanalisation
+Venous thrombosis
+Venous thrombosis in pregnancy
+Venous thrombosis neonatal
+Vessel puncture site thrombosis
+l2</ Non-site specific embolism and thrombosis >
+l2< Peripheral embolism and thrombosis >
+Arterial bypass occlusion
+Arterial bypass thrombosis
+Axillary vein thrombosis
+Blue toe syndrome
+Deep vein thrombosis
+Deep vein thrombosis postoperative
+Femoral artery embolism
+Hypothenar hammer syndrome
+Iliac artery embolism
+Jugular vein thrombosis
+Lemierre syndrome
+Paget-Schroetter syndrome
+Pelvic venous thrombosis
+Penile vein thrombosis
+Peripheral artery thrombosis
+Peripheral embolism
+Spinal artery embolism
+Spinal artery thrombosis
+Subclavian artery embolism
+Subclavian artery thrombosis
+Subclavian vein thrombosis
+Thrombophlebitis
+Thrombophlebitis septic
+Thrombophlebitis superficial
+Thrombosis corpora cavernosa
+Venous thrombosis limb
+l2</ Peripheral embolism and thrombosis >
+l2< Pulmonary embolism and thrombosis >
+Anaphylactoid syndrome of pregnancy
+Cement embolism
+Embolic pneumonia
+Hoigne's syndrome
+Metastatic pulmonary embolism
+Obstetrical pulmonary embolism
+Post procedural pulmonary embolism
+Pulmonary artery thrombosis
+Pulmonary embolism
+Pulmonary microemboli
+Pulmonary oil microembolism
+Pulmonary thrombosis
+Pulmonary tumour thrombotic microangiopathy
+Pulmonary veno-occlusive disease
+Pulmonary venous thrombosis
+l2</ Pulmonary embolism and thrombosis >
+l2< Renal embolism and thrombosis >
+Renal artery thrombosis
+Renal embolism
+Renal vascular thrombosis
+Renal vein embolism
+Renal vein thrombosis
+l2</ Renal embolism and thrombosis >
+l2< Retinal embolism and thrombosis >
+Papillophlebitis
+Retinal artery embolism
+Retinal artery occlusion
+Retinal artery thrombosis
+Retinal vascular thrombosis
+Retinal vein occlusion
+Retinal vein thrombosis
+l2</ Retinal embolism and thrombosis >
+l2< Site specific embolism and thrombosis NEC >
+Adrenal thrombosis
+Atrial thrombosis
+Brachiocephalic vein thrombosis
+Cardiac ventricular thrombosis
+Coronary artery embolism
+Coronary artery thrombosis
+Coronary bypass thrombosis
+Foetal placental thrombosis
+Intracardiac mass
+Intracardiac thrombus
+Intrapericardial thrombosis
+Ophthalmic vein thrombosis
+Ovarian vein thrombosis
+Umbilical cord thrombosis
+l2</ Site specific embolism and thrombosis NEC >
+l2< Vena caval embolism and thrombosis >
+Vena cava embolism
+Vena cava thrombosis
+l2</ Vena caval embolism and thrombosis >
+l1</ Embolism and thrombosis >
+l1< Lymphatic vessel disorders >
+l2< Lymphangiopathies >
+Axillary web syndrome
+Conjunctival lymphangiectasia
+Filariasis lymphatic
+Infected lymphocele
+Lymphangiectasia
+Lymphangiectasia intestinal
+Lymphangioleiomyomatosis
+Lymphangioma
+Lymphangiopathy
+Lymphangiosis carcinomatosa
+Lymphangitis
+Lymphatic fistula
+Lymphatic insufficiency
+Lymphocele
+Lymphorrhoea
+Lymphostasis
+Pulmonary lymphangiectasia
+Renal lymphocele
+l2</ Lymphangiopathies >
+l2< Lymphoedemas >
+Congenital lymphoedema
+Elephantiasis
+Elephantiasis nostras verrucosa
+Klippel-Trenaunay syndrome
+Lymphoedema
+Morbihan disease
+Postmastectomy lymphoedema syndrome
+l2</ Lymphoedemas >
+l1</ Lymphatic vessel disorders >
+l1< Vascular disorders NEC >
+l2< Cerebrovascular and spinal vascular disorders NEC >
+Amyloid related imaging abnormalities
+Basilar migraine
+Blood brain barrier defect
+Carotid artery disease
+Cavernous sinus syndrome
+Cerebral amyloid angiopathy
+Cerebral capillary telangiectasia
+Cerebral congestion
+Cerebral hyperperfusion syndrome
+Cerebral hypoperfusion
+Cerebral microangiopathy
+Cerebral reperfusion injury
+Cerebral vasodilatation
+Cerebrovascular accident
+Cerebrovascular disorder
+Familial hemiplegic migraine
+Foetal cerebrovascular disorder
+Hemiplegic migraine
+Lenticulostriatal vasculopathy
+Migraine
+Migraine with aura
+Migraine without aura
+Neurovascular conflict
+Ophthalmoplegic migraine
+Perinatal stroke
+Post stroke epilepsy
+Post stroke seizure
+Pseudostroke
+Retinal migraine
+Spinal vascular disorder
+Status migrainosus
+Stroke in evolution
+Vascular headache
+Vascular parkinsonism
+l2</ Cerebrovascular and spinal vascular disorders NEC >
+l2< Non-site specific vascular disorders NEC >
+Adventitial cystic disease
+Anaesthetic complication vascular
+Angiodermatitis
+Angiopathy
+Arterial disorder
+Arterial fibrosis
+Arterial rupture
+Arterial tortuosity syndrome
+Arterial wall hypertrophy
+Arteriovenous fistula maturation failure
+Arteriovenous fistula occlusion
+Arteriovenous fistula site complication
+Arteriovenous fistula site infection
+Arteriovenous graft site abscess
+Arteriovenous graft site infection
+Capillary disorder
+Capillary fragility
+Cardiovascular deconditioning
+Cardiovascular disorder
+Cardiovascular symptom
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+Collateral circulation
+Endothelial dysfunction
+Haemodynamic instability
+Haemodynamic rebound
+Hyperaemia
+Hyperkinetic heart syndrome
+Intravascular gas
+Intravenous leiomyomatosis
+Macroangiopathy
+Microangiopathic haemolytic anaemia
+Microangiopathy
+Neovascularisation
+Phlebolith
+Poor venous access
+Positive vessel remodelling
+Post cardiac arrest syndrome
+Pseudoxanthoma elasticum
+Pseudoxanthoma elasticum-like syndrome
+Reperfusion injury
+Sneddon's syndrome
+Superficial vein prominence
+VACTERL syndrome
+Vascular access site complication
+Vascular access site infection
+Vascular access site occlusion
+Vascular access site pseudoaneurysm
+Vascular access site rupture
+Vascular calcification
+Vascular complication associated with device
+Vascular fragility
+Vascular graft complication
+Vascular pain
+Vascular procedure complication
+Vascular pseudoaneurysm
+Vascular pseudoaneurysm ruptured
+Vascular rupture
+Vascular stent infection
+Vascular wall discolouration
+Vascular wall hypertrophy
+Vasodilatation
+Vein collapse
+Vein discolouration
+Vein disorder
+Vein rupture
+Venoocclusive disease
+Visceral congestion
+l2</ Non-site specific vascular disorders NEC >
+l2< Ocular vascular disorders NEC >
+Arteriosclerotic retinopathy
+Choroidal neovascularisation
+Conjunctival telangiectasia
+Conjunctival vascular disorder
+Corneal neovascularisation
+Diabetic retinopathy
+Eales' disease
+Exudative retinopathy
+Eyelid vascular disorder
+Iris neovascularisation
+Iris vascular disorder
+Lipaemia retinalis
+Ocular vascular disorder
+Optic disc hyperaemia
+Optic discs blurred
+Papilloedema
+Polypoidal choroidal vasculopathy
+Radiation retinopathy
+Retinal collateral vessels
+Retinal exudates
+Retinal neovascularisation
+Retinal oedema
+Retinal vascular disorder
+Retinal vessel avulsion
+Retinopathy
+Retinopathy congenital
+Retinopathy hyperviscosity
+Retinopathy proliferative
+Retinopathy sickle cell
+l2</ Ocular vascular disorders NEC >
+l2< Peripheral vascular disorders NEC >
+Cyanosis
+Erythrocyanosis
+Erythromelalgia
+Flushing
+Hot flush
+Iliac artery rupture
+Peripheral vascular disorder
+Vascular shunt
+Vein wall hypertrophy
+l2</ Peripheral vascular disorders NEC >
+l2< Pulmonary vascular disorders NEC >
+Acute chest syndrome
+Non-cardiogenic pulmonary oedema
+Pulmonary arteriopathy
+Pulmonary capillary haemangiomatosis
+Pulmonary congestion
+Pulmonary hypoperfusion
+Pulmonary vascular disorder
+Pulmonary vascular resistance abnormality
+Transfusion-related acute lung injury
+l2</ Pulmonary vascular disorders NEC >
+l2< Renal vascular disorders NEC >
+Glomerular vascular disorder
+Nephroangiosclerosis
+Renal vein compression
+Renal vein occlusion
+Renal vein stenosis
+Renal vessel disorder
+l2</ Renal vascular disorders NEC >
+l2< Reproductive system vascular disorders NEC >
+Penile vascular disorder
+Umbilical cord vascular disorder
+l2</ Reproductive system vascular disorders NEC >
+l2< Site specific vascular disorders NEC >
+Aortic calcification
+Aortic dilatation
+Aortic disorder
+Aortic elongation
+Aortic rupture
+Aortic wall hypertrophy
+Carotid sinus syndrome
+Carotidynia
+Coronary artery dilatation
+Harlequin skin reaction
+Harlequin syndrome
+Hepatic vein dilatation
+Inferior vena cava dilatation
+Intrahepatic portal hepatic venous fistula
+Jugular vein distension
+Livedo reticularis
+Optic disc vascular disorder
+Ortner's syndrome
+Pallor
+Shunt blood flow excessive
+Stent-graft endoleak
+Subclavian steal syndrome
+Superior vena cava dilatation
+Thoracic outlet syndrome
+Urinary bladder varices
+Vascular skin disorder
+l2</ Site specific vascular disorders NEC >
+l2< Vascular malformations and acquired anomalies >
+Angiodysplasia
+Angiokeratoma
+Anomalous pulmonary venous connection
+Aorta hypoplasia
+Aorticopulmonary septal defect
+Aorto-duodenal fistula
+Application site telangiectasia
+Arteriovenous fistula
+Arteriovenous malformation
+Cerebrovascular arteriovenous malformation
+Cobb syndrome
+Congenital aortic anomaly
+Congenital aortic atresia
+Congenital aortic dilatation
+Congenital arterial malformation
+Congenital arteriovenous fistula
+Congenital cardiovascular anomaly
+Congenital cerebrovascular anomaly
+Congenital coronary artery malformation
+Congenital gastrointestinal vessel anomaly
+Congenital great vessel anomaly
+Congenital pulmonary artery anomaly
+Corrected transposition of great vessels
+CREST syndrome
+Diencephalic syndrome of infancy
+Dieulafoy's vascular malformation
+Ductus arteriosus premature closure
+Ductus arteriosus stenosis foetal
+Ductus venosus agenesis
+Duodenal vascular ectasia
+Dural arteriovenous fistula
+Encephalocutaneous angiomatosis
+Gastric antral vascular ectasia
+Gastrointestinal angiectasia
+Gastrointestinal angiodysplasia
+Gastrointestinal arteriovenous malformation
+Gastrointestinal vascular malformation
+Haemangioma-thrombocytopenia syndrome
+Haemorrhagic arteriovenous malformation
+Hamartoma vascular
+Hepatic arteriovenous malformation
+Hereditary haemorrhagic telangiectasia
+Heyde's syndrome
+Injection site telangiectasia
+Interruption of aortic arch
+Intracranial arterial fenestration
+Left ventricle outflow tract obstruction
+Malformation venous
+Marfan's syndrome
+Naevus anaemicus
+Naevus flammeus
+Naevus spider congenital
+Optic disc telangiectasia
+Parkes-Weber syndrome
+Patent ductus arteriosus
+Periportal sinus dilatation
+Persistent foetal circulation
+Persistent left superior vena cava
+Portal vein cavernous transformation
+Portal venous system anomaly
+Preduodenal portal vein
+Proximal focal femoral deficiency
+Pseudotruncus arteriosus
+Pulmonary arteriovenous fistula
+Renal arteriovenous malformation
+Renal artery hyperplasia
+Renal vessel congenital anomaly
+Retinal arteriovenous malformation
+Retinal telangiectasia
+Right aortic arch
+Right ventricle outflow tract obstruction
+Scimitar syndrome
+Single umbilical artery
+Spider naevus
+Spinal vessel congenital anomaly
+Splenic hamartoma
+Sturge-Weber syndrome
+Superior mesenteric artery syndrome
+Systemic scleroderma
+Telangiectasia
+Telangiectasia congenital
+Transposition of the great vessels
+Truncus arteriosus persistent
+Umbilical artery hypoplasia
+Vascular malformation
+Vein of Galen aneurysmal malformation
+Venolymphatic malformation
+Vertebral artery hypoplasia
+Von Hippel-Lindau disease
+l2</ Vascular malformations and acquired anomalies >
+l2< Vascular neoplasms >
+Angiofibroma
+Angiosarcoma
+Angiosarcoma metastatic
+Angiosarcoma non-metastatic
+Angiosarcoma recurrent
+Benign vascular neoplasm
+Breast angiosarcoma
+Breast angiosarcoma metastatic
+Cardiac haemangioma benign
+Cerebellar haemangioma
+Cerebral haemangioma
+Choroidal haemangioma
+Congenital cerebral haemangioma
+Endotheliomatosis
+Eye haemangioma
+Eyelid haemangioma
+Gastric haemangioma
+Glomus tumour
+Gorham's disease
+Haemangioma
+Haemangioma congenital
+Haemangioma of bone
+Haemangioma of breast
+Haemangioma of liver
+Haemangioma of retina
+Haemangioma of skin
+Haemangioma of spleen
+Haemangiopericytoma
+Haemangiopericytoma of meninges
+Hepatic angiosarcoma
+Hepatic haemangioma rupture
+Infantile haemangioma
+Intestinal angioma
+Intra-abdominal haemangioma
+Intracranial haemangioma
+Intraosseous angioma
+Intravascular lipoma
+Intravascular papillary endothelial hyperplasia
+Juvenile angiofibroma
+Lymphangiosarcoma
+Malignant haemangiopericytoma
+Malignant haemangiopericytoma metastatic
+Malignant haemangiopericytoma recurrent
+Metastases to peripheral vascular system
+Multinucleate cell angiohistiocytoma
+Ocular haemangiopericytoma
+Oral haemangioma
+PHACES syndrome
+Pyogenic granuloma
+Renal haemangioma
+Skin angiosarcoma
+Stewart-Treves syndrome
+Ulcerated haemangioma
+Vascular neoplasm
+Venous angioma of brain
+l2</ Vascular neoplasms >
+l1</ Vascular disorders NEC >
+l1< Vascular haemorrhagic disorders >
+l2< Bruising, ecchymosis and purpura >
+Achenbach syndrome
+Administration site bruise
+Aponeurosis contusion
+Application site bruise
+Application site purpura
+Bone contusion
+Brain contusion
+Cardiac contusion
+Catheter site bruise
+Chronic pigmented purpura
+Contusion
+Ecchymosis
+Eye contusion
+Eyelid contusion
+Gardner-Diamond syndrome
+Gastrointestinal organ contusion
+Genital contusion
+Grey Turner's sign
+Haemorrhage subcutaneous
+Haemorrhage subepidermal
+Henoch-Schonlein purpura
+Henoch-Schonlein purpura nephritis
+Implant site bruising
+Increased tendency to bruise
+Infusion site bruising
+Injection site bruising
+Instillation site bruise
+Kidney contusion
+Liver contusion
+Medical device site bruise
+Mucocutaneous haemorrhage
+Muscle contusion
+Oral contusion
+Pancreatic contusion
+Penile contusion
+Petechiae
+Post procedural contusion
+Post transfusion purpura
+Post-traumatic punctate intraepidermal haemorrhage
+Pulmonary contusion
+Purpura
+Purpura fulminans
+Purpura neonatal
+Purpura senile
+Skin haemorrhage
+Spleen contusion
+Thrombotic thrombocytopenic purpura
+Vaccination site bruising
+Vascular access site bruising
+Vascular purpura
+Vessel puncture site bruise
+l2</ Bruising, ecchymosis and purpura >
+l2< Gastrointestinal haemorrhages >
+Abdominal wall haematoma
+Abdominal wall haemorrhage
+Acute haemorrhagic ulcerative colitis
+Anal fissure haemorrhage
+Anal haemorrhage
+Anal ulcer haemorrhage
+Anastomotic ulcer haemorrhage
+Angina bullosa haemorrhagica
+Aorto-oesophageal fistula
+Bloody peritoneal effluent
+Chronic gastrointestinal bleeding
+Colonic haematoma
+Diarrhoea haemorrhagic
+Diverticulitis intestinal haemorrhagic
+Diverticulum intestinal haemorrhagic
+Duodenal ulcer haemorrhage
+Duodenitis haemorrhagic
+Enterocolitis haemorrhagic
+Gastric haemorrhage
+Gastric ulcer haemorrhage
+Gastric ulcer haemorrhage, obstructive
+Gastric varices haemorrhage
+Gastritis alcoholic haemorrhagic
+Gastritis haemorrhagic
+Gastroduodenal haemorrhage
+Gastroduodenitis haemorrhagic
+Gastrointestinal angiodysplasia haemorrhagic
+Gastrointestinal haemorrhage
+Gastrointestinal polyp haemorrhage
+Gastrointestinal ulcer haemorrhage
+Gingival bleeding
+Haematemesis
+Haematochezia
+Haemorrhagic ascites
+Haemorrhagic erosive gastritis
+Haemorrhagic necrotic pancreatitis
+Intestinal haematoma
+Intestinal haemorrhage
+Intestinal varices haemorrhage
+Intra-abdominal haematoma
+Intra-abdominal haemorrhage
+Large intestinal haemorrhage
+Large intestinal ulcer haemorrhage
+Lip haematoma
+Lip haemorrhage
+Lower gastrointestinal haemorrhage
+Mallory-Weiss syndrome
+Melaena
+Melaena neonatal
+Mesenteric haematoma
+Mesenteric haemorrhage
+Mouth haemorrhage
+Neonatal gastrointestinal haemorrhage
+Oesophageal haemorrhage
+Oesophageal intramural haematoma
+Oesophageal ulcer haemorrhage
+Oesophageal varices haemorrhage
+Oesophagitis haemorrhagic
+Oral mucosa haematoma
+Pancreatic haemorrhage
+Parotid gland haemorrhage
+Peptic ulcer haemorrhage
+Peritoneal haematoma
+Peritoneal haemorrhage
+Pharyngeal haematoma
+Pharyngeal haemorrhage
+Proctitis haemorrhagic
+Rectal haemorrhage
+Rectal ulcer haemorrhage
+Small intestinal haemorrhage
+Small intestinal ulcer haemorrhage
+Stomatitis haemorrhagic
+Tongue haematoma
+Tongue haemorrhage
+Tooth pulp haemorrhage
+Tooth socket haemorrhage
+Umbilical haematoma
+Umbilical haemorrhage
+Upper gastrointestinal haemorrhage
+l2</ Gastrointestinal haemorrhages >
+l2< Haemorrhages NEC >
+Administration site haematoma
+Administration site haemorrhage
+Adrenal haematoma
+Adrenal haemorrhage
+Anastomotic haemorrhage
+Application site haematoma
+Application site haemorrhage
+Arenaviral haemorrhagic fever
+Argentine haemorrhagic fever
+Arterial haemorrhage
+Arteriovenous fistula site haematoma
+Arteriovenous fistula site haemorrhage
+Arteriovenous graft site haematoma
+Arteriovenous graft site haemorrhage
+Auricular haematoma
+Bladder tamponade
+Bloody discharge
+Bolivian haemorrhagic fever
+Bone marrow haemorrhage
+Bronchial haemorrhage
+Bronchial varices haemorrhage
+Bursal haematoma
+Catheter site haematoma
+Catheter site haemorrhage
+Cephalhaematoma
+Chest wall haematoma
+Congo-Crimean haemorrhagic fever
+Cullen's sign
+Deep dissecting haematoma
+Ear haemorrhage
+Ebola disease
+Epistaxis
+Exsanguination
+Extravasation blood
+Foetal-maternal haemorrhage
+Graft haemorrhage
+Haemarthrosis
+Haematidrosis
+Haematocoele
+Haematoma
+Haematoma infection
+Haematotympanum
+Haematuria
+Haematuria traumatic
+Haemobilia
+Haemophilic arthropathy
+Haemophilic pseudotumour
+Haemoptysis
+Haemorrhage
+Haemorrhage coronary artery
+Haemorrhage foetal
+Haemorrhage neonatal
+Haemorrhage urinary tract
+Haemorrhagic adrenal infarction
+Haemorrhagic anaemia
+Haemorrhagic cyst
+Haemorrhagic diathesis
+Haemorrhagic disease of newborn
+Haemorrhagic disorder
+Haemorrhagic fever
+Haemorrhagic hepatic cyst
+Haemorrhagic pneumonia
+Haemorrhagic thyroid cyst
+Haemorrhagic tumour necrosis
+Haemorrhagic varicella syndrome
+Haemothorax
+Hepatic haematoma
+Hepatic haemorrhage
+Implant site haematoma
+Implant site haemorrhage
+Incision site haematoma
+Incision site haemorrhage
+Infusion site haematoma
+Infusion site haemorrhage
+Injection site haematoma
+Injection site haemorrhage
+Instillation site haematoma
+Instillation site haemorrhage
+Internal haemorrhage
+Joint microhaemorrhage
+Laryngeal haematoma
+Laryngeal haemorrhage
+Lassa fever
+Loin pain haematuria syndrome
+Lujo haemorrhagic fever
+Lymph node haemorrhage
+Marburg disease
+Mediastinal haematoma
+Mediastinal haemorrhage
+Medical device site haematoma
+Medical device site haemorrhage
+Mucosal haemorrhage
+Muscle haemorrhage
+Myocardial haemorrhage
+Naevus haemorrhage
+Nail bed bleeding
+Nasal septum haematoma
+Omsk haemorrhagic fever
+Osteorrhagia
+Papillary muscle haemorrhage
+Paranasal sinus haematoma
+Paranasal sinus haemorrhage
+Parathyroid haemorrhage
+Pelvic congestion
+Pericardial haemorrhage
+Periosteal haematoma
+Perirenal haematoma
+Post procedural haematoma
+Post procedural haematuria
+Post procedural haemorrhage
+Procedural haemorrhage
+Pulmonary alveolar haemorrhage
+Pulmonary haematoma
+Pulmonary haemorrhage
+Puncture site haemorrhage
+Radiation associated haemorrhage
+Respiratory tract haemorrhage
+Respiratory tract haemorrhage neonatal
+Retroperitoneal haematoma
+Retroperitoneal haemorrhage
+Rift Valley fever
+Severe fever with thrombocytopenia syndrome
+Skin neoplasm bleeding
+Skin ulcer haemorrhage
+Soft tissue haemorrhage
+Splenic haematoma
+Splenic haemorrhage
+Splenic varices haemorrhage
+Splinter haemorrhages
+Spontaneous haematoma
+Spontaneous haemorrhage
+Stoma site haemorrhage
+Subcutaneous haematoma
+Subgaleal haematoma
+Thoracic haemorrhage
+Thyroid haemorrhage
+Tonsillar haemorrhage
+Tracheal haemorrhage
+Traumatic haematoma
+Traumatic haemorrhage
+Traumatic haemothorax
+Tumour haemorrhage
+Ulcer haemorrhage
+Urinary bladder haemorrhage
+Urogenital haemorrhage
+Vaccination site haematoma
+Vaccination site haemorrhage
+Vascular access site haematoma
+Vascular access site haemorrhage
+Vascular graft haemorrhage
+Venous haemorrhage
+Vessel puncture site haematoma
+Vessel puncture site haemorrhage
+Weil's disease
+Wound haematoma
+Wound haemorrhage
+Yellow fever
+l2</ Haemorrhages NEC >
+l2< Nervous system haemorrhagic disorders >
+Basal ganglia haematoma
+Basal ganglia haemorrhage
+Brain stem haematoma
+Brain stem haemorrhage
+Brain stem microhaemorrhage
+Central nervous system haemorrhage
+Cerebellar haematoma
+Cerebellar haemorrhage
+Cerebellar microhaemorrhage
+Cerebral arteriovenous malformation haemorrhagic
+Cerebral haematoma
+Cerebral haemorrhage
+Cerebral haemorrhage foetal
+Cerebral haemorrhage neonatal
+Cerebral microhaemorrhage
+Epidural haemorrhage
+Extra-axial haemorrhage
+Extradural haematoma
+Haemorrhage intracranial
+Haemorrhagic cerebral infarction
+Haemorrhagic stroke
+Haemorrhagic transformation stroke
+Intracranial haematoma
+Intracranial tumour haemorrhage
+Intraventricular haemorrhage
+Intraventricular haemorrhage neonatal
+Meningorrhagia
+Periventricular haemorrhage neonatal
+Pituitary haemorrhage
+Purpura cerebri
+Putamen haemorrhage
+Spinal cord haematoma
+Spinal cord haemorrhage
+Spinal epidural haematoma
+Spinal epidural haemorrhage
+Spinal subarachnoid haemorrhage
+Spinal subdural haematoma
+Spinal subdural haemorrhage
+Subarachnoid haematoma
+Subarachnoid haemorrhage
+Subarachnoid haemorrhage neonatal
+Subdural haematoma
+Subdural haemorrhage
+Subdural haemorrhage neonatal
+Thalamus haemorrhage
+Traumatic intracranial haematoma
+Traumatic intracranial haemorrhage
+l2</ Nervous system haemorrhagic disorders >
+l2< Ocular haemorrhagic disorders >
+Acute haemorrhagic conjunctivitis
+Choroidal haematoma
+Choroidal haemorrhage
+Ciliary body haemorrhage
+Conjunctival haemorrhage
+Corneal bleeding
+Eye haematoma
+Eye haemorrhage
+Eyelid bleeding
+Eyelid haematoma
+Hyphaema
+Intraocular haematoma
+Iris haemorrhage
+Lacrimal haemorrhage
+Ocular retrobulbar haemorrhage
+Optic disc haemorrhage
+Optic nerve sheath haemorrhage
+Periorbital haematoma
+Periorbital haemorrhage
+Retinal haemorrhage
+Retinopathy haemorrhagic
+Scleral haemorrhage
+Spontaneous hyphaema
+Subretinal haematoma
+Vitreous haematoma
+Vitreous haemorrhage
+l2</ Ocular haemorrhagic disorders >
+l2< Renal haemorrhagic disorders >
+Benign familial haematuria
+Nephritis haemorrhagic
+Renal cyst haemorrhage
+Renal haematoma
+Renal haemorrhage
+Ureteric haemorrhage
+l2</ Renal haemorrhagic disorders >
+l2< Reproductive system haemorrhages >
+Breast haematoma
+Breast haemorrhage
+Broad ligament haematoma
+Cervix haematoma uterine
+Cervix haemorrhage uterine
+Genital haemorrhage
+Haematosalpinx
+Haematospermia
+Haemorrhage in pregnancy
+Haemorrhagic breast cyst
+Haemorrhagic ovarian cyst
+Induced abortion haemorrhage
+Intrapartum haemorrhage
+Ovarian haematoma
+Ovarian haemorrhage
+Pelvic haematoma
+Pelvic haematoma obstetric
+Pelvic haemorrhage
+Penile haematoma
+Penile haemorrhage
+Perineal haematoma
+Peripartum haemorrhage
+Placenta praevia haemorrhage
+Post abortion haemorrhage
+Postmenopausal haemorrhage
+Postpartum haemorrhage
+Premature separation of placenta
+Prostatic haemorrhage
+Retroplacental haematoma
+Scrotal haematocoele
+Scrotal haematoma
+Spermatic cord haemorrhage
+Subchorionic haematoma
+Subchorionic haemorrhage
+Testicular haemorrhage
+Third stage postpartum haemorrhage
+Umbilical cord haemorrhage
+Urethral haemorrhage
+Uterine haematoma
+Uterine haemorrhage
+Vaginal haematoma
+Vaginal haemorrhage
+Vulval haematoma
+Vulval haemorrhage
+l2</ Reproductive system haemorrhages >
+l1</ Vascular haemorrhagic disorders >
+l1< Vascular hypertensive disorders >
+l2< Accelerated and malignant hypertension >
+Accelerated hypertension
+Hypertensive crisis
+Hypertensive emergency
+Malignant hypertension
+Malignant hypertensive heart disease
+Malignant renal hypertension
+Tyramine reaction
+l2</ Accelerated and malignant hypertension >
+l2< Endocrine and metabolic secondary hypertension >
+Acquired apparent mineralocorticoid excess
+Acral overgrowth
+Acromegaly
+Adrenal medulla hyperfunction
+Alcoholic pseudo Cushing's syndrome
+Apparent mineralocorticoid excess
+Cushing's syndrome
+Endocrine hypertension
+Hyperadrenalism
+Hyperaldosteronism
+Hypercorticoidism
+Primary hyperaldosteronism
+Pseudoaldosteronism
+Pseudophaeochromocytoma
+Secondary aldosteronism
+l2</ Endocrine and metabolic secondary hypertension >
+l2< Hypertension complications >
+Angiosclerosis
+Hypertensive angiopathy
+Hypertensive cardiomegaly
+Hypertensive cardiomyopathy
+Hypertensive cerebrovascular disease
+Hypertensive encephalopathy
+Hypertensive end-organ damage
+Hypertensive heart disease
+Hypertensive nephropathy
+Retinopathy hypertensive
+l2</ Hypertension complications >
+l2< Portal hypertensions >
+Banti's syndrome
+Gallbladder varices
+Hepatic fibrosis
+Hepatic steato-fibrosis
+Non-cirrhotic portal hypertension
+Portal fibrosis
+Portal hypertension
+Portal hypertensive colopathy
+Portal hypertensive enteropathy
+Portal hypertensive gastropathy
+Portal shunt
+Portal vein dilatation
+Splenic varices
+Splenorenal shunt
+Varicose veins of abdominal wall
+l2</ Portal hypertensions >
+l2< Pregnancy associated hypertension >
+Eclampsia
+Gestational hypertension
+HELLP syndrome
+Pre-eclampsia
+l2</ Pregnancy associated hypertension >
+l2< Pulmonary hypertensions >
+Alveolar capillary dysplasia
+Cor pulmonale
+Cor pulmonale acute
+Cor pulmonale chronic
+Portopulmonary hypertension
+Pulmonary arterial hypertension
+Pulmonary artery wall hypertrophy
+Pulmonary hypertension
+Pulmonary hypertensive crisis
+Right ventricular hypertension
+Right-to-left cardiac shunt
+l2</ Pulmonary hypertensions >
+l2< Renal hypertensions >
+Liddle's syndrome
+Page kidney
+Renal hypertension
+Renovascular hypertension
+Scleroderma renal crisis
+l2</ Renal hypertensions >
+l2< Vascular hypertensive disorders NEC >
+Autonomic dysreflexia
+Cushingoid
+Diastolic hypertension
+Essential hypertension
+Hyperadrenocorticism
+Hypertension
+Hypertension neonatal
+Labile hypertension
+Maternal hypertension affecting foetus
+Metabolic syndrome
+Neurogenic hypertension
+Orthostatic hypertension
+Paradoxical pressor response
+Prehypertension
+Procedural hypertension
+Secondary hypertension
+Supine hypertension
+Systolic hypertension
+Withdrawal hypertension
+l2</ Vascular hypertensive disorders NEC >
+l1</ Vascular hypertensive disorders >
+l1< Vascular inflammations >
+l2< Aortic inflammatory disorders >
+Aortitis
+Aortitis salmonella
+Aortitis syphilitic
+Infective aortitis
+l2</ Aortic inflammatory disorders >
+l2< Arterial inflammations >
+Arteritis
+Arteritis coronary
+Arteritis infective
+Cerebral arteritis
+Diabetic arteritis
+Kawasaki's disease
+Renal arteritis
+Takayasu's arteritis
+Temporal arteritis
+l2</ Arterial inflammations >
+l2< Phlebitis NEC >
+Administration site phlebitis
+Application site phlebitis
+Catheter site phlebitis
+Implant site phlebitis
+Infusion site phlebitis
+Injection site phlebitis
+Medical device site phlebitis
+Periphlebitis
+Phlebitis
+Phlebitis deep
+Phlebitis infective
+Phlebitis superficial
+Portal vein phlebitis
+Septic phlebitis
+Stoma site phlebitis
+Vaccination site phlebitis
+Vessel puncture site phlebitis
+l2</ Phlebitis NEC >
+l2< Vasculitides NEC >
+Acute haemorrhagic oedema of infancy
+Administration site vasculitis
+Angiopathic neuropathy
+Anti-neutrophil cytoplasmic antibody positive vasculitis
+Application site vasculitis
+Behcet's syndrome
+Capillaritis
+Catheter site vasculitis
+Cogan's syndrome
+Cryoglobulinaemia
+Cutaneous vasculitis
+Diffuse vasculitis
+Eosinophilic granulomatosis with polyangiitis
+Erythema induratum
+Granulomatosis with polyangiitis
+Haemorrhagic vasculitis
+Hypersensitivity vasculitis
+Infusion site vasculitis
+Injection site vasculitis
+IRVAN syndrome
+Lupus vasculitis
+MAGIC syndrome
+Medical device site vasculitis
+Microscopic polyangiitis
+Nodular vasculitis
+Ocular vasculitis
+Palpable purpura
+Polyarteritis nodosa
+Pseudovasculitis
+Radiation vasculitis
+Renal vasculitis
+Rheumatoid vasculitis
+Segmented hyalinising vasculitis
+Septic vasculitis
+Stoma site vasculitis
+Susac's syndrome
+Thromboangiitis obliterans
+Type 2 lepra reaction
+Urticarial vasculitis
+Vaccination site vasculitis
+Vasculitic rash
+Vasculitic ulcer
+Vasculitis
+Vasculitis cerebral
+Vasculitis gastrointestinal
+Vasculitis necrotising
+Viral vasculitis
+l2</ Vasculitides NEC >
+l1</ Vascular inflammations >
+l1< Vascular injuries >
+l2< Arterial and aortic injuries >
+Aortic injury
+Aortic perforation
+Arterial injury
+Arterial perforation
+Basilar artery perforation
+Carotid artery perforation
+Cerebral artery perforation
+Femoral artery perforation
+Iliac artery perforation
+Lower limb artery perforation
+Renal artery perforation
+Splenic artery perforation
+Subclavian artery perforation
+Vertebral artery perforation
+l2</ Arterial and aortic injuries >
+l2< Vascular injuries NEC >
+Vascular injury
+Vessel perforation
+l2</ Vascular injuries NEC >
+l2< Venous and vena caval injuries >
+Femoral vein perforation
+Iliac vein perforation
+Inferior vena cava perforation
+Subclavian vein perforation
+Superior vena cava perforation
+Vena cava injury
+Venous injury
+Venous perforation
+l2</ Venous and vena caval injuries >
+l1</ Vascular injuries >
+l1< Venous varices >
+l2< Gastrointestinal varicosities and haemorrhoids >
+Anorectal varices
+Anorectal varices haemorrhage
+Duodenal varices
+Gastric varices
+Haemorrhoid infection
+Haemorrhoidal haemorrhage
+Haemorrhoids
+Haemorrhoids thrombosed
+Intestinal varices
+Peripancreatic varices
+Stomal varices
+Varices oesophageal
+Varicose veins sublingual
+White nipple sign
+l2</ Gastrointestinal varicosities and haemorrhoids >
+l2< Reproductive system varicosities >
+Congenital varicocele
+Prostatic varices
+Scrotal varicose veins
+Varicocele
+Varicocele ovarian
+Varicocele utero-ovarian
+Varicose veins pelvic
+Varicose veins vaginal
+Varicose veins vulval
+l2</ Reproductive system varicosities >
+l2< Varicose veins NEC >
+Bleeding varicose vein
+Bronchial varices
+Endocardial varices
+Infected varicose vein
+Nasal varices
+Renal vein varices
+Spider vein
+Stasis dermatitis
+Thrombosed varicose vein
+Varicophlebitis
+Varicose ulceration
+Varicose vein
+Varicose vein ruptured
+Venous valve ruptured
+l2</ Varicose veins NEC >
+l1</ Venous varices >
+l0</ Vascular disorders>

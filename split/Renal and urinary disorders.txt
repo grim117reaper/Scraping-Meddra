@@ -1,0 +1,816 @@
+l0< Renal and urinary disorders>
+l1< Bladder and bladder neck disorders (excl calculi) >
+l2< Bladder disorders NEC >
+Bladder agenesis
+Bladder dilatation
+Bladder disorder
+Bladder diverticulum
+Bladder dysplasia
+Bladder fibrosis
+Bladder granuloma
+Bladder hypertrophy
+Bladder injury
+Bladder leukoplakia
+Bladder malposition acquired
+Bladder mass
+Bladder metaplasia
+Bladder neck obstruction
+Bladder neck sclerosis
+Bladder necrosis
+Bladder obstruction
+Bladder outlet obstruction
+Bladder perforation
+Bladder prolapse
+Bladder stenosis
+Bladder telangiectasia
+Bladder trabeculation
+Bladder wall calcification
+Chemical cystitis
+Colpocele
+Congenital bladder anomaly
+Congenital bladder diverticulum
+Congenital bladder neck obstruction
+Congenital ectopic bladder
+Cystocele
+Enterovesical fistula
+Reduced bladder capacity
+Stenosis trigone urinary bladder
+Urachal abnormality
+Urinary bladder atrophy
+Urinary bladder haemorrhage
+Urinary bladder rupture
+Urinary bladder toxicity
+Urinary bladder varices
+Vesical fistula
+Vesicocutaneous fistula
+l2</ Bladder disorders NEC >
+l2< Bladder infections and inflammations >
+Adenoviral haemorrhagic cystitis
+Allergic cystitis
+Bladder candidiasis
+Bladder diverticulitis
+Cystitis
+Cystitis bacterial
+Cystitis erosive
+Cystitis escherichia
+Cystitis glandularis
+Cystitis gonococcal
+Cystitis haemorrhagic
+Cystitis helminthic
+Cystitis interstitial
+Cystitis klebsiella
+Cystitis noninfective
+Cystitis pseudomonal
+Cystitis radiation
+Cystitis ulcerative
+Cystitis viral
+Emphysematous cystitis
+Eosinophilic cystitis
+Fungal cystitis
+Lupus cystitis
+Malacoplakia vesicae
+Schistosomiasis bladder
+Trigonitis
+Tuberculosis bladder
+Urinary bladder abscess
+Viral haemorrhagic cystitis
+l2</ Bladder infections and inflammations >
+l2< Bladder neoplasms >
+Benign neoplasm of bladder
+Bladder adenocarcinoma recurrent
+Bladder adenocarcinoma stage 0
+Bladder adenocarcinoma stage I
+Bladder adenocarcinoma stage II
+Bladder adenocarcinoma stage III
+Bladder adenocarcinoma stage IV
+Bladder adenocarcinoma stage unspecified
+Bladder cancer
+Bladder cancer recurrent
+Bladder cancer stage 0, with cancer in situ
+Bladder cancer stage 0, without cancer in situ
+Bladder cancer stage I, with cancer in situ
+Bladder cancer stage I, without cancer in situ
+Bladder cancer stage II
+Bladder cancer stage III
+Bladder cancer stage IV
+Bladder cyst
+Bladder neoplasm
+Bladder papilloma
+Bladder squamous cell carcinoma recurrent
+Bladder squamous cell carcinoma stage 0
+Bladder squamous cell carcinoma stage I
+Bladder squamous cell carcinoma stage II
+Bladder squamous cell carcinoma stage III
+Bladder squamous cell carcinoma stage IV
+Bladder squamous cell carcinoma stage unspecified
+Bladder transitional cell carcinoma
+Bladder transitional cell carcinoma metastatic
+Bladder transitional cell carcinoma recurrent
+Bladder transitional cell carcinoma stage 0
+Bladder transitional cell carcinoma stage I
+Bladder transitional cell carcinoma stage II
+Bladder transitional cell carcinoma stage III
+Bladder transitional cell carcinoma stage IV
+Metastases to bladder
+Metastatic carcinoma of the bladder
+Neuroendocrine carcinoma of the bladder
+Urinary bladder adenoma
+Urinary bladder polyp
+Urinary bladder sarcoma
+l2</ Bladder neoplasms >
+l2< Bladder reflux conditions >
+Congenital ureterovesical junction anomaly
+Congenital vesicoureteric reflux
+Vesicoureteric reflux
+l2</ Bladder reflux conditions >
+l2< Myoneurogenic bladder disorders >
+Adult polyglucosan body disease
+Atonic urinary bladder
+Automatic bladder
+Bladder dysfunction
+Bladder sphincter atony
+Contracted bladder
+Detrusor sphincter dyssynergia
+Diabetic cystopathy
+Hypertonic bladder
+Hypotonic urinary bladder
+Loss of bladder sensation
+Neurogenic bladder
+Tethered cord syndrome
+l2</ Myoneurogenic bladder disorders >
+l1</ Bladder and bladder neck disorders (excl calculi) >
+l1< Genitourinary tract disorders NEC >
+l2< Congenital genitourinary tract anomalies NEC >
+Berdon's syndrome
+CHARGE syndrome
+Cloacal exstrophy
+Congenital genitourinary abnormality
+Delayed foetal renal development
+Eagle Barrett syndrome
+Foetal megacystis
+Fraser syndrome
+Hand-foot-genital syndrome
+Persistent cloaca
+Persistent urogenital sinus
+Sirenomelia
+Urethral atresia
+Urinary tract malformation
+l2</ Congenital genitourinary tract anomalies NEC >
+l2< Genital and urinary tract disorders NEC >
+Benign genitourinary tract neoplasm
+Benign urinary tract neoplasm
+Congenital urinary tract obstruction
+Female genital tract fistula
+Foreign body in urogenital tract
+Genitourinary melanoma
+Genitourinary symptom
+Genitourinary tract neoplasm
+Hollow visceral myopathy
+Male genital tract fistula
+Malignant genitourinary tract neoplasm
+Malignant neoplasm of renal pelvis
+Malignant urinary tract neoplasm
+Metastases to urinary tract
+Pelvic organ injury
+Prostatic obstruction
+Somatoform genitourinary disorder
+Transitional cell cancer of renal pelvis and ureter metastatic
+Transitional cell cancer of the renal pelvis and ureter
+Transitional cell cancer of the renal pelvis and ureter localised
+Transitional cell cancer of the renal pelvis and ureter recurrent
+Transitional cell cancer of the renal pelvis and ureter regional
+Transitional cell carcinoma
+Transitional cell carcinoma metastatic
+Transitional cell carcinoma recurrent
+Urinary ascites
+Urinary fistula
+Urinary tract carcinoma in situ
+Urinary tract disorder
+Urinary tract neoplasm
+Urinary tract obstruction
+Urinary tract polyp
+Urinary tract stoma complication
+Urinoma
+Urogenital atrophy
+Urogenital disorder
+Urogenital fistula
+Urogenital haemorrhage
+Urogenital prolapse
+Urostomy complication
+l2</ Genital and urinary tract disorders NEC >
+l2< Genitourinary tract infections and inflammations NEC >
+Cytomegalovirus urinary tract infection
+Escherichia urinary tract infection
+Genitourinary chlamydia infection
+Genitourinary tract gonococcal infection
+Genitourinary tract infection
+Purple urine bag syndrome
+Pyelocystitis
+Reiter's syndrome
+Schistosomiasis
+Streptococcal urinary tract infection
+Tuberculosis of genitourinary system
+Urachal abscess
+Urinary tract abscess
+Urinary tract infection
+Urinary tract infection bacterial
+Urinary tract infection enterococcal
+Urinary tract infection fungal
+Urinary tract infection neonatal
+Urinary tract infection pseudomonal
+Urinary tract infection staphylococcal
+Urinary tract infection viral
+Urinary tract inflammation
+Urogenital infection bacterial
+Urogenital infection fungal
+Urogenital trichomoniasis
+Urosepsis
+l2</ Genitourinary tract infections and inflammations NEC >
+l1</ Genitourinary tract disorders NEC >
+l1< Nephropathies >
+l2< Glomerulonephritis and nephrotic syndrome >
+Alport's syndrome
+Benign familial haematuria
+C3 glomerulopathy
+Chronic autoimmune glomerulonephritis
+Congenital nephrotic syndrome
+Denys-Drash syndrome
+Fibrillary glomerulonephritis
+Focal segmental glomerulosclerosis
+Frasier syndrome
+Glomerulonephritis
+Glomerulonephritis acute
+Glomerulonephritis chronic
+Glomerulonephritis membranoproliferative
+Glomerulonephritis membranous
+Glomerulonephritis minimal lesion
+Glomerulonephritis proliferative
+Glomerulonephritis rapidly progressive
+Goodpasture's syndrome
+Granulomatosis with polyangiitis
+Henoch-Schonlein purpura nephritis
+Hepatitis virus-associated nephropathy
+HIV associated nephropathy
+IgA nephropathy
+IgM nephropathy
+Immunotactoid glomerulonephritis
+Mesangioproliferative glomerulonephritis
+Microscopic polyangiitis
+Nephritic syndrome
+Nephritis allergic
+Nephrotic syndrome
+Paraneoplastic glomerulonephritis
+Paraneoplastic nephrotic syndrome
+Post infection glomerulonephritis
+Post streptococcal glomerulonephritis
+Pulmonary renal syndrome
+l2</ Glomerulonephritis and nephrotic syndrome >
+l2< Nephritis NEC >
+Acute focal bacterial nephritis
+Autoimmune nephritis
+Cytomegalovirus nephritis
+Lupus nephritis
+Nephritis
+Nephritis haemorrhagic
+Nephritis radiation
+Perinephritis
+Tubulointerstitial nephritis
+Tubulointerstitial nephritis and uveitis syndrome
+l2</ Nephritis NEC >
+l2< Nephropathies and tubular disorders NEC >
+Acute phosphate nephropathy
+Bartter's syndrome
+Congenital nephrogenic diabetes insipidus
+Crystal nephropathy
+Cystinosis
+Dent's disease
+Diabetic nephropathy
+Diffuse mesangial sclerosis
+Familial hypocalciuric hypercalcaemia
+Familial renal glycosuria
+Fanconi syndrome
+Fanconi syndrome acquired
+Gitelman's syndrome
+Glomerulonephropathy
+Glomerulosclerosis
+Hypercalcaemic nephropathy
+Intercapillary glomerulosclerosis
+Liddle's syndrome
+Myeloma cast nephropathy
+MYH9-related disease
+Nephrogenic diabetes insipidus
+Nephropathy
+Nephropathy toxic
+Nephrosclerosis
+Obstructive nephropathy
+Oculocerebrorenal syndrome
+Pigment nephropathy
+Potassium wasting nephropathy
+Primary familial hypomagnesaemia
+Pseudo-Bartter syndrome
+Reflux nephropathy
+Renal amyloidosis
+Renal glycosuria
+Renal salt-wasting syndrome
+Renal tubular acidosis
+Renal tubular atrophy
+Renal tubular disorder
+Renal tubular dysfunction
+Urate nephropathy
+l2</ Nephropathies and tubular disorders NEC >
+l1</ Nephropathies >
+l1< Renal disorders (excl nephropathies) >
+l2< Renal disorders NEC >
+Accessory kidney
+Acute allograft nephropathy
+Barakat syndrome
+Chronic allograft nephropathy
+Complications of transplanted kidney
+Congenital renal disorder
+Fluid retention
+Hypercreatininaemia
+Kidney fibrosis
+Kidney perforation
+Kidney transplant rejection
+Oedema due to renal disease
+Oedematous kidney
+Polyarteritis nodosa
+Potter's syndrome
+Renal and pancreas transplant rejection
+Renal aplasia
+Renal cell dysplasia
+Renal disorder
+Renal disorder in pregnancy
+Renal haematoma
+Renal haemorrhage
+Renal lipomatosis
+Renal mass
+Renal pelvis fistula
+Renal transplant failure
+Single functional kidney
+l2</ Renal disorders NEC >
+l2< Renal failure and impairment >
+Acute kidney injury
+Acute prerenal failure
+Anuria
+Atypical haemolytic uraemic syndrome
+Cardiorenal syndrome
+Chronic kidney disease
+Crush syndrome
+Diabetic end stage renal disease
+End stage renal disease
+Foetal renal impairment
+Haemolytic uraemic syndrome
+Hepatorenal failure
+Hepatorenal syndrome
+Nail-patella syndrome
+Neonatal anuria
+Oliguria
+Pancreatorenal syndrome
+Postoperative renal failure
+Postrenal failure
+Prerenal failure
+Propofol infusion syndrome
+Renal failure
+Renal failure neonatal
+Renal impairment
+Renal impairment neonatal
+Renal injury
+Scleroderma renal crisis
+Traumatic anuria
+l2</ Renal failure and impairment >
+l2< Renal failure complications >
+Aluminium overload
+Azotaemia
+Brown tumour
+Chronic kidney disease-mineral and bone disorder
+Coma uraemic
+Congenital oxalosis
+Destructive spondyloarthropathy
+Dialysis amyloidosis
+High turnover osteopathy
+Hyperparathyroidism secondary
+Low turnover osteopathy
+Malnutrition-inflammation-atherosclerosis syndrome
+Nephrogenic anaemia
+Nephrogenic systemic fibrosis
+Osteomalacia
+Oxalosis
+Pericarditis uraemic
+Renal rickets
+Uraemia odour
+Uraemic acidosis
+Uraemic encephalopathy
+Uraemic gastropathy
+Uraemic myopathy
+Uraemic neuropathy
+Uraemic pruritus
+Uridrosis
+l2</ Renal failure complications >
+l2< Renal hypertension and related conditions >
+Eclampsia
+Hypertensive nephropathy
+Malignant renal hypertension
+Page kidney
+Pre-eclampsia
+Renal hypertension
+Renovascular hypertension
+l2</ Renal hypertension and related conditions >
+l2< Renal infections and inflammations (excl nephritis) >
+Bacterial pyelonephritis
+Emphysematous pyelonephritis
+Escherichia pyelonephritis
+Kidney infection
+Perinephric abscess
+Polyomavirus-associated nephropathy
+Pyelitis
+Pyelonephritis
+Pyelonephritis acute
+Pyelonephritis chronic
+Pyelonephritis fungal
+Pyelonephritis mycoplasmal
+Pyelonephritis viral
+Pyonephrosis
+Renal abscess
+Renal echinococciasis
+Renal graft infection
+Renal syphilis
+Renal tuberculosis
+l2</ Renal infections and inflammations (excl nephritis) >
+l2< Renal neoplasms >
+Benign renal neoplasm
+Clear cell renal cell carcinoma
+Clear cell sarcoma of the kidney
+Congenital cystic kidney disease
+Congenital renal cyst
+Hereditary leiomyomatosis renal cell carcinoma
+Hereditary papillary renal carcinoma
+Kidney angiomyolipoma
+Leukaemic infiltration renal
+Metastases to kidney
+Metastatic renal cell carcinoma
+Nephroblastoma
+Non-renal cell carcinoma of kidney
+Papillary renal cell carcinoma
+Papillary tumour of renal pelvis
+Renal adenoma
+Renal cancer
+Renal cancer metastatic
+Renal cancer recurrent
+Renal cancer stage I
+Renal cancer stage II
+Renal cancer stage III
+Renal cancer stage IV
+Renal cell carcinoma
+Renal cell carcinoma recurrent
+Renal cell carcinoma stage I
+Renal cell carcinoma stage II
+Renal cell carcinoma stage III
+Renal cell carcinoma stage IV
+Renal cyst
+Renal cyst haemorrhage
+Renal cyst infection
+Renal haemangioma
+Renal neoplasm
+Renal oncocytoma
+Rhabdoid tumour of the kidney
+l2</ Renal neoplasms >
+l2< Renal obstructive disorders >
+Congenital hydronephrosis
+Hydrocalyx
+Hydronephrosis
+Kaufman-McKusick syndrome
+Malignant urinary tract obstruction
+Pelvi-ureteric obstruction
+Schinzel-Giedion syndrome
+l2</ Renal obstructive disorders >
+l2< Renal structural abnormalities and trauma >
+Acquired cystic kidney disease
+Branchio-oto-renal syndrome
+Calyceal diverticulum
+Congenital calyceal diverticulum
+Congenital hydrocele renalis
+Congenital pyelocaliectasis
+Ectopic kidney
+Extrarenal pelvis
+Kidney contusion
+Kidney duplex
+Kidney enlargement
+Kidney hypermobility
+Kidney malformation
+Kidney malrotation
+Kidney rupture
+Kidney small
+Nephrectasia
+Nephroptosis
+Pelvic kidney
+Pyelocaliectasis
+Renal atrophy
+Renal cyst ruptured
+Renal dysplasia
+Renal fusion anomaly
+Renal hydrocele
+Renal hypertrophy
+Renal hypoplasia
+Renal malposition
+Traumatic renal injury
+l2</ Renal structural abnormalities and trauma >
+l2< Renal vascular and ischaemic conditions >
+Glomerular vascular disorder
+Ischaemic nephropathy
+Nephroangiosclerosis
+Renal aneurysm
+Renal arteriosclerosis
+Renal arteriovenous malformation
+Renal arteritis
+Renal artery arteriosclerosis
+Renal artery dissection
+Renal artery fibromuscular dysplasia
+Renal artery hyperplasia
+Renal artery occlusion
+Renal artery perforation
+Renal artery stenosis
+Renal artery thrombosis
+Renal cortical necrosis
+Renal embolism
+Renal infarct
+Renal ischaemia
+Renal necrosis
+Renal papillary necrosis
+Renal transplant torsion
+Renal tubular injury
+Renal tubular necrosis
+Renal vascular thrombosis
+Renal vasculitis
+Renal vein compression
+Renal vein embolism
+Renal vein occlusion
+Renal vein stenosis
+Renal vein thrombosis
+Renal vein varices
+Renal vessel disorder
+Splenorenal shunt
+Thrombotic microangiopathy
+l2</ Renal vascular and ischaemic conditions >
+l1</ Renal disorders (excl nephropathies) >
+l1< Ureteric disorders >
+l2< Ureteric disorders congenital >
+Congenital megaureter
+Congenital ureteric anomaly
+Congenital ureterocele
+Double ureter
+Ectopic ureter
+Ureteric atresia
+l2</ Ureteric disorders congenital >
+l2< Ureteric disorders NEC >
+Bacterial ureteritis
+Benign neoplasm of ureter
+Hydroureter
+Post procedural urine leak
+Retroperitoneal fibrosis
+Tuberculosis ureter
+Ureter abscess
+Ureteral achalasia
+Ureteral cyst
+Ureteral disorder
+Ureteral diverticulum
+Ureteral necrosis
+Ureteral neoplasm
+Ureteral polyp
+Ureteral spasm
+Ureteric anastomosis complication
+Ureteric cancer
+Ureteric cancer local
+Ureteric cancer metastatic
+Ureteric cancer recurrent
+Ureteric cancer regional
+Ureteric compression
+Ureteric dilatation
+Ureteric fistula
+Ureteric haemorrhage
+Ureteric injury
+Ureteric obstruction
+Ureteric papilloma
+Ureteric perforation
+Ureteric rupture
+Ureteric stenosis
+Ureteritis
+Ureterocele
+l2</ Ureteric disorders NEC >
+l1</ Ureteric disorders >
+l1< Urethral disorders (excl calculi) >
+l2< Congenital urethral disorders >
+Congenital urethral anomaly
+Epispadias
+Hypospadias
+Opitz-G/BBB syndrome
+Urethral valves
+l2</ Congenital urethral disorders >
+l2< Structural and obstructive urethral disorders (excl congenital) >
+Rectourethral fistula
+Stenosis of vesicourethral anastomosis
+Torsion of the urethra
+Urethral fistula
+Urethral injury
+Urethral meatus stenosis
+Urethral obstruction
+Urethral spasm
+Urethral stenosis
+Urethral stricture post infection
+Urethral stricture postoperative
+Urethral stricture traumatic
+Urethroperineal fistula
+Vaginal reflux
+l2</ Structural and obstructive urethral disorders (excl congenital) >
+l2< Urethral disorders NEC >
+Urethral atrophy
+Urethral caruncle
+Urethral dilatation
+Urethral discharge
+Urethral disorder
+Urethral haemorrhage
+Urethral intrinsic sphincter deficiency
+Urethral perforation
+Urethral prolapse
+Urethral ulcer
+l2</ Urethral disorders NEC >
+l2< Urethral infections and inflammations >
+Bacterial urethritis
+Urethral abscess
+Urethral carbuncle
+Urethral discharge syndrome
+Urethritis
+Urethritis chlamydial
+Urethritis gonococcal
+Urethritis mycoplasmal
+Urethritis noninfective
+Urethritis trichomonal
+Urethritis ureaplasmal
+l2</ Urethral infections and inflammations >
+l2< Urethral neoplasms >
+Benign neoplasm of urethra
+Malignant neoplasm of paraurethral glands
+Transitional cell carcinoma urethra
+Urethral adenoma
+Urethral cancer
+Urethral cancer metastatic
+Urethral cancer recurrent
+Urethral cyst
+Urethral melanoma metastatic
+Urethral neoplasm
+Urethral papilloma
+Urethral polyp
+l2</ Urethral neoplasms >
+l1</ Urethral disorders (excl calculi) >
+l1< Urinary tract signs and symptoms >
+l2< Bladder and urethral symptoms >
+Bladder discomfort
+Bladder irritation
+Bladder pain
+Bladder spasm
+Bladder tamponade
+Dysuria
+Enuresis
+Fowler's syndrome
+Incontinence
+Lower urinary tract symptoms
+Micturition disorder
+Micturition frequency decreased
+Micturition urgency
+Mixed incontinence
+Paruresis
+Pollakiuria
+Post micturition dribble
+Psychogenic dysuria
+Strangury
+Stress urinary incontinence
+Terminal dribbling
+Urethral pain
+Urethral syndrome
+Urge incontinence
+Urinary hesitation
+Urinary incontinence
+Urinary retention
+Urinary retention postoperative
+Urinary straining
+Urine flow decreased
+l2</ Bladder and urethral symptoms >
+l2< Urinary abnormalities >
+2-Hydroxyglutaric aciduria
+Acquired aminoaciduria
+Albuminuria
+Alkaptonuria
+Aminoaciduria
+Ammoniuria
+Anazoturia
+Aspartylglucosaminuria
+Asymptomatic bacteriuria
+Azoturia
+Bacteriuria
+Bacteriuria in pregnancy
+Bence Jones proteinuria
+Bilirubinuria
+Candiduria
+Choluria
+Chromaturia
+Chyluria
+Cryoglobulinuria
+Crystalluria
+Cylindruria
+Cystinuria
+Essential fructosuria
+Faecaluria
+Funguria
+Globulinuria
+Glycosuria
+Glycosuria during pregnancy
+Haematinuria
+Haematuria
+Haematuria traumatic
+Haemoglobinuria
+Haemosiderinuria
+Homocystinuria
+Hydroxyprolinuria
+Hypercalciuria
+Hyperchloruria
+Hyperkaliuria
+Hypermagnesuria
+Hypermethioniuria
+Hypernatriuria
+Hyperoxaluria
+Hyperphosphaturia
+Hypersthenuria
+Hyperuricosuria
+Hypocalciuria
+Hypocitraturia
+Hyponatriuria
+Hyposthenuria
+Isosthenuria
+Ketonuria
+Leukocyturia
+Lipiduria
+Loin pain haematuria syndrome
+March haemoglobinuria
+Methaemoglobinuria
+Methylmalonic aciduria
+Microalbuminuria
+Myoglobinuria
+Nitrituria
+Oroticaciduria
+Oroticaciduria congenital
+Orthostatic proteinuria
+Paroxysmal nocturnal haemoglobinuria
+Pentosuria
+Phenylketonuria
+Pneumaturia
+Porphyrinuria
+Post procedural haematuria
+Proteinuria
+Pyuria
+Semenuria
+Sterile pyuria
+Urine abnormality
+Urine odour abnormal
+Urobilinuria
+l2</ Urinary abnormalities >
+l2< Urinary tract signs and symptoms NEC >
+Bladder hyperaemia
+Costovertebral angle tenderness
+Cystitis-like symptom
+Extravasation of urine
+Flank pain
+Haemorrhage urinary tract
+Kidney congestion
+Nocturia
+Pelvic discomfort
+Pelvic pain
+Perinephric collection
+Perinephric oedema
+Periureteral collection
+Polyuria
+Postoperative pathological diuresis
+Prostatism
+Renal colic
+Renal lymphocele
+Renal pain
+Transurethral resection syndrome
+Urinary tract discomfort
+Urinary tract pain
+Urothelium erosion
+l2</ Urinary tract signs and symptoms NEC >
+l1</ Urinary tract signs and symptoms >
+l1< Urolithiases >
+l2< Renal lithiasis >
+Nephrocalcinosis
+Nephrolithiasis
+Stag horn calculus
+l2</ Renal lithiasis >
+l2< Urinary tract lithiasis (excl renal) >
+Calculus bladder
+Calculus prostatic
+Calculus urethral
+Calculus urinary
+Ureterolithiasis
+l2</ Urinary tract lithiasis (excl renal) >
+l1</ Urolithiases >
+l0</ Renal and urinary disorders>

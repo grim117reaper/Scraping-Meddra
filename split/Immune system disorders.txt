@@ -1,0 +1,759 @@
+l0< Immune system disorders>
+l1< Allergic conditions >
+l2< Allergic conditions NEC >
+Administration site hypersensitivity
+Airway remodelling
+Allergic bronchitis
+Allergic cough
+Allergic cystitis
+Allergic eosinophilia
+Allergic hepatitis
+Allergic keratitis
+Allergic myocarditis
+Allergic oedema
+Allergic otitis externa
+Allergic otitis media
+Allergic pharyngitis
+Allergic respiratory symptom
+Allergic sinusitis
+Allergic transfusion reaction
+Allergy to animal
+Allergy to arthropod bite
+Allergy to arthropod sting
+Allergy to immunoglobulin therapy
+Allergy to metals
+Allergy to plants
+Allergy to silk
+Allergy to sting
+Allergy to surgical sutures
+Allergy to venom
+Alveolitis allergic
+Application site hypersensitivity
+Arthritis allergic
+Asthma
+Asthma late onset
+Asthma-chronic obstructive pulmonary disease overlap syndrome
+Bacterial allergy
+Blepharitis allergic
+Bronchopulmonary aspergillosis allergic
+Bronchospasm
+Catheter site hypersensitivity
+Chronic actinic dermatitis
+Chronic eosinophilic rhinosinusitis
+Chronic hyperplastic eosinophilic sinusitis
+Cockroach allergy
+Dermatitis allergic
+Device allergy
+Dust allergy
+Encephalopathy allergic
+Erythema induratum
+Erythema multiforme
+Eye allergy
+Giant papillary conjunctivitis
+Human seminal plasma hypersensitivity
+Hypersensitivity
+Immediate post-injection reaction
+Implant site hypersensitivity
+Infusion site hypersensitivity
+Injection site hypersensitivity
+Instillation site hypersensitivity
+Kounis syndrome
+Laryngitis allergic
+Medical device site hypersensitivity
+Mesenteric panniculitis
+Mite allergy
+Multiple allergies
+Mycotic allergy
+Necrotising panniculitis
+Nephritis allergic
+Occupational asthma
+Panniculitis
+Parasite allergy
+Pruritus allergic
+Reactive airways dysfunction syndrome
+Scleritis allergic
+Sea bather's eruption
+Septal panniculitis
+Serum sickness
+Serum sickness-like reaction
+Severe asthma with fungal sensitisation
+Skin reaction
+Stevens-Johnson syndrome
+Stoma site hypersensitivity
+Type 1 lepra reaction
+Type 2 lepra reaction
+Type I hypersensitivity
+Type II hypersensitivity
+Type III immune complex mediated reaction
+Type IV hypersensitivity reaction
+Vaccination site hypersensitivity
+l2</ Allergic conditions NEC >
+l2< Allergies to foods, food additives, drugs and other chemicals >
+Administration related reaction
+Allergic colitis
+Allergic gastroenteritis
+Allergic reaction to excipient
+Allergic stomatitis
+Allergy to chemicals
+Allergy to fermented products
+Allergy to synthetic fabric
+Allergy to vaccine
+Aspirin-exacerbated respiratory disease
+Caffeine allergy
+Contact stomatitis
+Contrast media allergy
+Contrast media reaction
+Dermatitis contact
+Dermatitis exfoliative
+Dermatitis exfoliative generalised
+Drug eruption
+Drug hypersensitivity
+Drug reaction with eosinophilia and systemic symptoms
+Eosinophilic oesophagitis
+Fixed eruption
+Flagellate dermatitis
+Flour sensitivity
+Food allergy
+Gluten sensitivity
+Infusion related reaction
+Injection related reaction
+Iodine allergy
+Milk allergy
+Oral allergy syndrome
+Perfume sensitivity
+Reaction to azo-dyes
+Reaction to colouring
+Reaction to excipient
+Reaction to food additive
+Reaction to food colouring
+Reaction to preservatives
+Red man syndrome
+Rubber sensitivity
+Smoke sensitivity
+Solvent sensitivity
+Symmetrical drug-related intertriginous and flexural exanthema
+Therapeutic product cross-reactivity
+Toxic epidermal necrolysis
+Toxic skin eruption
+Transplantation associated food allergy
+l2</ Allergies to foods, food additives, drugs and other chemicals >
+l2< Anaphylactic and anaphylactoid responses >
+Anaphylactic reaction
+Anaphylactic shock
+Anaphylactic transfusion reaction
+Anaphylactoid reaction
+Anaphylactoid shock
+Anaphylactoid syndrome of pregnancy
+Dialysis membrane reaction
+l2</ Anaphylactic and anaphylactoid responses >
+l2< Angioedemas >
+Angioedema
+Circumoral oedema
+Eyelid oedema
+Face oedema
+Gleich's syndrome
+Hereditary angioedema
+Idiopathic angioedema
+Intestinal angioedema
+Laryngeal oedema
+Laryngotracheal oedema
+Lip oedema
+Lip swelling
+Mouth swelling
+Oculorespiratory syndrome
+Oedema mouth
+Oropharyngeal oedema
+Oropharyngeal swelling
+Periorbital oedema
+Pharyngeal oedema
+Swelling face
+Swollen tongue
+Tongue oedema
+l2</ Angioedemas >
+l2< Atopic disorders >
+Atopic cataract
+Atopic keratoconjunctivitis
+Atopy
+Conjunctivitis allergic
+Dennie-Morgan fold
+Dermatitis atopic
+Eczema herpeticum
+Eczema vaccinatum
+Kaposi's varicelliform eruption
+Nasal crease
+Perennial allergy
+Rebound atopic dermatitis
+Rhinitis allergic
+Rhinitis perennial
+Seasonal allergy
+l2</ Atopic disorders >
+l2< Urticarias >
+Administration site urticaria
+Application site urticaria
+Catheter site urticaria
+Chronic spontaneous urticaria
+Cold urticaria
+Diffuse cutaneous mastocytosis
+Haemorrhagic urticaria
+Idiopathic urticaria
+Implant site urticaria
+Infusion site urticaria
+Injection site urticaria
+Instillation site urticaria
+Mechanical urticaria
+Medical device site urticaria
+Schnitzler's syndrome
+Solar urticaria
+Urticaria
+Urticaria aquagenic
+Urticaria cholinergic
+Urticaria chronic
+Urticaria contact
+Urticaria papular
+Urticaria physical
+Urticaria pigmentosa
+Urticaria pressure
+Urticaria thermal
+Urticaria vesiculosa
+Urticaria vibratory
+Urticarial vasculitis
+Vaccination site urticaria
+l2</ Urticarias >
+l1</ Allergic conditions >
+l1< Autoimmune disorders >
+l2< Autoimmune disorders NEC >
+Alveolar proteinosis
+Ankylosing spondylitis
+Antisynthetase syndrome
+Autoimmune colitis
+Autoimmune disorder
+Autoimmune hyperlipidaemia
+Autoimmune inner ear disease
+Autoimmune lymphoproliferative syndrome
+Autoimmune myocarditis
+Autoimmune nephritis
+Autoimmune pericarditis
+Autoimmune retinopathy
+Autoimmune uveitis
+Axial spondyloarthritis
+Birdshot chorioretinopathy
+Chronic autoimmune glomerulonephritis
+Chronic gastritis
+Chronic recurrent multifocal osteomyelitis
+Coeliac disease
+Collagen disorder
+Collagen-vascular disease
+Cryofibrinogenaemia
+Cryoglobulinaemia
+Dermatomyositis
+Dressler's syndrome
+Glomerulonephritis rapidly progressive
+Goodpasture's syndrome
+Immunoglobulin G4 related disease
+Juvenile spondyloarthritis
+Keratoderma blenorrhagica
+Mixed connective tissue disease
+Myocarditis post infection
+Ocular pemphigoid
+Overlap syndrome
+Polychondritis
+Postpericardiotomy syndrome
+Pulmonary renal syndrome
+Reiter's syndrome
+Satoyoshi syndrome
+Sjogren's syndrome
+Sympathetic ophthalmia
+Testicular autoimmunity
+Undifferentiated connective tissue disease
+l2</ Autoimmune disorders NEC >
+l2< Blood autoimmune disorders >
+Antiphospholipid syndrome
+Autoimmune anaemia
+Autoimmune aplastic anaemia
+Autoimmune haemolytic anaemia
+Autoimmune neutropenia
+Autoimmune pancytopenia
+Cold type haemolytic anaemia
+Coombs positive haemolytic anaemia
+Evans syndrome
+Immune thrombocytopenic purpura
+Pernicious anaemia
+Warm type haemolytic anaemia
+l2</ Blood autoimmune disorders >
+l2< Endocrine autoimmune disorders >
+Addison's disease
+Atrophic thyroiditis
+Autoimmune endocrine disorder
+Autoimmune hypothyroidism
+Autoimmune pancreatitis
+Autoimmune thyroid disorder
+Autoimmune thyroiditis
+Basedow's disease
+Diabetic mastopathy
+Endocrine ophthalmopathy
+Hashimoto's encephalopathy
+Hashitoxicosis
+Insulin autoimmune syndrome
+Ketosis-prone diabetes mellitus
+Latent autoimmune diabetes in adults
+Lymphocytic hypophysitis
+Marine Lenhart syndrome
+Polyglandular autoimmune syndrome type I
+Polyglandular autoimmune syndrome type II
+Polyglandular autoimmune syndrome type III
+Silent thyroiditis
+Type 1 diabetes mellitus
+l2</ Endocrine autoimmune disorders >
+l2< Hepatic autoimmune disorders >
+Autoimmune hepatitis
+Biliary cirrhosis primary
+Cholangitis sclerosing
+l2</ Hepatic autoimmune disorders >
+l2< Lupus erythematosus and associated conditions >
+Acute cutaneous lupus erythematosus
+Butterfly rash
+Central nervous system lupus
+Chronic cutaneous lupus erythematosus
+Cutaneous lupus erythematosus
+Lupoid hepatic cirrhosis
+Lupus cystitis
+Lupus encephalitis
+Lupus endocarditis
+Lupus enteritis
+Lupus hepatitis
+Lupus myocarditis
+Lupus myositis
+Lupus nephritis
+Lupus pancreatitis
+Lupus pleurisy
+Lupus pneumonitis
+Lupus vasculitis
+Lupus-like syndrome
+Neonatal lupus erythematosus
+Neuropsychiatric lupus
+Pericarditis lupus
+Peritonitis lupus
+Shrinking lung syndrome
+SLE arthritis
+Subacute cutaneous lupus erythematosus
+Systemic lupus erythematosus
+Systemic lupus erythematosus rash
+l2</ Lupus erythematosus and associated conditions >
+l2< Muscular autoimmune disorders >
+Immune-mediated necrotising myopathy
+Inclusion body myositis
+Juvenile polymyositis
+Morvan syndrome
+Myasthenia gravis
+Myasthenia gravis crisis
+Myasthenia gravis neonatal
+Myasthenic syndrome
+Neuromyotonia
+Ocular myasthenia
+Polymyalgia rheumatica
+Polymyositis
+l2</ Muscular autoimmune disorders >
+l2< Nervous system autoimmune disorders >
+Acute disseminated encephalomyelitis
+Acute haemorrhagic leukoencephalitis
+Acute motor axonal neuropathy
+Acute motor-sensory axonal neuropathy
+Anti-myelin-associated glycoprotein associated polyneuropathy
+Autoimmune demyelinating disease
+Autoimmune encephalopathy
+Autoimmune neuropathy
+Bickerstaff's encephalitis
+Chronic inflammatory demyelinating polyradiculoneuropathy
+Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids
+Concentric sclerosis
+Demyelinating polyneuropathy
+Encephalitis allergic
+Encephalitis autoimmune
+Guillain-Barre syndrome
+Leukoencephalomyelitis
+Limbic encephalitis
+Multiple sclerosis
+Myelitis transverse
+Neuralgic amyotrophy
+Neuromyelitis optica spectrum disorder
+Optic neuritis
+Paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection
+POEMS syndrome
+Radiologically isolated syndrome
+Rasmussen encephalitis
+Secondary cerebellar degeneration
+Stiff leg syndrome
+Stiff person syndrome
+Susac's syndrome
+Toxic oil syndrome
+l2</ Nervous system autoimmune disorders >
+l2< Rheumatoid arthritis and associated conditions >
+Autoimmune arthritis
+Caplan's syndrome
+Cogan's syndrome
+Felty's syndrome
+Juvenile idiopathic arthritis
+Laryngeal rheumatoid arthritis
+Palindromic rheumatism
+Rheumatoid arthritis
+Rheumatoid lung
+Rheumatoid neutrophilic dermatosis
+Rheumatoid nodule
+Rheumatoid scleritis
+Rheumatoid vasculitis
+l2</ Rheumatoid arthritis and associated conditions >
+l2< Scleroderma and associated disorders >
+CREST syndrome
+Digital pitting scar
+Morphoea
+Reynold's syndrome
+Sclerodactylia
+Scleroderma
+Scleroderma associated digital ulcer
+Scleroderma renal crisis
+Scleroderma-like reaction
+Systemic scleroderma
+Systemic sclerosis pulmonary
+l2</ Scleroderma and associated disorders >
+l2< Skin autoimmune disorders NEC >
+Alopecia areata
+Autoimmune dermatitis
+Benign familial pemphigus
+Dermatitis herpetiformis
+Eosinophilic fasciitis
+Granulomatous dermatitis
+Herpes gestationis
+Interstitial granulomatous dermatitis
+Linear IgA disease
+Nephrogenic systemic fibrosis
+Palisaded neutrophilic granulomatous dermatitis
+Paraneoplastic dermatomyositis
+Paraneoplastic pemphigus
+Pemphigoid
+Pemphigus
+Pityriasis lichenoides et varioliformis acuta
+Progressive facial hemiatrophy
+Pyoderma gangrenosum
+Vitiligo
+l2</ Skin autoimmune disorders NEC >
+l1</ Autoimmune disorders >
+l1< Immune disorders NEC >
+l2< Acute and chronic sarcoidosis >
+Cardiac sarcoidosis
+Cutaneous sarcoidosis
+Heerfordt's syndrome
+Liver sarcoidosis
+Muscular sarcoidosis
+Neurosarcoidosis
+Ocular sarcoidosis
+Pulmonary sarcoidosis
+Sarcoidosis
+l2</ Acute and chronic sarcoidosis >
+l2< Amyloidoses >
+Amyloid arthropathy
+Amyloidosis
+Amyloidosis senile
+Cardiac amyloidosis
+Cerebral amyloid angiopathy
+Cutaneous amyloidosis
+Dialysis amyloidosis
+Familial amyloidosis
+Familial mediterranean fever
+Gastrointestinal amyloidosis
+Hepatic amyloidosis
+Hereditary neuropathic amyloidosis
+Primary amyloidosis
+Pulmonary amyloidosis
+Renal amyloidosis
+Secondary amyloidosis
+Tongue amyloidosis
+Tumour necrosis factor receptor-associated periodic syndrome
+l2</ Amyloidoses >
+l2< Autoinflammatory diseases >
+Autoinflammatory disease
+Blau syndrome
+CANDLE syndrome
+Chronic infantile neurological cutaneous and articular syndrome
+Cryopyrin associated periodic syndrome
+Deficiency of the interleukin-1 receptor antagonist
+Deficiency of the interleukin-36 receptor antagonist
+Familial cold autoinflammatory syndrome
+Hyper IgD syndrome
+Majeed's syndrome
+Mevalonate kinase deficiency
+Mevalonic aciduria
+Muckle-Wells syndrome
+Pyogenic sterile arthritis pyoderma gangrenosum and acne syndrome
+Still's disease
+l2</ Autoinflammatory diseases >
+l2< Blood isoimmune reactions >
+ABO haemolytic disease of newborn
+ABO incompatibility
+Acute haemolytic transfusion reaction
+Alloimmunisation
+Blood type incompatibility
+Delayed haemolytic transfusion reaction
+Delayed serologic transfusion reaction
+Haemolytic transfusion reaction
+Hypotensive transfusion reaction
+Isoimmune haemolytic disease
+Passenger lymphocyte syndrome
+Post transfusion purpura
+Refractoriness to platelet transfusion
+Rhesus haemolytic disease of newborn
+Rhesus incompatibility
+Transfusion reaction
+l2</ Blood isoimmune reactions >
+l2< Immune and associated conditions NEC >
+Acquired amegakaryocytic thrombocytopenia
+Acquired complement deficiency disease
+Acute graft versus host disease
+Acute graft versus host disease in intestine
+Acute graft versus host disease in liver
+Acute graft versus host disease in skin
+Adverse event following immunisation
+Allergic respiratory disease
+Amegakaryocytic thrombocytopenia
+Anamnestic reaction
+Aplasia pure red cell
+Arthritis enteropathic
+C3 glomerulopathy
+Central nervous system immune reconstitution inflammatory response
+Chronic graft versus host disease
+Chronic graft versus host disease in intestine
+Chronic graft versus host disease in liver
+Chronic graft versus host disease in skin
+Colitis ulcerative
+Congenital thrombocytopenia
+Crohn's disease
+Cystitis interstitial
+Cytokine release syndrome
+Cytokine storm
+Decreased immune responsiveness
+Encephalitis post varicella
+Engraftment syndrome
+Enteropathic spondylitis
+Episcleritis
+Erythema nodosum
+Erythrodermic psoriasis
+Febrile infection-related epilepsy syndrome
+Fibrillary glomerulonephritis
+Glomerulonephritis
+Graft versus host disease
+Graft versus host disease in eye
+Graft versus host disease in gastrointestinal tract
+Graft versus host disease in liver
+Graft versus host disease in lung
+Graft versus host disease in skin
+Guttate psoriasis
+Heparin-induced thrombocytopenia
+Histiocytosis haematophagic
+Hypergammaglobulinaemia
+Hypocomplementaemia
+Idiopathic interstitial pneumonia
+Idiopathic pulmonary fibrosis
+IgA nephropathy
+IgM nephropathy
+Immune reconstitution inflammatory syndrome
+Immune reconstitution inflammatory syndrome associated Kaposi's sarcoma
+Immune reconstitution inflammatory syndrome associated tuberculosis
+Immune recovery uveitis
+Immune system disorder
+Immune-mediated adverse reaction
+Immunisation reaction
+Infection masked
+Infection susceptibility increased
+Interstitial lung disease
+Iritis
+Jarisch-Herxheimer reaction
+Juvenile psoriatic arthritis
+Keratic precipitates
+Lewis-Sumner syndrome
+Mast cell activation syndrome
+Mastocytic enterocolitis
+Mazzotti reaction
+Metastatic cutaneous Crohn's disease
+Multifocal motor neuropathy
+Multiple chemical sensitivity
+Myofascitis
+Nail psoriasis
+Neonatal alloimmune thrombocytopenia
+Neuronophagia
+Neutrophil extracellular trap formation
+Paraneoplastic retinopathy
+Pathergy reaction
+Polyneuropathy in malignant disease
+Pre-engraftment immune reaction
+Proctitis ulcerative
+Pseudomononucleosis
+Psoriasis
+Psoriatic arthropathy
+Pulmonary sensitisation
+Pustular psoriasis
+Pyostomatitis vegetans
+Rebound psoriasis
+Retroperitoneal fibrosis
+Rheumatic brain disease
+Rheumatic disorder
+Rheumatic fever
+SAPHO syndrome
+Scleritis
+Sensitisation
+Sepsis syndrome
+Skin sensitisation
+Subacute sclerosing panencephalitis
+Systemic immune activation
+Systemic inflammatory response syndrome
+Systemic mastocytosis
+Tachyphylaxis
+Thymus disorder
+Thymus enlargement
+Transfusion associated graft versus host disease
+Transfusion microchimerism
+Tubulointerstitial nephritis and uveitis syndrome
+Ulcerative keratitis
+Uveitis
+Vaccination complication
+l2</ Immune and associated conditions NEC >
+l2< Transplant rejections >
+Acute allograft nephropathy
+Bone marrow transplant rejection
+Chronic allograft nephropathy
+Corneal graft rejection
+Heart transplant rejection
+Heart-lung transplant rejection
+Intestine transplant rejection
+Kidney transplant rejection
+Liver and pancreas transplant rejection
+Liver transplant rejection
+Lung transplant rejection
+Multiple organ transplant rejection
+Pancreas transplant rejection
+Renal and pancreas transplant rejection
+Renal transplant failure
+Skin graft rejection
+Transplant rejection
+l2</ Transplant rejections >
+l2< Vasculitides >
+Acute haemorrhagic oedema of infancy
+Administration site vasculitis
+Angiopathic neuropathy
+Anti-neutrophil cytoplasmic antibody positive vasculitis
+Application site vasculitis
+Behcet's syndrome
+Catheter site vasculitis
+Cutaneous vasculitis
+Diffuse vasculitis
+Eosinophilic granulomatosis with polyangiitis
+Granulomatosis with polyangiitis
+Haemorrhagic vasculitis
+Henoch-Schonlein purpura
+Henoch-Schonlein purpura nephritis
+Hypersensitivity vasculitis
+Infusion site vasculitis
+Injection site vasculitis
+Kawasaki's disease
+MAGIC syndrome
+Medical device site vasculitis
+Microscopic polyangiitis
+Nodular vasculitis
+Ocular vasculitis
+Palpable purpura
+Polyarteritis nodosa
+Pseudovasculitis
+Pulmonary vasculitis
+Renal vasculitis
+Retinal vasculitis
+Segmented hyalinising vasculitis
+Stoma site vasculitis
+Takayasu's arteritis
+Temporal arteritis
+Thromboangiitis obliterans
+Vaccination site vasculitis
+Vasculitic rash
+Vasculitic ulcer
+Vasculitis
+Vasculitis cerebral
+Vasculitis gastrointestinal
+Vasculitis necrotising
+l2</ Vasculitides >
+l1</ Immune disorders NEC >
+l1< Immunodeficiency syndromes >
+l2< Acquired immunodeficiency syndromes >
+Acquired immunodeficiency syndrome
+Acute HIV infection
+AIDS cholangiopathy
+AIDS related complex
+AIDS related complication
+AIDS retinopathy
+Congenital HIV infection
+End stage AIDS
+Enterocolitis AIDS
+HIV associated nephropathy
+HIV cardiomyopathy
+HIV enteropathy
+HIV infection
+HIV infection CDC group IV
+HIV infection CDC Group IV subgroup A
+HIV infection CDC Group IV subgroup B
+HIV infection CDC Group IV subgroup C1
+HIV infection CDC Group IV subgroup C2
+HIV infection CDC Group IV subgroup D
+HIV infection CDC Group IV subgroup E
+HIV infection WHO clinical stage III
+HIV infection WHO clinical stage IV
+HIV lipodystrophy
+HIV peripheral neuropathy
+HIV wasting syndrome
+HIV-associated neurocognitive disorder
+Human herpesvirus 8 infection
+Kaposi's sarcoma AIDS related
+Lymphoma AIDS related
+Perinatal HIV infection
+Persistent generalised lymphadenopathy
+Retroviral rebound syndrome
+Secondary immunodeficiency
+l2</ Acquired immunodeficiency syndromes >
+l2< Immunodeficiency disorders NEC >
+Cartilage-hair hypoplasia
+Cell-mediated immune deficiency
+Humoral immune defect
+Immunodeficiency
+Immunodeficiency congenital
+Immunosuppression
+Infection in an immunocompromised host
+Mycobacterium avium complex immune restoration disease
+Progressive vaccinia
+Transfusion-related immunomodulation reaction
+Trichodysplasia spinulosa
+l2</ Immunodeficiency disorders NEC >
+l2< Primary immunodeficiency syndromes >
+Activated PI3 kinase delta syndrome
+Ataxia telangiectasia
+Bruton's agammaglobulinaemia
+Chediak-Higashi syndrome
+Chronic granulomatous disease
+Combined immunodeficiency
+Complement deficiency disease
+Congenital hypogammaglobulinaemia
+DiGeorge's syndrome
+Good syndrome
+Hyper IgE syndrome
+Hyper IgM syndrome
+Hypogammaglobulinaemia
+Immunodeficiency common variable
+Interferon gamma receptor deficiency
+Myeloperoxidase deficiency
+Omenn syndrome
+Primary immunodeficiency syndrome
+Schimke immunoosseous dysplasia
+Selective IgA immunodeficiency
+Selective IgG subclass deficiency
+Selective IgM immunodeficiency
+Selective polysaccharide antibody deficiency
+Transient hypogammaglobulinaemia of infancy
+Wiskott-Aldrich syndrome
+X-linked lymphoproliferative syndrome
+l2</ Primary immunodeficiency syndromes >
+l1</ Immunodeficiency syndromes >
+l0</ Immune system disorders>

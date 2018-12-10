@@ -9,7 +9,7 @@ for g in list:
     z = ''
     for i in q[1:]:
         z = z + " " + i
-    p = "l0<" + z + ">\n"
+    p = "l0<" + z + " >\n"
     file = g + "_un.txt"
     files = open(file,'w+')
     files.write(p)

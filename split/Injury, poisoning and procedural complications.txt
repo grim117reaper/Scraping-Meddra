@@ -1,0 +1,2481 @@
+l0< Injury, poisoning and procedural complications>
+l1< Administration site reactions >
+l2< Administration site reactions NEC >
+Administration site abscess
+Administration site abscess sterile
+Administration site anaesthesia
+Administration site atrophy
+Administration site bruise
+Administration site calcification
+Administration site cellulitis
+Administration site coldness
+Administration site cyst
+Administration site dermatitis
+Administration site discharge
+Administration site discolouration
+Administration site discomfort
+Administration site dryness
+Administration site dysaesthesia
+Administration site eczema
+Administration site erosion
+Administration site erythema
+Administration site exfoliation
+Administration site extravasation
+Administration site fibrosis
+Administration site granuloma
+Administration site haematoma
+Administration site haemorrhage
+Administration site hyperaesthesia
+Administration site hypersensitivity
+Administration site hypertrichosis
+Administration site hypertrophy
+Administration site hypoaesthesia
+Administration site indentation
+Administration site induration
+Administration site infection
+Administration site inflammation
+Administration site injury
+Administration site irritation
+Administration site ischaemia
+Administration site joint discomfort
+Administration site joint effusion
+Administration site joint erythema
+Administration site joint infection
+Administration site joint inflammation
+Administration site joint movement impairment
+Administration site joint pain
+Administration site joint warmth
+Administration site laceration
+Administration site lymphadenopathy
+Administration site macule
+Administration site mass
+Administration site movement impairment
+Administration site necrosis
+Administration site nerve damage
+Administration site nodule
+Administration site odour
+Administration site oedema
+Administration site pain
+Administration site pallor
+Administration site papule
+Administration site paraesthesia
+Administration site phlebitis
+Administration site photosensitivity reaction
+Administration site plaque
+Administration site pruritus
+Administration site pustule
+Administration site rash
+Administration site reaction
+Administration site recall reaction
+Administration site scab
+Administration site scar
+Administration site streaking
+Administration site swelling
+Administration site thrombosis
+Administration site ulcer
+Administration site urticaria
+Administration site vasculitis
+Administration site vesicles
+Administration site warmth
+Malabsorption from administration site
+Oral administration complication
+Puncture site abscess
+Puncture site discharge
+Puncture site erythema
+Puncture site haemorrhage
+Puncture site hernia
+Puncture site hypoaesthesia
+Puncture site induration
+Puncture site infection
+Puncture site oedema
+Puncture site pain
+Puncture site reaction
+Puncture site swelling
+Systemic leakage
+Vessel puncture site anaesthesia
+Vessel puncture site bruise
+Vessel puncture site cellulitis
+Vessel puncture site discharge
+Vessel puncture site erythema
+Vessel puncture site haematoma
+Vessel puncture site haemorrhage
+Vessel puncture site hypoaesthesia
+Vessel puncture site induration
+Vessel puncture site infection
+Vessel puncture site inflammation
+Vessel puncture site occlusion
+Vessel puncture site pain
+Vessel puncture site paraesthesia
+Vessel puncture site phlebitis
+Vessel puncture site pruritus
+Vessel puncture site rash
+Vessel puncture site reaction
+Vessel puncture site swelling
+Vessel puncture site thrombosis
+Vessel puncture site vesicles
+l2</ Administration site reactions NEC >
+l2< Application and instillation site reactions >
+Application site abscess
+Application site abscess sterile
+Application site acne
+Application site alopecia
+Application site anaesthesia
+Application site atrophy
+Application site bruise
+Application site burn
+Application site calcification
+Application site cellulitis
+Application site coldness
+Application site cyst
+Application site dermatitis
+Application site discharge
+Application site discolouration
+Application site discomfort
+Application site dryness
+Application site dysaesthesia
+Application site eczema
+Application site erosion
+Application site erythema
+Application site exfoliation
+Application site extravasation
+Application site fibrosis
+Application site fissure
+Application site folliculitis
+Application site granuloma
+Application site haematoma
+Application site haemorrhage
+Application site hyperaesthesia
+Application site hypersensitivity
+Application site hypertrichosis
+Application site hypertrophy
+Application site hypoaesthesia
+Application site induration
+Application site infection
+Application site inflammation
+Application site injury
+Application site irritation
+Application site ischaemia
+Application site joint discomfort
+Application site joint effusion
+Application site joint erythema
+Application site joint infection
+Application site joint inflammation
+Application site joint movement impairment
+Application site joint pain
+Application site joint swelling
+Application site joint warmth
+Application site laceration
+Application site lymphadenopathy
+Application site macule
+Application site mass
+Application site movement impairment
+Application site necrosis
+Application site nerve damage
+Application site nodule
+Application site odour
+Application site oedema
+Application site pain
+Application site pallor
+Application site papules
+Application site paraesthesia
+Application site perspiration
+Application site phlebitis
+Application site photosensitivity reaction
+Application site plaque
+Application site pruritus
+Application site purpura
+Application site pustules
+Application site rash
+Application site reaction
+Application site recall reaction
+Application site scab
+Application site scar
+Application site streaking
+Application site swelling
+Application site telangiectasia
+Application site thrombosis
+Application site ulcer
+Application site urticaria
+Application site vasculitis
+Application site vesicles
+Application site warmth
+Application site wound
+Instillation site abscess
+Instillation site anaesthesia
+Instillation site atrophy
+Instillation site bruise
+Instillation site burn
+Instillation site coldness
+Instillation site complication
+Instillation site discharge
+Instillation site discolouration
+Instillation site discomfort
+Instillation site dryness
+Instillation site erosion
+Instillation site erythema
+Instillation site exfoliation
+Instillation site foreign body sensation
+Instillation site haematoma
+Instillation site haemorrhage
+Instillation site hyperaesthesia
+Instillation site hypersensitivity
+Instillation site hypoaesthesia
+Instillation site induration
+Instillation site infection
+Instillation site inflammation
+Instillation site irritation
+Instillation site lacrimation
+Instillation site necrosis
+Instillation site nodule
+Instillation site odour
+Instillation site oedema
+Instillation site pain
+Instillation site papules
+Instillation site paraesthesia
+Instillation site pruritus
+Instillation site pustules
+Instillation site rash
+Instillation site reaction
+Instillation site scab
+Instillation site swelling
+Instillation site thrombosis
+Instillation site ulcer
+Instillation site urticaria
+Instillation site vesicles
+Instillation site warmth
+Malabsorption from application site
+l2</ Application and instillation site reactions >
+l2< Implant and catheter site reactions >
+Catheter site abscess
+Catheter site bruise
+Catheter site calcification
+Catheter site cellulitis
+Catheter site coldness
+Catheter site dermatitis
+Catheter site discharge
+Catheter site discolouration
+Catheter site dryness
+Catheter site eczema
+Catheter site erosion
+Catheter site erythema
+Catheter site exfoliation
+Catheter site extravasation
+Catheter site fibrosis
+Catheter site granuloma
+Catheter site haematoma
+Catheter site haemorrhage
+Catheter site hypersensitivity
+Catheter site hypertrophy
+Catheter site hypoaesthesia
+Catheter site induration
+Catheter site infection
+Catheter site inflammation
+Catheter site injury
+Catheter site ischaemia
+Catheter site macule
+Catheter site mass
+Catheter site necrosis
+Catheter site nodule
+Catheter site oedema
+Catheter site pain
+Catheter site pallor
+Catheter site papule
+Catheter site paraesthesia
+Catheter site phlebitis
+Catheter site pruritus
+Catheter site pustule
+Catheter site rash
+Catheter site related reaction
+Catheter site scab
+Catheter site scar
+Catheter site swelling
+Catheter site thrombosis
+Catheter site ulcer
+Catheter site urticaria
+Catheter site vasculitis
+Catheter site vesicles
+Catheter site warmth
+Implant site abscess
+Implant site atrophy
+Implant site bruising
+Implant site calcification
+Implant site cellulitis
+Implant site coldness
+Implant site cyst
+Implant site dehiscence
+Implant site dermatitis
+Implant site discharge
+Implant site discolouration
+Implant site erosion
+Implant site erythema
+Implant site exfoliation
+Implant site extravasation
+Implant site fibrosis
+Implant site haematoma
+Implant site haemorrhage
+Implant site hyperaesthesia
+Implant site hypersensitivity
+Implant site hypertrophy
+Implant site hypoaesthesia
+Implant site induration
+Implant site infection
+Implant site inflammation
+Implant site irritation
+Implant site ischaemia
+Implant site mass
+Implant site necrosis
+Implant site nerve injury
+Implant site nodule
+Implant site oedema
+Implant site pain
+Implant site pallor
+Implant site papules
+Implant site paraesthesia
+Implant site phlebitis
+Implant site photosensitivity
+Implant site pruritus
+Implant site pustules
+Implant site rash
+Implant site reaction
+Implant site scar
+Implant site swelling
+Implant site thrombosis
+Implant site ulcer
+Implant site urticaria
+Implant site vesicles
+Implant site warmth
+l2</ Implant and catheter site reactions >
+l2< Infusion site reactions >
+Infusion site abscess
+Infusion site abscess sterile
+Infusion site anaesthesia
+Infusion site atrophy
+Infusion site bruising
+Infusion site calcification
+Infusion site cellulitis
+Infusion site coldness
+Infusion site cyst
+Infusion site dermatitis
+Infusion site discharge
+Infusion site discolouration
+Infusion site discomfort
+Infusion site dryness
+Infusion site dysaesthesia
+Infusion site eczema
+Infusion site erosion
+Infusion site erythema
+Infusion site exfoliation
+Infusion site extravasation
+Infusion site fibrosis
+Infusion site granuloma
+Infusion site haematoma
+Infusion site haemorrhage
+Infusion site hyperaesthesia
+Infusion site hypersensitivity
+Infusion site hypertrichosis
+Infusion site hypertrophy
+Infusion site hypoaesthesia
+Infusion site induration
+Infusion site infection
+Infusion site inflammation
+Infusion site injury
+Infusion site irritation
+Infusion site ischaemia
+Infusion site joint discomfort
+Infusion site joint effusion
+Infusion site joint erythema
+Infusion site joint infection
+Infusion site joint inflammation
+Infusion site joint movement impairment
+Infusion site joint pain
+Infusion site joint swelling
+Infusion site joint warmth
+Infusion site laceration
+Infusion site lymphadenopathy
+Infusion site macule
+Infusion site mass
+Infusion site mobility decreased
+Infusion site necrosis
+Infusion site nerve damage
+Infusion site nodule
+Infusion site oedema
+Infusion site pain
+Infusion site pallor
+Infusion site papule
+Infusion site paraesthesia
+Infusion site phlebitis
+Infusion site photosensitivity reaction
+Infusion site plaque
+Infusion site pruritus
+Infusion site pustule
+Infusion site rash
+Infusion site reaction
+Infusion site recall reaction
+Infusion site scab
+Infusion site scar
+Infusion site streaking
+Infusion site swelling
+Infusion site thrombosis
+Infusion site ulcer
+Infusion site urticaria
+Infusion site vasculitis
+Infusion site vesicles
+Infusion site warmth
+l2</ Infusion site reactions >
+l2< Injection site reactions >
+Embolia cutis medicamentosa
+Injected limb mobility decreased
+Injection site abscess
+Injection site abscess sterile
+Injection site anaesthesia
+Injection site atrophy
+Injection site bruising
+Injection site calcification
+Injection site cellulitis
+Injection site coldness
+Injection site cyst
+Injection site deformation
+Injection site dermatitis
+Injection site discharge
+Injection site discolouration
+Injection site discomfort
+Injection site dryness
+Injection site dysaesthesia
+Injection site eczema
+Injection site erosion
+Injection site erythema
+Injection site exfoliation
+Injection site extravasation
+Injection site fibrosis
+Injection site granuloma
+Injection site haematoma
+Injection site haemorrhage
+Injection site hyperaesthesia
+Injection site hypersensitivity
+Injection site hypertrichosis
+Injection site hypertrophy
+Injection site hypoaesthesia
+Injection site indentation
+Injection site induration
+Injection site infection
+Injection site inflammation
+Injection site injury
+Injection site irritation
+Injection site ischaemia
+Injection site joint discomfort
+Injection site joint effusion
+Injection site joint erythema
+Injection site joint infection
+Injection site joint inflammation
+Injection site joint movement impairment
+Injection site joint pain
+Injection site joint swelling
+Injection site joint warmth
+Injection site laceration
+Injection site lymphadenopathy
+Injection site macule
+Injection site mass
+Injection site movement impairment
+Injection site necrosis
+Injection site nerve damage
+Injection site nodule
+Injection site oedema
+Injection site pain
+Injection site pallor
+Injection site papule
+Injection site paraesthesia
+Injection site phlebitis
+Injection site photosensitivity reaction
+Injection site plaque
+Injection site pruritus
+Injection site pustule
+Injection site rash
+Injection site reaction
+Injection site recall reaction
+Injection site scab
+Injection site scar
+Injection site streaking
+Injection site swelling
+Injection site telangiectasia
+Injection site thrombosis
+Injection site ulcer
+Injection site urticaria
+Injection site vasculitis
+Injection site vesicles
+Injection site warmth
+Malabsorption from injection site
+l2</ Injection site reactions >
+l2< Vaccination site reactions >
+Extensive swelling of vaccinated limb
+Robust take following exposure to vaccinia virus
+Vaccination site abscess
+Vaccination site abscess sterile
+Vaccination site anaesthesia
+Vaccination site atrophy
+Vaccination site bruising
+Vaccination site calcification
+Vaccination site cellulitis
+Vaccination site coldness
+Vaccination site cyst
+Vaccination site dermatitis
+Vaccination site discharge
+Vaccination site discolouration
+Vaccination site discomfort
+Vaccination site dryness
+Vaccination site dysaesthesia
+Vaccination site eczema
+Vaccination site erosion
+Vaccination site erythema
+Vaccination site eschar
+Vaccination site exfoliation
+Vaccination site extravasation
+Vaccination site fibrosis
+Vaccination site granuloma
+Vaccination site haematoma
+Vaccination site haemorrhage
+Vaccination site hyperaesthesia
+Vaccination site hypersensitivity
+Vaccination site hypertrichosis
+Vaccination site hypertrophy
+Vaccination site hypoaesthesia
+Vaccination site induration
+Vaccination site infection
+Vaccination site inflammation
+Vaccination site injury
+Vaccination site irritation
+Vaccination site ischaemia
+Vaccination site joint discomfort
+Vaccination site joint effusion
+Vaccination site joint erythema
+Vaccination site joint infection
+Vaccination site joint inflammation
+Vaccination site joint movement impairment
+Vaccination site joint pain
+Vaccination site joint swelling
+Vaccination site joint warmth
+Vaccination site laceration
+Vaccination site lymphadenopathy
+Vaccination site macule
+Vaccination site mass
+Vaccination site movement impairment
+Vaccination site necrosis
+Vaccination site nerve damage
+Vaccination site nodule
+Vaccination site oedema
+Vaccination site pain
+Vaccination site pallor
+Vaccination site papule
+Vaccination site paraesthesia
+Vaccination site phlebitis
+Vaccination site photosensitivity reaction
+Vaccination site plaque
+Vaccination site pruritus
+Vaccination site pustule
+Vaccination site rash
+Vaccination site reaction
+Vaccination site recall reaction
+Vaccination site scab
+Vaccination site scar
+Vaccination site streaking
+Vaccination site swelling
+Vaccination site thrombosis
+Vaccination site ulcer
+Vaccination site urticaria
+Vaccination site vasculitis
+Vaccination site vesicles
+Vaccination site warmth
+l2</ Vaccination site reactions >
+l1</ Administration site reactions >
+l1< Bone and joint injuries >
+l2< Bone and joint injuries NEC >
+Ankle impingement
+Bursa injury
+Bursitis
+Cartilage injury
+Epiphyseal injury
+Epiphysiolysis
+Femoroacetabular impingement
+Haemarthrosis
+Infrapatellar fat pad inflammation
+Joint hyperextension
+Joint injury
+Joint microhaemorrhage
+Knee impingement syndrome
+Meniscus cyst
+Meniscus injury
+Rotator cuff syndrome
+Scapular dyskinesis
+Synovial rupture
+Traumatic arthritis
+Traumatic arthropathy
+Traumatic arthrosis
+l2</ Bone and joint injuries NEC >
+l2< Fractures and dislocations NEC >
+Atypical fracture
+Avulsion fracture
+Bone fissure
+Bone fragmentation
+Comminuted fracture
+Complicated fracture
+Compression fracture
+Fracture
+Fracture delayed union
+Fracture displacement
+Fracture infection
+Fracture nonunion
+Impacted fracture
+Joint dislocation
+Joint dislocation pathological
+Metaphyseal corner fracture
+Multiple fractures
+Open fracture
+Osteoporotic fracture
+Pathological fracture
+Pseudarthrosis
+Stress fracture
+Subchondral insufficiency fracture
+Traumatic fracture
+l2</ Fractures and dislocations NEC >
+l2< Limb fractures and dislocations >
+Ankle fracture
+Atypical femur fracture
+Clavicle fracture
+Epiphyseal fracture
+Femoral neck fracture
+Femur fracture
+Fibula fracture
+Foot fracture
+Forearm fracture
+Fracture of clavicle due to birth trauma
+Greenstick fracture
+Hand fracture
+Hip fracture
+Humerus fracture
+Limb fracture
+Lisfranc fracture
+Lower limb fracture
+Osteochondral fracture
+Patella fracture
+Radial head dislocation
+Radius fracture
+Scapula fracture
+Scapulothoracic dissociation
+Tibia fracture
+Torus fracture
+Ulna fracture
+Upper limb fracture
+Wrist fracture
+l2</ Limb fractures and dislocations >
+l2< Pelvic fractures and dislocations >
+Acetabulum fracture
+Fractured ischium
+Ilium fracture
+Pelvic fracture
+Pubis fracture
+Sacroiliac fracture
+l2</ Pelvic fractures and dislocations >
+l2< Skull fractures, facial bone fractures and dislocations >
+Craniofacial fracture
+Facial bones fracture
+Fractured skull depressed
+Jaw fracture
+Skull fracture
+Skull fractured base
+l2</ Skull fractures, facial bone fractures and dislocations >
+l2< Spinal fractures and dislocations >
+Cervical vertebral fracture
+Chance fracture
+Dislocation of vertebra
+Fractured coccyx
+Fractured sacrum
+Intervertebral disc injury
+Lumbar vertebral fracture
+Spinal compression fracture
+Spinal fracture
+Spinal fusion fracture
+Thoracic vertebral fracture
+l2</ Spinal fractures and dislocations >
+l2< Thoracic cage fractures and dislocations >
+Costal cartilage fracture
+Costochondral separation
+Dislocation of sternum
+Flail chest
+Rib fracture
+Sternal fracture
+l2</ Thoracic cage fractures and dislocations >
+l1</ Bone and joint injuries >
+l1< Exposures, chemical injuries and poisoning >
+l2< Chemical injuries >
+Bronchitis chemical
+Chemical burn
+Chemical burn of gastrointestinal tract
+Chemical burn of respiratory tract
+Chemical burn of skin
+Chemical burns of eye
+Chemical cystitis
+Chemical eye injury
+Chemical iritis
+Chemical peritonitis
+Chloracne
+Corrosive gastritis
+Corrosive oropharyngeal injury
+First degree chemical burn of skin
+Fourth degree chemical burn of skin
+Iodo acne
+Meningitis chemical
+Oesophagitis chemical
+Pneumonitis chemical
+Pulmonary oedema post fume inhalation
+Respiratory fume inhalation disorder
+Second degree chemical burn of skin
+Third degree chemical burn of skin
+l2</ Chemical injuries >
+l2< Exposures associated with pregnancy, delivery and lactation >
+Exposure during breast feeding
+Exposure during pregnancy
+Exposure via father
+Foetal exposure during delivery
+Foetal exposure during pregnancy
+Foetal exposure timing unspecified
+Maternal exposure before pregnancy
+Maternal exposure during delivery
+Maternal exposure during pregnancy
+Maternal exposure timing unspecified
+Paternal exposure before pregnancy
+Paternal exposure during pregnancy
+Paternal exposure timing unspecified
+l2</ Exposures associated with pregnancy, delivery and lactation >
+l2< Exposures to agents or circumstances NEC >
+Exposure to body fluid
+Exposure to communicable disease
+Exposure to contaminated device
+Exposure to lead
+Exposure to mould
+Exposure to radiation
+Exposure to toxic agent
+Exposure to unspecified agent
+Exposure to vaccinated person
+Exposure to violent event
+Sick building syndrome
+l2</ Exposures to agents or circumstances NEC >
+l2< Foetal and neonatal conditions associated with product exposure >
+Anaesthetic complication foetal
+Angiotensin converting enzyme inhibitor foetopathy
+Diethylstilboestrol syndrome
+Foetal alcohol syndrome
+Foetal anticonvulsant syndrome
+Foetal methotrexate syndrome
+Foetal retinoid syndrome
+Foetal warfarin syndrome
+Intoxication by breast feeding
+Maternal drugs affecting foetus
+Paternal drugs affecting foetus
+Thalidomide embryopathy
+l2</ Foetal and neonatal conditions associated with product exposure >
+l2< Non-occupational environmental exposures >
+Environmental exposure
+Exposure to allergen
+Exposure to chemical pollution
+Exposure to contaminated air
+Exposure to contaminated water
+Exposure to extreme temperature
+Exposure to noise
+Exposure to polluted soil
+Heavy exposure to ultraviolet light
+l2</ Non-occupational environmental exposures >
+l2< Occupational exposures >
+Occupational exposure to air contaminants
+Occupational exposure to dust
+Occupational exposure to extreme temperature
+Occupational exposure to noise
+Occupational exposure to product
+Occupational exposure to radiation
+Occupational exposure to toxic agent
+Occupational exposure to vibration
+Organic dust toxic syndrome
+l2</ Occupational exposures >
+l2< Pathways and sources of exposure >
+Exposure via blood
+Exposure via body fluid
+Exposure via contaminated device
+Exposure via direct contact
+Exposure via eye contact
+Exposure via ingestion
+Exposure via inhalation
+Exposure via partner
+Exposure via skin contact
+Exposure via transplant
+Exposure via unknown route
+l2</ Pathways and sources of exposure >
+l2< Poisoning and toxicity >
+Accidental poisoning
+Acquired pigmented retinopathy
+Acrodynia
+Acute generalised exanthematous pustulosis
+Acute promyelocytic leukaemia differentiation syndrome
+Alcohol induced persisting dementia
+Alcohol poisoning
+Alcoholic psychosis
+Amblyopia alcohol
+Amblyopia tobacco
+Arsenical keratosis
+Arthrotoxicity
+Bacterial food poisoning
+Bone marrow toxicity
+Carbon monoxide poisoning
+Carboxyhaemoglobinaemia
+Carcinogenicity
+Cardiotoxicity
+Cell-mediated cytotoxicity
+Chemical poisoning
+Chondrotoxicity
+Chrysiasis
+Cinchonism
+Citrate toxicity
+Cutaneous loxoscelism
+Cytotoxic cardiomyopathy
+Delirium tremens
+Dermatitis contact
+Device toxicity
+Disinfectant poisoning
+Drug-induced liver injury
+Endocrine toxicity
+Ergot poisoning
+Fluorosis
+Fluorosis dental
+Food poisoning
+Gadolinium deposition disease
+Gas poisoning
+Gastrointestinal toxicity
+Genotoxicity
+Gulf war syndrome
+Haematotoxicity
+Hepatitis toxic
+Hepatotoxicity
+Herbal toxicity
+Hyperaluminaemia
+IDH differentiation syndrome
+Idiosyncratic alcohol intoxication
+Intermediate syndrome
+Itai-itai disease
+MEK inhibitor-associated serous retinopathy
+Metal fume fever
+Metal poisoning
+Mitochondrial toxicity
+Mucosal toxicity
+Mycotoxicosis
+Myopathy toxic
+Nail toxicity
+Nasal cavity toxicity
+Neonatal complications of substance abuse
+Neonatal toxicity
+Nephropathy toxic
+Neuroleptic malignant syndrome
+Neuroleptic-induced deficit syndrome
+Neuromuscular toxicity
+Neurotoxicity
+Nicotinic stomatitis
+Ocular toxicity
+Oral toxicity
+Ototoxicity
+Pancreatic toxicity
+Petroleum distillate poisoning
+Platelet toxicity
+Poisoning
+Poisoning deliberate
+Polymer fume fever
+Pulmonary toxicity
+Reproductive toxicity
+Retinal toxicity
+Serotonin syndrome
+Skin toxicity
+Stevens-Johnson syndrome
+Substance-induced mood disorder
+Substance-induced psychotic disorder
+Teratogenicity
+Tick paralysis
+Tobacco poisoning
+Toxic cataract
+Toxic encephalopathy
+Toxic epidermal necrolysis
+Toxic leukoencephalopathy
+Toxic neuropathy
+Toxic oil syndrome
+Toxic optic neuropathy
+Toxic skin eruption
+Toxicity to various agents
+Urinary bladder toxicity
+Venom poisoning
+l2</ Poisoning and toxicity >
+l1</ Exposures, chemical injuries and poisoning >
+l1< Injuries by physical agents >
+l2< Atmospheric pressure injuries >
+Barotitis media
+Barotrauma
+Blast injury
+Decompression sickness
+Diver's cramp
+Hypobarism
+Sinus barotrauma
+l2</ Atmospheric pressure injuries >
+l2< Conditions caused by cold >
+Acrotrophodynia
+Chillblains
+Cold exposure injury
+Frostbite
+Hypothermia
+Hypothermia neonatal
+Trench foot
+l2</ Conditions caused by cold >
+l2< Heat injuries (excl thermal burns) >
+Heat cramps
+Heat exhaustion
+Heat illness
+Heat oedema
+Heat stroke
+Hyperthermia
+l2</ Heat injuries (excl thermal burns) >
+l2< Radiation injuries >
+Cerebral radiation injury
+Cystitis radiation
+Delayed effects of radiation
+Gastroenteritis radiation
+Kyphosis radiation
+Nephritis radiation
+Osteoradionecrosis
+Pharynx radiation injury
+Prompt effects of radiation
+Pulmonary radiation injury
+Radiation alopecia
+Radiation alveolitis
+Radiation associated cardiac failure
+Radiation associated haemorrhage
+Radiation associated pain
+Radiation castration
+Radiation cataract
+Radiation corneal injury
+Radiation dysphagia
+Radiation fibrosis
+Radiation fibrosis - lung
+Radiation hepatitis
+Radiation injury
+Radiation injury affecting foetus
+Radiation larynx injury
+Radiation leukopenia
+Radiation mastitis
+Radiation menopause
+Radiation mucositis
+Radiation myelopathy
+Radiation myocarditis
+Radiation necrosis
+Radiation neuropathy
+Radiation oesophagitis
+Radiation osteitis
+Radiation pericarditis
+Radiation pneumonitis
+Radiation proctitis
+Radiation proctopathy
+Radiation prostatitis
+Radiation retinopathy
+Radiation salivary gland injury
+Radiation sickness syndrome
+Radiation skin injury
+Radiation somnolence syndrome
+Radiation thyroiditis
+Radiation vasculitis
+Radiation vulvovaginitis
+Scoliosis radiation
+Stomatitis radiation
+Stroke-like migraine attacks after radiation therapy
+Sunburn
+Tracheal radiation injury
+l2</ Radiation injuries >
+l2< Thermal burns >
+Airway burns
+Burn infection
+Burn oesophageal
+Burn of internal organs
+Burn oral cavity
+Burns first degree
+Burns fourth degree
+Burns second degree
+Burns third degree
+Electrical burn
+Thermal burn
+Thermal burns of eye
+l2</ Thermal burns >
+l1</ Injuries by physical agents >
+l1< Injuries NEC >
+l2< Abdominal injuries NEC >
+Abdomen crushing
+Abdominal injury
+Abdominal wall haemorrhage
+Abdominal wall wound
+Acquired asplenia
+Adrenal gland injury
+Adrenal haematoma
+Adrenal haemorrhage
+Bile duct stenosis traumatic
+Colon injury
+Foreign body in gastrointestinal tract
+Gallbladder injury
+Gallbladder perforation
+Gastrointestinal injury
+Gastrointestinal organ contusion
+Hepatic haematoma
+Hepatic haemorrhage
+Hepatic rupture
+Intra-abdominal haemorrhage
+Liver contusion
+Liver injury
+Mesenteric haematoma
+Pancreatic contusion
+Pancreatic duct rupture
+Pancreatic injury
+Penetrating abdominal trauma
+Perforation bile duct
+Peritoneal haemorrhage
+Spleen contusion
+Splenic haematoma
+Splenic haemorrhage
+Splenic injury
+Splenic rupture
+Splenosis
+Traumatic liver injury
+Traumatic pancreatitis
+l2</ Abdominal injuries NEC >
+l2< Cardiovascular injuries >
+Aortic injury
+Aortic rupture
+Arterial injury
+Arterial rupture
+Atrial rupture
+Cardiac contusion
+Cardiac herniation
+Heart injury
+Interventricular septum rupture
+Myocardial rupture
+Vascular injury
+Vascular rupture
+Vein rupture
+Vena cava injury
+Venous injury
+Ventricle rupture
+l2</ Cardiovascular injuries >
+l2< Cerebral injuries NEC >
+Brain contusion
+Brain herniation
+Brain oedema
+Cerebral ventricular rupture
+Cerebrospinal fluid leakage
+Concussion
+Craniocerebral injury
+Decerebration
+Diffuse axonal injury
+Epidural haemorrhage
+Extra-axial haemorrhage
+Extradural haematoma
+Intracranial hypotension
+Meningorrhagia
+Oligodendrocyte injury
+Optic pathway injury
+Paroxysmal sympathetic hyperactivity
+Post-traumatic amnestic disorder
+Post-traumatic epilepsy
+Subarachnoid haematoma
+Subarachnoid haemorrhage
+Subarachnoid haemorrhage neonatal
+Subdural haematoma
+Subdural haemorrhage
+Traumatic coma
+Traumatic intracranial haematoma
+Traumatic intracranial haemorrhage
+l2</ Cerebral injuries NEC >
+l2< Chest and lung injuries NEC >
+Asbestosis
+Berylliosis
+Bronchial injury
+Byssinosis
+Capnothorax
+Chest crushing
+Chest injury
+Diaphragmatic injury
+Diaphragmatic rupture
+Drowning
+Dust inhalation pneumopathy
+Foreign body aspiration
+Foreign body in respiratory tract
+Haemothorax
+Lung perforation
+Near drowning
+Pneumoconiosis
+Pneumothorax traumatic
+Pulmonary contusion
+Silicosis
+Silicotuberculosis
+Sternal injury
+Tracheal deviation
+Tracheal injury
+Tracheal obstruction
+Traumatic haemothorax
+Traumatic lung injury
+l2</ Chest and lung injuries NEC >
+l2< Cranial nerve injuries >
+Cranial nerve injury
+Cranial nerve injury secondary to birth trauma
+Facial nerve injury due to birth trauma
+IIIrd nerve injury
+IVth nerve injury
+Optic nerve injury
+VIIIth nerve injury
+VIIth nerve injury
+VIth nerve injury
+Vth nerve injury
+XIIth nerve injury
+XIth nerve injury
+l2</ Cranial nerve injuries >
+l2< Ear injuries NEC >
+Acoustic shock
+Auricular haematoma
+Deafness occupational
+Deafness traumatic
+Ear abrasion
+Ear canal abrasion
+Ear canal injury
+Ear canal stenosis traumatic
+Ear haemorrhage
+Ear injury
+Foreign body in ear
+Traumatic ear amputation
+Tympanic membrane perforation
+l2</ Ear injuries NEC >
+l2< Eye injuries NEC >
+Aqueous humour leakage
+Blindness traumatic
+Bowman's membrane injury
+Cataract traumatic
+Chorioretinal scar
+Choroidal detachment
+Choroidal rupture
+Closed globe injury
+Commotio retinae
+Conjunctival abrasion
+Conjunctival laceration
+Conjunctival retraction
+Conjunctival scar
+Corneal abrasion
+Corneal perforation
+Corneal scar
+Deep anterior chamber of the eye
+Enophthalmos traumatic
+Eye burns
+Eye contusion
+Eye injury
+Eye laser scar
+Eye luxation
+Eye muscle entrapment
+Eyeball avulsion
+Eyelash injury
+Eyelid contusion
+Eyelid haematoma
+Eyelid injury
+Foreign body in eye
+Glaucoma traumatic
+Hyphaema
+Injury corneal
+Injury of conjunctiva
+Iris injury
+Keratorhexis
+Lacrimal structure injury
+Lens dislocation
+Lenticular injury
+Macular rupture
+Macular scar
+Metallosis of globe
+Ocular retrobulbar haemorrhage
+Open globe injury
+Ophthalmia nodosa
+Orbital compartment syndrome
+Periorbital haematoma
+Periorbital haemorrhage
+Persistent corneal epithelial defect
+Photoelectric conjunctivitis
+Purtscher retinopathy
+Retinal detachment
+Retinal injury
+Retinal phototoxicity
+Retinal scar
+Retinal tear
+Retinopathy of prematurity
+Subretinal fluid
+Superficial injury of eye
+Traumatic iritis
+Uveal prolapse
+Vitreous detachment
+Vitreous injury
+Vitreous loss
+Vitreous prolapse
+l2</ Eye injuries NEC >
+l2< Muscle, tendon and ligament injuries >
+Aponeurosis contusion
+Epicondylitis
+Fascial rupture
+Iliolumbar syndrome
+Iliotibial band syndrome
+Joint capsule rupture
+Ligament injury
+Ligament rupture
+Ligament sprain
+Mallet finger
+Muscle contusion
+Muscle haemorrhage
+Muscle hernia
+Muscle injury
+Muscle oedema
+Muscle rupture
+Muscle strain
+Myositis ossificans circumscripta
+Pellegrini Stieda disease
+Post-traumatic neck syndrome
+Repetitive strain injury
+Sinus tarsi syndrome
+Tendon dislocation
+Tendon disorder
+Tendon injury
+Tendon rupture
+Tendonitis
+Tensor fasciae latae syndrome
+l2</ Muscle, tendon and ligament injuries >
+l2< Nerve injuries NEC >
+Complex regional pain syndrome
+Conus medullaris syndrome
+Laryngeal nerve dysfunction
+Nerve compression
+Nerve injury
+Nerve root injury
+Nerve root injury cervical
+Nerve root injury lumbar
+Nerve root injury sacral
+Nerve root injury thoracic
+Parasympathetic nerve injury
+Post-traumatic neuralgia
+Radial nerve compression
+Sympathetic nerve injury
+l2</ Nerve injuries NEC >
+l2< Non-site specific injuries NEC >
+Accident
+Accident at home
+Accident at work
+Accidental death
+Animal bite
+Animal scratch
+Arthropod bite
+Arthropod scratch
+Arthropod sting
+Asphyxia
+Birth trauma
+Bite
+Bone contusion
+Bursal haematoma
+Child maltreatment syndrome
+Crush injury
+Crush syndrome
+CT hypotension complex
+Dilutional coagulopathy
+Electric injury
+Electric shock
+Electrocution
+Eschar
+Fall
+Fat embolism
+Foreign body
+Gun shot wound
+Hair-thread tourniquet syndrome
+Human bite
+Infected bite
+Inflammation of wound
+Injury
+Injury associated with device
+Intentional self-injury
+Internal injury
+Intravascular gas
+Mucosal excoriation
+Multiple injuries
+Musculoskeletal injury
+Necrotic preservation injury of graft
+Post concussion syndrome
+Post-traumatic osteoporosis
+Post-traumatic pain
+Product package associated injury
+Road traffic accident
+Shrapnel wound
+Skeletal injury
+Snake bite
+Soft tissue foreign body
+Soft tissue injury
+Sports injury
+Stab wound
+Struck by lightning
+Traumatic amputation
+Traumatic haematoma
+Traumatic haemorrhage
+Traumatic shock
+Traumatic ulcer
+Venomous bite
+Venomous sting
+Wound
+Wound abscess
+Wound complication
+Wound contamination
+Wound haematoma
+Wound haemorrhage
+Wound infection
+Wound infection bacterial
+Wound infection fungal
+Wound infection helminthic
+Wound infection viral
+Wound necrosis
+Wound secretion
+Wound sepsis
+l2</ Non-site specific injuries NEC >
+l2< Peripheral nerve injuries >
+Axillary nerve injury
+Brachial plexus injury
+Femoral nerve injury
+Injury to brachial plexus due to birth trauma
+Lumbosacral plexus injury
+Median nerve injury
+Meralgia paraesthetica
+Musculocutaneous nerve injury
+Peripheral nerve injury
+Peroneal nerve injury
+Posterior tibial nerve injury
+Radial nerve injury
+Sciatic nerve injury
+Ulnar nerve injury
+l2</ Peripheral nerve injuries >
+l2< Renal and urinary tract injuries NEC >
+Bladder injury
+Foreign body in urogenital tract
+Haematuria traumatic
+Kidney contusion
+Kidney rupture
+Perinephric collection
+Periureteral collection
+Renal haematoma
+Renal haemorrhage
+Renal injury
+Traumatic anuria
+Traumatic renal injury
+Ureteric injury
+Ureteric rupture
+Urethral injury
+Urethral stricture traumatic
+Urinary bladder rupture
+Urinary tract injury
+l2</ Renal and urinary tract injuries NEC >
+l2< Reproductive system and breast injuries >
+Cervix injury
+Chronic villitis of unknown etiology
+External genitalia crushing
+Foreign body in reproductive tract
+Fracture of penis
+Genital contusion
+Genital injury
+Pelvic haematoma obstetric
+Penile contusion
+Penis injury
+Perineal injury
+Testicular injury
+Testicular rupture
+Uterine cervical laceration
+Uterine injury
+Uterine rupture
+Vaginal laceration
+Vulval laceration
+Vulvovaginal injury
+l2</ Reproductive system and breast injuries >
+l2< Site specific injuries NEC >
+Anal injury
+Back injury
+Breast injury
+Buttock injury
+Cephalhaematoma
+Crushing injury of trunk
+Decapitation
+Face crushing
+Face injury
+Gingival injury
+Head injury
+Keraunoparalysis
+Laryngeal haematoma
+Laryngeal haemorrhage
+Laryngeal injury
+Limb crushing injury
+Limb injury
+Limb traumatic amputation
+Lip haemorrhage
+Lip injury
+Mouth injury
+Musculoskeletal foreign body
+Nasal injury
+Neck crushing
+Neck injury
+Oesophageal injury
+Oesophageal mucosal tear
+Oesophageal rupture
+Oral contusion
+Palate injury
+Paranasal sinus injury
+Pelvic haemorrhage
+Pelvic organ injury
+Perirenal haematoma
+Pharyngeal injury
+Pseudoachalasia
+Rectal injury
+Scrotal haematoma
+Spinal column injury
+Spondylopathy traumatic
+Subgaleal haematoma
+Thyroid gland injury
+Tongue biting
+Tongue injury
+Tooth avulsion
+Tooth dislocation
+Tooth fracture
+Tooth injury
+Traumatic tooth displacement
+Traumatic torticollis
+Traumatic ulcerative granuloma with stromal eosinophilia
+Trunk injury
+l2</ Site specific injuries NEC >
+l2< Skin injuries NEC >
+Blister
+Blister infected
+Blister rupture
+Blood blister
+Contusion
+Deep dissecting haematoma
+Dermatitis artefacta
+Excoriation
+Fracture blisters
+Hair injury
+Laceration
+Nail avulsion
+Nail injury
+Needle track marks
+Post-traumatic punctate intraepidermal haemorrhage
+Scar
+Scratch
+Skin abrasion
+Skin injury
+Skin pressure mark
+Skin scar contracture
+Skin wound
+Splinter
+Subcutaneous haematoma
+l2</ Skin injuries NEC >
+l2< Spinal cord injuries NEC >
+Autonomic dysreflexia
+Brown-Sequard syndrome
+Injury to spinal cord secondary to birth trauma
+Pneumorrhachis
+Post-traumatic headache
+Prevertebral soft tissue swelling of cervical space
+Spinal cord haematoma
+Spinal cord haemorrhage
+Spinal cord herniation
+Spinal cord injury
+Spinal cord injury cauda equina
+Spinal cord injury cervical
+Spinal cord injury lumbar
+Spinal cord injury sacral
+Spinal cord injury thoracic
+Spinal epidural haematoma
+Spinal epidural haemorrhage
+Spinal shock
+Spinal subarachnoid haemorrhage
+Spinal subdural haematoma
+Spinal subdural haemorrhage
+Traumatic spinal cord compression
+l2</ Spinal cord injuries NEC >
+l1</ Injuries NEC >
+l1< Medication errors and other product use errors and issues >
+l2< Accidental exposures to product >
+Accidental device ingestion
+Accidental device ingestion by a child
+Accidental exposure to product
+Accidental exposure to product by child
+Accidental exposure to product packaging
+Accidental exposure to product packaging by child
+Intercepted accidental exposure to product by child
+l2</ Accidental exposures to product >
+l2< Medication errors, product use errors and issues NEC >
+Circumstance or information capable of leading to device use error
+Circumstance or information capable of leading to medication error
+Contraindicated device used
+Device deployment issue
+Device difficult to use
+Device use error
+Device use issue
+Device used for unapproved schedule
+Dose calculation error
+Drug effective for unapproved indication
+Drug ineffective for unapproved indication
+Drug titration error
+Expired device used
+Inadequate aseptic technique in use of product
+Incorrect disposal of product
+Intercepted medication error
+Medication error
+Multiple use of single-use product
+Poor quality device used
+Prescription drug used without a prescription
+Product advertising issue
+Product substitution error
+Product use complaint
+Product use in unapproved indication
+Product use issue
+Therapeutic product effective for unapproved indication
+Therapeutic product ineffective for unapproved indication
+Unintentional medical device removal
+Unintentional use for unapproved indication
+Vaccination error
+Wrong device used
+Wrong dosage form
+Wrong dose
+Wrong drug
+Wrong schedule
+Wrong strength
+Wrong technique in device usage process
+Wrong technique in product usage process
+l2</ Medication errors, product use errors and issues NEC >
+l2< Product administration errors and issues >
+Accidental overdose
+Accidental underdose
+Accidental use of placebo
+Booster dose missed
+Contraindicated product administered
+Counterfeit drug administered
+Drug administered at inappropriate site
+Drug administered in wrong device
+Drug administered to patient of inappropriate age
+Drug administration error
+Drug dose omission
+Drug dose titration not performed
+Expired product administered
+Extra dose administered
+Inappropriate schedule of drug administration
+Incomplete course of vaccination
+Incorrect dosage administered
+Incorrect dose administered
+Incorrect dose administered by device
+Incorrect drug administration duration
+Incorrect drug administration rate
+Incorrect drug dosage form administered
+Incorrect product formulation administered
+Incorrect route of drug administration
+Intercepted drug administration error
+Lack of administration site rotation
+Lack of application site rotation
+Lack of infusion site rotation
+Lack of injection site rotation
+Lack of vaccination site rotation
+Paravenous drug administration
+Poor quality drug administered
+Wrong drug administered
+Wrong patient received medication
+l2</ Product administration errors and issues >
+l2< Product confusion errors and issues >
+Product appearance confusion
+Product dosage form confusion
+Product label confusion
+Product name confusion
+Product packaging confusion
+l2</ Product confusion errors and issues >
+l2< Product dispensing errors and issues >
+Drug dispensed to wrong patient
+Drug dispensing error
+Intercepted drug dispensing error
+Wrong device dispensed
+l2</ Product dispensing errors and issues >
+l2< Product monitoring errors and issues >
+Device monitoring procedure not performed
+Documented hypersensitivity to administered product
+Drug monitoring procedure incorrectly performed
+Drug monitoring procedure not performed
+Intercepted product monitoring error
+Labelled drug-disease interaction medication error
+Labelled drug-drug interaction medication error
+Labelled drug-food interaction medication error
+Medical device monitoring error
+Medication monitoring error
+Therapeutic drug monitoring analysis incorrectly performed
+Therapeutic drug monitoring analysis not performed
+l2</ Product monitoring errors and issues >
+l2< Product preparation errors and issues >
+Intercepted product preparation error
+Product preparation error
+l2</ Product preparation errors and issues >
+l2< Product prescribing errors and issues >
+Contraindicated drug prescribed
+Dietary supplement prescribing error
+Drug prescribing error
+Inappropriate prescribing
+Intercepted drug prescribing error
+l2</ Product prescribing errors and issues >
+l2< Product selection errors and issues >
+Intercepted product selection error
+Intercepted wrong patient selected
+Product selection error
+l2</ Product selection errors and issues >
+l2< Product storage errors and issues in the product use system >
+Intercepted product storage error
+Product storage error
+l2</ Product storage errors and issues in the product use system >
+l2< Product transcribing errors and communication issues >
+Product communication issue
+Transcription medication error
+l2</ Product transcribing errors and communication issues >
+l1</ Medication errors and other product use errors and issues >
+l1< Off label uses and intentional product misuses/use issues >
+l2< Intentional product misuses >
+Intentional device misuse
+Intentional product misuse
+l2</ Intentional product misuses >
+l2< Intentional product use issues >
+Intentional device use issue
+Intentional dose omission
+Intentional medical device removal by patient
+Intentional product use issue
+Performance enhancing product use
+l2</ Intentional product use issues >
+l2< Off label uses >
+Off label use
+Off label use of device
+l2</ Off label uses >
+l1</ Off label uses and intentional product misuses/use issues >
+l1< Overdoses and underdoses NEC >
+l2< Overdoses NEC >
+Intentional overdose
+Overdose
+Prescribed overdose
+Radiation overdose
+l2</ Overdoses NEC >
+l2< Underdoses NEC >
+Intentional underdose
+Prescribed underdose
+Radiation underdose
+Underdose
+l2</ Underdoses NEC >
+l1</ Overdoses and underdoses NEC >
+l1< Procedural related injuries and complications NEC >
+l2< Anaesthetic complications >
+Acute postoperative sialadenitis
+Airway complication of anaesthesia
+Anaesthetic complication
+Anaesthetic complication cardiac
+Anaesthetic complication neurological
+Anaesthetic complication pulmonary
+Anaesthetic complication vascular
+Delayed recovery from anaesthesia
+Inadequate analgesia
+Neuromuscular block prolonged
+Premature recovery from anaesthesia
+Recurrence of neuromuscular blockade
+Sedation complication
+Trigemino-cardiac reflex
+Unwanted awareness during anaesthesia
+l2</ Anaesthetic complications >
+l2< Cardiac and vascular procedural complications >
+Aneurysm perforation
+Aneurysm recanalisation
+Aortic annulus rupture
+Aortic perforation
+Aortic restenosis
+Aortic root compression
+Aortitis salmonella
+Arterial bypass occlusion
+Arterial bypass stenosis
+Arterial bypass thrombosis
+Arterial intramural haematoma
+Arterial perforation
+Arterial restenosis
+Arterioenteric fistula
+Arteriovenous fistula aneurysm
+Arteriovenous fistula maturation failure
+Arteriovenous fistula occlusion
+Arteriovenous fistula site complication
+Arteriovenous fistula site haematoma
+Arteriovenous fistula site haemorrhage
+Arteriovenous fistula site infection
+Arteriovenous fistula thrombosis
+Arteriovenous graft aneurysm
+Arteriovenous graft site abscess
+Arteriovenous graft site haematoma
+Arteriovenous graft site haemorrhage
+Arteriovenous graft site infection
+Arteriovenous graft site stenosis
+Arteriovenous graft thrombosis
+Atrio-oesophageal fistula
+Basilar artery perforation
+Blue toe syndrome
+Brachiocephalic vein occlusion
+Brachiocephalic vein stenosis
+Brachiocephalic vein thrombosis
+Cardiac function disturbance postoperative
+Cardiac perforation
+Cardiac procedure complication
+Cardiac septal defect residual shunt
+Cardiac valve replacement complication
+Cardiac valve rupture
+Cardiac vein dissection
+Cardiac vein perforation
+Cardiac ventricular scarring
+Carotid artery perforation
+Cerebral aneurysm perforation
+Cerebral artery perforation
+Cerebral hyperperfusion syndrome
+Cerebral hypoperfusion
+Coronary artery compression
+Coronary artery perforation
+Coronary artery reocclusion
+Coronary artery restenosis
+Coronary bypass stenosis
+Coronary bypass thrombosis
+Coronary vascular graft occlusion
+Coronary vascular graft stenosis
+Coronary vein stenosis
+Deep vein thrombosis postoperative
+Femoral artery perforation
+Femoral vein perforation
+Heart transplant rejection
+Iliac artery perforation
+Iliac vein perforation
+Incision site vessel occlusion
+Inferior vena cava perforation
+Intraoperative cerebral artery occlusion
+Intrapericardial thrombosis
+Ischaemic contracture of the left ventricle
+Junctional ectopic tachycardia
+Lower limb artery perforation
+Lymphatic duct injury
+Lymphatic fistula
+Mitral perforation
+Myocardial oedema
+Myocardial reperfusion injury
+Paravalvular aortic regurgitation
+Peripheral arterial reocclusion
+Periprocedural myocardial infarction
+Phlebitis
+Plaque shift
+Positive vessel remodelling
+Post angioplasty restenosis
+Post embolisation syndrome
+Post procedural myocardial infarction
+Postimplantation syndrome
+Postpericardiotomy syndrome
+Procedural pneumothorax
+Renal artery perforation
+Reperfusion injury
+Shunt blood flow excessive
+Splenic artery perforation
+Structural valve deterioration
+Subclavian artery perforation
+Subclavian vein perforation
+Superior vena cava perforation
+Vascular access complication
+Vascular access malfunction
+Vascular access site bruising
+Vascular access site complication
+Vascular access site dissection
+Vascular access site haematoma
+Vascular access site haemorrhage
+Vascular access site infection
+Vascular access site inflammation
+Vascular access site occlusion
+Vascular access site oedema
+Vascular access site pain
+Vascular access site pseudoaneurysm
+Vascular access site rash
+Vascular access site rupture
+Vascular access site swelling
+Vascular access site thrombosis
+Vascular access site vesicles
+Vascular bypass dysfunction
+Vascular graft complication
+Vascular graft haemorrhage
+Vascular graft occlusion
+Vascular graft restenosis
+Vascular graft stenosis
+Vascular graft thrombosis
+Vascular procedure complication
+Vascular pseudoaneurysm
+Vascular pseudoaneurysm ruptured
+Vascular pseudoaneurysm thrombosis
+Vascular stent infection
+Vasoplegia syndrome
+Vein collapse
+Venous perforation
+Vertebral artery perforation
+Vessel perforation
+l2</ Cardiac and vascular procedural complications >
+l2< Device site reactions >
+Medical device site abscess
+Medical device site anaesthesia
+Medical device site atrophy
+Medical device site bruise
+Medical device site burn
+Medical device site calcification
+Medical device site cellulitis
+Medical device site coldness
+Medical device site cyst
+Medical device site dermatitis
+Medical device site discharge
+Medical device site discolouration
+Medical device site discomfort
+Medical device site dryness
+Medical device site dysaesthesia
+Medical device site eczema
+Medical device site erosion
+Medical device site erythema
+Medical device site exfoliation
+Medical device site extravasation
+Medical device site fibrosis
+Medical device site granuloma
+Medical device site haematoma
+Medical device site haemorrhage
+Medical device site hyperaesthesia
+Medical device site hyperhidrosis
+Medical device site hyperkeratosis
+Medical device site hypersensitivity
+Medical device site hypertrichosis
+Medical device site hypertrophy
+Medical device site hypoaesthesia
+Medical device site induration
+Medical device site infection
+Medical device site inflammation
+Medical device site injury
+Medical device site irritation
+Medical device site ischaemia
+Medical device site joint discomfort
+Medical device site joint effusion
+Medical device site joint erythema
+Medical device site joint infection
+Medical device site joint inflammation
+Medical device site joint movement impairment
+Medical device site joint pain
+Medical device site joint swelling
+Medical device site joint warmth
+Medical device site laceration
+Medical device site lymphadenopathy
+Medical device site macule
+Medical device site mass
+Medical device site movement impairment
+Medical device site necrosis
+Medical device site nerve damage
+Medical device site nodule
+Medical device site odour
+Medical device site oedema
+Medical device site pain
+Medical device site pallor
+Medical device site papule
+Medical device site paraesthesia
+Medical device site phlebitis
+Medical device site photosensitivity reaction
+Medical device site plaque
+Medical device site pruritus
+Medical device site pustule
+Medical device site rash
+Medical device site reaction
+Medical device site recall reaction
+Medical device site scab
+Medical device site scar
+Medical device site sterile abscess
+Medical device site streaking
+Medical device site swelling
+Medical device site thrombosis
+Medical device site ulcer
+Medical device site urticaria
+Medical device site vasculitis
+Medical device site vesicles
+Medical device site warmth
+l2</ Device site reactions >
+l2< Dialysis related complications >
+Aluminium overload
+Bloody peritoneal effluent
+Destructive spondyloarthropathy
+Dialysis amyloidosis
+Dialysis disequilibrium syndrome
+Dialysis membrane reaction
+Dialysis related complication
+Extensive interdialytic weight gain
+Haemodialysis complication
+Haemodialysis-induced symptom
+Inadequate haemodialysis
+Peritoneal cloudy effluent
+Peritoneal dialysis complication
+Ultrafiltration failure
+l2</ Dialysis related complications >
+l2< Endocrine procedural complications >
+Hypoinsulinaemia postoperative
+Hypoparathyroidism
+Nesidioblastosis
+Post procedural hypothyroidism
+Postoperative hypopituitarism
+Testicular failure postoperative
+Thyroid size decreased
+l2</ Endocrine procedural complications >
+l2< Eye and ear procedural complications >
+Anterior capsule contraction
+Anterior chamber collapse
+Blebitis
+Capsular block syndrome
+Cataract operation complication
+Ciliary zonular dehiscence
+Conjunctival filtering bleb leak
+Corneal endothelial cell loss
+Corneal flap complication
+Corneal graft rejection
+Cystoid macular oedema
+Diffuse lamellar keratitis
+Ear canal stenosis postoperative
+Ear operation complication
+Elschnig's bodies
+Eye operation complication
+Fat adherence syndrome
+Fibrin deposition on lens postoperative
+Floppy iris syndrome
+Iris incarceration
+Lacrimal punctum enlarged
+Loss of visual contrast sensitivity
+Malignant glaucoma
+Non-infectious endophthalmitis
+Oculocardiac reflex
+Optic nerve compression
+Posterior capsule opacification
+Posterior capsule rupture
+Pseudoendophthalmitis
+Pseudophakic bullous keratopathy
+Pseudophakic glaucoma
+Slipped extraocular muscle
+Tenon's cyst
+Toxic anterior segment syndrome
+Tympanic membrane scarring
+Uveitis-glaucoma-hyphaema syndrome
+l2</ Eye and ear procedural complications >
+l2< Gastrointestinal and hepatobiliary procedural complications >
+Abdominal adhesions
+Abdominal wound dehiscence
+Afferent loop syndrome
+Amalgam tattoo
+Anastomotic ulcer
+Anastomotic ulcer haemorrhage
+Anastomotic ulcer perforation
+Anastomotic ulcer, obstructive
+Bacterascites
+Barium impaction
+Biliary anastomosis complication
+Biliary cast syndrome
+Biliary-bronchial fistula
+Biliary-vascular fistula
+Biloma
+Colostomy infection
+Dental leakage
+Dental restoration failure
+Dumping syndrome
+Gastric fistula
+Gastric perforation
+Gastric prolapse
+Gastrointestinal anastomotic complication
+Gastrointestinal anastomotic leak
+Gastrointestinal anastomotic stenosis
+Gastrointestinal disorder postoperative
+Gastroparesis postoperative
+Gastrostomy failure
+Hepatic seroma
+Herpes simplex colitis
+Herpes simplex gastritis
+Herpes simplex oesophagitis
+Intestinal anastomosis complication
+Intestine transplant rejection
+Large intestinal ulcer perforation
+Large intestine perforation
+Liver and pancreas transplant rejection
+Liver transplant rejection
+Low anterior resection syndrome
+Mesenteric traction syndrome
+Pancreas transplant rejection
+Pancreatic leak
+Parenteral nutrition associated liver disease
+Peripancreatic fluid collection
+Peritoneal adhesions
+Peritoneal perforation
+Pharyngeal anastomotic leak
+Pneumoretroperitoneum
+Post cholecystectomy syndrome
+Post procedural bile leak
+Post procedural constipation
+Post procedural diarrhoea
+Postoperative ileus
+Pouchitis
+Procedural intestinal perforation
+Procedural nausea
+Procedural vomiting
+Rectal laceration postoperative
+Remnant gastritis
+Root canal infection
+Short-bowel syndrome
+Small intestinal ulcer perforation
+Small-for-size liver syndrome
+Varicella zoster gastritis
+Varicella zoster oesophagitis
+Wound evisceration
+l2</ Gastrointestinal and hepatobiliary procedural complications >
+l2< Induced abortion complications >
+Abortion induced complete complicated
+Abortion induced complicated
+Abortion induced incomplete
+Abortion induced incomplete complicated
+Induced abortion failed
+Induced abortion haemorrhage
+Induced abortion infection
+l2</ Induced abortion complications >
+l2< Musculoskeletal procedural complications >
+Adjacent segment degeneration
+Delayed spinal fusion
+Epidural fibrosis
+Flatback syndrome
+Inadequate osteointegration
+Incomplete spinal fusion
+Intervertebral discitis
+Joint dislocation postoperative
+Kyphosis postoperative
+Lordosis post surgical
+Loss of anatomical alignment after fracture reduction
+Periprosthetic fracture
+Periprosthetic osteolysis
+Post laminectomy syndrome
+Radiolucency around implant
+l2</ Musculoskeletal procedural complications >
+l2< Neurological and psychiatric procedural complications >
+Agitation postoperative
+Arachnoiditis
+Carotid artery restenosis
+Cerebellar mutism
+Cerebral artery restenosis
+Cerebral microembolism
+Cerebral reperfusion injury
+Cerebral ventricle collapse
+Compensatory sweating
+Confusion postoperative
+Contrast encephalopathy
+Depression postoperative
+Dural tear
+First bite syndrome
+Lumbar spinal drainage complication
+Mental status changes postoperative
+Mephisto sign
+Peroneal nerve palsy postoperative
+Pneumocephalus
+Post lumbar puncture syndrome
+Post procedural stroke
+Posterior fossa syndrome
+Postoperative delirium
+Procedural anxiety
+Procedural dizziness
+Procedural headache
+Pseudomeningocele
+Psychosis postoperative
+Traumatic lumbar puncture
+l2</ Neurological and psychiatric procedural complications >
+l2< Non-site specific procedural complications >
+Acetate intolerance
+Administration related reaction
+Air embolism
+Allergy to immunoglobulin therapy
+Anaemia postoperative
+Anastomotic complication
+Anastomotic fistula
+Anastomotic haemorrhage
+Anastomotic infection
+Anastomotic leak
+Anastomotic stenosis
+Atheroembolism
+Calcium embolism
+Complication of drug implant insertion
+Contrast media allergy
+Contrast media reaction
+Difficulty inserting drug implant
+Difficulty removing drug implant
+Drain site complication
+Dysbacteriosis
+Expulsion of medication
+Failure to anastomose
+Fat overload syndrome
+Foreign body embolism
+Haemodilution
+Hoigne's syndrome
+Iatrogenic infection
+Iatrogenic injury
+Implant tissue necrosis
+Incarcerated incisional hernia
+Incision site abscess
+Incision site cellulitis
+Incision site complication
+Incision site dermatitis
+Incision site erosion
+Incision site erythema
+Incision site haematoma
+Incision site haemorrhage
+Incision site hyperaesthesia
+Incision site hypoaesthesia
+Incision site inflammation
+Incision site oedema
+Incision site pain
+Incision site pruritus
+Incision site rash
+Incision site swelling
+Incision site ulcer
+Incision site vesicles
+Incisional hernia
+Incisional hernia gangrenous
+Incisional hernia, obstructive
+Infected seroma
+Infusion related reaction
+Injection related reaction
+Lipogranuloma
+Migration of implanted drug
+Mucocutaneous flap necrosis
+Multiple organ transplant rejection
+Needle fatigue
+Pocket erosion
+Post procedural cellulitis
+Post procedural complication
+Post procedural contusion
+Post procedural discharge
+Post procedural discomfort
+Post procedural fistula
+Post procedural haematoma
+Post procedural haemorrhage
+Post procedural infection
+Post procedural inflammation
+Post procedural oedema
+Post procedural persistent drain fluid
+Post procedural sepsis
+Post procedural swelling
+Post-injection delirium sedation syndrome
+Post-tussive vomiting
+Postoperative abscess
+Postoperative adhesion
+Postoperative fever
+Postoperative hernia
+Postoperative heterotopic calcification
+Postoperative stitch sinus
+Postoperative thrombosis
+Postoperative wound complication
+Postoperative wound infection
+Procedural complication
+Procedural haemorrhage
+Procedural hypertension
+Procedural hypotension
+Procedural pain
+Procedural site reaction
+Puncture site cellulitis
+Renal and pancreas transplant rejection
+Reocclusion
+Seroma
+Shunt aneurysm
+Shunt infection
+Shunt malfunction
+Shunt occlusion
+Shunt stenosis
+Shunt thrombosis
+Silicon granuloma
+Sinus perforation
+Stitch abscess
+Surgical procedure repeated
+Suture related complication
+Suture rupture
+Transplant rejection
+Twiddler's syndrome
+Venous intravasation
+Wound decomposition
+Wound dehiscence
+Wound infection pseudomonas
+Wound infection staphylococcal
+l2</ Non-site specific procedural complications >
+l2< Reproductive tract and breast procedural complications >
+Asherman's syndrome
+Broad ligament tear
+Decreased embryo viability
+Delayed follicular ripening
+Failed forceps delivery
+Failed in vitro fertilisation
+Fallopian tube perforation
+Fallopian tube spasm
+Mycoplasmal postabortal fever
+Obstetric procedure complication
+Ovarian failure postoperative
+Ovarian injury
+Ovarian perforation
+Ovarian remnant syndrome
+Perineal repair breakdown
+Poor response to ovulation induction
+Post ablation tubal ligation syndrome
+Post breast therapy pain syndrome
+Postmastectomy lymphoedema syndrome
+Premature follicular ripening
+Premature ovulation
+Red breast syndrome
+Reproductive tract anastomotic leak
+Residual ovary syndrome
+Retained products of conception
+Symmastia
+Uterine adhesions
+Uterine dehiscence
+Uterine myoma expulsion
+Uterine necrosis
+Uterine perforation
+Uterine scar
+Uterine scar diverticulum
+Vaginal cuff dehiscence
+Vaginal perforation
+l2</ Reproductive tract and breast procedural complications >
+l2< Respiratory tract and thoracic cavity procedural complications >
+Bronchial anastomosis complication
+Cement embolism
+Empty nose syndrome
+Endotracheal intubation complication
+Idiopathic pneumonia syndrome
+Laryngeal necrosis
+Lung transplant rejection
+Mechanical ventilation complication
+Mediastinal effusion
+Nasal adhesions
+Post pneumonectomy syndrome
+Post procedural pneumonia
+Post procedural pulmonary embolism
+Post-thoracotomy pain syndrome
+Postoperative respiratory distress
+Postoperative respiratory failure
+Postoperative thoracic procedure complication
+Pulmonary air leakage
+Pulmonary oil microembolism
+Reexpansion pulmonary oedema
+Sternitis
+Tracheal dilatation
+Tracheal haemorrhage
+Tracheostomy infection
+Tracheostomy malfunction
+Unilateral bronchospasm
+Weaning failure
+l2</ Respiratory tract and thoracic cavity procedural complications >
+l2< Site specific procedural complications NEC >
+Axillary web syndrome
+Blood stem cell harvest failure
+Harlequin syndrome
+Peripheral artery restenosis
+Pleuroperitoneal communication
+Postsplenectomy syndrome
+Rectoprostatic fistula
+Tumour cell mobilisation
+l2</ Site specific procedural complications NEC >
+l2< Skin procedural complications >
+Dermal filler overcorrection
+Recall phenomenon
+Skin flap necrosis
+Skin graft rejection
+Subcutaneous emphysema
+Surgical skin tear
+l2</ Skin procedural complications >
+l2< Stoma complications >
+Chronic papillomatous dermatitis
+Gastrointestinal stoma complication
+Gastrointestinal stoma necrosis
+Gastrostomy tube site complication
+Stoma complication
+Stoma obstruction
+Stoma site abscess
+Stoma site candida
+Stoma site cellulitis
+Stoma site discharge
+Stoma site discomfort
+Stoma site erythema
+Stoma site extravasation
+Stoma site haemorrhage
+Stoma site hypergranulation
+Stoma site hypersensitivity
+Stoma site hypoaesthesia
+Stoma site induration
+Stoma site infection
+Stoma site inflammation
+Stoma site irritation
+Stoma site ischaemia
+Stoma site odour
+Stoma site oedema
+Stoma site pain
+Stoma site paraesthesia
+Stoma site phlebitis
+Stoma site polyp
+Stoma site pruritus
+Stoma site rash
+Stoma site reaction
+Stoma site thrombosis
+Stoma site ulcer
+Stoma site vasculitis
+Stomal hernia
+Stomal varices
+Urinary tract stoma complication
+l2</ Stoma complications >
+l2< Transfusion related complications >
+ABO incompatibility
+Acute haemolytic transfusion reaction
+Allergic transfusion reaction
+Anaphylactic transfusion reaction
+Apheresis related complication
+Blood type incompatibility
+Delayed haemolytic transfusion reaction
+Delayed serologic transfusion reaction
+Febrile nonhaemolytic transfusion reaction
+Haemochromatosis
+Haemolytic transfusion reaction
+Haemosiderosis
+Hepatitis post transfusion
+Hypotensive transfusion reaction
+Iron overload
+Isoimmune haemolytic disease
+Post transfusion purpura
+Refractoriness to platelet transfusion
+Rhesus incompatibility
+Serum sickness
+Transfusion associated graft versus host disease
+Transfusion microchimerism
+Transfusion reaction
+Transfusion related complication
+Transfusion-associated dyspnoea
+Transfusion-related acute lung injury
+Transfusion-related circulatory overload
+Transfusion-related immunomodulation reaction
+l2</ Transfusion related complications >
+l2< Transplantation complications >
+Acute graft versus host disease
+Acute graft versus host disease in intestine
+Acute graft versus host disease in liver
+Acute graft versus host disease in skin
+Blood stem cell transplant failure
+Bone graft lysis
+Bone marrow harvest failure
+Chronic graft versus host disease
+Chronic graft versus host disease in intestine
+Chronic graft versus host disease in liver
+Chronic graft versus host disease in skin
+Complications of bone marrow transplant
+Complications of intestinal transplant
+Complications of limb reattachment surgery
+Complications of transplant surgery
+Complications of transplanted heart
+Complications of transplanted kidney
+Complications of transplanted liver
+Complications of transplanted lung
+Complications of transplanted pancreas
+Delayed engraftment
+Delayed graft function
+Donor organ tissue preparation issue
+Donor site complication
+Engraft failure
+Engraftment syndrome
+Graft complication
+Graft delamination
+Graft haemorrhage
+Graft infection
+Graft ischaemia
+Graft loss
+Graft overgrowth
+Graft thrombosis
+Graft versus host disease
+Graft versus host disease in eye
+Graft versus host disease in gastrointestinal tract
+Graft versus host disease in liver
+Graft versus host disease in lung
+Graft versus host disease in skin
+Hepatic gas gangrene
+Liver graft loss
+Passenger lymphocyte syndrome
+Post transplant distal limb syndrome
+Pre-engraftment immune reaction
+Renal graft infection
+Renal transplant failure
+Renal transplant torsion
+Restrictive allograft syndrome
+Skin graft contracture
+Skin graft detachment
+Skin graft failure
+Skin graft infection
+Skin graft scar
+Skin graft scar contracture
+Transmission of an infectious agent via transplant
+Transplant abscess
+Transplant dysfunction
+Transplant failure
+Transplantation associated food allergy
+Transplantation complication
+l2</ Transplantation complications >
+l2< Urinary tract procedural complications >
+Acute allograft nephropathy
+Bladder perforation
+Chronic allograft nephropathy
+Fowler's syndrome
+Kidney transplant rejection
+Polyomavirus-associated nephropathy
+Post procedural haematuria
+Post procedural urine leak
+Postoperative pathological diuresis
+Postoperative renal failure
+Rectourethral fistula
+Renal lymphocele
+Stenosis of vesicourethral anastomosis
+Transurethral resection syndrome
+Ureteric anastomosis complication
+Ureteric perforation
+Ureterostomy site discomfort
+Urethral perforation
+Urethral stricture postoperative
+Urinary anastomotic leak
+Urinary ascites
+Urinary retention postoperative
+Urinoma
+Urostomy complication
+l2</ Urinary tract procedural complications >
+l2< Vaccination related complications >
+Adverse event following immunisation
+Allergy to vaccine
+Crying
+Disseminated Bacillus Calmette-Guerin infection
+Disseminated varicella zoster vaccine virus infection
+Eczema vaccinatum
+Encephalitis post immunisation
+Generalised vaccinia
+Hypotonic-hyporesponsive episode
+Immunisation anxiety related reaction
+Immunisation reaction
+Infection via vaccinee
+Irritability postvaccinal
+Measles post vaccine
+Post vaccination autoinoculation
+Post vaccination syndrome
+Progressive vaccinia
+Reaction to previous exposure to any vaccine
+Vaccination complication
+Vaccination failure
+Vaccine associated paralytic poliomyelitis
+Vaccine breakthrough infection
+Vaccine positive rechallenge
+Vaccine virus shedding
+Vaccinia virus infection
+Varicella post vaccine
+Yellow fever vaccine-associated neurotropic disease
+Yellow fever vaccine-associated viscerotropic disease
+l2</ Vaccination related complications >
+l1</ Procedural related injuries and complications NEC >
+l0</ Injury, poisoning and procedural complications>

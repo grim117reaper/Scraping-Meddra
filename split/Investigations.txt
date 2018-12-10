@@ -1,0 +1,5838 @@
+l0< Investigations>
+l1< Cardiac and vascular investigations (excl enzyme tests) >
+l2< Cardiac auscultatory investigations >
+Cardiac murmur
+Cardiac murmur functional
+Heart sounds
+Heart sounds abnormal
+Heart sounds normal
+l2</ Cardiac auscultatory investigations >
+l2< Cardiac function diagnostic procedures >
+Atrial pressure
+Atrial pressure increased
+Cardiac electrophysiologic study
+Cardiac electrophysiologic study abnormal
+Cardiac electrophysiologic study normal
+Cardiac function test
+Cardiac function test abnormal
+Cardiac function test normal
+Cardiac index
+Cardiac index abnormal
+Cardiac index decreased
+Cardiac index increased
+Cardiac index normal
+Cardiac monitoring
+Cardiac monitoring abnormal
+Cardiac monitoring normal
+Cardiac output
+Cardiac output decreased
+Cardiac output increased
+Cardiac pacemaker evaluation
+Cardiac pharmacologic stress test
+Cardiac stress test
+Cardiac stress test abnormal
+Cardiac stress test normal
+Cardiovascular evaluation
+Cardiovascular function test
+Cardiovascular function test abnormal
+Cardiovascular function test normal
+Central venous pressure
+Central venous pressure abnormal
+Central venous pressure decreased
+Central venous pressure increased
+Central venous pressure normal
+Decreased ventricular afterload
+Decreased ventricular preload
+Echocardiogram
+Echocardiogram abnormal
+Echocardiogram normal
+Ejection fraction
+Ejection fraction abnormal
+Ejection fraction decreased
+Ejection fraction normal
+Exercise test
+Exercise test abnormal
+Exercise test normal
+Fractional flow reserve
+Increased ventricular afterload
+Increased ventricular preload
+Intracardiac pressure increased
+Left ventricular end-diastolic pressure
+Left ventricular end-diastolic pressure decreased
+Left ventricular end-diastolic pressure increased
+Multiple gated acquisition scan
+Multiple gated acquisition scan abnormal
+Multiple gated acquisition scan normal
+Myocardial strain
+Pulmonary arterial wedge pressure
+Pulmonary arterial wedge pressure abnormal
+Pulmonary arterial wedge pressure decreased
+Pulmonary arterial wedge pressure increased
+Pulmonary arterial wedge pressure normal
+Right atrial pressure increased
+Right ventricular ejection fraction decreased
+Right ventricular systolic pressure
+Right ventricular systolic pressure decreased
+Right ventricular systolic pressure increased
+Stress echocardiogram
+Stress echocardiogram abnormal
+Stress echocardiogram normal
+Stroke volume
+Stroke volume decreased
+Stroke volume increased
+Stroke volume normal
+Tilt table test
+Tilt table test normal
+Tilt table test positive
+Transvalvular pressure gradient
+Transvalvular pressure gradient abnormal
+Transvalvular pressure gradient decreased
+Transvalvular pressure gradient increased
+Transvalvular pressure gradient normal
+Venous pressure jugular
+Venous pressure jugular abnormal
+Venous pressure jugular decreased
+Venous pressure jugular increased
+Venous pressure jugular normal
+Ventricular internal diameter
+Ventricular internal diameter abnormal
+Ventricular internal diameter normal
+Wall motion score index
+Wall motion score index abnormal
+Wall motion score index normal
+l2</ Cardiac function diagnostic procedures >
+l2< Cardiac histopathology procedures >
+Biopsy heart
+Biopsy heart abnormal
+Biopsy heart normal
+Biopsy pericardium
+Biopsy pericardium abnormal
+Biopsy pericardium normal
+Pericardial drainage test
+Pericardial drainage test abnormal
+Pericardial drainage test normal
+l2</ Cardiac histopathology procedures >
+l2< Cardiac imaging procedures >
+Arteriogram coronary
+Arteriogram coronary abnormal
+Arteriogram coronary normal
+Cardiac imaging procedure
+Cardiac imaging procedure abnormal
+Cardiac imaging procedure normal
+Cardiac ventriculogram
+Cardiac ventriculogram abnormal
+Cardiac ventriculogram left
+Cardiac ventriculogram left abnormal
+Cardiac ventriculogram left normal
+Cardiac ventriculogram normal
+Cardiac ventriculogram right
+Cardiac ventriculogram right abnormal
+Cardiac ventriculogram right normal
+Cardiothoracic ratio
+Cardiothoracic ratio increased
+Catheterisation cardiac
+Catheterisation cardiac abnormal
+Catheterisation cardiac normal
+Computerised tomogram coronary artery
+Computerised tomogram coronary artery abnormal
+Computerised tomogram coronary artery normal
+Gated single photon emission computerised tomogram
+Nuclear magnetic resonance imaging heart
+Scan myocardial perfusion
+Scan myocardial perfusion abnormal
+Scan myocardial perfusion normal
+l2</ Cardiac imaging procedures >
+l2< ECG investigations >
+Cardiac telemetry
+Cardiac telemetry abnormal
+Cardiac telemetry normal
+ECG electrically inactive area
+ECG P wave inverted
+ECG signs of myocardial infarction
+ECG signs of myocardial ischaemia
+ECG signs of ventricular hypertrophy
+Electrocardiogram
+Electrocardiogram abnormal
+Electrocardiogram ambulatory
+Electrocardiogram ambulatory abnormal
+Electrocardiogram ambulatory normal
+Electrocardiogram change
+Electrocardiogram delta waves abnormal
+Electrocardiogram high voltage
+Electrocardiogram J wave
+Electrocardiogram J wave abnormal
+Electrocardiogram J wave increased
+Electrocardiogram low voltage
+Electrocardiogram normal
+Electrocardiogram P pulmonale
+Electrocardiogram P wave abnormal
+Electrocardiogram P wave biphasic
+Electrocardiogram P wave normal
+Electrocardiogram pacemaker spike
+Electrocardiogram PQ interval
+Electrocardiogram PQ interval prolonged
+Electrocardiogram PQ interval shortened
+Electrocardiogram PR interval
+Electrocardiogram PR prolongation
+Electrocardiogram PR shortened
+Electrocardiogram Q wave abnormal
+Electrocardiogram Q waves
+Electrocardiogram Q waves normal
+Electrocardiogram QRS complex
+Electrocardiogram QRS complex abnormal
+Electrocardiogram QRS complex normal
+Electrocardiogram QRS complex prolonged
+Electrocardiogram QRS complex shortened
+Electrocardiogram QT interval
+Electrocardiogram QT interval abnormal
+Electrocardiogram QT interval normal
+Electrocardiogram QT prolonged
+Electrocardiogram QT shortened
+Electrocardiogram R on T phenomenon
+Electrocardiogram repolarisation abnormality
+Electrocardiogram RR interval prolonged
+Electrocardiogram ST segment
+Electrocardiogram ST segment abnormal
+Electrocardiogram ST segment depression
+Electrocardiogram ST segment elevation
+Electrocardiogram ST segment normal
+Electrocardiogram ST-T change
+Electrocardiogram ST-T segment abnormal
+Electrocardiogram ST-T segment depression
+Electrocardiogram ST-T segment elevation
+Electrocardiogram T wave abnormal
+Electrocardiogram T wave alternans
+Electrocardiogram T wave amplitude decreased
+Electrocardiogram T wave amplitude increased
+Electrocardiogram T wave biphasic
+Electrocardiogram T wave inversion
+Electrocardiogram T wave normal
+Electrocardiogram T wave peaked
+Electrocardiogram U wave inversion
+Electrocardiogram U wave present
+Electrocardiogram U-wave abnormality
+Electrocardiogram U-wave prominent
+Exercise electrocardiogram
+Exercise electrocardiogram abnormal
+Exercise electrocardiogram normal
+QRS axis
+QRS axis abnormal
+QRS axis normal
+Retrograde p-waves
+SI QIII TIII pattern
+l2</ ECG investigations >
+l2< Heart rate and pulse investigations >
+Brachial pulse
+Brachial pulse abnormal
+Brachial pulse decreased
+Brachial pulse increased
+Brachial pulse normal
+Carotid pulse
+Carotid pulse abnormal
+Carotid pulse decreased
+Carotid pulse increased
+Carotid pulse normal
+Femoral pulse
+Femoral pulse abnormal
+Femoral pulse decreased
+Femoral pulse increased
+Femoral pulse normal
+Heart rate
+Heart rate abnormal
+Heart rate decreased
+Heart rate increased
+Heart rate irregular
+Heart rate normal
+Maximum heart rate
+Maximum heart rate decreased
+Maximum heart rate increased
+Orthostatic heart rate response increased
+Orthostatic heart rate test
+Pedal pulse abnormal
+Pedal pulse decreased
+Peripheral pulse decreased
+Popliteal pulse
+Popliteal pulse abnormal
+Popliteal pulse decreased
+Popliteal pulse increased
+Popliteal pulse normal
+Pulse abnormal
+Pulse absent
+Pulse pressure abnormal
+Pulse pressure decreased
+Pulse pressure increased
+Pulse pressure normal
+Pulse volume decreased
+Pulse waveform
+Pulse waveform abnormal
+Pulse waveform normal
+Radial pulse
+Radial pulse abnormal
+Radial pulse decreased
+Radial pulse increased
+Radial pulse normal
+Respiratory sinus arrhythmia magnitude
+Respiratory sinus arrhythmia magnitude abnormal
+Respiratory sinus arrhythmia magnitude decreased
+Respiratory sinus arrhythmia magnitude increased
+Sinus rhythm
+l2</ Heart rate and pulse investigations >
+l2< Vascular and lymphatic histopathology procedures >
+Biopsy artery
+Biopsy artery abnormal
+Biopsy artery normal
+Biopsy blood vessel
+Biopsy blood vessel abnormal
+Biopsy blood vessel normal
+l2</ Vascular and lymphatic histopathology procedures >
+l2< Vascular auscultatory investigations >
+Abdominal bruit
+Aortic bruit
+Arterial bruit
+Carotid bruit
+Femoral bruit
+Iliac bruit
+Renal bruit
+Venous bruit
+l2</ Vascular auscultatory investigations >
+l2< Vascular imaging procedures NEC >
+Angiogram
+Angiogram abnormal
+Angiogram normal
+Angiogram peripheral
+Angiogram peripheral abnormal
+Angiogram peripheral normal
+Angioscopy
+Aortogram
+Aortogram abnormal
+Aortogram normal
+Arterial catheterisation abnormal
+Arterial catheterisation normal
+Arteriogram
+Arteriogram abnormal
+Arteriogram carotid
+Arteriogram carotid abnormal
+Arteriogram carotid normal
+Arteriogram normal
+Carotid intima-media thickness increased
+Directional Doppler flow tests
+Directional Doppler flow tests abnormal
+Directional Doppler flow tests normal
+Laser speckle contrast imaging
+Lymphangiogram
+Lymphangiogram abnormal
+Lymphangiogram normal
+Lymphatic mapping
+Peripheral arteriogram
+Ultrasonic angiogram
+Ultrasonic angiogram abnormal
+Ultrasonic angiogram normal
+Ultrasound Doppler
+Ultrasound Doppler abnormal
+Ultrasound Doppler normal
+Vascular imaging
+Venogram
+Venogram abnormal
+Venogram normal
+l2</ Vascular imaging procedures NEC >
+l2< Vascular tests NEC (incl blood pressure) >
+Allen's test
+Ankle brachial index
+Ankle brachial index abnormal
+Ankle brachial index decreased
+Ankle brachial index increased
+Ankle brachial index normal
+Arterial segmental pressure test
+Blood pressure abnormal
+Blood pressure ambulatory
+Blood pressure ambulatory abnormal
+Blood pressure ambulatory decreased
+Blood pressure ambulatory increased
+Blood pressure ambulatory normal
+Blood pressure decreased
+Blood pressure diastolic
+Blood pressure diastolic abnormal
+Blood pressure diastolic decreased
+Blood pressure diastolic increased
+Blood pressure diastolic normal
+Blood pressure difference of extremities
+Blood pressure immeasurable
+Blood pressure increased
+Blood pressure measurement
+Blood pressure normal
+Blood pressure orthostatic
+Blood pressure orthostatic abnormal
+Blood pressure orthostatic decreased
+Blood pressure orthostatic increased
+Blood pressure orthostatic normal
+Blood pressure systolic
+Blood pressure systolic abnormal
+Blood pressure systolic decreased
+Blood pressure systolic increased
+Blood pressure systolic inspiratory decreased
+Blood pressure systolic inspiratory normal
+Blood pressure systolic normal
+Capillary nail refill test
+Capillary nail refill test abnormal
+Caprini risk score
+Caprini risk score high
+Caprini risk score low
+Cardio-ankle vascular index
+Haemodynamic test
+Haemodynamic test abnormal
+Haemodynamic test normal
+Homans' sign
+Homans' sign negative
+Homans' sign positive
+Mean arterial pressure
+Mean arterial pressure decreased
+Mean arterial pressure increased
+Pulmonary arterial pressure
+Pulmonary arterial pressure abnormal
+Pulmonary arterial pressure decreased
+Pulmonary arterial pressure increased
+Pulmonary arterial pressure normal
+Schellong test
+Vascular resistance pulmonary
+Vascular resistance pulmonary decreased
+Vascular resistance pulmonary increased
+Vascular resistance pulmonary normal
+Vascular resistance systemic
+Vascular resistance systemic decreased
+Vascular resistance systemic increased
+Vascular resistance systemic normal
+Vascular test
+Vascular test abnormal
+Vascular test normal
+Vascular waterfall
+Venous pressure
+Venous pressure abnormal
+Venous pressure decreased
+Venous pressure increased
+Venous pressure normal
+l2</ Vascular tests NEC (incl blood pressure) >
+l1</ Cardiac and vascular investigations (excl enzyme tests) >
+l1< Cytogenetic investigations >
+l2< Cell marker analyses >
+Alpha-L-fucosidase increased
+Anaplastic lymphoma receptor tyrosine kinase assay
+Androgen receptor assay
+Angiogenesis biomarker
+Angiogenesis biomarker decreased
+Angiogenesis biomarker increased
+C-kit receptor assay
+Carbohydrate antigen 125
+Carbohydrate antigen 125 increased
+Carbohydrate antigen 125 normal
+Carbohydrate antigen 15-3
+Carbohydrate antigen 15-3 increased
+Carbohydrate antigen 19-9
+Carbohydrate antigen 19-9 increased
+Carbohydrate antigen 27.29
+Carbohydrate antigen 27.29 increased
+Carbohydrate antigen 549
+Carbohydrate antigen 549 increased
+Carcinoembryonic antigen
+Carcinoembryonic antigen decreased
+Carcinoembryonic antigen increased
+Carcinoembryonic antigen normal
+CCR5 receptor positive
+CD20 antigen positive
+CD25 antigen positive
+CD30 expression
+CD49d expression
+CD49d expression decreased
+CD49d expression increased
+Cell marker
+Cell marker decreased
+Cell marker increased
+Cytokeratin 18
+Cytokeratin 18 increased
+Fms-like tyrosine kinase 3 positive
+Free prostate-specific antigen
+Free prostate-specific antigen decreased
+Free prostate-specific antigen increased
+Free prostate-specific antigen negative
+Free prostate-specific antigen positive
+Galectin-3 abnormal
+Galectin-3 decreased
+Galectin-3 increased
+Galectin-3 normal
+Galectin-3 test
+HLA marker study
+HLA marker study positive
+HLA-A*3101 assay positive
+HLA-B*1502 assay
+HLA-B*1502 assay negative
+HLA-B*1502 assay positive
+HLA-B*27 assay
+HLA-B*27 positive
+HLA-B*5701 assay
+HLA-B*5701 assay positive
+HLA-B*5801 assay
+HLA-B*5801 assay negative
+HLA-B*5801 assay positive
+Human epidermal growth factor receptor decreased
+Human epidermal growth factor receptor increased
+Human epidermal growth factor receptor negative
+IL-2 receptor assay
+Immunophenotyping
+Kidney injury molecule-1
+Neurone-specific enolase
+Neurone-specific enolase decreased
+Neurone-specific enolase increased
+NMP22 test abnormal
+NMP22 test normal
+Oestrogen receptor assay
+Oestrogen receptor assay negative
+Oestrogen receptor assay positive
+Platelet-derived growth factor receptor assay
+Progesterone receptor assay
+Progesterone receptor assay negative
+Progesterone receptor assay positive
+Prostatic specific antigen
+Prostatic specific antigen abnormal
+Prostatic specific antigen decreased
+Prostatic specific antigen increased
+Prostatic specific antigen normal
+Tissue polypeptide antigen
+Tissue polypeptide antigen increased
+Transmembrane receptor tyrosine kinase assay
+Tumour marker abnormal
+Tumour marker decreased
+Tumour marker increased
+Tumour marker test
+Vascular endothelial growth factor assay
+l2</ Cell marker analyses >
+l2< Chromosome analyses >
+Chromosomal analysis
+Chromosome analysis abnormal
+Chromosome analysis normal
+Chromosome banding
+Chromosome banding abnormal
+Chromosome banding normal
+Chromosome mapping abnormal
+Chromosome mapping normal
+Cytogenetic analysis
+Cytogenetic analysis abnormal
+Cytogenetic analysis normal
+Fluorescent in situ hybridisation
+Fluorescent in situ hybridisation negative
+Fluorescent in situ hybridisation positive
+Karyotype analysis
+Karyotype analysis abnormal
+Karyotype analysis normal
+Philadelphia chromosome negative
+Philadelphia chromosome positive
+l2</ Chromosome analyses >
+l2< Gene analyses >
+ALK gene rearrangement assay
+ALK gene rearrangement positive
+Apolipoprotein E gene status assay
+BCL-2 gene status assay
+BRAF V600E mutation positive
+BRCA1 gene mutation assay
+BRCA2 gene mutation assay
+C-kit gene negative
+C-kit gene status assay
+Carbonic anhydrase gene mutation assay
+CYP1A2 gene status assay
+CYP2B6 gene status assay
+CYP2C19 gene status assay
+CYP2D6 gene status assay
+DNA test for fragile X
+EGFR status assay
+FIP1L1/PDGFR alpha fusion kinase positive
+Gene mutation identification test
+Gene mutation identification test negative
+Gene mutation identification test positive
+Gene sequencing
+H-ras status assay
+HERG gene status assay
+HLA-B gene status assay
+K-ras status assay
+N-ras status assay
+NAT2 gene status assay
+Oncotype test
+PML/RAR alpha expression
+PTEN gene mutation assay
+Restriction fragment-length polymorphism analysis
+RET gene mutation assay
+SMN2 status assay
+T-cell receptor gene rearrangement test
+Tyrosine kinase mutation assay
+UGT1A1 gene mutation assay
+l2</ Gene analyses >
+l1</ Cytogenetic investigations >
+l1< Endocrine investigations (incl sex hormones) >
+l2< Adrenal cortex tests >
+17-hydroxyprogesterone decreased
+17-hydroxyprogesterone increased
+ACTH stimulation test
+ACTH stimulation test abnormal
+ACTH stimulation test normal
+Aldosterone urine
+Aldosterone urine abnormal
+Aldosterone urine decreased
+Aldosterone urine increased
+Aldosterone urine normal
+Blood aldosterone
+Blood aldosterone abnormal
+Blood aldosterone decreased
+Blood aldosterone increased
+Blood aldosterone normal
+Blood corticosterone
+Blood corticosterone abnormal
+Blood corticosterone decreased
+Blood corticosterone increased
+Blood corticosterone normal
+Blood cortisol
+Blood pregnenolone increased
+Corticosteroid binding globulin abnormal
+Corticosteroid binding globulin decreased
+Corticosteroid binding globulin increased
+Corticosteroid binding globulin normal
+Corticosteroid binding globulin test
+Cortisol abnormal
+Cortisol decreased
+Cortisol free urine
+Cortisol free urine abnormal
+Cortisol free urine decreased
+Cortisol free urine increased
+Cortisol free urine normal
+Cortisol increased
+Cortisol normal
+Dehydroepiandrosterone decreased
+Dehydroepiandrosterone increased
+Dehydroepiandrosterone test
+Dexamethasone suppression test
+Dexamethasone suppression test negative
+Dexamethasone suppression test positive
+Glucocorticoids abnormal
+Glucocorticoids decreased
+Glucocorticoids increased
+Glucocorticoids normal
+Hydroxycorticosteroids increased
+Hydroxycorticosteroids urine
+Hydroxycorticosteroids urine abnormal
+Hydroxycorticosteroids urine decreased
+Hydroxycorticosteroids urine increased
+Hydroxycorticosteroids urine normal
+Increased steroid activity
+Oxycorticosteroids increased
+Steroid activity
+Tetrahydrocortisol urine decreased
+Tetrahydrocortisol urine increased
+Tetrahydrocortisone urine decreased
+Tetrahydrocortisone urine increased
+Urine cortisol/creatinine ratio
+Urine cortisol/creatinine ratio abnormal
+Urine cortisol/creatinine ratio decreased
+Urine cortisol/creatinine ratio increased
+Urine cortisol/creatinine ratio normal
+l2</ Adrenal cortex tests >
+l2< Adrenal gland histopathology procedures >
+Biopsy adrenal gland
+Biopsy adrenal gland abnormal
+Biopsy adrenal gland normal
+l2</ Adrenal gland histopathology procedures >
+l2< Adrenal medulla tests >
+Blood catecholamines
+Blood catecholamines abnormal
+Blood catecholamines decreased
+Blood catecholamines increased
+Blood catecholamines normal
+Catecholamines urine
+Catecholamines urine abnormal
+Catecholamines urine decreased
+Catecholamines urine increased
+Catecholamines urine normal
+Epinephrine
+Epinephrine abnormal
+Epinephrine decreased
+Epinephrine increased
+Epinephrine normal
+Metanephrine urine
+Metanephrine urine abnormal
+Metanephrine urine decreased
+Metanephrine urine increased
+Metanephrine urine normal
+Norepinephrine
+Norepinephrine abnormal
+Norepinephrine decreased
+Norepinephrine increased
+Norepinephrine normal
+Normetanephrine urine decreased
+Normetanephrine urine increased
+Vanillyl mandelic acid urine
+Vanillyl mandelic acid urine decreased
+Vanillyl mandelic acid urine increased
+l2</ Adrenal medulla tests >
+l2< Endocrine analyses and imaging NEC >
+Adiponectin increased
+Endocrine test
+Endocrine test abnormal
+Endocrine test normal
+Fibroblast growth factor 23
+Fibroblast growth factor 23 increased
+Hormone level abnormal
+Insulin-like growth factor
+Insulin-like growth factor decreased
+Insulin-like growth factor increased
+Parathyroid scan abnormal
+Parathyroid scan normal
+Scan adrenal gland
+Scan adrenal gland abnormal
+Scan adrenal gland normal
+Scan parathyroid
+Scan thyroid gland
+Somatostatin receptor scan
+Somatostatin receptor scan abnormal
+Somatostatin receptor scan normal
+Thyroid gland scan abnormal
+Thyroid gland scan normal
+Ultrasound thyroid
+Ultrasound thyroid abnormal
+Ultrasound thyroid normal
+l2</ Endocrine analyses and imaging NEC >
+l2< Gastrointestinal, pancreatic and APUD hormone analyses >
+Blood calcitonin
+Blood calcitonin abnormal
+Blood calcitonin decreased
+Blood calcitonin increased
+Blood calcitonin normal
+Blood chromogranin A
+Blood chromogranin A increased
+Blood gastrin
+Blood gastrin decreased
+Blood gastrin increased
+Blood gastrin normal
+Blood glucagon
+Blood glucagon abnormal
+Blood glucagon decreased
+Blood glucagon increased
+Blood glucagon normal
+Blood insulin
+Blood insulin abnormal
+Blood insulin decreased
+Blood insulin increased
+Blood insulin normal
+Blood proinsulin
+Blood proinsulin abnormal
+Blood proinsulin decreased
+Blood proinsulin increased
+Blood proinsulin normal
+Glucagon tolerance test
+Insulin C-peptide
+Insulin C-peptide abnormal
+Insulin C-peptide decreased
+Insulin C-peptide increased
+Insulin C-peptide normal
+Insulin tolerance test
+Insulin tolerance test abnormal
+Insulin tolerance test normal
+Pancreastatin abnormal
+Pancreastatin decreased
+Pancreastatin increased
+Pancreatic polypeptide level abnormal
+Pancreatic polypeptide level decreased
+Pancreatic polypeptide level increased
+Secretin test
+Secretin test increased
+Vasoactive intestinal polypeptide decreased
+Vasoactive intestinal polypeptide increased
+Vasoactive intestinal polypeptide test
+Vasoactive intestinal polypeptide test abnormal
+Vasoactive intestinal polypeptide test normal
+l2</ Gastrointestinal, pancreatic and APUD hormone analyses >
+l2< Hypothalamic analyses >
+Blood gonadotrophin releasing hormone
+Blood gonadotrophin releasing hormone decreased
+Blood gonadotrophin releasing hormone increased
+Blood growth hormone releasing hormone increased
+Corticotropin-releasing hormone stimulation test
+Gonadotrophin releasing hormone stimulation test
+Thyroid releasing hormone challenge test
+Thyroid releasing hormone challenge test abnormal
+Thyroid releasing hormone challenge test normal
+l2</ Hypothalamic analyses >
+l2< Parathyroid analyses >
+Blood parathyroid hormone
+Blood parathyroid hormone abnormal
+Blood parathyroid hormone decreased
+Blood parathyroid hormone increased
+Blood parathyroid hormone normal
+l2</ Parathyroid analyses >
+l2< Parathyroid histopathology procedures >
+Biopsy parathyroid gland
+Biopsy parathyroid gland abnormal
+Biopsy parathyroid gland normal
+l2</ Parathyroid histopathology procedures >
+l2< Pituitary analyses anterior >
+Blood corticotrophin
+Blood corticotrophin abnormal
+Blood corticotrophin decreased
+Blood corticotrophin increased
+Blood corticotrophin normal
+Blood follicle stimulating hormone
+Blood follicle stimulating hormone abnormal
+Blood follicle stimulating hormone decreased
+Blood follicle stimulating hormone increased
+Blood follicle stimulating hormone normal
+Blood gonadotrophin
+Blood gonadotrophin abnormal
+Blood gonadotrophin decreased
+Blood gonadotrophin increased
+Blood gonadotrophin normal
+Blood growth hormone
+Blood growth hormone abnormal
+Blood growth hormone decreased
+Blood growth hormone increased
+Blood growth hormone normal
+Blood luteinising hormone
+Blood luteinising hormone abnormal
+Blood luteinising hormone decreased
+Blood luteinising hormone increased
+Blood luteinising hormone normal
+Blood prolactin
+Blood prolactin abnormal
+Blood prolactin decreased
+Blood prolactin increased
+Blood prolactin normal
+Blood thyroid stimulating hormone
+Blood thyroid stimulating hormone abnormal
+Blood thyroid stimulating hormone decreased
+Blood thyroid stimulating hormone increased
+Blood thyroid stimulating hormone normal
+Metyrapone challenge test
+Metyrapone challenge test abnormal
+Metyrapone challenge test normal
+Somatotropin stimulation test
+Somatotropin suppression test
+Somatotropin suppression test abnormal
+Somatotropin suppression test normal
+l2</ Pituitary analyses anterior >
+l2< Pituitary analyses posterior >
+Blood antidiuretic hormone
+Blood antidiuretic hormone abnormal
+Blood antidiuretic hormone decreased
+Blood antidiuretic hormone increased
+Blood antidiuretic hormone normal
+Oxytocin
+Oxytocin abnormal
+Oxytocin decreased
+Oxytocin increased
+Oxytocin normal
+l2</ Pituitary analyses posterior >
+l2< Reproductive hormone analyses >
+17 ketosteroids urine
+17 ketosteroids urine abnormal
+17 ketosteroids urine decreased
+17 ketosteroids urine increased
+17 ketosteroids urine normal
+Androgens
+Androgens abnormal
+Androgens decreased
+Androgens increased
+Androgens normal
+Anti-Muellerian hormone level
+Anti-Muellerian hormone level decreased
+Anti-Muellerian hormone level increased
+Anti-Muellerian hormone level normal
+Antigonadotrophins present
+Blood androstenedione
+Blood androstenedione decreased
+Blood androstenedione increased
+Blood oestrogen
+Blood oestrogen abnormal
+Blood oestrogen decreased
+Blood oestrogen increased
+Blood oestrogen normal
+Blood testosterone
+Blood testosterone abnormal
+Blood testosterone decreased
+Blood testosterone free
+Blood testosterone free abnormal
+Blood testosterone free decreased
+Blood testosterone free increased
+Blood testosterone free normal
+Blood testosterone increased
+Blood testosterone normal
+Dihydrotestosterone decreased
+Dihydrotestosterone increased
+Dihydrotestosterone level
+False negative pregnancy test
+Female sex hormone level
+Female sex hormone level abnormal
+Free androgen index
+Free androgen index decreased
+Human chorionic gonadotropin
+Human chorionic gonadotropin abnormal
+Human chorionic gonadotropin decreased
+Human chorionic gonadotropin increased
+Human chorionic gonadotropin negative
+Human chorionic gonadotropin normal
+Human chorionic gonadotropin positive
+Human placental lactogen decreased
+Human placental lactogen increased
+Inhibin B
+Oestradiol
+Oestradiol abnormal
+Oestradiol decreased
+Oestradiol increased
+Oestradiol normal
+Oestriol
+Oestriol abnormal
+Oestriol decreased
+Oestriol increased
+Oestriol normal
+Oestrogens total urine
+Oestrogens total urine abnormal
+Oestrogens total urine decreased
+Oestrogens total urine increased
+Oestrogens total urine normal
+Oestrone
+Oestrone decreased
+Oestrone increased
+Pregnancy test
+Pregnancy test false positive
+Pregnancy test negative
+Pregnancy test positive
+Pregnancy test urine
+Pregnancy test urine negative
+Pregnancy test urine positive
+Progesterone
+Progesterone abnormal
+Progesterone decreased
+Progesterone increased
+Progesterone normal
+Reproductive hormone
+Saliva testosterone
+Saliva testosterone abnormal
+Saliva testosterone decreased
+Saliva testosterone increased
+Salivary oestriol increased
+Sex hormone binding globulin
+Sex hormone binding globulin decreased
+Sex hormone binding globulin increased
+l2</ Reproductive hormone analyses >
+l2< Thyroid analyses >
+Anti-thyroid antibody
+Anti-thyroid antibody negative
+Anti-thyroid antibody positive
+Butanol-extractable iodine
+Butanol-extractable iodine decreased
+Butanol-extractable iodine increased
+Calcitonin stimulation test
+Free thyroxine index
+Free thyroxine index abnormal
+Free thyroxine index decreased
+Free thyroxine index increased
+Free thyroxine index normal
+Iodine uptake
+Iodine uptake abnormal
+Iodine uptake decreased
+Iodine uptake increased
+Iodine uptake normal
+Protein bound iodine
+Protein bound iodine decreased
+Protein bound iodine increased
+Reverse tri-iodothyronine
+Reverse tri-iodothyronine decreased
+Reverse tri-iodothyronine increased
+Thyroglobulin
+Thyroglobulin absent
+Thyroglobulin decreased
+Thyroglobulin increased
+Thyroglobulin present
+Thyroid function test
+Thyroid function test abnormal
+Thyroid function test normal
+Thyroid hormones decreased
+Thyroid hormones increased
+Thyroid stimulating immunoglobulin
+Thyroid stimulating immunoglobulin increased
+Thyroxin binding globulin
+Thyroxin binding globulin abnormal
+Thyroxin binding globulin decreased
+Thyroxin binding globulin increased
+Thyroxin binding globulin normal
+Thyroxine
+Thyroxine abnormal
+Thyroxine decreased
+Thyroxine free
+Thyroxine free abnormal
+Thyroxine free decreased
+Thyroxine free increased
+Thyroxine free normal
+Thyroxine increased
+Thyroxine normal
+Tri-iodothyronine
+Tri-iodothyronine abnormal
+Tri-iodothyronine decreased
+Tri-iodothyronine free
+Tri-iodothyronine free abnormal
+Tri-iodothyronine free decreased
+Tri-iodothyronine free increased
+Tri-iodothyronine free normal
+Tri-iodothyronine increased
+Tri-iodothyronine normal
+Tri-iodothyronine uptake
+Tri-iodothyronine uptake abnormal
+Tri-iodothyronine uptake decreased
+Tri-iodothyronine uptake increased
+Tri-iodothyronine uptake normal
+Urine iodine increased
+l2</ Thyroid analyses >
+l2< Thyroid histopathology procedures >
+Biopsy thyroid gland
+Biopsy thyroid gland abnormal
+Biopsy thyroid gland normal
+l2</ Thyroid histopathology procedures >
+l1</ Endocrine investigations (incl sex hormones) >
+l1< Enzyme investigations NEC >
+l2< Lysosomal enzyme analyses >
+Beta-N-acetyl-D-glucosaminidase
+Beta-N-acetyl-D-glucosaminidase abnormal
+Beta-N-acetyl-D-glucosaminidase decreased
+Beta-N-acetyl-D-glucosaminidase increased
+Beta-N-acetyl-D-glucosaminidase normal
+Globotriaosylceramide
+Globotriaosylceramide increased
+Glucosylceramide
+Glucosylceramide abnormal
+Glucosylceramide decreased
+Glucosylceramide increased
+Glucosylceramide normal
+Lysozyme
+Lysozyme decreased
+Lysozyme increased
+Urinary glycosaminoglycans
+Urinary glycosaminoglycans increased
+l2</ Lysosomal enzyme analyses >
+l2< Skeletal and cardiac muscle analyses >
+Aldolase
+Aldolase abnormal
+Aldolase decreased
+Aldolase increased
+Aldolase normal
+Alpha hydroxybutyrate dehydrogenase
+Alpha hydroxybutyrate dehydrogenase decreased
+Alpha hydroxybutyrate dehydrogenase increased
+Blood creatine phosphokinase
+Blood creatine phosphokinase abnormal
+Blood creatine phosphokinase BB
+Blood creatine phosphokinase BB increased
+Blood creatine phosphokinase decreased
+Blood creatine phosphokinase increased
+Blood creatine phosphokinase MB
+Blood creatine phosphokinase MB abnormal
+Blood creatine phosphokinase MB decreased
+Blood creatine phosphokinase MB increased
+Blood creatine phosphokinase MB normal
+Blood creatine phosphokinase MM
+Blood creatine phosphokinase MM decreased
+Blood creatine phosphokinase MM increased
+Blood creatine phosphokinase MM normal
+Blood creatine phosphokinase normal
+Muscle enzyme
+Muscle enzyme decreased
+Muscle enzyme increased
+Myocardial necrosis marker
+Myocardial necrosis marker increased
+Myocardial necrosis marker normal
+Myosin increased
+Skeletal muscle enzymes
+Troponin
+Troponin I
+Troponin I increased
+Troponin I normal
+Troponin increased
+Troponin normal
+Troponin T
+Troponin T increased
+Troponin T normal
+Urinary hexose tetrasaccharide
+Urinary hexose tetrasaccharide decreased
+Urinary hexose tetrasaccharide increased
+l2</ Skeletal and cardiac muscle analyses >
+l2< Tissue enzyme analyses NEC >
+2',5'-oligoadenylate synthetase test
+2',5'-oligoadenylate synthetase test decreased
+2',5'-oligoadenylate synthetase test increased
+Adenosine deaminase abnormal
+Adenosine deaminase decreased
+Adenosine deaminase increased
+Adenosine deaminase normal
+Angiotensin converting enzyme
+Angiotensin converting enzyme decreased
+Angiotensin converting enzyme increased
+Blood acid phosphatase
+Blood acid phosphatase abnormal
+Blood acid phosphatase decreased
+Blood acid phosphatase increased
+Blood acid phosphatase normal
+Blood alkaline phosphatase
+Blood alkaline phosphatase abnormal
+Blood alkaline phosphatase decreased
+Blood alkaline phosphatase increased
+Blood alkaline phosphatase normal
+Blood lactate dehydrogenase
+Blood lactate dehydrogenase abnormal
+Blood lactate dehydrogenase decreased
+Blood lactate dehydrogenase increased
+Blood lactate dehydrogenase normal
+Chitotriosidase
+Chitotriosidase abnormal
+Chitotriosidase decreased
+Chitotriosidase increased
+Chitotriosidase normal
+Enzyme activity abnormal
+Enzyme activity decreased
+Enzyme activity increased
+Enzyme activity normal
+Enzyme level abnormal
+Enzyme level decreased
+Enzyme level increased
+Enzyme level test
+Gamma butyric dehydrogenase increased
+Glutamate dehydrogenase
+Glutamate dehydrogenase decreased
+Glutamate dehydrogenase increased
+Glutamate dehydrogenase level abnormal
+Glutamate dehydrogenase level normal
+Glutathione peroxidase increased
+Glutathione s-transferase abnormal
+Glutathione s-transferase decreased
+Glutathione s-transferase increased
+Lactate dehydrogenase urine
+Lactate dehydrogenase urine increased
+Lactate dehydrogenase urine normal
+Leukocyte alkaline phosphatase
+Leukocyte alkaline phosphatase increased
+Matrix metalloproteinase-3
+Matrix metalloproteinase-3 increased
+Phospholipase A2 activity increased
+Prostatic acid phosphatase
+Prostatic acid phosphatase abnormal
+Prostatic acid phosphatase decreased
+Prostatic acid phosphatase increased
+Prostatic acid phosphatase normal
+Thiopurine methyltransferase
+Thiopurine methyltransferase decreased
+l2</ Tissue enzyme analyses NEC >
+l1</ Enzyme investigations NEC >
+l1< Foetal and neonatal investigations >
+l2< Foetal and neonatal diagnostic procedures >
+Alpha 1 foetoprotein amniotic fluid
+Alpha 1 foetoprotein amniotic fluid abnormal
+Alpha 1 foetoprotein amniotic fluid decreased
+Alpha 1 foetoprotein amniotic fluid increased
+Alpha 1 foetoprotein amniotic fluid normal
+Amniocentesis
+Amniocentesis abnormal
+Amniocentesis normal
+Amniotic fluid erythropoietin level increased
+Amniotic fluid index
+Amniotic fluid index abnormal
+Amniotic fluid index decreased
+Amniotic fluid index increased
+Amniotic fluid volume
+Amniotic fluid volume decreased
+Amniotic fluid volume increased
+Amniotic membrane rupture test
+Amniotic membrane rupture test negative
+Amniotic membrane rupture test positive
+Cordocentesis
+Foetal heart rate
+Foetal heart rate abnormal
+Foetal heart rate decreased
+Foetal heart rate increased
+Foetal heart rate indeterminate
+Foetal heart rate normal
+Foetal monitoring
+Foetal monitoring abnormal
+Foetal monitoring normal
+Foetal non-stress test
+Foetal non-stress test abnormal
+Foetal non-stress test normal
+Gestational age test
+Gestational age test abnormal
+Gestational age test normal
+Immunoreactive trypsinogen abnormal
+Immunoreactive trypsinogen assay
+Immunoreactive trypsinogen decreased
+Immunoreactive trypsinogen increased
+Kleihauer-Betke test
+Kleihauer-Betke test negative
+Kleihauer-Betke test positive
+Neonatal cystic fibrosis screen
+Oxytocin challenge test
+Phenylalanine screen
+Phenylalanine screen negative
+Phenylalanine screen positive
+Prenatal screening test
+Prenatal screening test abnormal
+l2</ Foetal and neonatal diagnostic procedures >
+l2< Foetal and neonatal histopathology procedures >
+Biopsy foetal
+Biopsy foetal abnormal
+Biopsy foetal normal
+l2</ Foetal and neonatal histopathology procedures >
+l2< Foetal and neonatal imaging procedures >
+Foetal biophysical profile score
+Foetal biophysical profile score abnormal
+Foetal biophysical profile score equivocal
+Foetal biophysical profile score normal
+Foetal gastrointestinal tract imaging abnormal
+Foetal musculoskeletal imaging abnormal
+Foetal renal imaging abnormal
+Ultrasound antenatal screen
+Ultrasound antenatal screen abnormal
+Ultrasound antenatal screen normal
+Ultrasound foetal
+Ultrasound foetal abnormal
+l2</ Foetal and neonatal imaging procedures >
+l1</ Foetal and neonatal investigations >
+l1< Gastrointestinal investigations >
+l2< Digestive enzymes >
+Amylase
+Amylase abnormal
+Amylase creatinine clearance ratio
+Amylase creatinine clearance ratio abnormal
+Amylase creatinine clearance ratio normal
+Amylase decreased
+Amylase increased
+Amylase normal
+Blood elastase
+Blood elastase decreased
+Blood elastase increased
+Blood trypsin
+Blood trypsin decreased
+Blood trypsin increased
+Exocrine pancreatic function test
+Exocrine pancreatic function test abnormal
+Exocrine pancreatic function test normal
+Faecal elastase concentration abnormal
+Faecal elastase concentration decreased
+Faecal elastase concentration normal
+Lipase
+Lipase abnormal
+Lipase decreased
+Lipase increased
+Lipase normal
+Lipase urine
+Lipase urine decreased
+Lipase urine increased
+Pancreatic enzymes
+Pancreatic enzymes abnormal
+Pancreatic enzymes decreased
+Pancreatic enzymes increased
+Pancreatic enzymes normal
+Pepsinogen I decreased
+Pepsinogen I increased
+Pepsinogen test positive
+Stool chymotrypsin
+Stool chymotrypsin abnormal
+Stool chymotrypsin decreased
+Stool chymotrypsin normal
+Stool trypsin
+l2</ Digestive enzymes >
+l2< Faecal analyses NEC >
+Faecal calprotectin
+Faecal calprotectin abnormal
+Faecal calprotectin decreased
+Faecal calprotectin increased
+Faecal calprotectin normal
+Faecal fat increased
+Occult blood
+Occult blood negative
+Occult blood positive
+Pus in stool
+Stool analysis
+Stool analysis abnormal
+Stool analysis normal
+Stool pH decreased
+Stool pH increased
+White blood cells stool
+White blood cells stool negative
+White blood cells stool positive
+l2</ Faecal analyses NEC >
+l2< Gastrointestinal and abdominal imaging procedures >
+Abdomen scan
+Abdomen scan normal
+Abdominal X-ray
+Barium double contrast
+Barium double contrast abnormal
+Barium double contrast normal
+Barium enema
+Barium enema abnormal
+Barium enema normal
+Barium meal
+Barium meal abnormal
+Barium meal and follow through
+Barium meal and follow through abnormal
+Barium meal and follow through normal
+Barium meal normal
+Barium swallow
+Barium swallow abnormal
+Barium swallow normal
+Capsule endoscopy
+Colonoscopy
+Colonoscopy abnormal
+Colonoscopy normal
+Computerised tomogram abdomen
+Computerised tomogram abdomen abnormal
+Computerised tomogram abdomen normal
+Computerised tomogram intestine
+Defecography
+Endoscopic swallowing evaluation
+Endoscopic swallowing evaluation abnormal
+Endoscopic ultrasound
+Endoscopic ultrasound abnormal
+Endoscopic ultrasound normal
+Endoscopy gastrointestinal
+Endoscopy gastrointestinal abnormal
+Endoscopy gastrointestinal normal
+Endoscopy large bowel
+Endoscopy large bowel abnormal
+Endoscopy large bowel normal
+Endoscopy small intestine
+Endoscopy small intestine abnormal
+Endoscopy small intestine normal
+Endoscopy upper gastrointestinal tract
+Endoscopy upper gastrointestinal tract abnormal
+Endoscopy upper gastrointestinal tract normal
+Enteroclysis
+Gastrointestinal scan
+Herniography
+Intestinal transit time
+Intestinal transit time abnormal
+Intestinal transit time decreased
+Intestinal transit time increased
+Intestinal transit time normal
+Laparoscopy
+Laparoscopy abnormal
+Laparoscopy normal
+Nuclear magnetic resonance imaging abdominal
+Nuclear magnetic resonance imaging abdominal abnormal
+Nuclear magnetic resonance imaging abdominal normal
+Oesophageal motility test
+Oesophagogastroduodenoscopy
+Oesophagogastroduodenoscopy abnormal
+Oesophagogastroduodenoscopy normal
+Oesophagogastroscopy
+Oesophagogastroscopy abnormal
+Oesophagogastroscopy normal
+Oesophagoscopy
+Oesophagoscopy abnormal
+Oesophagoscopy normal
+Oesophagram
+Pancreatography
+Peritoneal cancer index
+Proctoscopy
+Proctoscopy abnormal
+Proctoscopy normal
+Proctosigmoidoscopy
+Proctosigmoidoscopy abnormal
+Proctosigmoidoscopy normal
+Rectal ultrasound
+Rectal ultrasound abnormal
+Rectal ultrasound normal
+Salivary gland scan abnormal
+Salivary gland scan normal
+Salivary scan
+Scan abdomen abnormal
+Sialogram
+Sialogram abnormal
+Sialogram normal
+Sigmoidoscopy
+Sigmoidoscopy abnormal
+Sigmoidoscopy normal
+Stomach scan
+Stomach scan abnormal
+Stomach scan normal
+Ultrasound abdomen
+Ultrasound abdomen abnormal
+Ultrasound abdomen normal
+Ultrasound pancreas abnormal
+Ultrasound pancreas normal
+X-ray dental
+X-ray dental abnormal
+X-ray dental normal
+X-ray gastrointestinal tract
+X-ray gastrointestinal tract abnormal
+X-ray gastrointestinal tract normal
+X-ray with contrast lower gastrointestinal tract
+X-ray with contrast lower gastrointestinal tract abnormal
+X-ray with contrast lower gastrointestinal tract normal
+X-ray with contrast upper gastrointestinal tract
+X-ray with contrast upper gastrointestinal tract abnormal
+X-ray with contrast upper gastrointestinal tract normal
+l2</ Gastrointestinal and abdominal imaging procedures >
+l2< Gastrointestinal function diagnostic procedures >
+Anorectal manometry
+Electrogastrogram
+Gastric emptying study
+Gastric fluid analysis
+Gastric fluid analysis abnormal
+Gastric fluid analysis normal
+Gastric pH
+Gastric pH decreased
+Gastric pH increased
+Gastric residual assessment
+Gastric residual increased
+Gastrointestinal stoma output abnormal
+Gastrointestinal stoma output decreased
+Gastrointestinal stoma output increased
+Hydrogen breath test
+Hydrogen breath test abnormal
+Hydrogen breath test normal
+Intra-abdominal pressure increased
+Intra-abdominal pressure monitoring
+Nasogastric output abnormal
+Nasogastric output high
+Nasogastric output normal
+Oesophageal manometry
+Oesophageal pH
+Oesophageal pH decreased
+Oesophageal pH increased
+SeHCAT test
+Swallow study
+Swallow study abnormal
+l2</ Gastrointestinal function diagnostic procedures >
+l2< Gastrointestinal histopathology procedures >
+Anal pap smear
+Anal pap smear abnormal
+Biopsy anus
+Biopsy anus abnormal
+Biopsy anus normal
+Biopsy colon
+Biopsy colon abnormal
+Biopsy colon normal
+Biopsy gingival
+Biopsy intestine
+Biopsy intestine abnormal
+Biopsy intestine normal
+Biopsy lip
+Biopsy lip abnormal
+Biopsy lip normal
+Biopsy oesophagus
+Biopsy oesophagus abnormal
+Biopsy oesophagus normal
+Biopsy palate
+Biopsy palate abnormal
+Biopsy palate normal
+Biopsy pancreas
+Biopsy pancreas abnormal
+Biopsy pancreas normal
+Biopsy peritoneum
+Biopsy peritoneum abnormal
+Biopsy peritoneum normal
+Biopsy rectum
+Biopsy rectum abnormal
+Biopsy rectum normal
+Biopsy salivary gland
+Biopsy salivary gland abnormal
+Biopsy salivary gland normal
+Biopsy small intestine
+Biopsy small intestine abnormal
+Biopsy small intestine normal
+Biopsy stomach
+Biopsy stomach abnormal
+Biopsy stomach normal
+Biopsy tongue
+Biopsy tongue abnormal
+Biopsy tongue normal
+Crystal deposit intestine
+Gastric lavage abnormal
+Gastric lavage normal
+Gastric lavage test
+Gastric occult blood positive
+Intestinal intraepithelial lymphocytes increased
+Oral soft tissue biopsy
+Retroperitoneal biopsy
+Saliva analysis
+Saliva analysis abnormal
+Saliva analysis normal
+Smear buccal
+Smear buccal abnormal
+Smear buccal normal
+l2</ Gastrointestinal histopathology procedures >
+l2< Peritoneal fluid and membrane function analyses >
+Effective peritoneal surface area increased
+Peritoneal effluent abnormal
+Peritoneal effluent analysis
+Peritoneal effluent erythrocyte count
+Peritoneal effluent erythrocyte count increased
+Peritoneal effluent leukocyte count
+Peritoneal effluent leukocyte count increased
+Peritoneal effluent normal
+Peritoneal effluent platelet count
+Peritoneal effluent specific gravity
+Peritoneal equilibration test
+Peritoneal equilibration test abnormal
+Peritoneal equilibration test normal
+Peritoneal fluid analysis
+Peritoneal fluid analysis abnormal
+Peritoneal fluid analysis normal
+Peritoneal fluid protein abnormal
+Peritoneal fluid protein decreased
+Peritoneal fluid protein increased
+Peritoneal permeability decreased
+Peritoneal permeability increased
+Serum ascites albumin gradient
+l2</ Peritoneal fluid and membrane function analyses >
+l1</ Gastrointestinal investigations >
+l1< Haematology investigations (incl blood groups) >
+l2< Blood counts NEC >
+Blood count
+Blood count abnormal
+Blood count normal
+Full blood count
+Full blood count abnormal
+Full blood count decreased
+Full blood count increased
+Full blood count normal
+l2</ Blood counts NEC >
+l2< Blood grouping and cross-matching analyses >
+Anti A antibody
+Anti A antibody positive
+Anti B antibody
+Anti B antibody positive
+Anti Kell antibody test
+Anti Kell antibody test negative
+Anti Kell antibody test positive
+Blood group A
+Blood group AB
+Blood group B
+Blood group O
+Blood grouping
+Coombs direct test
+Coombs direct test negative
+Coombs direct test positive
+Coombs indirect test
+Coombs indirect test negative
+Coombs indirect test positive
+Coombs test
+Coombs test negative
+Coombs test positive
+Crossmatch
+Crossmatch compatible
+Crossmatch incompatible
+Indeterminable ABO blood type
+Kell blood group positive
+MNS system antibodies positive
+Rhesus antibodies
+Rhesus antibodies negative
+Rhesus antibodies positive
+Rhesus antigen negative
+Rhesus antigen positive
+l2</ Blood grouping and cross-matching analyses >
+l2< Bone marrow and immune tissue histopathology procedures >
+Aspiration bone marrow
+Aspiration bone marrow abnormal
+Aspiration bone marrow normal
+Biopsy bone marrow
+Biopsy bone marrow abnormal
+Biopsy bone marrow normal
+Biopsy lymph gland
+Biopsy lymph gland abnormal
+Biopsy lymph gland normal
+Biopsy spleen
+Biopsy spleen abnormal
+Biopsy spleen normal
+Biopsy thymus gland
+Biopsy thymus gland abnormal
+Biopsy thymus gland normal
+Bone marrow band neutrophil count increased
+Bone marrow basophilic leukocyte count increased
+Bone marrow eosinophilic leukocyte count increased
+Bone marrow metamyelocyte count increased
+Bone marrow plasmacyte count increased
+Bone marrow polymorphonuclear leukocyte count increased
+Megakaryocytes
+Megakaryocytes abnormal
+Megakaryocytes decreased
+Megakaryocytes increased
+Megakaryocytes normal
+l2</ Bone marrow and immune tissue histopathology procedures >
+l2< Bone marrow and immune tissue imaging procedures >
+Bone marrow myelogram
+Bone marrow myelogram abnormal
+Bone marrow myelogram normal
+Lymph nodes scan abnormal
+Lymph nodes scan normal
+Scan bone marrow
+Scan bone marrow abnormal
+Scan bone marrow normal
+Scan lymph nodes
+Scan spleen
+Spleen scan abnormal
+Spleen scan normal
+l2</ Bone marrow and immune tissue imaging procedures >
+l2< Coagulation and bleeding analyses >
+Activated partial thromboplastin time
+Activated partial thromboplastin time abnormal
+Activated partial thromboplastin time normal
+Activated partial thromboplastin time prolonged
+Activated partial thromboplastin time ratio
+Activated partial thromboplastin time ratio abnormal
+Activated partial thromboplastin time ratio decreased
+Activated partial thromboplastin time ratio fluctuation
+Activated partial thromboplastin time ratio increased
+Activated partial thromboplastin time ratio normal
+Activated partial thromboplastin time shortened
+Activated protein C resistance test
+Activated protein C resistance test positive
+ADAMTS13 activity abnormal
+ADAMTS13 activity assay
+ADAMTS13 activity decreased
+ADAMTS13 activity increased
+ADAMTS13 activity normal
+ADAMTS13 inhibitor screen assay
+Anti factor IX antibody
+Anti factor IX antibody increased
+Anti factor IX antibody negative
+Anti factor IX antibody positive
+Anti factor V antibody
+Anti factor V antibody positive
+Anti factor VII antibody positive
+Anti factor VIII antibody increased
+Anti factor VIII antibody negative
+Anti factor VIII antibody positive
+Anti factor VIII antibody test
+Anti factor X activity
+Anti factor X activity abnormal
+Anti factor X activity decreased
+Anti factor X activity increased
+Anti factor X activity normal
+Anti factor X antibody
+Anti factor X antibody negative
+Anti factor X antibody positive
+Anti factor Xa activity decreased
+Anti factor Xa assay normal
+Anti factor XI antibody positive
+Anti factor XII antibody positive
+Anti-complement antibody
+Anti-prothrombin antibody positive
+Anti-thrombin antibody
+Antithrombin III
+Antithrombin III decreased
+Antithrombin III increased
+Bleeding time
+Bleeding time abnormal
+Bleeding time normal
+Bleeding time prolonged
+Bleeding time shortened
+Blood fibrinogen
+Blood fibrinogen abnormal
+Blood fibrinogen decreased
+Blood fibrinogen increased
+Blood fibrinogen normal
+Blood thrombin
+Blood thrombin abnormal
+Blood thrombin decreased
+Blood thrombin increased
+Blood thrombin normal
+Blood thromboplastin
+Blood thromboplastin abnormal
+Blood thromboplastin decreased
+Blood thromboplastin increased
+Blood thromboplastin normal
+Capillary fragility abnormal
+Capillary fragility decreased
+Capillary fragility increased
+Capillary fragility normal
+Capillary fragility test
+Capillary permeability
+Capillary permeability increased
+Capillary permeability normal
+Circulating anticoagulant
+Circulating anticoagulant positive
+Clot retraction
+Clot retraction abnormal
+Clot retraction normal
+Clot retraction time prolonged
+Clot retraction time shortened
+Coagulation factor
+Coagulation factor decreased
+Coagulation factor increased
+Coagulation factor inhibitor assay
+Coagulation factor IX level
+Coagulation factor IX level abnormal
+Coagulation factor IX level decreased
+Coagulation factor IX level increased
+Coagulation factor IX level normal
+Coagulation factor level normal
+Coagulation factor V level
+Coagulation factor V level abnormal
+Coagulation factor V level decreased
+Coagulation factor V level increased
+Coagulation factor V level normal
+Coagulation factor VII level
+Coagulation factor VII level abnormal
+Coagulation factor VII level decreased
+Coagulation factor VII level increased
+Coagulation factor VII level normal
+Coagulation factor VIII level
+Coagulation factor VIII level abnormal
+Coagulation factor VIII level decreased
+Coagulation factor VIII level increased
+Coagulation factor VIII level normal
+Coagulation factor X level
+Coagulation factor X level abnormal
+Coagulation factor X level decreased
+Coagulation factor X level increased
+Coagulation factor X level normal
+Coagulation factor XI level
+Coagulation factor XI level abnormal
+Coagulation factor XI level decreased
+Coagulation factor XI level increased
+Coagulation factor XI level normal
+Coagulation factor XII level
+Coagulation factor XII level abnormal
+Coagulation factor XII level decreased
+Coagulation factor XII level increased
+Coagulation factor XII level normal
+Coagulation factor XIII level
+Coagulation factor XIII level abnormal
+Coagulation factor XIII level decreased
+Coagulation factor XIII level increased
+Coagulation factor XIII level normal
+Coagulation test
+Coagulation test abnormal
+Coagulation test normal
+Coagulation time
+Coagulation time abnormal
+Coagulation time normal
+Coagulation time prolonged
+Coagulation time shortened
+Ethanol gelation test
+Ethanol gelation test negative
+Ethanol gelation test positive
+Factor Xa activity abnormal
+Factor Xa activity decreased
+Factor Xa activity increased
+Factor Xa activity normal
+Factor Xa activity test
+Fibrin
+Fibrin abnormal
+Fibrin D dimer
+Fibrin D dimer decreased
+Fibrin D dimer increased
+Fibrin D dimer normal
+Fibrin decreased
+Fibrin degradation products
+Fibrin degradation products increased
+Fibrin degradation products normal
+Fibrin increased
+Fibrin normal
+Fibrinolysis
+Fibrinolysis abnormal
+Fibrinolysis decreased
+Fibrinolysis increased
+Fibrinolysis normal
+International normalised ratio
+International normalised ratio abnormal
+International normalised ratio decreased
+International normalised ratio fluctuation
+International normalised ratio increased
+International normalised ratio normal
+Plasmin decreased
+Plasmin increased
+Plasmin inhibitor
+Plasmin inhibitor decreased
+Plasmin inhibitor increased
+Plasminogen
+Plasminogen activator inhibitor
+Plasminogen activator inhibitor decreased
+Plasminogen activator inhibitor increased
+Plasminogen decreased
+Plasminogen increased
+Plasminogen normal
+Platelet factor 4
+Platelet factor 4 decreased
+Platelet factor 4 increased
+Prekallikrein decreased
+Prekallikrein increased
+Prekallikrein test
+Prekallikrein test abnormal
+Prekallikrein test normal
+Protein C
+Protein C decreased
+Protein C increased
+Protein S
+Protein S abnormal
+Protein S decreased
+Protein S increased
+Protein S normal
+Prothrombin consumption time prolonged
+Prothrombin consumption time shortened
+Prothrombin level
+Prothrombin level abnormal
+Prothrombin level decreased
+Prothrombin level increased
+Prothrombin level normal
+Prothrombin time
+Prothrombin time abnormal
+Prothrombin time normal
+Prothrombin time prolonged
+Prothrombin time ratio
+Prothrombin time ratio abnormal
+Prothrombin time ratio decreased
+Prothrombin time ratio increased
+Prothrombin time shortened
+Russell's viper venom time
+Russell's viper venom time abnormal
+Russell's viper venom time normal
+Soluble fibrin monomer complex
+Soluble fibrin monomer complex increased
+Thrombin time
+Thrombin time abnormal
+Thrombin time normal
+Thrombin time prolonged
+Thrombin time shortened
+Thrombin-antithrombin III complex
+Thrombin-antithrombin III complex abnormal
+Thrombin-antithrombin III complex decreased
+Thrombin-antithrombin III complex increased
+Thrombin-antithrombin III complex normal
+Thromboelastogram
+Thromboxane decreased
+Thromboxane increased
+Von Willebrand's factor activity abnormal
+Von Willebrand's factor activity decreased
+Von Willebrand's factor activity increased
+Von Willebrand's factor activity normal
+Von Willebrand's factor activity test
+Von Willebrand's factor antibody positive
+Von Willebrand's factor antigen abnormal
+Von Willebrand's factor antigen decreased
+Von Willebrand's factor antigen increased
+Von Willebrand's factor antigen normal
+Von Willebrand's factor antigen test
+Von Willebrand's factor multimers abnormal
+Von Willebrand's factor multimers normal
+Von Willebrand's factor multimers test
+l2</ Coagulation and bleeding analyses >
+l2< Haematological analyses NEC >
+Anti-erythropoietin antibody
+Anti-erythropoietin antibody negative
+Anti-erythropoietin antibody positive
+Blast cell count decreased
+Blast cell count increased
+Blast cells
+Blast cells absent
+Blast cells present
+Blood erythropoietin
+Blood erythropoietin abnormal
+Blood erythropoietin decreased
+Blood erythropoietin increased
+Blood erythropoietin normal
+Blood viscosity abnormal
+Blood viscosity decreased
+Blood viscosity increased
+Glutathione decreased
+Glutathione test
+Haematology test
+Haematology test abnormal
+Haematology test normal
+Lactescent serum
+Nontherapeutic agent blood negative
+Nontherapeutic agent blood positive
+Plasma viscosity
+Plasma viscosity abnormal
+Plasma viscosity decreased
+Plasma viscosity normal
+Red blood cell sedimentation rate
+Red blood cell sedimentation rate abnormal
+Red blood cell sedimentation rate decreased
+Red blood cell sedimentation rate increased
+Red blood cell sedimentation rate normal
+Schumm's test
+Schumm's test negative
+Schumm's test positive
+Serum colour abnormal
+l2</ Haematological analyses NEC >
+l2< Platelet analyses >
+Heparin-induced thrombocytopenia test
+Heparin-induced thrombocytopenia test positive
+Mean platelet volume
+Mean platelet volume abnormal
+Mean platelet volume decreased
+Mean platelet volume increased
+Mean platelet volume normal
+Platelet adhesiveness
+Platelet adhesiveness abnormal
+Platelet adhesiveness decreased
+Platelet adhesiveness increased
+Platelet adhesiveness normal
+Platelet aggregation
+Platelet aggregation abnormal
+Platelet aggregation decreased
+Platelet aggregation increased
+Platelet aggregation normal
+Platelet count
+Platelet count abnormal
+Platelet count decreased
+Platelet count increased
+Platelet count normal
+Platelet distribution width
+Platelet distribution width abnormal
+Platelet distribution width decreased
+Platelet distribution width increased
+Platelet function test
+Platelet function test abnormal
+Platelet function test normal
+Platelet morphology
+Platelet morphology abnormal
+Platelet morphology normal
+Platelet-large cell ratio
+Platelet-large cell ratio decreased
+Platelet-large cell ratio increased
+Plateletcrit
+Plateletcrit abnormal
+Plateletcrit decreased
+Plateletcrit increased
+Plateletcrit normal
+Thrombopoietin level abnormal
+White clot in blood present
+l2</ Platelet analyses >
+l2< Red blood cell analyses >
+Acid haemolysin test
+Acid haemolysin test negative
+Acid haemolysin test positive
+Erythroblast count
+Erythroblast count abnormal
+Erythroblast count decreased
+Erythroblast count increased
+Erythroblast count normal
+Erythroblast morphology
+Erythroblast morphology abnormal
+Erythrocyte osmotic fragility test
+Erythroid series abnormal
+Foetal haemoglobin
+Foetal haemoglobin decreased
+Foetal haemoglobin increased
+Foetal haemoglobin normal
+Free haemoglobin
+Free haemoglobin absent
+Free haemoglobin present
+Glucose-6-phosphate dehydrogenase
+Glucose-6-phosphate dehydrogenase abnormal
+Glucose-6-phosphate dehydrogenase normal
+Haematocrit
+Haematocrit abnormal
+Haematocrit decreased
+Haematocrit increased
+Haematocrit normal
+Haemoglobin
+Haemoglobin A absent
+Haemoglobin A present
+Haemoglobin A2
+Haemoglobin abnormal
+Haemoglobin Barts absent
+Haemoglobin Barts present
+Haemoglobin C
+Haemoglobin C present
+Haemoglobin decreased
+Haemoglobin distribution width decreased
+Haemoglobin distribution width increased
+Haemoglobin E
+Haemoglobin E absent
+Haemoglobin E present
+Haemoglobin electrophoresis
+Haemoglobin electrophoresis abnormal
+Haemoglobin electrophoresis normal
+Haemoglobin increased
+Haemoglobin normal
+Haemoglobin S
+Haemoglobin S decreased
+Haemoglobin S increased
+Haemoglobin S normal
+Mean cell haemoglobin
+Mean cell haemoglobin concentration
+Mean cell haemoglobin concentration abnormal
+Mean cell haemoglobin concentration decreased
+Mean cell haemoglobin concentration increased
+Mean cell haemoglobin concentration normal
+Mean cell haemoglobin decreased
+Mean cell haemoglobin increased
+Mean cell haemoglobin normal
+Mean cell volume
+Mean cell volume abnormal
+Mean cell volume decreased
+Mean cell volume increased
+Mean cell volume normal
+Megaloblasts increased
+Polychromic red blood cells present
+Proerythroblast count
+Proerythroblast count abnormal
+Proerythroblast count decreased
+Proerythroblast count increased
+Proerythroblast count normal
+Red blood cell acanthocytes present
+Red blood cell agglutination present
+Red blood cell analysis
+Red blood cell analysis abnormal
+Red blood cell analysis normal
+Red blood cell anisocytes present
+Red blood cell burr cells present
+Red blood cell count
+Red blood cell count abnormal
+Red blood cell count decreased
+Red blood cell count increased
+Red blood cell count normal
+Red blood cell elliptocytes present
+Red blood cell Heinz bodies present
+Red blood cell hyperchromic morphology present
+Red blood cell hypochromic morphology present
+Red blood cell macrocytes present
+Red blood cell microcytes
+Red blood cell microcytes absent
+Red blood cell microcytes present
+Red blood cell morphology
+Red blood cell morphology abnormal
+Red blood cell morphology normal
+Red blood cell nucleated morphology present
+Red blood cell poikilocytes present
+Red blood cell punctate basophilia present
+Red blood cell rouleaux formation present
+Red blood cell schistocytes present
+Red blood cell sickled cells present
+Red blood cell siderocytes present
+Red blood cell spherocytes present
+Red blood cell target cells present
+Red cell distribution width
+Red cell distribution width abnormal
+Red cell distribution width decreased
+Red cell distribution width increased
+Red cell distribution width normal
+Reticulocyte count
+Reticulocyte count abnormal
+Reticulocyte count decreased
+Reticulocyte count increased
+Reticulocyte count normal
+Reticulocyte haemoglobin equivalent
+Reticulocyte percentage
+Reticulocyte percentage abnormal
+Reticulocyte percentage decreased
+Reticulocyte percentage increased
+Reticulocyte percentage normal
+Stomatocytes present
+l2</ Red blood cell analyses >
+l2< White blood cell analyses >
+B-lymphocyte count
+B-lymphocyte count abnormal
+B-lymphocyte count decreased
+B-lymphocyte count increased
+Band neutrophil count
+Band neutrophil count decreased
+Band neutrophil count increased
+Band neutrophil percentage
+Band neutrophil percentage decreased
+Band neutrophil percentage increased
+Basophil count
+Basophil count abnormal
+Basophil count decreased
+Basophil count increased
+Basophil count normal
+Basophil morphology
+Basophil morphology abnormal
+Basophil morphology normal
+Basophil percentage
+Basophil percentage decreased
+Basophil percentage increased
+CD4 lymphocyte percentage decreased
+CD4 lymphocyte percentage increased
+CD4 lymphocytes
+CD4 lymphocytes abnormal
+CD4 lymphocytes decreased
+CD4 lymphocytes increased
+CD4 lymphocytes normal
+CD4/CD8 ratio
+CD4/CD8 ratio decreased
+CD4/CD8 ratio increased
+CD8 lymphocyte percentage decreased
+CD8 lymphocyte percentage increased
+CD8 lymphocytes
+CD8 lymphocytes abnormal
+CD8 lymphocytes decreased
+CD8 lymphocytes increased
+Differential white blood cell count
+Differential white blood cell count abnormal
+Differential white blood cell count normal
+Eosinophil count
+Eosinophil count abnormal
+Eosinophil count decreased
+Eosinophil count increased
+Eosinophil count normal
+Eosinophil morphology
+Eosinophil morphology abnormal
+Eosinophil morphology normal
+Eosinophil percentage
+Eosinophil percentage abnormal
+Eosinophil percentage decreased
+Eosinophil percentage increased
+Granulocyte count
+Granulocyte count decreased
+Granulocyte count increased
+Granulocyte percentage
+Granulocytes abnormal
+Lymphoblast count
+Lymphoblast count increased
+Lymphoblast morphology
+Lymphoblast morphology abnormal
+Lymphoblast morphology normal
+Lymphocyte count
+Lymphocyte count abnormal
+Lymphocyte count decreased
+Lymphocyte count increased
+Lymphocyte count normal
+Lymphocyte morphology
+Lymphocyte morphology abnormal
+Lymphocyte morphology normal
+Lymphocyte percentage
+Lymphocyte percentage abnormal
+Lymphocyte percentage decreased
+Lymphocyte percentage increased
+Lymphocyte stimulation test
+Lymphocyte stimulation test negative
+Lymphocyte stimulation test positive
+Lymphocyte transformation test
+Lymphocyte transformation test negative
+Lymphocyte transformation test positive
+Macrophage count
+Macrophages decreased
+Macrophages increased
+Metamyelocyte count
+Metamyelocyte count decreased
+Metamyelocyte count increased
+Metamyelocyte percentage
+Metamyelocyte percentage increased
+Mitogen stimulation test
+Mitogen stimulation test abnormal
+Mitogen stimulation test normal
+Monoblast count
+Monoblast count decreased
+Monoblast count increased
+Monocyte count
+Monocyte count abnormal
+Monocyte count decreased
+Monocyte count increased
+Monocyte count normal
+Monocyte morphology
+Monocyte morphology abnormal
+Monocyte percentage
+Monocyte percentage abnormal
+Monocyte percentage decreased
+Monocyte percentage increased
+Mononuclear cell count
+Mononuclear cell count abnormal
+Mononuclear cell percentage
+Myeloblast count
+Myeloblast count decreased
+Myeloblast count increased
+Myeloblast percentage
+Myeloblast percentage decreased
+Myeloblast percentage increased
+Myeloblast present
+Myelocyte count
+Myelocyte count decreased
+Myelocyte count increased
+Myelocyte percentage
+Myelocyte percentage decreased
+Myelocyte percentage increased
+Myelocyte present
+Natural killer cell count
+Natural killer cell count decreased
+Natural killer cell count increased
+Natural killer T cell count
+Natural killer T cell count decreased
+Natural killer T cell count increased
+Neutrophil chemotaxis
+Neutrophil chemotaxis abnormal
+Neutrophil chemotaxis normal
+Neutrophil count
+Neutrophil count abnormal
+Neutrophil count decreased
+Neutrophil count increased
+Neutrophil count normal
+Neutrophil function test
+Neutrophil function test abnormal
+Neutrophil function test normal
+Neutrophil hypersegmented morphology present
+Neutrophil morphology
+Neutrophil morphology abnormal
+Neutrophil morphology normal
+Neutrophil Pelger-Huet anomaly present
+Neutrophil percentage
+Neutrophil percentage abnormal
+Neutrophil percentage decreased
+Neutrophil percentage increased
+Neutrophil toxic granulation present
+Plasma cell count
+Plasma cells absent
+Plasma cells decreased
+Plasma cells increased
+Plasma cells present
+Plasmablast count
+Plasmablast count decreased
+Plasmablast count increased
+Promyelocyte count
+Promyelocyte count decreased
+Promyelocyte count increased
+Sezary cell count
+Sezary cells increased
+Shift to the left
+Shift to the right
+T-lymphocyte count
+T-lymphocyte count abnormal
+T-lymphocyte count decreased
+T-lymphocyte count increased
+T-lymphocyte count normal
+White blood cell agglutination present
+White blood cell analysis
+White blood cell analysis abnormal
+White blood cell analysis normal
+White blood cell count
+White blood cell count abnormal
+White blood cell count decreased
+White blood cell count increased
+White blood cell count normal
+White blood cell morphology
+White blood cell morphology abnormal
+White blood cell morphology normal
+l2</ White blood cell analyses >
+l1</ Haematology investigations (incl blood groups) >
+l1< Hepatobiliary investigations >
+l2< Hepatobiliary histopathology procedures >
+Biopsy bile duct
+Biopsy bile duct abnormal
+Biopsy bile duct normal
+Biopsy gallbladder
+Biopsy gallbladder abnormal
+Biopsy gallbladder normal
+Biopsy liver
+Biopsy liver abnormal
+Biopsy liver normal
+Liver iron concentration abnormal
+Liver iron concentration decreased
+Liver iron concentration increased
+Metavir score
+l2</ Hepatobiliary histopathology procedures >
+l2< Hepatobiliary imaging procedures >
+Arteriogram liver
+Cholangiogram
+Cholangiogram abnormal
+Cholangiogram normal
+Cholecystogram intravenous
+Cholecystogram intravenous abnormal
+Cholecystogram intravenous normal
+Cholecystogram oral
+Cholecystogram oral abnormal
+Cholecystogram oral normal
+Computerised tomogram liver
+Computerised tomogram liver abnormal
+Endoscopic retrograde cholangiopancreatography
+Endoscopic retrograde cholangiopancreatography abnormal
+Endoscopic retrograde cholangiopancreatography normal
+Endoscopy biliary tract
+Endoscopy biliary tract abnormal
+Endoscopy biliary tract normal
+Hepatobiliary scan
+Hepatobiliary scan abnormal
+Hepatobiliary scan normal
+Liver scan
+Liver scan abnormal
+Liver scan normal
+Magnetic resonance cholangiopancreatography
+Nuclear magnetic resonance imaging liver
+Nuclear magnetic resonance imaging liver abnormal
+Transient elastography
+Ultrasound biliary tract
+Ultrasound biliary tract abnormal
+Ultrasound biliary tract normal
+Ultrasound liver
+Ultrasound liver abnormal
+Ultrasound liver normal
+X-ray hepatobiliary
+X-ray hepatobiliary abnormal
+X-ray hepatobiliary normal
+l2</ Hepatobiliary imaging procedures >
+l2< Liver function analyses >
+5'nucleotidase
+5'nucleotidase decreased
+5'nucleotidase increased
+Alanine aminotransferase
+Alanine aminotransferase abnormal
+Alanine aminotransferase decreased
+Alanine aminotransferase increased
+Alanine aminotransferase normal
+Aminopyrine breathing test
+Ammonia
+Ammonia abnormal
+Ammonia decreased
+Ammonia increased
+Ammonia normal
+Aspartate aminotransferase
+Aspartate aminotransferase abnormal
+Aspartate aminotransferase decreased
+Aspartate aminotransferase increased
+Aspartate aminotransferase normal
+AST/ALT ratio
+Bile duct pressure
+Bile duct pressure increased
+Bile output
+Bile output abnormal
+Bile output decreased
+Bile output increased
+Bilirubin conjugated
+Bilirubin conjugated abnormal
+Bilirubin conjugated decreased
+Bilirubin conjugated increased
+Bilirubin conjugated normal
+Bilirubin urine
+Bilirubin urine present
+Blood bilirubin
+Blood bilirubin abnormal
+Blood bilirubin decreased
+Blood bilirubin increased
+Blood bilirubin normal
+Blood bilirubin unconjugated
+Blood bilirubin unconjugated decreased
+Blood bilirubin unconjugated increased
+Blood bilirubin unconjugated normal
+Blood cholinesterase
+Blood cholinesterase abnormal
+Blood cholinesterase decreased
+Blood cholinesterase increased
+Blood cholinesterase normal
+Bromosulphthalein test
+Bromosulphthalein test abnormal
+Bromosulphthalein test normal
+Child-Pugh-Turcotte score
+Child-Pugh-Turcotte score abnormal
+Child-Pugh-Turcotte score decreased
+Child-Pugh-Turcotte score increased
+Fractionated bile acids
+Galactose elimination capacity test
+Galactose elimination capacity test abnormal
+Galactose elimination capacity test decreased
+Galactose elimination capacity test increased
+Galactose elimination capacity test normal
+Gamma-glutamyltransferase
+Gamma-glutamyltransferase abnormal
+Gamma-glutamyltransferase decreased
+Gamma-glutamyltransferase increased
+Gamma-glutamyltransferase normal
+Guanase increased
+Hepaplastin abnormal
+Hepaplastin decreased
+Hepaplastin increased
+Hepaplastin normal
+Hepaplastin test
+Hepascore
+Hepatic artery flow decreased
+Hepatic enzyme
+Hepatic enzyme abnormal
+Hepatic enzyme decreased
+Hepatic enzyme increased
+Hepatic fibrosis marker abnormal
+Hepatic fibrosis marker increased
+Hepatic fibrosis marker normal
+Hepatic fibrosis marker test
+Hepatic vascular resistance increased
+Hepatic venous pressure gradient
+Icterus index
+Icterus index decreased
+Icterus index increased
+Leucine aminopeptidase
+Leucine aminopeptidase decreased
+Leucine aminopeptidase increased
+Liver function test
+Liver function test abnormal
+Liver function test decreased
+Liver function test increased
+Liver function test normal
+Mitochondrial aspartate aminotransferase increased
+Model for end stage liver disease score
+Model for end stage liver disease score abnormal
+Model for end stage liver disease score increased
+Molar ratio of total branched-chain amino acid to tyrosine
+Portal vein flow decreased
+Portal vein pressure increased
+Total bile acids
+Total bile acids increased
+Transaminases
+Transaminases abnormal
+Transaminases decreased
+Transaminases increased
+Urinary 6 beta hydroxycortisol/cortisol ratio
+Urine bilirubin decreased
+Urine bilirubin increased
+Urobilinogen faeces
+Urobilinogen faeces abnormal
+Urobilinogen faeces decreased
+Urobilinogen faeces increased
+Urobilinogen faeces normal
+Urobilinogen urine
+Urobilinogen urine decreased
+Urobilinogen urine increased
+Wedged hepatic venous pressure
+l2</ Liver function analyses >
+l1</ Hepatobiliary investigations >
+l1< Immunology and allergy investigations >
+l2< Autoimmunity analyses >
+Anti-actin antibody
+Anti-actin antibody negative
+Anti-actin antibody positive
+Anti-aquaporin-4 antibody
+Anti-aquaporin-4 antibody negative
+Anti-aquaporin-4 antibody positive
+Anti-basal ganglia antibody
+Anti-basal ganglia antibody negative
+Anti-basal ganglia antibody positive
+Anti-cyclic citrullinated peptide antibody
+Anti-cyclic citrullinated peptide antibody negative
+Anti-cyclic citrullinated peptide antibody positive
+Anti-epithelial antibody
+Anti-epithelial antibody negative
+Anti-epithelial antibody positive
+Anti-erythrocyte antibody
+Anti-erythrocyte antibody negative
+Anti-erythrocyte antibody positive
+Anti-exosome complex antibody
+Anti-exosome complex antibody negative
+Anti-exosome complex antibody positive
+Anti-GAD antibody
+Anti-GAD antibody negative
+Anti-GAD antibody positive
+Anti-ganglioside antibody
+Anti-ganglioside antibody negative
+Anti-ganglioside antibody positive
+Anti-glomerular basement membrane antibody
+Anti-glomerular basement membrane antibody negative
+Anti-glomerular basement membrane antibody positive
+Anti-glycyl-tRNA synthetase antibody
+Anti-glycyl-tRNA synthetase antibody negative
+Anti-glycyl-tRNA synthetase antibody positive
+Anti-IA2 antibody
+Anti-IA2 antibody negative
+Anti-IA2 antibody positive
+Anti-insulin antibody
+Anti-insulin antibody decreased
+Anti-insulin antibody increased
+Anti-insulin antibody positive
+Anti-insulin receptor antibody
+Anti-insulin receptor antibody decreased
+Anti-insulin receptor antibody increased
+Anti-insulin receptor antibody positive
+Anti-islet cell antibody
+Anti-islet cell antibody negative
+Anti-islet cell antibody positive
+Anti-muscle specific kinase antibody
+Anti-muscle specific kinase antibody negative
+Anti-muscle specific kinase antibody positive
+Anti-myelin-associated glycoprotein antibodies positive
+Anti-neuronal antibody
+Anti-neuronal antibody negative
+Anti-neuronal antibody positive
+Anti-NMDA antibody
+Anti-NMDA antibody negative
+Anti-NMDA antibody positive
+Anti-platelet antibody
+Anti-platelet antibody negative
+Anti-platelet antibody positive
+Anti-saccharomyces cerevisiae antibody
+Anti-saccharomyces cerevisiae antibody test positive
+Anti-sperm antibody
+Anti-sperm antibody negative
+Anti-sperm antibody positive
+Anti-SRP antibody positive
+Anti-transglutaminase antibody
+Anti-transglutaminase antibody increased
+Anti-transglutaminase antibody negative
+Anti-VGCC antibody
+Anti-VGCC antibody negative
+Anti-VGCC antibody positive
+Anti-VGKC antibody
+Anti-VGKC antibody negative
+Anti-VGKC antibody positive
+Anti-vimentin antibody
+Anti-vimentin antibody negative
+Anti-vimentin antibody positive
+Anti-zinc transporter 8 antibody
+Anti-zinc transporter 8 antibody negative
+Anti-zinc transporter 8 antibody positive
+Antimitochondrial antibody
+Antimitochondrial antibody normal
+Antimitochondrial antibody positive
+Antimyocardial antibody
+Antimyocardial antibody negative
+Antimyocardial antibody positive
+Antineutrophil cytoplasmic antibody
+Antineutrophil cytoplasmic antibody decreased
+Antineutrophil cytoplasmic antibody increased
+Antineutrophil cytoplasmic antibody negative
+Antineutrophil cytoplasmic antibody positive
+Antinuclear antibody
+Antinuclear antibody increased
+Antinuclear antibody negative
+Antinuclear antibody positive
+Antiphospholipid antibodies
+Antiphospholipid antibodies negative
+Antiphospholipid antibodies positive
+Antiribosomal P antibody
+Antiribosomal P antibody positive
+Autoantibody negative
+Autoantibody positive
+Autoantibody test
+Beta-2 glycoprotein antibody
+Beta-2 glycoprotein antibody negative
+Beta-2 glycoprotein antibody positive
+Cardiolipin antibody
+Cardiolipin antibody negative
+Cardiolipin antibody positive
+Cold agglutinins
+Cold agglutinins negative
+Cold agglutinins positive
+DNA antibody
+DNA antibody negative
+DNA antibody positive
+Double stranded DNA antibody
+Double stranded DNA antibody positive
+Histone antibody
+Histone antibody negative
+Histone antibody positive
+Intrinsic factor antibody
+Intrinsic factor antibody abnormal
+Intrinsic factor antibody negative
+Intrinsic factor antibody positive
+LE cells
+LE cells absent
+LE cells present
+Parietal cell antibody
+Parietal cell antibody negative
+Parietal cell antibody normal
+Parietal cell antibody positive
+Rheumatoid factor
+Rheumatoid factor decreased
+Rheumatoid factor increased
+Rheumatoid factor negative
+Rheumatoid factor positive
+Rheumatoid factor quantitative
+Rheumatoid factor quantitative decreased
+Rheumatoid factor quantitative increased
+Smooth muscle antibody
+Smooth muscle antibody negative
+Smooth muscle antibody positive
+Thromboplastin antibody
+Thromboplastin antibody negative
+Thromboplastin antibody positive
+l2</ Autoimmunity analyses >
+l2< Immune response protein analyses NEC >
+Alpha tumour necrosis factor
+Alpha tumour necrosis factor decreased
+Alpha tumour necrosis factor increased
+C1 esterase inhibitor decreased
+C1 esterase inhibitor test
+Complement factor
+Complement factor abnormal
+Complement factor C1 decreased
+Complement factor C1 increased
+Complement factor C2
+Complement factor C2 decreased
+Complement factor C2 increased
+Complement factor C3
+Complement factor C3 decreased
+Complement factor C3 increased
+Complement factor C4
+Complement factor C4 decreased
+Complement factor C4 increased
+Complement factor decreased
+Complement factor increased
+Complement factor normal
+Complement fixation abnormal
+Complement fixation test positive
+Complement split products increased
+Cytokine abnormal
+Cytokine test
+Eosinophil cationic protein
+Eosinophil cationic protein decreased
+Eosinophil cationic protein increased
+Interferon alpha level
+Interferon alpha level decreased
+Interferon alpha level increased
+Interferon gamma decreased
+Interferon gamma level
+Interferon gamma level increased
+Interferon gamma normal
+Interleukin level
+Interleukin level decreased
+Interleukin level increased
+Interleukin-2 receptor assay
+Interleukin-2 receptor increased
+Monocyte chemotactic protein-1 increased
+Total complement activity decreased
+Total complement activity increased
+Total complement activity test
+Transfer factor reduced
+l2</ Immune response protein analyses NEC >
+l2< Immunoglobulin analyses >
+Antigliadin antibody positive
+Bence Jones protein urine
+Bence Jones protein urine absent
+Bence Jones protein urine present
+Blood immunoglobulin A
+Blood immunoglobulin A abnormal
+Blood immunoglobulin A decreased
+Blood immunoglobulin A increased
+Blood immunoglobulin A normal
+Blood immunoglobulin D
+Blood immunoglobulin D decreased
+Blood immunoglobulin D increased
+Blood immunoglobulin E
+Blood immunoglobulin E abnormal
+Blood immunoglobulin E decreased
+Blood immunoglobulin E increased
+Blood immunoglobulin E normal
+Blood immunoglobulin G
+Blood immunoglobulin G abnormal
+Blood immunoglobulin G decreased
+Blood immunoglobulin G increased
+Blood immunoglobulin G normal
+Blood immunoglobulin M
+Blood immunoglobulin M abnormal
+Blood immunoglobulin M decreased
+Blood immunoglobulin M increased
+Blood immunoglobulin M normal
+Cryoglobulin urine present
+Cryoglobulins
+Cryoglobulins absent
+Cryoglobulins present
+Immunoglobulins
+Immunoglobulins abnormal
+Immunoglobulins decreased
+Immunoglobulins increased
+Immunoglobulins normal
+Light chain analysis
+Light chain analysis abnormal
+Light chain analysis decreased
+Light chain analysis increased
+Light chain analysis normal
+Monoclonal immunoglobulin present
+Radioallergosorbent test
+Radioallergosorbent test negative
+Radioallergosorbent test positive
+l2</ Immunoglobulin analyses >
+l2< Immunology analyses NEC >
+Allergy test
+Allergy test negative
+Allergy test positive
+Angiotensin II receptor type 1 antibody positive
+Anti-interferon antibody
+Anti-interferon antibody negative
+Anti-interferon antibody positive
+Antibody test
+Antibody test abnormal
+Antibody test negative
+Antibody test normal
+Antibody test positive
+Antiendomysial antibody positive
+Antiendomysial antibody test
+Basophil degranulation test
+Charcot-Leyden crystals
+Donor specific antibody present
+Drug provocation test
+Human anti-human antibody test
+Human anti-mouse antibody increased
+Human anti-mouse antibody positive
+Human anti-mouse antibody test
+Human antichimeric antibody negative
+Human antichimeric antibody positive
+Human antichimeric antibody test
+Immune agglutinins
+Immune complex assay
+Immune complex level increased
+Immunology test
+Immunology test abnormal
+Immunology test normal
+Inhibiting antibodies
+Inhibiting antibodies negative
+Inhibiting antibodies positive
+Leukotriene decreased
+Leukotriene increased
+Leukotriene test
+Lymphocytotoxic antibody positive
+Mast cell degranulation present
+Mast cell degranulation test
+Neutralising antibodies
+Neutralising antibodies negative
+Neutralising antibodies positive
+Non-neutralising antibodies
+Non-neutralising antibodies negative
+Non-neutralising antibodies positive
+Panel-reactive antibody
+Panel-reactive antibody increased
+Streptokinase antibody increased
+Tryptase
+Tryptase decreased
+Tryptase increased
+l2</ Immunology analyses NEC >
+l2< Immunology skin tests NEC >
+Allergy alert test
+Allergy alert test negative
+Allergy alert test positive
+Skin test
+Skin test negative
+Skin test positive
+l2</ Immunology skin tests NEC >
+l1</ Immunology and allergy investigations >
+l1< Investigations, imaging and histopathology procedures NEC >
+l2< Histopathology procedures NEC >
+Autopsy
+Biopsy
+Biopsy eyelid
+Biopsy eyelid abnormal
+Biopsy eyelid normal
+Biopsy mucosa abnormal
+Biopsy mucosa normal
+Biopsy site unspecified abnormal
+Biopsy site unspecified normal
+Blood smear test
+Blood smear test abnormal
+Blood smear test normal
+Cyst aspiration
+Cyst aspiration abnormal
+Cyst aspiration normal
+Cytology
+Cytology abnormal
+Cytology normal
+Diagnostic aspiration
+Histology
+Histology abnormal
+Histology normal
+Hydrocele drainage test
+Hydrocele drainage test abnormal
+Hydrocele drainage test normal
+Immunohistochemistry
+Mucosal biopsy
+Needle biopsy site unspecified abnormal
+Needle biopsy site unspecified normal
+Pathology test
+Periodic acid Schiff stain
+Smear site unspecified abnormal
+Smear site unspecified normal
+Smear test
+l2</ Histopathology procedures NEC >
+l2< Imaging procedures NEC >
+Biomedical photography
+Computed tomographic abscessogram
+Computerised tomogram
+Computerised tomogram abnormal
+Computerised tomogram normal
+Endoscopy
+Endoscopy abnormal
+Endoscopy normal
+Fistulogram
+Fistulography abnormal
+Fistulography normal
+Imaging procedure
+Imaging procedure abnormal
+Inflammation scan
+Nuclear magnetic resonance imaging
+Nuclear magnetic resonance imaging abnormal
+Nuclear magnetic resonance imaging normal
+Nuclear magnetic resonance imaging whole body
+Optical coherence tomography
+Optical coherence tomography abnormal
+Optical coherence tomography normal
+Photodynamic diagnostic procedure
+Positron emission tomogram
+Positron emission tomogram abnormal
+Positron emission tomogram normal
+Radioisotope scan
+Radioisotope scan abnormal
+Radioisotope scan normal
+Red blood cell scan
+Scan
+Scan abnormal
+Scan gallium
+Scan gallium abnormal
+Scan gallium normal
+Scan normal
+Scan with contrast
+Scan with contrast abnormal
+Scan with contrast normal
+Single photon emission computerised tomogram
+Single photon emission computerised tomogram abnormal
+Single photon emission computerised tomogram normal
+Sinoscopy
+Thermogram
+Thermogram abnormal
+Thermogram normal
+Ultrasound scan
+Ultrasound scan abnormal
+Ultrasound scan normal
+White blood cell scan
+Whole body scan
+X-ray
+X-ray abnormal
+X-ray normal
+X-ray with contrast
+l2</ Imaging procedures NEC >
+l2< Investigations NEC >
+APACHE II score
+APACHE II score increased
+Blood isotope clearance
+Blood test
+Blood test abnormal
+Blood test normal
+Body fluid analysis
+Cancer staging
+Cardiac clearance
+Device function test
+Device position test
+Diagnostic procedure
+Disability assessment scale
+Disability assessment scale score decreased
+Disability assessment scale score increased
+Dry weight evaluation
+False negative investigation result
+False positive investigation result
+Flow cytometry
+Investigation
+Investigation abnormal
+Laboratory test
+Laboratory test abnormal
+Laboratory test interference
+Laboratory test normal
+Microscopy
+Nutritional assessment
+Paracentesis
+Plethysmography
+Pneumocardiogram
+Polymerase chain reaction
+Polymerase chain reaction positive
+Precancerous cells present
+Quality of life decreased
+Restriction endonuclease assay
+Secretion gastric absent
+Systemic lupus erythematosus disease activity index abnormal
+Systemic lupus erythematosus disease activity index decreased
+Systemic lupus erythematosus disease activity index increased
+Transplant evaluation
+Unevaluable investigation
+Unevaluable specimen
+Visual analogue scale
+l2</ Investigations NEC >
+l1</ Investigations, imaging and histopathology procedures NEC >
+l1< Lipid analyses >
+l2< Cholesterol analyses >
+Blood cholesterol
+Blood cholesterol abnormal
+Blood cholesterol decreased
+Blood cholesterol esterase increased
+Blood cholesterol increased
+Blood cholesterol normal
+Cholesterol absorption efficiency decreased
+Chylomicron decreased
+Chylomicron increased
+Chylomicrons
+High density lipoprotein
+High density lipoprotein abnormal
+High density lipoprotein decreased
+High density lipoprotein increased
+High density lipoprotein normal
+Intermediate density lipoprotein decreased
+Intermediate density lipoprotein increased
+LDL/HDL ratio
+LDL/HDL ratio decreased
+LDL/HDL ratio increased
+Lipoprotein (a)
+Lipoprotein (a) abnormal
+Lipoprotein (a) decreased
+Lipoprotein (a) increased
+Lipoprotein (a) normal
+Low density lipoprotein
+Low density lipoprotein abnormal
+Low density lipoprotein decreased
+Low density lipoprotein increased
+Low density lipoprotein normal
+Non-high-density lipoprotein cholesterol
+Non-high-density lipoprotein cholesterol decreased
+Non-high-density lipoprotein cholesterol increased
+Remnant-like lipoprotein particles
+Remnant-like lipoprotein particles increased
+Total cholesterol/HDL ratio
+Total cholesterol/HDL ratio abnormal
+Total cholesterol/HDL ratio decreased
+Total cholesterol/HDL ratio increased
+Total cholesterol/HDL ratio normal
+Very low density lipoprotein
+Very low density lipoprotein abnormal
+Very low density lipoprotein decreased
+Very low density lipoprotein increased
+Very low density lipoprotein normal
+l2</ Cholesterol analyses >
+l2< Lipoprotein and lipid tests NEC >
+Apolipoprotein
+Apolipoprotein A-I
+Apolipoprotein A-I abnormal
+Apolipoprotein A-I decreased
+Apolipoprotein A-I increased
+Apolipoprotein A-I normal
+Apolipoprotein A-II
+Apolipoprotein A-II abnormal
+Apolipoprotein A-II decreased
+Apolipoprotein A-II increased
+Apolipoprotein A-II normal
+Apolipoprotein abnormal
+Apolipoprotein B
+Apolipoprotein B abnormal
+Apolipoprotein B decreased
+Apolipoprotein B increased
+Apolipoprotein B normal
+Apolipoprotein B/Apolipoprotein A-1 ratio
+Apolipoprotein B/Apolipoprotein A-1 ratio increased
+Apolipoprotein C
+Apolipoprotein C abnormal
+Apolipoprotein decreased
+Apolipoprotein E
+Apolipoprotein E abnormal
+Apolipoprotein increased
+Apolipoprotein normal
+Carnitine
+Carnitine abnormal
+Carnitine decreased
+Carnitine increased
+Carnitine normal
+Free fatty acids
+Free fatty acids abnormal
+Free fatty acids decreased
+Free fatty acids increased
+Lecithin-cholesterol acyltransferase activity decreased
+Lecithin-cholesterol acyltransferase activity increased
+Lipaemic index score
+Lipids
+Lipids abnormal
+Lipids decreased
+Lipids increased
+Lipids normal
+Phytanic acid increased
+Phytosterol level
+Phytosterol level increased
+Serum pristanic acid increased
+l2</ Lipoprotein and lipid tests NEC >
+l2< Triglyceride analyses >
+Blood triglycerides
+Blood triglycerides abnormal
+Blood triglycerides decreased
+Blood triglycerides increased
+Blood triglycerides normal
+l2</ Triglyceride analyses >
+l1</ Lipid analyses >
+l1< Metabolic, nutritional and blood gas investigations >
+l2< Blood gas and acid base analyses >
+Acid base balance
+Acid base balance abnormal
+Acid base balance normal
+Alveolar oxygen partial pressure
+Alveolar oxygen partial pressure abnormal
+Alveolar oxygen partial pressure decreased
+Alveolar oxygen partial pressure increased
+Alveolar-arterial oxygen gradient
+Alveolar-arterial oxygen gradient increased
+Alveolar-arterial oxygen gradient normal
+Anion gap
+Anion gap abnormal
+Anion gap decreased
+Anion gap increased
+Anion gap normal
+Base excess
+Base excess abnormal
+Base excess decreased
+Base excess increased
+Base excess negative
+Base excess positive
+Blood gases
+Blood gases abnormal
+Blood gases normal
+Blood lactic acid
+Blood lactic acid abnormal
+Blood lactic acid decreased
+Blood lactic acid increased
+Blood lactic acid normal
+Blood pH
+Blood pH abnormal
+Blood pH decreased
+Blood pH increased
+Blood pH normal
+Carbon dioxide
+Carbon dioxide abnormal
+Carbon dioxide combining power abnormal
+Carbon dioxide combining power decreased
+Carbon dioxide combining power increased
+Carbon dioxide decreased
+Carbon dioxide increased
+Carbon dioxide normal
+Oxygen consumption
+Oxygen consumption decreased
+Oxygen consumption increased
+Oxygen saturation
+Oxygen saturation abnormal
+Oxygen saturation decreased
+Oxygen saturation immeasurable
+Oxygen saturation increased
+Oxygen saturation normal
+PaO2/FiO2 ratio
+PaO2/FiO2 ratio decreased
+PCO2
+PCO2 abnormal
+PCO2 decreased
+PCO2 increased
+PCO2 normal
+pH body fluid
+pH body fluid abnormal
+pH body fluid decreased
+pH body fluid increased
+pH body fluid normal
+PO2
+PO2 abnormal
+PO2 decreased
+PO2 increased
+PO2 normal
+Urine lactic acid
+Urine lactic acid decreased
+Urine lactic acid increased
+Venous oxygen partial pressure
+Venous oxygen partial pressure abnormal
+Venous oxygen partial pressure decreased
+Venous oxygen partial pressure increased
+Venous oxygen saturation
+Venous oxygen saturation abnormal
+Venous oxygen saturation decreased
+Venous oxygen saturation increased
+Venous oxygen saturation normal
+l2</ Blood gas and acid base analyses >
+l2< Carbohydrate tolerance analyses (incl diabetes) >
+Blood 1,5-anhydroglucitol decreased
+Blood 1,5-anhydroglucitol test
+Blood galactose
+Blood galactose abnormal
+Blood galactose decreased
+Blood galactose increased
+Blood galactose normal
+Blood glucose
+Blood glucose abnormal
+Blood glucose decreased
+Blood glucose false positive
+Blood glucose fluctuation
+Blood glucose increased
+Blood glucose normal
+Carbohydrate tolerance decreased
+Carbohydrate tolerance increased
+Continuous glucose monitoring
+Fructosamine
+Fructosamine decreased
+Fructosamine increased
+Fructosamine normal
+Fructose
+Fructose decreased
+Fructose increased
+Galactose urine
+Galactose urine abnormal
+Galactose urine decreased
+Galactose urine increased
+Glucose tolerance decreased
+Glucose tolerance increased
+Glucose tolerance test
+Glucose tolerance test abnormal
+Glucose tolerance test normal
+Glycolysis increased
+Glycosylated haemoglobin
+Glycosylated haemoglobin decreased
+Glycosylated haemoglobin increased
+Glycosylated haemoglobin normal
+Indeterminate glucose tolerance
+Insulin resistance test
+Lactose tolerance test
+Lactose tolerance test abnormal
+Lactose tolerance test normal
+Stool reducing substances increased
+Stool reducing substances test
+Urine glucose false positive
+l2</ Carbohydrate tolerance analyses (incl diabetes) >
+l2< Haem metabolism analyses >
+Blood methaemoglobin
+Blood methaemoglobin absent
+Blood methaemoglobin present
+Coproporphyrinogen
+Coproporphyrinogen decreased
+Coproporphyrinogen increased
+Haptoglobin
+Haptoglobin abnormal
+Haptoglobin decreased
+Haptoglobin increased
+Haptoglobin normal
+Methaemoglobin urine
+Methaemoglobin urine absent
+Methaemoglobin urine present
+Porphobilinogen abnormal
+Porphyria screen
+Porphyrins stool increased
+Porphyrins urine
+Porphyrins urine abnormal
+Porphyrins urine decreased
+Porphyrins urine increased
+Porphyrins urine normal
+Stool haemoglobin-haptoglobin complex increased
+Urine delta aminolevulinate
+Urine delta aminolevulinate increased
+Urine delta aminolevulinate normal
+Urine porphobilinogen increased
+Urine porphobilinogen normal
+l2</ Haem metabolism analyses >
+l2< Metabolism tests NEC >
+5-hydroxyindolacetic acid
+5-hydroxyindolacetic acid decreased
+5-hydroxyindolacetic acid in urine
+5-hydroxyindolacetic acid in urine decreased
+5-hydroxyindolacetic acid in urine increased
+5-hydroxyindolacetic acid increased
+Antioxidant capacity test
+Atrial natriuretic peptide
+Atrial natriuretic peptide abnormal
+Atrial natriuretic peptide decreased
+Atrial natriuretic peptide increased
+Atrial natriuretic peptide normal
+Blood citric acid
+Blood citric acid abnormal
+Blood citric acid decreased
+Blood citric acid increased
+Blood citric acid normal
+Blood homocysteine
+Blood homocysteine abnormal
+Blood homocysteine decreased
+Blood homocysteine increased
+Blood homocysteine normal
+Blood ketone body
+Blood ketone body absent
+Blood ketone body decreased
+Blood ketone body increased
+Blood ketone body present
+Blood pyruvic acid
+Blood pyruvic acid abnormal
+Blood pyruvic acid decreased
+Blood pyruvic acid increased
+Blood pyruvic acid normal
+Blood uric acid
+Blood uric acid abnormal
+Blood uric acid decreased
+Blood uric acid increased
+Blood uric acid normal
+Brain natriuretic peptide
+Brain natriuretic peptide abnormal
+Brain natriuretic peptide decreased
+Brain natriuretic peptide increased
+Brain natriuretic peptide normal
+Cyclic AMP
+Cyclic AMP abnormal
+Cyclic AMP decreased
+Cyclic AMP increased
+Cyclic AMP normal
+Cysteine urine
+Cysteine urine absent
+Cysteine urine present
+Cystine urine
+Cystine urine present
+Direct calorimetry
+Drug metabolising enzyme decreased
+Drug metabolising enzyme increased
+Drug metabolising enzyme test
+Drug metabolising enzyme test abnormal
+Drug metabolising enzyme test normal
+Endothelin
+Endothelin abnormal
+Endothelin decreased
+Endothelin increased
+Endothelin normal
+Glyceric acid urine
+Glyceric acid urine increased
+Homocysteine urine
+Homocysteine urine absent
+Homocysteine urine present
+Hyaluronic acid
+Hyaluronic acid abnormal
+Hyaluronic acid decreased
+Hyaluronic acid increased
+Hyaluronic acid normal
+Hydroxyproline
+Hydroxyproline abnormal
+Hydroxyproline decreased
+Hydroxyproline increased
+Indirect calorimetry
+Lactate pyruvate ratio
+Lactate pyruvate ratio abnormal
+Lactate pyruvate ratio decreased
+Lactate pyruvate ratio increased
+Lactate pyruvate ratio normal
+Metabolic function test
+Metabolic function test abnormal
+Metabolic function test normal
+N-terminal prohormone brain natriuretic peptide
+N-terminal prohormone brain natriuretic peptide abnormal
+N-terminal prohormone brain natriuretic peptide decreased
+N-terminal prohormone brain natriuretic peptide increased
+N-terminal prohormone brain natriuretic peptide normal
+Organic acid analysis
+Organic acid analysis abnormal
+Prohormone brain natriuretic peptide
+Prohormone brain natriuretic peptide abnormal
+Prohormone brain natriuretic peptide decreased
+Prohormone brain natriuretic peptide increased
+Pyruvate kinase
+Pyruvate kinase decreased
+Pyruvate kinase increased
+Retinol binding protein
+Retinol binding protein decreased
+Retinol binding protein increased
+Succinylacetone
+Succinylacetone decreased
+Succinylacetone increased
+Ubiquinone
+Ubiquinone decreased
+Urine calcium/creatinine ratio
+Urine calcium/creatinine ratio decreased
+Urine calcium/creatinine ratio increased
+Urine homocystine
+Urine homocystine present
+Urine ketone body
+Urine ketone body absent
+Urine ketone body present
+l2</ Metabolism tests NEC >
+l2< Vitamin analyses >
+Blood 1,25-dihydroxycholecalciferol
+Blood 1,25-dihydroxycholecalciferol decreased
+Blood 1,25-dihydroxycholecalciferol increased
+Blood 25-hydroxycholecalciferol
+Blood 25-hydroxycholecalciferol decreased
+Blood 25-hydroxycholecalciferol increased
+Blood folate
+Blood folate abnormal
+Blood folate decreased
+Blood folate increased
+Blood folate normal
+Carotene
+Carotene abnormal
+Carotene decreased
+Carotene increased
+Carotene normal
+Nicotinamide
+Nicotinamide decreased
+Nicotinamide increased
+Urine vitamin K decreased
+Urine vitamin K increased
+Vitamin A
+Vitamin A abnormal
+Vitamin A decreased
+Vitamin A increased
+Vitamin A normal
+Vitamin B1
+Vitamin B1 decreased
+Vitamin B1 increased
+Vitamin B12
+Vitamin B12 abnormal
+Vitamin B12 absorption test
+Vitamin B12 absorption test abnormal
+Vitamin B12 absorption test normal
+Vitamin B12 decreased
+Vitamin B12 increased
+Vitamin B12 normal
+Vitamin B2
+Vitamin B2 decreased
+Vitamin B2 increased
+Vitamin B6
+Vitamin B6 abnormal
+Vitamin B6 decreased
+Vitamin B6 increased
+Vitamin B6 normal
+Vitamin C
+Vitamin C abnormal
+Vitamin C decreased
+Vitamin C increased
+Vitamin C normal
+Vitamin D
+Vitamin D abnormal
+Vitamin D decreased
+Vitamin D increased
+Vitamin E
+Vitamin E decreased
+Vitamin E increased
+Vitamin K
+Vitamin K decreased
+Vitamin K increased
+l2</ Vitamin analyses >
+l1</ Metabolic, nutritional and blood gas investigations >
+l1< Microbiology and serology investigations >
+l2< Bacteria identification and serology (excl mycobacteria) >
+Acinetobacter test
+Acinetobacter test positive
+Actinomyces test positive
+Aeromonas test positive
+Bacillus test positive
+Bacterial test
+Bacterial test negative
+Bacterial test positive
+Bacteroides test positive
+Bartonella test
+Bartonella test negative
+Bartonella test positive
+Bifidobacterium test positive
+Bordetella test
+Bordetella test negative
+Bordetella test positive
+Borrelia test
+Borrelia test negative
+Borrelia test positive
+Brevibacterium test negative
+Brevibacterium test positive
+Brucella test
+Brucella test negative
+Brucella test positive
+Burkholderia test positive
+Campylobacter test positive
+Capnocytophaga test positive
+Chlamydia test
+Chlamydia test negative
+Chlamydia test positive
+Citrobacter test positive
+Clostridium test
+Clostridium test negative
+Clostridium test positive
+Corynebacterium test
+Corynebacterium test negative
+Corynebacterium test positive
+Coxiella test
+Coxiella test positive
+Cronobacter test positive
+Ehrlichia test
+Ehrlichia test positive
+Empedobacter test positive
+Enterobacter test positive
+Enterococcus test
+Enterococcus test positive
+Erysipelothrix test positive
+Escherichia test
+Escherichia test negative
+Escherichia test positive
+Flavobacterium test positive
+Francisella test
+Francisella test positive
+Fusobacterium test positive
+Gardnerella test positive
+Gram stain
+Gram stain negative
+Gram stain positive
+Haemophilus test positive
+Helicobacter test
+Helicobacter test negative
+Helicobacter test positive
+Klebsiella test positive
+Lactobacillus test positive
+Legionella test
+Legionella test positive
+Leptospira test positive
+Listeria test
+Listeria test positive
+Micrococcus test positive
+Moraxella test positive
+Morganella test positive
+Mycoplasma test
+Mycoplasma test negative
+Mycoplasma test positive
+Neisseria test positive
+Nocardia test positive
+Pantoea agglomerans test positive
+Parvimonas test
+Parvimonas test negative
+Parvimonas test positive
+Pasteurella test positive
+Peptostreptococcus test positive
+Porphyromonas test positive
+Propionibacterium test positive
+Proteus test positive
+Pseudomonas test
+Pseudomonas test positive
+Raoultella test positive
+Rhodococcus test positive
+Salmonella test
+Salmonella test negative
+Salmonella test positive
+Serratia test positive
+Shigella test positive
+Spirillum test positive
+Spotted fever rickettsia test positive
+Staphylococcus test
+Staphylococcus test negative
+Staphylococcus test positive
+Stenotrophomonas test positive
+Stomatococcus test positive
+Streptobacillus test positive
+Streptococcus test
+Streptococcus test negative
+Streptococcus test positive
+Treponema test
+Treponema test false positive
+Treponema test negative
+Treponema test positive
+Typhus rickettsia test
+Typhus rickettsia test positive
+Ureaplasma test positive
+Veillonella test positive
+Vibrio test positive
+Widal test
+Yersinia test
+Yersinia test negative
+Yersinia test positive
+l2</ Bacteria identification and serology (excl mycobacteria) >
+l2< Fungus identification and serology >
+Aspergillus test
+Aspergillus test negative
+Aspergillus test positive
+Blood beta-D-glucan
+Blood beta-D-glucan abnormal
+Blood beta-D-glucan decreased
+Blood beta-D-glucan increased
+Blood beta-D-glucan normal
+Candida test
+Candida test negative
+Candida test positive
+Cryptococcus test
+Cryptococcus test positive
+Exserohilum test
+Exserohilum test negative
+Exserohilum test positive
+Fungal test
+Fungal test negative
+Fungal test positive
+Gomori methenamine silver stain
+Penicillium test negative
+Penicillium test positive
+Pneumocystis test
+Pneumocystis test negative
+Pneumocystis test positive
+l2</ Fungus identification and serology >
+l2< Microbiology and serology tests NEC >
+Antimicrobial susceptibility test
+Antimicrobial susceptibility test intermediate
+Antimicrobial susceptibility test resistant
+Antimicrobial susceptibility test sensitive
+Bile culture
+Bile culture negative
+Bile culture positive
+Blood bactericidal activity
+Blood culture
+Blood culture negative
+Blood culture positive
+Catheter culture
+Catheter culture negative
+Catheter culture positive
+CSF culture
+CSF culture negative
+CSF culture positive
+Culture
+Culture cervix
+Culture cervix negative
+Culture cervix positive
+Culture negative
+Culture positive
+Culture stool
+Culture stool negative
+Culture stool positive
+Culture throat
+Culture throat negative
+Culture throat positive
+Culture tissue specimen
+Culture tissue specimen negative
+Culture tissue specimen positive
+Culture urine
+Culture urine negative
+Culture urine positive
+Culture wound
+Culture wound negative
+Culture wound positive
+Microagglutination test
+Microbiology test
+Microbiology test abnormal
+Microbiology test normal
+Minimum inhibitory concentration
+Multipathogen PCR test
+Multipathogen PCR test positive
+Septic screen
+Seroconversion test
+Seroconversion test negative
+Seroconversion test positive
+Serology abnormal
+Serology negative
+Serology normal
+Serology positive
+Serology test
+Skin culture
+Skin culture positive
+Sputum culture
+Sputum culture positive
+l2</ Microbiology and serology tests NEC >
+l2< Mycobacteria identification and serology >
+Atypical mycobacterium test positive
+False positive tuberculosis test
+Interferon gamma release assay
+Interferon gamma release assay positive
+Mycobacterium leprae test positive
+Mycobacterium test
+Mycobacterium test negative
+Mycobacterium test positive
+Mycobacterium tuberculosis complex test
+Mycobacterium tuberculosis complex test negative
+Mycobacterium tuberculosis complex test positive
+Tuberculin test
+Tuberculin test false negative
+Tuberculin test false positive
+Tuberculin test negative
+Tuberculin test positive
+l2</ Mycobacteria identification and serology >
+l2< Parasite identification and serology >
+Amoeba test
+Amoeba test negative
+Amoeba test positive
+Giardia test
+Giardia test negative
+Giardia test positive
+Malaria antibody test
+Malaria antibody test negative
+Malaria antibody test positive
+Parasite blood test
+Parasite blood test positive
+Parasite cervical specimen test negative
+Parasite cervical specimen test positive
+Parasite DNA test
+Parasite DNA test positive
+Parasite stool test
+Parasite stool test negative
+Parasite stool test positive
+Parasite tissue specimen test negative
+Parasite tissue specimen test positive
+Parasite urine test negative
+Parasite urine test positive
+Parasitic blood test negative
+Parasitic test
+Parasitic test positive
+Potassium hydroxide preparation
+Potassium hydroxide preparation negative
+Potassium hydroxide preparation positive
+Schistosoma test
+Schistosoma test negative
+Schistosoma test positive
+Toxoplasma serology
+Toxoplasma serology negative
+Toxoplasma serology positive
+Trichomonal test positive
+Trypanosoma serology positive
+l2</ Parasite identification and serology >
+l2< Virus identification and serology >
+Adenovirus test
+Adenovirus test positive
+Alphavirus test
+Alphavirus test positive
+Anti-JC virus antibody index
+Aphthovirus test positive
+Arbovirus test positive
+Arenavirus test positive
+Astrovirus test positive
+Blood HCV RNA below assay limit
+Blood HIV RNA
+Blood HIV RNA below assay limit
+Blood HIV RNA decreased
+Blood HIV RNA fluctuation
+Blood HIV RNA increased
+Calicivirus test positive
+Colorado tick fever virus test positive
+Coronavirus test positive
+Coxsackie virus test
+Coxsackie virus test negative
+Coxsackie virus test positive
+CSF measles antibody negative
+CSF measles antibody positive
+CSF virus identified
+CSF virus no organisms observed
+Cytomegalovirus test
+Cytomegalovirus test negative
+Cytomegalovirus test positive
+Deltaretrovirus test positive
+Ebola virus test positive
+Echovirus test
+Echovirus test negative
+Echovirus test positive
+Enterovirus test
+Enterovirus test negative
+Enterovirus test positive
+Epstein-Barr virus antibody
+Epstein-Barr virus antibody negative
+Epstein-Barr virus antibody positive
+Epstein-Barr virus antigen positive
+Epstein-Barr virus test
+Epstein-Barr virus test negative
+Epstein-Barr virus test positive
+Filovirus test positive
+Flavivirus test
+Flavivirus test negative
+Flavivirus test positive
+Genotype drug resistance test
+Genotype drug resistance test abnormal
+Genotype drug resistance test negative
+Genotype drug resistance test positive
+Hantavirus test positive
+HBV-DNA polymerase increased
+Henipavirus test positive
+Hepatitis A antibody
+Hepatitis A antibody abnormal
+Hepatitis A antibody negative
+Hepatitis A antibody normal
+Hepatitis A antibody positive
+Hepatitis A antigen
+Hepatitis A antigen negative
+Hepatitis A antigen positive
+Hepatitis A virus test
+Hepatitis A virus test positive
+Hepatitis B antibody
+Hepatitis B antibody abnormal
+Hepatitis B antibody negative
+Hepatitis B antibody normal
+Hepatitis B antibody positive
+Hepatitis B antigen
+Hepatitis B antigen positive
+Hepatitis B core antibody
+Hepatitis B core antibody negative
+Hepatitis B core antibody positive
+Hepatitis B core antigen
+Hepatitis B core antigen positive
+Hepatitis B DNA assay
+Hepatitis B DNA assay negative
+Hepatitis B DNA assay positive
+Hepatitis B DNA decreased
+Hepatitis B DNA increased
+Hepatitis B e antibody
+Hepatitis B e antibody negative
+Hepatitis B e antibody positive
+Hepatitis B e antigen
+Hepatitis B e antigen negative
+Hepatitis B e antigen positive
+Hepatitis B surface antibody
+Hepatitis B surface antibody negative
+Hepatitis B surface antibody positive
+Hepatitis B surface antigen
+Hepatitis B surface antigen negative
+Hepatitis B surface antigen positive
+Hepatitis B test negative
+Hepatitis B virus test
+Hepatitis B virus test positive
+Hepatitis C antibody
+Hepatitis C antibody negative
+Hepatitis C antibody positive
+Hepatitis C core antibody
+Hepatitis C core antibody negative
+Hepatitis C core antibody positive
+Hepatitis C RNA
+Hepatitis C RNA decreased
+Hepatitis C RNA fluctuation
+Hepatitis C RNA increased
+Hepatitis C RNA negative
+Hepatitis C RNA positive
+Hepatitis C test negative
+Hepatitis C virus test
+Hepatitis C virus test positive
+Hepatitis D antibody
+Hepatitis D antibody negative
+Hepatitis D antibody positive
+Hepatitis D antigen
+Hepatitis D antigen negative
+Hepatitis D antigen positive
+Hepatitis D RNA
+Hepatitis D RNA negative
+Hepatitis D RNA positive
+Hepatitis D virus test
+Hepatitis D virus test positive
+Hepatitis E antibody
+Hepatitis E antibody abnormal
+Hepatitis E antibody negative
+Hepatitis E antibody normal
+Hepatitis E antibody positive
+Hepatitis E antigen
+Hepatitis E antigen negative
+Hepatitis E antigen positive
+Hepatitis E virus test
+Hepatitis E virus test positive
+Hepatitis viral test
+Hepatitis viral test negative
+Hepatitis viral test positive
+Herpes simplex test
+Herpes simplex test negative
+Herpes simplex test positive
+Herpes virus test
+Herpes virus test abnormal
+HIV antibody
+HIV antibody negative
+HIV antibody positive
+HIV antigen
+HIV antigen negative
+HIV antigen positive
+HIV test
+HIV test false positive
+HIV test negative
+HIV test positive
+HIV tropism test
+HTLV test positive
+HTLV-1 test positive
+HTLV-2 test positive
+Human herpes virus 6 serology
+Human herpes virus 6 serology negative
+Human herpes virus 6 serology positive
+Human herpes virus 8 test
+Human herpes virus 8 test positive
+Human metapneumovirus test
+Human metapneumovirus test positive
+Human papilloma virus test
+Human papilloma virus test negative
+Human papilloma virus test positive
+Human rhinovirus test
+Human rhinovirus test positive
+Influenza A virus test
+Influenza A virus test negative
+Influenza A virus test positive
+Influenza B virus test
+Influenza B virus test positive
+Influenza C virus test
+Influenza C virus test positive
+Influenza virus test
+Influenza virus test negative
+Influenza virus test positive
+JC virus test
+JC virus test negative
+JC virus test positive
+Lentivirus test positive
+Lyssavirus test positive
+Marburg virus test positive
+Measles antibody
+Measles antibody negative
+Measles antibody positive
+Molluscipoxvirus test positive
+Mononucleosis heterophile test
+Mononucleosis heterophile test negative
+Mononucleosis heterophile test positive
+Morbillivirus test positive
+Mumps antibody test
+Mumps antibody test negative
+Mumps antibody test positive
+Nairovirus test positive
+Newcastle disease virus test positive
+Norovirus test positive
+Oncovirus test
+Oncovirus test negative
+Oncovirus test positive
+Orbivirus test positive
+Orthobunyavirus test positive
+Orthopoxvirus test positive
+Parapoxvirus test positive
+Paravaccinia virus test positive
+Parvovirus B19 test
+Parvovirus B19 test negative
+Parvovirus B19 test positive
+Phlebovirus test positive
+Pneumovirus test positive
+Poliovirus test
+Poliovirus test negative
+Poliovirus test positive
+Polyomavirus test
+Polyomavirus test negative
+Polyomavirus test positive
+Prion agent test positive
+Respiratory syncytial virus test
+Respiratory syncytial virus test negative
+Respiratory syncytial virus test positive
+Respiratory viral panel
+Respirovirus test
+Respirovirus test positive
+Roseolovirus test positive
+Rotavirus test
+Rotavirus test negative
+Rotavirus test positive
+Rubella antibody negative
+Rubella antibody positive
+Rubella antibody test
+Rubella immunity confirmed
+Rubivirus test positive
+Rubulavirus test positive
+Sapovirus test positive
+Sustained viral response
+Vaccinia test positive
+Varicella virus test
+Varicella virus test negative
+Varicella virus test positive
+Viral load
+Viral load decreased
+Viral load increased
+Viral load undetectable
+Viral mutation identified
+Viral test
+Viral test negative
+Viral test positive
+Viral titre
+Viral titre decreased
+Viral titre increased
+West Nile virus test
+West Nile virus test negative
+West Nile virus test positive
+l2</ Virus identification and serology >
+l1</ Microbiology and serology investigations >
+l1< Musculoskeletal and soft tissue investigations (excl enzyme tests) >
+l2< Biochemical markers of bone metabolism >
+Bone formation test
+Bone formation test abnormal
+Bone metabolism biochemical marker increased
+Bone resorption test
+Bone resorption test abnormal
+C-telopeptide
+C-telopeptide increased
+Deoxypyridinoline urine
+Deoxypyridinoline urine increased
+N-telopeptide
+N-telopeptide urine
+N-telopeptide urine abnormal
+N-telopeptide urine decreased
+N-telopeptide urine increased
+N-telopeptide urine normal
+Osteocalcin
+Osteocalcin decreased
+Osteocalcin increased
+Osteoprotegerin
+Osteoprotegerin decreased
+Osteoprotegerin increased
+Osteoprotegerin ligand
+Osteoprotegerin ligand decreased
+Pyridinoline urine
+Pyridinoline urine decreased
+Pyridinoline urine increased
+Tartrate-resistant acid phosphatase
+Tartrate-resistant acid phosphatase decreased
+l2</ Biochemical markers of bone metabolism >
+l2< Musculoskeletal and soft tissue histopathology procedures >
+Aspiration bursa
+Aspiration bursa abnormal
+Aspiration bursa normal
+Aspiration joint
+Aspiration joint abnormal
+Aspiration joint normal
+Biopsy abdominal wall
+Biopsy abdominal wall abnormal
+Biopsy abdominal wall normal
+Biopsy bone
+Biopsy bone abnormal
+Biopsy bone normal
+Biopsy cartilage
+Biopsy cartilage abnormal
+Biopsy cartilage normal
+Biopsy chest wall
+Biopsy chest wall abnormal
+Biopsy chest wall normal
+Biopsy ligament
+Biopsy ligament abnormal
+Biopsy ligament normal
+Biopsy muscle
+Biopsy muscle abnormal
+Biopsy muscle normal
+Biopsy soft tissue
+Biopsy tendon
+Biopsy tendon abnormal
+Biopsy tendon normal
+Intervertebral disc biopsy
+Synovial biopsy
+Synovial biopsy abnormal
+Synovial fluid cell count
+Synovial fluid crystal
+Synovial fluid crystal present
+Synovial fluid red blood cells
+Synovial fluid red blood cells positive
+Synovial fluid white blood cells
+Synovial fluid white blood cells positive
+l2</ Musculoskeletal and soft tissue histopathology procedures >
+l2< Musculoskeletal and soft tissue imaging procedures >
+Arthrogram
+Arthrogram abnormal
+Arthrogram normal
+Arthroscopy
+Arthroscopy abnormal
+Arthroscopy normal
+Bone densitometry
+Bone density abnormal
+Bone density decreased
+Bone density increased
+Bone scan
+Bone scan abnormal
+Bone scan normal
+Discogram
+Discogram abnormal
+Discogram normal
+Face and mouth X-ray
+Face and mouth X-ray abnormal
+Face and mouth X-ray normal
+Orthoroentgenogram
+Skeletal survey
+Skeletal survey abnormal
+Skeletal survey normal
+Skull X-ray
+Skull X-ray abnormal
+Skull X-ray normal
+Spinal X-ray
+Spinal X-ray abnormal
+Spinal X-ray normal
+Ultrasound joint
+X-ray limb
+X-ray limb abnormal
+X-ray limb normal
+X-ray of pelvis and hip
+X-ray of pelvis and hip abnormal
+X-ray of pelvis and hip normal
+l2</ Musculoskeletal and soft tissue imaging procedures >
+l2< Musculoskeletal and soft tissue tests NEC >
+Myoglobin blood
+Myoglobin blood absent
+Myoglobin blood decreased
+Myoglobin blood increased
+Myoglobin blood present
+Myoglobin urine
+Myoglobin urine absent
+Myoglobin urine present
+Swollen joint count
+Swollen joint count decreased
+Swollen joint count increased
+Synovial fluid analysis
+Synovial fluid analysis abnormal
+Synovial fluid analysis normal
+Synovial fluid glucose
+Synovial fluid glucose present
+Synovial fluid protein
+Synovial fluid protein present
+Tender joint count
+Tender joint count decreased
+Tender joint count increased
+l2</ Musculoskeletal and soft tissue tests NEC >
+l1</ Musculoskeletal and soft tissue investigations (excl enzyme tests) >
+l1< Neurological, special senses and psychiatric investigations >
+l2< Auditory function diagnostic procedures >
+Acoustic stimulation tests
+Acoustic stimulation tests abnormal
+Acoustic stimulation tests normal
+Audiogram
+Audiogram abnormal
+Audiogram normal
+Electrocochleogram
+Electrocochleogram abnormal
+Electrocochleogram normal
+Otoacoustic emissions test
+Otoacoustic emissions test abnormal
+Rinne tuning fork test
+Rinne tuning fork test abnormal
+Rinne tuning fork test normal
+Tympanometry
+Tympanometry abnormal
+Tympanometry normal
+Vestibular function test
+Vestibular function test abnormal
+Vestibular function test normal
+Weber tuning fork test
+Weber tuning fork test abnormal
+Weber tuning fork test normal
+l2</ Auditory function diagnostic procedures >
+l2< Central nervous system histopathology procedures >
+Biopsy brain
+Biopsy brain abnormal
+Biopsy brain normal
+Biopsy pineal gland
+Biopsy spinal cord
+Biopsy spinal cord abnormal
+Biopsy spinal cord normal
+l2</ Central nervous system histopathology procedures >
+l2< Central nervous system imaging procedures >
+Angiogram cerebral
+Angiogram cerebral abnormal
+Angiogram cerebral normal
+Brain scan abnormal
+Brain scan normal
+Cerebral ventriculogram
+Cerebral ventriculogram abnormal
+Cerebral ventriculogram normal
+Cisternogram
+Computerised tomogram head
+Computerised tomogram head abnormal
+Computerised tomogram head normal
+Diffusion-weighted brain MRI
+Diffusion-weighted brain MRI abnormal
+Diffusion-weighted brain MRI normal
+Dopamine transporter scintigraphy
+Dopamine transporter scintigraphy abnormal
+Dopamine transporter scintigraphy normal
+Echoencephalogram
+Echoencephalogram abnormal
+Echoencephalogram normal
+Epiduroscopy
+Nuclear magnetic resonance imaging brain
+Nuclear magnetic resonance imaging brain abnormal
+Nuclear magnetic resonance imaging brain normal
+Nuclear magnetic resonance imaging spinal
+Nuclear magnetic resonance imaging spinal abnormal
+Nuclear magnetic resonance imaging spinal normal
+Perfusion brain scan
+Perfusion brain scan abnormal
+Perfusion brain scan normal
+Scan brain
+Spinal myelogram
+Spinal myelogram abnormal
+Spinal myelogram normal
+Ultrasound skull
+Ultrasound skull abnormal
+Ultrasound skull normal
+Voxel-based morphometry
+l2</ Central nervous system imaging procedures >
+l2< Cerebrospinal fluid tests (excl microbiology) >
+Albumin CSF
+Albumin CSF abnormal
+Albumin CSF decreased
+Albumin CSF increased
+Albumin CSF normal
+CSF bilirubin positive
+CSF cell count
+CSF cell count abnormal
+CSF cell count decreased
+CSF cell count increased
+CSF cell count normal
+CSF electrophoresis
+CSF electrophoresis abnormal
+CSF electrophoresis normal
+CSF eosinophil count
+CSF eosinophil count increased
+CSF glucose
+CSF glucose abnormal
+CSF glucose decreased
+CSF glucose increased
+CSF glucose normal
+CSF granulocyte count
+CSF granulocyte count abnormal
+CSF granulocyte count normal
+CSF immunoglobulin
+CSF immunoglobulin decreased
+CSF immunoglobulin G index
+CSF immunoglobulin increased
+CSF lactate
+CSF lactate abnormal
+CSF lactate decreased
+CSF lactate dehydrogenase
+CSF lactate dehydrogenase decreased
+CSF lactate dehydrogenase increased
+CSF lactate dehydrogenase normal
+CSF lactate increased
+CSF lactate normal
+CSF leukocyte/erythrocyte ratio
+CSF leukocyte/erythrocyte ratio increased
+CSF lymphocyte count
+CSF lymphocyte count abnormal
+CSF lymphocyte count increased
+CSF lymphocyte count normal
+CSF monocyte count
+CSF monocyte count decreased
+CSF monocyte count increased
+CSF monocyte count negative
+CSF monocyte count positive
+CSF mononuclear cell count decreased
+CSF mononuclear cell count increased
+CSF myelin basic protein
+CSF myelin basic protein abnormal
+CSF myelin basic protein decreased
+CSF myelin basic protein increased
+CSF myelin basic protein normal
+CSF neutrophil count
+CSF neutrophil count decreased
+CSF neutrophil count increased
+CSF neutrophil count negative
+CSF neutrophil count positive
+CSF oligoclonal band
+CSF oligoclonal band absent
+CSF oligoclonal band present
+CSF pH
+CSF pH abnormal
+CSF pH decreased
+CSF pH increased
+CSF pH normal
+CSF polymorphonuclear cell count decreased
+CSF polymorphonuclear cell count increased
+CSF pressure
+CSF pressure abnormal
+CSF pressure decreased
+CSF pressure increased
+CSF pressure normal
+CSF protein
+CSF protein abnormal
+CSF protein decreased
+CSF protein increased
+CSF protein normal
+CSF red blood cell count
+CSF red blood cell count positive
+CSF specific gravity
+CSF specific gravity abnormal
+CSF specific gravity decreased
+CSF specific gravity increased
+CSF specific gravity normal
+CSF test
+CSF test abnormal
+CSF test normal
+CSF volume
+CSF volume decreased
+CSF volume increased
+CSF white blood cell count
+CSF white blood cell count decreased
+CSF white blood cell count increased
+CSF white blood cell count negative
+CSF white blood cell count positive
+CSF white blood cell differential
+Xanthochromia
+l2</ Cerebrospinal fluid tests (excl microbiology) >
+l2< Ear and labyrinth histopathology procedures >
+Biopsy ear
+Biopsy ear abnormal
+Biopsy ear normal
+Paracentesis ear
+Paracentesis ear abnormal
+Paracentesis ear normal
+l2</ Ear and labyrinth histopathology procedures >
+l2< Neurologic diagnostic procedures >
+Abnormal involuntary movement scale
+Acceleromyography
+Antiacetylcholine receptor antibody
+Antiacetylcholine receptor antibody positive
+Babinski reflex test
+Bispectral index
+Bispectral index decreased
+Brain stem auditory evoked response
+Brain stem auditory evoked response abnormal
+Brain stem auditory evoked response normal
+Cardiovascular autonomic function test
+Cardiovascular autonomic function test abnormal
+Cardiovascular autonomic function test normal
+Central nervous system function test
+Central nervous system function test abnormal
+Central nervous system function test normal
+CHA2DS2-VASc annual stroke risk high
+CHA2DS2-VASc annual stroke risk low
+CHA2DS2-VASc annual stroke risk moderate
+CHA2DS2-VASc-score
+Clinical dementia rating scale
+Clinical dementia rating scale score abnormal
+Clinical dementia rating scale score normal
+Coma scale
+Coma scale abnormal
+Coma scale normal
+COMFORT scale score decreased
+COMFORT scale score increased
+Dural tap
+Electroencephalogram
+Electroencephalogram abnormal
+Electroencephalogram normal
+Electromyogram
+Electromyogram abnormal
+Electromyogram normal
+Electroneurography
+Electroneuromyography
+Expanded disability status scale
+Expanded disability status scale score decreased
+Expanded disability status scale score increased
+Head lag abnormal
+Head lag normal
+Intraoperative neurophysiologic monitoring
+Lasegue's test
+Lasegue's test negative
+Lasegue's test positive
+Lumbar puncture
+Lumbar puncture abnormal
+Lumbar puncture normal
+Magnetic resonance neurography
+Modified Rankin score
+Modified Rankin score decreased
+Modified Rankin score increased
+Monofilament pressure perception test
+Monofilament pressure perception test abnormal
+Nerve conduction studies
+Nerve conduction studies abnormal
+Nerve conduction studies normal
+Nerve stimulation test
+Nerve stimulation test abnormal
+Nerve stimulation test normal
+Neurodevelopment test
+Neurotransmitter level altered
+NIH stroke scale
+NIH stroke scale abnormal
+NIH stroke scale score decreased
+NIH stroke scale score increased
+Pain threshold decreased
+Past-pointing
+Peripheral nervous system function test
+Peripheral nervous system function test abnormal
+Peripheral nervous system function test normal
+Phalen's test positive
+Posturography
+Primitive reflex test
+Primitive reflex test positive
+Pudendal nerve terminal motor latency test
+Pudendal nerve terminal motor latency test abnormal
+Pudendal nerve terminal motor latency test normal
+Quantitative sudomotor axon reflex test
+Reflex test abnormal
+Reflex test normal
+Romberg test
+Romberg test positive
+Sensory level
+Sensory level abnormal
+Sensory level normal
+Sleep study
+Sleep study abnormal
+Sleep study normal
+Somatosensory evoked potentials
+Somatosensory evoked potentials abnormal
+Tandem gait test
+Tandem gait test abnormal
+Tandem gait test normal
+Temperature perception test abnormal
+Temperature perception test decreased
+Temperature perception test increased
+Temperature perception test normal
+Tensilon test
+Tensilon test abnormal
+Tensilon test normal
+Transcranial electrical motor evoked potential monitoring
+Transcranial electrical motor evoked potential monitoring abnormal
+Vibration test
+Vibration test abnormal
+Vibration test normal
+Visual evoked potentials
+Visual evoked potentials abnormal
+Visual evoked potentials normal
+Wada test
+l2</ Neurologic diagnostic procedures >
+l2< Ophthalmic function diagnostic procedures >
+Angiogram retina
+Angiogram retina abnormal
+Angiogram retina normal
+Colour vision tests
+Colour vision tests abnormal
+Colour vision tests abnormal blue-yellow
+Colour vision tests abnormal red-green
+Colour vision tests normal
+Conjunctival staining
+Corneal diameter decreased
+Corneal diameter increased
+Corneal light reflex test
+Corneal light reflex test abnormal
+Corneal light reflex test normal
+Corneal reflex decreased
+Cycloplegic refraction
+Electronystagmogram
+Electronystagmogram abnormal
+Electronystagmogram normal
+Electrooculogram
+Electrooculogram abnormal
+Electrooculogram normal
+Intraocular pressure decreased
+Intraocular pressure fluctuation
+Intraocular pressure increased
+Intraocular pressure test
+Intraocular pressure test abnormal
+Intraocular pressure test normal
+Keratometry
+Lid parallel conjunctival folds examination
+Macular reflex abnormal
+Manifest refraction
+Manifest refraction abnormal
+Manifest refraction normal
+Neuro-ophthalmological test
+Neuro-ophthalmological test abnormal
+Neuro-ophthalmological test normal
+Oculomotor study
+Oculomotor study abnormal
+Oculomotor study normal
+Oculopneumoplethysmogram
+Oculopneumoplethysmogram abnormal
+Oculopneumoplethysmogram normal
+Ophthalmodynamometry
+Ophthalmodynamometry abnormal
+Ophthalmodynamometry normal
+Optic nerve cup/disc ratio
+Optic nerve cup/disc ratio decreased
+Optic nerve cup/disc ratio increased
+Optic nerve cup/disc ratio normal
+Opticokinetic nystagmus tests
+Opticokinetic nystagmus tests abnormal
+Opticokinetic nystagmus tests normal
+Pupil dilation procedure
+Pupillary light reflex tests
+Pupillary light reflex tests abnormal
+Pupillary light reflex tests normal
+Retinal function test abnormal
+Retinal function test normal
+Schirmer's test
+Schirmer's test abnormal
+Schirmer's test normal
+Seidel test positive
+Slit-lamp examination
+Slit-lamp tests abnormal
+Slit-lamp tests normal
+Tear break up time decreased
+Tear break up time test
+Topography corneal
+Topography corneal abnormal
+Topography corneal normal
+Ultrasound eye
+Ultrasound eye abnormal
+Ultrasound eye normal
+Visual acuity tests
+Visual acuity tests abnormal
+Visual acuity tests normal
+Visual field tests
+Visual field tests abnormal
+Visual field tests normal
+Visual tracking test
+Visual tracking test abnormal
+Visual tracking test normal
+Vital dye staining cornea
+Vital dye staining cornea absent
+Vital dye staining cornea present
+l2</ Ophthalmic function diagnostic procedures >
+l2< Ophthalmic histopathology and imaging procedures >
+Biopsy conjunctiva
+Biopsy conjunctiva abnormal
+Biopsy conjunctiva normal
+Biopsy cornea
+Biopsy cornea abnormal
+Biopsy cornea normal
+Biopsy retina
+Biopsy retina abnormal
+Biopsy retina normal
+Biopsy sclera
+Biopsy sclera abnormal
+Biopsy sclera normal
+Corneal endothelial microscopy
+Fundoscopy
+Fundoscopy abnormal
+Fundoscopy normal
+Fundus autofluorescence
+Gonioscopy
+Gonioscopy abnormal
+Gonioscopy normal
+Macula thickness measurement
+Ophthalmic scan
+Paracentesis eye
+Paracentesis eye abnormal
+Paracentesis eye normal
+Red reflex abnormal
+Retinogram
+Retinogram abnormal
+Retinogram normal
+l2</ Ophthalmic histopathology and imaging procedures >
+l2< Peripheral nervous system histopathology procedures >
+Biopsy peripheral nerve
+Biopsy peripheral nerve abnormal
+Biopsy peripheral nerve normal
+l2</ Peripheral nervous system histopathology procedures >
+l2< Psychiatric investigations >
+Brief psychiatric rating scale
+Clinical global impression scale
+Columbia suicide severity rating scale
+Columbia suicide severity rating scale abnormal
+Mini mental status examination
+Mini mental status examination abnormal
+Mini mental status examination normal
+Neuropsychological test
+Neuropsychological test abnormal
+Psychiatric evaluation
+Psychiatric evaluation abnormal
+Psychiatric evaluation normal
+Psychiatric investigation
+Psychotic symptom rating scale
+Young mania rating scale
+l2</ Psychiatric investigations >
+l2< Special sense investigations NEC >
+Gustometry
+Gustometry abnormal
+Gustometry normal
+Olfactory test
+Olfactory test abnormal
+Olfactory test normal
+l2</ Special sense investigations NEC >
+l1</ Neurological, special senses and psychiatric investigations >
+l1< Physical examination and organ system status topics >
+l2< Physical examination procedures and organ system status >
+Ambidexterity
+American Society of Anesthesiologists physical status classification
+Anal examination abnormal
+Anal examination normal
+Apgar score
+Apgar score abnormal
+Apgar score low
+Apgar score normal
+Auscultation
+Bishop score
+Body height
+Body height abnormal
+Body height above normal
+Body height below normal
+Body height decreased
+Body height increased
+Body height normal
+Body mass index
+Body mass index abnormal
+Body mass index decreased
+Body mass index increased
+Body mass index normal
+Body surface area
+Body surface area decreased
+Body surface area increased
+Body temperature
+Body temperature abnormal
+Body temperature decreased
+Body temperature fluctuation
+Body temperature increased
+Body temperature normal
+Breath sounds
+Breath sounds abnormal
+Breath sounds absent
+Breath sounds normal
+Cardiovascular examination
+Cardiovascular examination abnormal
+Chest expansion decreased
+Dental examination
+Dental examination abnormal
+Dental examination normal
+Dermatologic examination
+Dermatologic examination abnormal
+Dermatologic examination normal
+Ear, nose and throat examination
+Ear, nose and throat examination abnormal
+Ear, nose and throat examination normal
+Eastern Cooperative Oncology Group performance status
+Eastern Cooperative Oncology Group performance status improved
+Eastern Cooperative Oncology Group performance status worsened
+Emergency care examination
+Emergency care examination abnormal
+Emergency care examination normal
+Fluid wave test
+Gallbladder palpable
+Gastrointestinal examination
+Gastrointestinal examination abnormal
+Gastrointestinal examination normal
+General physical condition
+General physical condition abnormal
+General physical condition normal
+Grip strength
+Grip strength decreased
+Gynaecological examination
+Gynaecological examination abnormal
+Gynaecological examination normal
+Head circumference
+Head circumference abnormal
+Head circumference normal
+Head lag
+Hypophonesis
+Increased anteroposterior chest diameter
+Intelligence test
+Intelligence test abnormal
+Intelligence test normal
+Joint range of motion measurement
+Karnofsky scale
+Karnofsky scale improved
+Karnofsky scale worsened
+Kidney palpable
+Left-handedness
+Length at birth
+Limb girth decreased
+Limb girth increased
+Liver palpable
+Lymph node palpable
+Male genital examination abnormal
+Male genital examination normal
+Medical observation
+Medical observation abnormal
+Medical observation normal
+Medication residue present
+Menstruation normal
+Murphy's sign positive
+Nephrological examination
+Neurological examination
+Neurological examination abnormal
+Neurological examination normal
+Nutritional condition abnormal
+Nutritional condition normal
+Ophthalmological examination
+Ophthalmological examination abnormal
+Ophthalmological examination normal
+Orthopaedic examination
+Orthopaedic examination abnormal
+Orthopaedic examination normal
+Otic examination
+Otic examination abnormal
+Otic examination normal
+Otoscopy
+Otoscopy abnormal
+Otoscopy normal
+Paediatric early warning score
+Pain assessment
+Palpatory finding abnormal
+Percussion test
+Percussion test abnormal
+Percussion test normal
+Physical breast examination
+Physical breast examination abnormal
+Physical breast examination normal
+Physical examination
+Physical examination abnormal
+Physical examination normal
+Physical thyroid examination
+Physical thyroid examination abnormal
+Physical thyroid examination normal
+Podiatric examination
+Podiatric examination abnormal
+Podiatric examination normal
+Prostate examination
+Prostate examination abnormal
+Prostate examination normal
+Psoriasis area severity index
+Psoriasis area severity index decreased
+Psoriasis area severity index increased
+Pulmonary physical examination
+Pulmonary physical examination abnormal
+Pulmonary physical examination normal
+Rectal examination
+Rectal examination abnormal
+Rectal examination normal
+Respiratory rate
+Respiratory rate decreased
+Respiratory rate increased
+Skin turgor decreased
+Skinfold measurement
+Spleen palpable
+Temperature difference of extremities
+Thermometry
+Thermometry abnormal
+Thermometry normal
+Urological examination
+Urological examination abnormal
+Urological examination normal
+Valsalva maneuver
+Vital functions abnormal
+Vital signs measurement
+Waist circumference
+Waist circumference decreased
+Waist circumference increased
+Waist circumference normal
+Walking distance test
+Walking distance test abnormal
+Walking distance test normal
+Weight
+Weight abnormal
+Weight decreased
+Weight increased
+Weight normal
+Wound healing normal
+l2</ Physical examination procedures and organ system status >
+l1</ Physical examination and organ system status topics >
+l1< Protein and chemistry analyses NEC >
+l2< Chemistry analyses NEC >
+Angiotensin I
+Angiotensin I abnormal
+Angiotensin I decreased
+Angiotensin I increased
+Angiotensin I normal
+Angiotensin II
+Angiotensin II abnormal
+Angiotensin II decreased
+Angiotensin II increased
+Angiotensin II normal
+Histamine abnormal
+Histamine level
+Histamine level decreased
+Histamine level increased
+Histamine normal
+Inflammatory marker decreased
+Inflammatory marker increased
+Inflammatory marker test
+Renin
+Renin abnormal
+Renin decreased
+Renin increased
+Renin normal
+Serum serotonin
+Serum serotonin decreased
+Serum serotonin increased
+Urine casomorphin
+Urine casomorphin abnormal
+Urine casomorphin normal
+l2</ Chemistry analyses NEC >
+l2< Protein analyses NEC >
+Albumin globulin ratio
+Albumin globulin ratio abnormal
+Albumin globulin ratio decreased
+Albumin globulin ratio increased
+Albumin globulin ratio normal
+Alpha 1 foetoprotein
+Alpha 1 foetoprotein abnormal
+Alpha 1 foetoprotein decreased
+Alpha 1 foetoprotein increased
+Alpha 1 foetoprotein normal
+Alpha 1 globulin
+Alpha 1 globulin abnormal
+Alpha 1 globulin decreased
+Alpha 1 globulin increased
+Alpha 1 globulin normal
+Alpha 1 microglobulin
+Alpha 1 microglobulin decreased
+Alpha 1 microglobulin increased
+Alpha 2 globulin
+Alpha 2 globulin abnormal
+Alpha 2 globulin decreased
+Alpha 2 globulin increased
+Alpha 2 globulin normal
+Alpha globulin decreased
+Alpha globulin increased
+Alpha-1 acid glycoprotein abnormal
+Alpha-1 acid glycoprotein decreased
+Alpha-1 acid glycoprotein increased
+Alpha-1 acid glycoprotein normal
+Alpha-1 anti-trypsin
+Alpha-1 anti-trypsin abnormal
+Alpha-1 anti-trypsin decreased
+Alpha-1 anti-trypsin increased
+Alpha-1 anti-trypsin normal
+Alpha-2 macroglobulin
+Alpha-2 macroglobulin increased
+Alpha-2 macroglobulin normal
+Amino acid level
+Amino acid level abnormal
+Amino acid level decreased
+Amino acid level increased
+Amino acid level normal
+Arginase decreased
+Arginase increased
+Argininosuccinate lyase decreased
+Argininosuccinate lyase increased
+Asymmetric di-methylarginine
+Asymmetric di-methylarginine abnormal
+Asymmetric di-methylarginine decreased
+Asymmetric di-methylarginine increased
+Asymmetric di-methylarginine normal
+Beta 2 globulin
+Beta 2 microglobulin
+Beta 2 microglobulin abnormal
+Beta 2 microglobulin decreased
+Beta 2 microglobulin increased
+Beta 2 microglobulin normal
+Beta 2 microglobulin urine
+Beta 2 microglobulin urine abnormal
+Beta 2 microglobulin urine decreased
+Beta 2 microglobulin urine increased
+Beta 2 microglobulin urine normal
+Beta globulin
+Beta globulin abnormal
+Beta globulin decreased
+Beta globulin increased
+Beta globulin normal
+Blood albumin
+Blood albumin abnormal
+Blood albumin decreased
+Blood albumin increased
+Blood albumin normal
+C-reactive protein
+C-reactive protein abnormal
+C-reactive protein decreased
+C-reactive protein increased
+C-reactive protein normal
+Carbohydrate deficient transferrin increased
+Carbohydrate deficient transferrin test
+Cephalin flocculation
+Cephalin flocculation abnormal
+Cephalin flocculation normal
+Ceruloplasmin
+Ceruloplasmin abnormal
+Ceruloplasmin decreased
+Ceruloplasmin increased
+Ceruloplasmin normal
+Clusterin
+Collagen antigen type 1
+Collagen antigen type IV
+Collagen antigen type IV abnormal
+Collagen antigen type IV increased
+Electrophoresis
+Electrophoresis abnormal
+Electrophoresis normal
+Electrophoresis protein
+Electrophoresis protein abnormal
+Electrophoresis protein normal
+Fibronectin decreased
+Fibronectin increased
+Globulin
+Globulin abnormal
+Globulins decreased
+Globulins increased
+Glycine test
+Haemopexin decreased
+Hepcidin decreased
+Hepcidin test
+Homogentisic acid
+Immunoelectrophoresis
+Inter-alpha-trypsin inhibitor decreased
+Leptin level increased
+Macroglobulin present
+Parathyroid hormone-related protein
+Parathyroid hormone-related protein abnormal
+Parathyroid hormone-related protein increased
+Parathyroid hormone-related protein normal
+Prealbumin
+Prealbumin abnormal
+Prealbumin decreased
+Prealbumin increased
+Procalcitonin
+Procalcitonin abnormal
+Procalcitonin decreased
+Procalcitonin increased
+Procalcitonin normal
+Procollagen type I C-terminal propeptide
+Procollagen type I C-terminal propeptide increased
+Protein albumin ratio
+Protein albumin ratio abnormal
+Protein albumin ratio decreased
+Protein albumin ratio increased
+Protein albumin ratio normal
+Protein induced by vitamin K absence or antagonist II
+Protein induced by vitamin K absence or antagonist II increased
+Protein total
+Protein total abnormal
+Protein total decreased
+Protein total increased
+Protein total normal
+Pyroglutamate increased
+Reticulin increased
+Serum amyloid A protein increased
+Serum fetuin-A
+Serum fetuin-A decreased
+Serum procollagen type I N-terminal propeptide decreased
+Serum procollagen type I N-terminal propeptide increased
+Serum procollagen type III N-terminal propeptide
+Serum procollagen type III N-terminal propeptide decreased
+Serum procollagen type III N-terminal propeptide increased
+Surfactant protein
+Surfactant protein increased
+Thymol turbidity test
+Thymol turbidity test abnormal
+Thymol turbidity test decreased
+Thymol turbidity test increased
+Thymol turbidity test normal
+Urine electrophoresis
+Urine electrophoresis abnormal
+Urine electrophoresis normal
+Zinc sulphate turbidity abnormal
+Zinc sulphate turbidity decreased
+Zinc sulphate turbidity increased
+Zinc sulphate turbidity normal
+Zinc sulphate turbidity test
+l2</ Protein analyses NEC >
+l1</ Protein and chemistry analyses NEC >
+l1< Renal and urinary tract investigations and urinalyses >
+l2< Renal function analyses >
+Blood creatine
+Blood creatine abnormal
+Blood creatine decreased
+Blood creatine increased
+Blood creatine normal
+Blood creatinine
+Blood creatinine abnormal
+Blood creatinine decreased
+Blood creatinine increased
+Blood creatinine normal
+Blood urea
+Blood urea abnormal
+Blood urea decreased
+Blood urea increased
+Blood urea nitrogen/creatinine ratio
+Blood urea nitrogen/creatinine ratio decreased
+Blood urea nitrogen/creatinine ratio increased
+Blood urea normal
+Citric acid urine
+Citric acid urine decreased
+Citric acid urine increased
+Creatine urine
+Creatine urine abnormal
+Creatine urine decreased
+Creatine urine increased
+Creatine urine normal
+Creatinine renal clearance
+Creatinine renal clearance abnormal
+Creatinine renal clearance decreased
+Creatinine renal clearance increased
+Creatinine renal clearance normal
+Creatinine urine
+Creatinine urine abnormal
+Creatinine urine decreased
+Creatinine urine increased
+Creatinine urine normal
+Cystatin C
+Cystatin C abnormal
+Cystatin C increased
+Dialysis efficacy test
+Fractional excretion of phosphate
+Fractional excretion of sodium
+Glomerular filtration rate
+Glomerular filtration rate abnormal
+Glomerular filtration rate decreased
+Glomerular filtration rate increased
+Glomerular filtration rate normal
+Inulin renal clearance
+Inulin renal clearance abnormal
+Inulin renal clearance decreased
+Inulin renal clearance increased
+Inulin renal clearance normal
+Nitrogen balance negative
+Phenolsulfonphthalein test
+Phenolsulfonphthalein test abnormal
+Phenolsulfonphthalein test normal
+Renal function test
+Renal function test abnormal
+Renal function test normal
+Urea reduction ratio
+Urea renal clearance
+Urea renal clearance decreased
+Urea renal clearance increased
+Urea renal clearance normal
+Urine albumin/creatinine ratio
+Urine albumin/creatinine ratio abnormal
+Urine albumin/creatinine ratio decreased
+Urine albumin/creatinine ratio increased
+Urine albumin/creatinine ratio normal
+Urine protein/creatinine ratio
+Urine protein/creatinine ratio abnormal
+Urine protein/creatinine ratio decreased
+Urine protein/creatinine ratio increased
+Urine protein/creatinine ratio normal
+Urine retinol binding protein
+Urine retinol binding protein decreased
+Urine retinol binding protein increased
+Vasopressin challenge test
+Vasopressin challenge test abnormal
+Vasopressin challenge test normal
+l2</ Renal function analyses >
+l2< Urinalysis NEC >
+Albumin urine
+Albumin urine absent
+Albumin urine present
+Blood urine
+Blood urine absent
+Blood urine present
+Cells in urine
+Crystal urine
+Crystal urine absent
+Crystal urine present
+Eosinophils urine
+Eosinophils urine absent
+Eosinophils urine present
+Globulin urine
+Globulin urine present
+Glucose urine
+Glucose urine absent
+Glucose urine present
+Haemoglobin urine
+Haemoglobin urine absent
+Haemoglobin urine present
+Medication crystals in urine
+Nitrite urine
+Nitrite urine absent
+Nitrite urine present
+Nontherapeutic agent urine negative
+Nontherapeutic agent urine positive
+pH urine
+pH urine abnormal
+pH urine decreased
+pH urine increased
+pH urine normal
+Protein urine
+Protein urine absent
+Protein urine present
+Red blood cells urine
+Red blood cells urine negative
+Red blood cells urine positive
+Specific gravity urine
+Specific gravity urine abnormal
+Specific gravity urine decreased
+Specific gravity urine increased
+Specific gravity urine normal
+Therapeutic agent urine negative
+Therapeutic agent urine positive
+Urea urine
+Urea urine abnormal
+Urea urine decreased
+Urea urine increased
+Urea urine normal
+Urinary casts
+Urinary casts absent
+Urinary casts present
+Urinary lipids present
+Urinary nitrogen decreased
+Urinary nitrogen increased
+Urinary sediment abnormal
+Urinary sediment present
+Urinary stone analysis
+Urine alanine aminopeptidase decreased
+Urine alanine aminopeptidase increased
+Urine analysis
+Urine analysis abnormal
+Urine analysis normal
+Urine glucose/creatinine ratio
+Urine glucose/creatinine ratio abnormal
+Urine glucose/creatinine ratio decreased
+Urine glucose/creatinine ratio increased
+Urine glycolic acid increased
+Urine leukocyte esterase
+Urine leukocyte esterase positive
+Urine nitrogen
+Urine organic acid test
+Urine oxalate
+Urine oxalate decreased
+Urine oxalate increased
+Urine protein, quantitative
+Urine transitional cells present
+Urine uric acid
+Urine uric acid abnormal
+Urine uric acid decreased
+Urine uric acid increased
+Urine uric acid normal
+Urine viscosity
+Urine viscosity abnormal
+Urine viscosity decreased
+Urine viscosity increased
+White blood cells urine
+White blood cells urine negative
+White blood cells urine positive
+l2</ Urinalysis NEC >
+l2< Urinary tract function analyses NEC >
+Cystometrogram
+Potassium chloride sensitivity test
+Potassium chloride sensitivity test abnormal
+Potassium chloride sensitivity test normal
+Residual urine volume
+Residual urine volume decreased
+Residual urine volume increased
+Trial of void
+Urine output
+Urine output decreased
+Urine output increased
+Urodynamics measurement
+Urodynamics measurement abnormal
+Urometry
+l2</ Urinary tract function analyses NEC >
+l2< Urinary tract histopathology procedures >
+Biopsy bladder
+Biopsy bladder abnormal
+Biopsy bladder normal
+Biopsy kidney
+Biopsy kidney abnormal
+Biopsy kidney normal
+Biopsy urethra
+Biopsy urethra abnormal
+Biopsy urethra normal
+Ureter biopsy
+Urine cytology
+Urine cytology abnormal
+Urine cytology normal
+l2</ Urinary tract histopathology procedures >
+l2< Urinary tract imaging procedures >
+Arteriogram renal
+Arteriogram renal abnormal
+Arteriogram renal normal
+Bladder scan
+Computerised tomogram kidney
+Computerised tomogram kidney abnormal
+Computerised tomogram kidney normal
+Cystogram
+Cystogram abnormal
+Cystogram normal
+Cystoscopy
+Cystoscopy abnormal
+Cystoscopy normal
+Loopogram
+Nephroscopy
+Nephrostogram
+Nuclear magnetic resonance imaging renal
+Pyelogram retrograde
+Pyelogram retrograde abnormal
+Pyelogram retrograde normal
+Pyeloscopy
+Pyeloscopy abnormal
+Pyeloscopy normal
+Renal scan
+Renal scan abnormal
+Renal scan normal
+Ultrasound bladder
+Ultrasound bladder abnormal
+Ultrasound bladder normal
+Ultrasound kidney
+Ultrasound kidney abnormal
+Ultrasound kidney normal
+Ultrasound urinary system
+Ureteroscopy
+Ureteroscopy abnormal
+Ureteroscopy normal
+Urethroscopy
+Urinary system X-ray
+Urinary system x-ray abnormal
+Urinary system x-ray normal
+Urogram
+Urogram abnormal
+Urogram normal
+Venogram renal
+Venogram renal abnormal
+Venogram renal normal
+l2</ Urinary tract imaging procedures >
+l1</ Renal and urinary tract investigations and urinalyses >
+l1< Reproductive organ and breast investigations (excl hormone analyses) >
+l2< Fertility analyses >
+Antral follicle count
+Antral follicle count high
+Antral follicle count low
+Antral follicle count normal
+Fructose semen decreased
+Fructose semen increased
+Infertility tests
+Infertility tests abnormal
+Infertility tests normal
+pH semen
+pH semen abnormal
+pH semen decreased
+pH semen increased
+pH semen normal
+Prostatic fluid leukocytes increased
+Red blood cells semen
+Red blood cells semen negative
+Red blood cells semen positive
+Semen analysis
+Semen analysis abnormal
+Semen analysis normal
+Semen liquefaction
+Semen liquefaction abnormal
+Semen liquefaction normal
+Semen liquefaction prolonged
+Semen liquefaction shortened
+Semen viscosity
+Semen viscosity abnormal
+Semen viscosity decreased
+Semen viscosity increased
+Semen viscosity normal
+Semen volume abnormal
+Semen volume decreased
+Semen volume increased
+Semen volume normal
+Sperm analysis
+Sperm analysis abnormal
+Sperm analysis normal
+Sperm concentration
+Sperm concentration abnormal
+Sperm concentration decreased
+Sperm concentration increased
+Sperm concentration normal
+Sperm concentration zero
+Spermatozoa abnormal
+Spermatozoa morphology
+Spermatozoa morphology abnormal
+Spermatozoa morphology normal
+Spermatozoa progressive motility
+Spermatozoa progressive motility abnormal
+Spermatozoa progressive motility decreased
+Spermatozoa progressive motility normal
+Total sperm count
+Total sperm count decreased
+White blood cells semen
+White blood cells semen negative
+White blood cells semen positive
+l2</ Fertility analyses >
+l2< Reproductive organ and breast histopathology procedures >
+Aspiration breast
+Aspiration epididymal cyst
+Aspiration epididymal cyst abnormal
+Aspiration epididymal cyst normal
+Aspiration spermatocele
+Aspiration spermatocele abnormal
+Aspiration spermatocele normal
+Biopsy breast
+Biopsy breast abnormal
+Biopsy breast normal
+Biopsy cervix
+Biopsy cervix abnormal
+Biopsy cervix normal
+Biopsy chorionic villous
+Biopsy chorionic villous abnormal
+Biopsy chorionic villous normal
+Biopsy endometrium
+Biopsy endometrium abnormal
+Biopsy endometrium normal
+Biopsy epididymis
+Biopsy epididymis abnormal
+Biopsy epididymis normal
+Biopsy fallopian tube
+Biopsy fallopian tube abnormal
+Biopsy fallopian tube normal
+Biopsy ovary
+Biopsy ovary abnormal
+Biopsy ovary normal
+Biopsy penis
+Biopsy penis abnormal
+Biopsy penis normal
+Biopsy placenta
+Biopsy prostate
+Biopsy prostate abnormal
+Biopsy prostate normal
+Biopsy seminal vesicle
+Biopsy seminal vesicle abnormal
+Biopsy seminal vesicle normal
+Biopsy testes
+Biopsy testes abnormal
+Biopsy testes normal
+Biopsy uterus
+Biopsy uterus abnormal
+Biopsy uterus normal
+Biopsy vagina
+Biopsy vagina abnormal
+Biopsy vagina normal
+Biopsy vulva
+Biopsy vulva abnormal
+Biopsy vulva normal
+Gleason grading score
+Smear cervix
+Smear cervix abnormal
+Smear cervix normal
+Smear vagina
+Smear vaginal abnormal
+Smear vaginal normal
+Vaginal pH abnormal
+Vaginal pH decreased
+Vaginal pH increased
+Vaginal pH normal
+l2</ Reproductive organ and breast histopathology procedures >
+l2< Reproductive organ and breast imaging procedures >
+Amnioscopy
+Amnioscopy abnormal
+Amnioscopy normal
+Breast scan
+Chromopertubation
+Colposcopy
+Colposcopy abnormal
+Colposcopy normal
+Computerised tomogram breast abnormal
+Computerised tomogram breast normal
+Computerised tomogram pelvis
+Culdoscopy
+Female genital organs X-ray
+Female genital organs X-ray abnormal
+Female genital organs X-ray normal
+Galactography
+Hysterometry
+Hysterosalpingogram
+Hysterosalpingogram abnormal
+Hysterosalpingogram normal
+Hysteroscopy
+Hysteroscopy abnormal
+Hysteroscopy normal
+Mammogram
+Mammogram abnormal
+Mammogram normal
+Nuclear magnetic resonance imaging breast
+Nuclear magnetic resonance imaging breast abnormal
+Nuclear magnetic resonance imaging breast normal
+Pelvic laparoscopy
+Pelvic laparoscopy abnormal
+Pelvic laparoscopy normal
+Prostate volume study
+Saline infusion sonogram
+Salpingogram
+Salpingogram abnormal
+Salpingogram normal
+Testicular scan
+Testicular scan abnormal
+Testicular scan normal
+Ultrasound breast
+Ultrasound breast abnormal
+Ultrasound breast normal
+Ultrasound ovary
+Ultrasound ovary abnormal
+Ultrasound pelvis
+Ultrasound pelvis abnormal
+Ultrasound pelvis normal
+Ultrasound penis
+Ultrasound penis abnormal
+Ultrasound prostate
+Ultrasound prostate abnormal
+Ultrasound prostate normal
+Ultrasound scan vagina
+Ultrasound scan vagina abnormal
+Ultrasound scan vagina normal
+Ultrasound testes
+Ultrasound testes abnormal
+Ultrasound testes normal
+Ultrasound uterus
+Ultrasound uterus abnormal
+Ultrasound uterus normal
+l2</ Reproductive organ and breast imaging procedures >
+l1</ Reproductive organ and breast investigations (excl hormone analyses) >
+l1< Respiratory and pulmonary investigations (excl blood gases) >
+l2< Respiratory and pulmonary function diagnostic procedures >
+Airway peak pressure
+Airway peak pressure decreased
+Airway peak pressure increased
+Apnoea test
+Apnoea test abnormal
+Capnogram abnormal
+Capnogram normal
+Carbon monoxide diffusing capacity
+Carbon monoxide diffusing capacity decreased
+Cardiopulmonary exercise test
+Cardiopulmonary exercise test abnormal
+Cardiopulmonary exercise test normal
+Ciliary function test abnormal
+Electroglottography
+End-tidal CO2
+End-tidal CO2 abnormal
+End-tidal CO2 decreased
+End-tidal CO2 increased
+End-tidal CO2 normal
+Expiratory reserve volume
+Expiratory reserve volume abnormal
+Expiratory reserve volume decreased
+Expiratory reserve volume increased
+Expiratory reserve volume normal
+FEV1/FVC ratio
+Forced expiratory flow
+Forced expiratory flow decreased
+Forced expiratory volume
+Forced expiratory volume abnormal
+Forced expiratory volume decreased
+Forced expiratory volume increased
+Forced expiratory volume normal
+Forced vital capacity
+Forced vital capacity abnormal
+Forced vital capacity decreased
+Forced vital capacity increased
+Forced vital capacity normal
+Fractional exhaled nitric oxide
+Fractional exhaled nitric oxide abnormal
+Fractional exhaled nitric oxide increased
+Fractional exhaled nitric oxide normal
+Functional residual capacity
+Functional residual capacity abnormal
+Functional residual capacity decreased
+Functional residual capacity increased
+Functional residual capacity normal
+Inspiratory capacity
+Inspiratory capacity abnormal
+Inspiratory capacity decreased
+Inspiratory capacity increased
+Inspiratory capacity normal
+Maximal voluntary ventilation
+Maximal voluntary ventilation abnormal
+Maximal voluntary ventilation decreased
+Maximal voluntary ventilation increased
+Maximal voluntary ventilation normal
+Peak expiratory flow rate
+Peak expiratory flow rate abnormal
+Peak expiratory flow rate decreased
+Peak expiratory flow rate increased
+Peak expiratory flow rate normal
+Peak nasal inspiratory flow abnormal
+Peak nasal inspiratory flow decreased
+Peak nasal inspiratory flow increased
+Peak nasal inspiratory flow normal
+Peak nasal inspiratory flow test
+Pulmonary function challenge test
+Pulmonary function challenge test abnormal
+Pulmonary function challenge test normal
+Pulmonary function test
+Pulmonary function test abnormal
+Pulmonary function test decreased
+Pulmonary function test increased
+Pulmonary function test normal
+Rhinomanometry
+Rhinomanometry abnormal
+Rhinomanometry normal
+Slow vital capacity
+Spirometry
+Spirometry abnormal
+Spirometry normal
+Tidal volume
+Tidal volume abnormal
+Tidal volume decreased
+Tidal volume increased
+Tidal volume normal
+Total lung capacity
+Total lung capacity abnormal
+Total lung capacity decreased
+Total lung capacity increased
+Total lung capacity normal
+Vital capacity
+Vital capacity abnormal
+Vital capacity decreased
+Vital capacity normal
+l2</ Respiratory and pulmonary function diagnostic procedures >
+l2< Respiratory tract and thoracic histopathology procedures >
+Aspiration bronchial
+Aspiration pleural cavity
+Aspiration pleural cavity abnormal
+Aspiration pleural cavity normal
+Aspiration tracheal
+Aspiration tracheal abnormal
+Aspiration tracheal normal
+Biopsy bronchus
+Biopsy bronchus abnormal
+Biopsy bronchus normal
+Biopsy diaphragm
+Biopsy diaphragm abnormal
+Biopsy diaphragm normal
+Biopsy larynx
+Biopsy larynx abnormal
+Biopsy larynx normal
+Biopsy lung
+Biopsy lung abnormal
+Biopsy lung normal
+Biopsy pharynx
+Biopsy pharynx abnormal
+Biopsy pharynx normal
+Biopsy pleura
+Biopsy pleura abnormal
+Biopsy pleura normal
+Biopsy tonsil
+Biopsy trachea
+Biopsy trachea abnormal
+Biopsy trachea normal
+Biopsy vocal cord
+Biopsy vocal cord abnormal
+Biopsy vocal cord normal
+Bronchoalveolar lavage
+Bronchoalveolar lavage abnormal
+Bronchoalveolar lavage normal
+Mediastinal biopsy
+Mediastinal biopsy abnormal
+Mediastinal biopsy normal
+Nasal eosinophils present
+Nasal mucosa biopsy
+Paranasal biopsy
+Paranasal biopsy abnormal
+Paranasal biopsy normal
+Pleural fluid analysis
+Sputum abnormal
+Sputum normal
+Sputum test
+Thoracic cavity drainage test
+Thoracic cavity drainage test abnormal
+l2</ Respiratory tract and thoracic histopathology procedures >
+l2< Respiratory tract and thoracic imaging procedures >
+Angiogram pulmonary
+Angiogram pulmonary abnormal
+Angiogram pulmonary normal
+Bronchogram
+Bronchogram abnormal
+Bronchogram normal
+Bronchoscopy
+Bronchoscopy abnormal
+Bronchoscopy normal
+Chest scan
+Chest X-ray
+Chest X-ray abnormal
+Chest X-ray normal
+Computerised tomogram thorax
+Computerised tomogram thorax abnormal
+Computerised tomogram thorax normal
+Endobronchial ultrasound
+Laryngoscopy
+Laryngoscopy abnormal
+Laryngoscopy normal
+Mediastinoscopy
+Mediastinoscopy abnormal
+Mediastinoscopy normal
+Nasoendoscopy
+Nasopharyngoscopy
+Nuclear magnetic resonance imaging thoracic
+Nuclear magnetic resonance imaging thoracic abnormal
+Nuclear magnetic resonance imaging thoracic normal
+Pharyngoscopy
+Pleuroscopy
+Rhinoscopy
+Sleep endoscopy
+Tracheoscopy
+Tracheoscopy abnormal
+Ultrasound chest
+Upper respiratory tract endoscopy
+Ventilation/perfusion scan
+Ventilation/perfusion scan abnormal
+Ventilation/perfusion scan normal
+l2</ Respiratory tract and thoracic imaging procedures >
+l1</ Respiratory and pulmonary investigations (excl blood gases) >
+l1< Skin investigations >
+l2< Skin histopathology procedures >
+Biopsy skin
+Biopsy skin abnormal
+Biopsy skin normal
+Nail matrix biopsy
+Subcutaneous biopsy
+Subcutaneous biopsy abnormal
+l2</ Skin histopathology procedures >
+l1</ Skin investigations >
+l1< Toxicology and therapeutic drug monitoring >
+l2< Therapeutic drug monitoring analyses >
+Analgesic drug level
+Analgesic drug level above therapeutic
+Analgesic drug level below therapeutic
+Analgesic drug level decreased
+Analgesic drug level increased
+Analgesic drug level therapeutic
+Antasthmatic drug level
+Antasthmatic drug level above therapeutic
+Antasthmatic drug level below therapeutic
+Antasthmatic drug level therapeutic
+Antibiotic level
+Antibiotic level above therapeutic
+Antibiotic level below therapeutic
+Antibiotic level therapeutic
+Anticoagulation drug level
+Anticoagulation drug level abnormal
+Anticoagulation drug level above therapeutic
+Anticoagulation drug level below therapeutic
+Anticoagulation drug level decreased
+Anticoagulation drug level increased
+Anticoagulation drug level normal
+Anticoagulation drug level therapeutic
+Anticonvulsant drug level
+Anticonvulsant drug level abnormal
+Anticonvulsant drug level above therapeutic
+Anticonvulsant drug level below therapeutic
+Anticonvulsant drug level decreased
+Anticonvulsant drug level increased
+Anticonvulsant drug level therapeutic
+Antidepressant drug clearance
+Antidepressant drug clearance decreased
+Antidepressant drug clearance increased
+Antidepressant drug level
+Antidepressant drug level above therapeutic
+Antidepressant drug level below therapeutic
+Antidepressant drug level decreased
+Antidepressant drug level increased
+Antidepressant drug level therapeutic
+Antipsychotic drug level
+Antipsychotic drug level above therapeutic
+Antipsychotic drug level below therapeutic
+Antipsychotic drug level decreased
+Antipsychotic drug level increased
+Antipsychotic drug level therapeutic
+Antiviral drug level
+Antiviral drug level above therapeutic
+Antiviral drug level below therapeutic
+Benzodiazepine drug level
+Benzodiazepine drug level abnormal
+Benzodiazepine drug level decreased
+Benzodiazepine drug level increased
+Benzodiazepine drug level therapeutic
+Blood bromide
+Blood bromide abnormal
+Blood bromide decreased
+Blood bromide increased
+Blood bromide normal
+Cardioactive drug level
+Cardioactive drug level above therapeutic
+Cardioactive drug level below therapeutic
+Cardioactive drug level decreased
+Cardioactive drug level increased
+Cardioactive drug level therapeutic
+Chemotherapeutic drug level
+Chemotherapeutic drug level above therapeutic
+Chemotherapeutic drug level below therapeutic
+Chemotherapeutic drug level decreased
+Chemotherapeutic drug level increased
+Chemotherapeutic drug level therapeutic
+Chemotherapy sensitivity and resistance assay
+Drug clearance
+Drug clearance decreased
+Drug clearance increased
+Drug half-life
+Drug half-life increased
+Drug half-life reduced
+Drug level
+Drug level above therapeutic
+Drug level below therapeutic
+Drug level changed
+Drug level decreased
+Drug level fluctuating
+Drug level increased
+Drug level therapeutic
+Drug specific antibody
+Drug specific antibody absent
+Drug specific antibody present
+Halothane antibody
+Halothane antibody negative
+Halothane antibody positive
+Immunosuppressant drug level
+Immunosuppressant drug level decreased
+Immunosuppressant drug level increased
+Muscle relaxant drug level
+Muscle relaxant drug level above therapeutic
+Muscle relaxant drug level below therapeutic
+Muscle relaxant drug level therapeutic
+l2</ Therapeutic drug monitoring analyses >
+l2< Toxicology laboratory analyses >
+Alcohol test false positive
+Amphetamines
+Amphetamines negative
+Amphetamines positive
+Antemortem blood drug level
+Antemortem blood drug level abnormal
+Antemortem blood drug level decreased
+Antemortem blood drug level increased
+Antemortem blood drug level normal
+Barbiturates
+Barbiturates negative
+Barbiturates positive
+Blood alcohol
+Blood alcohol abnormal
+Blood alcohol decreased
+Blood alcohol increased
+Blood alcohol normal
+Blood aluminium
+Blood aluminium abnormal
+Blood aluminium decreased
+Blood aluminium increased
+Blood aluminium normal
+Blood antimony
+Blood antimony decreased
+Blood antimony increased
+Blood antimony normal
+Blood arsenic increased
+Blood arsenic normal
+Blood beryllium
+Blood beryllium decreased
+Blood beryllium increased
+Blood beryllium normal
+Blood cadmium
+Blood cadmium decreased
+Blood cadmium increased
+Blood cadmium normal
+Blood caffeine
+Blood caffeine decreased
+Blood caffeine increased
+Blood caffeine normal
+Blood cannabinoids
+Blood cannabinoids decreased
+Blood cannabinoids increased
+Blood cannabinoids normal
+Blood carbon monoxide
+Blood carbon monoxide abnormal
+Blood carbon monoxide decreased
+Blood carbon monoxide increased
+Blood carbon monoxide normal
+Blood ethanal increased
+Blood ethanol
+Blood ethanol decreased
+Blood ethanol increased
+Blood ethanol normal
+Blood gold increased
+Blood heavy metal abnormal
+Blood heavy metal decreased
+Blood heavy metal increased
+Blood heavy metal normal
+Blood heavy metal test
+Blood isopropanol
+Blood isopropanol decreased
+Blood isopropanol increased
+Blood isopropanol normal
+Blood lead
+Blood lead abnormal
+Blood lead decreased
+Blood lead increased
+Blood lead normal
+Blood mercury
+Blood mercury abnormal
+Blood mercury normal
+Blood methanol
+Blood methanol decreased
+Blood methanol increased
+Blood methanol normal
+Breath alcohol test
+Breath alcohol test negative
+Breath alcohol test positive
+Carboxyhaemoglobin
+Carboxyhaemoglobin decreased
+Carboxyhaemoglobin increased
+Carboxyhaemoglobin normal
+Deferoxamine infusion test
+Drug screen
+Drug screen false positive
+Drug screen negative
+Drug screen positive
+Fluoride increased
+Hair metal test
+Hair metal test abnormal
+Hair metal test normal
+Lead urine
+Lead urine decreased
+Lead urine increased
+Lead urine normal
+Manganese
+Manganese decreased
+Manganese increased
+Manganese normal
+Opiates
+Opiates negative
+Opiates positive
+Postmortem blood drug level
+Postmortem blood drug level abnormal
+Postmortem blood drug level decreased
+Postmortem blood drug level increased
+Postmortem blood drug level normal
+Saliva alcohol test
+Saliva alcohol test negative
+Saliva alcohol test positive
+Stool heavy metal positive
+Sulphaemoglobin decreased
+Sulphaemoglobin increased
+Sulphaemoglobin normal
+Toxicologic test
+Toxicologic test abnormal
+Toxicologic test normal
+Urine alcohol test
+Urine alcohol test negative
+Urine alcohol test positive
+Urine aluminium
+Urine aluminium decreased
+Urine aluminium increased
+Urine amphetamine
+Urine amphetamine negative
+Urine amphetamine positive
+Urine antimony
+Urine antimony decreased
+Urine antimony increased
+Urine arsenic
+Urine arsenic decreased
+Urine arsenic increased
+Urine barbiturates
+Urine barbiturates decreased
+Urine barbiturates increased
+Urine beryllium
+Urine beryllium decreased
+Urine beryllium increased
+Urine cannabinoids decreased
+Urine cannabinoids increased
+Urine cotinine test
+Urine cotinine test negative
+Urine cotinine test positive
+Urine gold increased
+Urine mercury
+Urine mercury abnormal
+Urine mercury normal
+l2</ Toxicology laboratory analyses >
+l1</ Toxicology and therapeutic drug monitoring >
+l1< Water, electrolyte and mineral investigations >
+l2< Mineral and electrolyte analyses >
+Adjusted calcium
+Adjusted calcium decreased
+Adjusted calcium increased
+Blood bicarbonate
+Blood bicarbonate abnormal
+Blood bicarbonate decreased
+Blood bicarbonate increased
+Blood bicarbonate normal
+Blood calcium
+Blood calcium abnormal
+Blood calcium decreased
+Blood calcium increased
+Blood calcium normal
+Blood chloride
+Blood chloride abnormal
+Blood chloride decreased
+Blood chloride increased
+Blood chloride normal
+Blood chromium
+Blood chromium decreased
+Blood chromium increased
+Blood chromium normal
+Blood copper
+Blood copper abnormal
+Blood copper decreased
+Blood copper increased
+Blood copper normal
+Blood cyanide
+Blood cyanide decreased
+Blood cyanide increased
+Blood cyanide normal
+Blood iron
+Blood iron abnormal
+Blood iron decreased
+Blood iron increased
+Blood iron normal
+Blood magnesium
+Blood magnesium abnormal
+Blood magnesium decreased
+Blood magnesium increased
+Blood magnesium normal
+Blood phosphorus
+Blood phosphorus abnormal
+Blood phosphorus decreased
+Blood phosphorus increased
+Blood phosphorus normal
+Blood potassium
+Blood potassium abnormal
+Blood potassium decreased
+Blood potassium increased
+Blood potassium normal
+Blood selenium
+Blood selenium abnormal
+Blood selenium decreased
+Blood selenium increased
+Blood selenium normal
+Blood sodium
+Blood sodium abnormal
+Blood sodium decreased
+Blood sodium increased
+Blood sodium normal
+Blood zinc
+Blood zinc abnormal
+Blood zinc decreased
+Blood zinc increased
+Blood zinc normal
+Calcium ionised
+Calcium ionised abnormal
+Calcium ionised decreased
+Calcium ionised increased
+Calcium ionised normal
+Calcium phosphate product
+Calcium phosphate product increased
+Iron binding capacity total
+Iron binding capacity total abnormal
+Iron binding capacity total decreased
+Iron binding capacity total increased
+Iron binding capacity total normal
+Iron binding capacity unsaturated
+Iron binding capacity unsaturated decreased
+Iron binding capacity unsaturated increased
+Serum ferritin
+Serum ferritin abnormal
+Serum ferritin decreased
+Serum ferritin increased
+Serum ferritin normal
+Stool chloride
+Stool chloride increased
+Stool magnesium increased
+Stool sodium increased
+Sweat test
+Sweat test abnormal
+Sweat test normal
+Transferrin
+Transferrin abnormal
+Transferrin decreased
+Transferrin increased
+Transferrin normal
+Transferrin receptor assay
+Transferrin saturation
+Transferrin saturation abnormal
+Transferrin saturation decreased
+Transferrin saturation increased
+Transtubular potassium gradient
+Urine calcium
+Urine calcium decreased
+Urine calcium increased
+Urine calcium normal
+Urine chloride
+Urine chloride decreased
+Urine chloride increased
+Urine chromium
+Urine chromium decreased
+Urine chromium increased
+Urine copper
+Urine copper decreased
+Urine copper increased
+Urine iron
+Urine iron decreased
+Urine iron increased
+Urine magnesium
+Urine magnesium decreased
+Urine magnesium increased
+Urine phosphorus
+Urine phosphorus abnormal
+Urine phosphorus decreased
+Urine phosphorus increased
+Urine phosphorus normal
+Urine potassium
+Urine potassium abnormal
+Urine potassium decreased
+Urine potassium increased
+Urine potassium normal
+Urine selenium
+Urine selenium abnormal
+Urine selenium decreased
+Urine selenium increased
+Urine selenium normal
+Urine sodium
+Urine sodium abnormal
+Urine sodium decreased
+Urine sodium increased
+Urine sodium normal
+Urine zinc
+l2</ Mineral and electrolyte analyses >
+l2< Water and electrolyte analyses NEC >
+Blood electrolytes
+Blood electrolytes abnormal
+Blood electrolytes decreased
+Blood electrolytes increased
+Blood electrolytes normal
+Blood osmolarity
+Blood osmolarity abnormal
+Blood osmolarity decreased
+Blood osmolarity increased
+Blood osmolarity normal
+Fluid balance assessment
+Fluid balance negative
+Fluid balance positive
+Osmolar gap
+Osmolar gap abnormal
+Osmolar gap increased
+Osmolar gap normal
+Specific gravity body fluid
+Specific gravity body fluid abnormal
+Specific gravity body fluid decreased
+Specific gravity body fluid increased
+Specific gravity body fluid normal
+Total fluid output
+Urine electrolytes
+Urine electrolytes abnormal
+Urine electrolytes decreased
+Urine electrolytes increased
+Urine electrolytes normal
+Urine osmolarity
+Urine osmolarity decreased
+Urine osmolarity increased
+Urine osmolarity normal
+Volume blood
+Volume blood decreased
+Volume blood increased
+Water deprivation test
+Water loading test
+l2</ Water and electrolyte analyses NEC >
+l1</ Water, electrolyte and mineral investigations >
+l0</ Investigations>

@@ -1,0 +1,1406 @@
+l0< Musculoskeletal and connective tissue disorders>
+l1< Bone disorders (excl congenital and fractures) >
+l2< Bone and joint infections (excl arthritis) >
+Abscess jaw
+Bone abscess
+Bone tuberculosis
+Bursitis infective
+Bursitis infective staphylococcal
+Candida osteomyelitis
+Infected bunion
+Infective periostitis
+Intervertebral discitis
+Joint abscess
+Joint tuberculosis
+Osteomyelitis
+Osteomyelitis acute
+Osteomyelitis bacterial
+Osteomyelitis blastomyces
+Osteomyelitis chronic
+Osteomyelitis fungal
+Osteomyelitis salmonella
+Osteomyelitis viral
+Paraspinal abscess
+Petrositis
+Staphylococcal osteomyelitis
+Sternitis
+Subperiosteal abscess
+Yaws of bone
+l2</ Bone and joint infections (excl arthritis) >
+l2< Bone disorders NEC >
+Alveolar osteitis
+Aneurysmal bone cyst
+Bone callus excessive
+Bone contusion
+Bone cyst
+Bone development abnormal
+Bone disorder
+Bone erosion
+Bone fistula
+Bone formation decreased
+Bone formation increased
+Bone hyperpigmentation
+Bone infarction
+Bone lesion
+Bone loss
+Callus formation delayed
+Cemento osseous dysplasia
+Cystic angiomatosis
+Dental alveolar anomaly
+Dental cyst
+Enostosis
+Erdheim-Chester disease
+Exostosis
+Exostosis of external ear canal
+Exostosis of jaw
+Exposed bone in jaw
+Extraskeletal ossification
+Hyperphosphatasaemia
+Hypertrophic osteoarthropathy
+Inadequate osteointegration
+Jaw cyst
+Jaw disorder
+Jaw fistula
+Medial tibial stress syndrome
+Melorheostosis
+Osteitis
+Osteitis condensans
+Osteitis deformans
+Osteonecrosis
+Osteonecrosis of external auditory canal
+Osteonecrosis of jaw
+Osteoradionecrosis
+Osteorrhagia
+Osteosclerosis
+Osteosis
+Periosteal haematoma
+Periostitis
+Periostitis hypertrophic
+Periostosis
+Periprosthetic osteolysis
+Post transplant distal limb syndrome
+Post-traumatic osteoporosis
+Primary sequestrum
+Radiation osteitis
+Secondary sequestrum
+Skeletal injury
+Spinal column injury
+Spinal disorder
+Sternal injury
+Tertiary sequestrum
+Vertebral column mass
+Vertebral lesion
+Vertebral wedging
+l2</ Bone disorders NEC >
+l2< Bone related signs and symptoms >
+Bone marrow oedema
+Bone marrow oedema syndrome
+Bone pain
+Bone swelling
+Coccydynia
+Eagle's syndrome
+Metatarsalgia
+Os trigonum syndrome
+Pain in jaw
+Pubic pain
+Spinal pain
+l2</ Bone related signs and symptoms >
+l2< Epiphyseal disorders >
+Congenital syphilitic osteochondritis
+Epiphyseal disorder
+Epiphyseal injury
+Epiphyses delayed fusion
+Epiphyses premature fusion
+Epiphysiolysis
+Epiphysitis
+l2</ Epiphyseal disorders >
+l2< Metabolic bone disorders >
+Alveolar bone resorption
+Bone atrophy
+Bone decalcification
+Bone metabolism disorder
+Brown tumour
+Chronic kidney disease-mineral and bone disorder
+Dwarfism
+High turnover osteopathy
+Hungry bone syndrome
+Itai-itai disease
+Low turnover osteopathy
+Oncogenic osteomalacia
+Osteodystrophy
+Osteolysis
+Osteomalacia
+Osteopenia
+Osteoporosis
+Osteoporosis circumscripta cranii
+Osteoporosis postmenopausal
+Renal rickets
+Resorption bone decreased
+Resorption bone increased
+Rickets
+Senile osteoporosis
+l2</ Metabolic bone disorders >
+l1</ Bone disorders (excl congenital and fractures) >
+l1< Connective tissue disorders (excl congenital) >
+l2< Connective tissue disorders NEC >
+Collagen disorder
+Collagen-vascular disease
+Connective tissue disorder
+CREST syndrome
+Cutis laxa
+Eosinophilic fasciitis
+Immunoglobulin G4 related disease
+Mechanic's hand
+Mixed connective tissue disease
+Morphoea
+Myofascitis
+Nephrogenic systemic fibrosis
+Ochronosis
+Overlap syndrome
+Paraneoplastic dermatomyositis
+Polyarteritis nodosa
+Polymyalgia rheumatica
+Progressive facial hemiatrophy
+Pseudoxanthoma elasticum-like syndrome
+Reynold's syndrome
+Scleroderma
+Scleroderma renal crisis
+Scleroderma-like reaction
+Sjogren's syndrome
+Systemic scleroderma
+Systemic sclerosis pulmonary
+Undifferentiated connective tissue disease
+l2</ Connective tissue disorders NEC >
+l2< Lupus erythematosus (incl subtypes) >
+Acute cutaneous lupus erythematosus
+Butterfly rash
+Central nervous system lupus
+Chronic cutaneous lupus erythematosus
+Cutaneous lupus erythematosus
+Lupoid hepatic cirrhosis
+Lupus cystitis
+Lupus encephalitis
+Lupus endocarditis
+Lupus enteritis
+Lupus hepatitis
+Lupus myocarditis
+Lupus nephritis
+Lupus pancreatitis
+Lupus pleurisy
+Lupus pneumonitis
+Lupus vasculitis
+Lupus-like syndrome
+Neuropsychiatric lupus
+Pericarditis lupus
+Peritonitis lupus
+Shrinking lung syndrome
+Subacute cutaneous lupus erythematosus
+Systemic lupus erythematosus
+Systemic lupus erythematosus rash
+l2</ Lupus erythematosus (incl subtypes) >
+l1</ Connective tissue disorders (excl congenital) >
+l1< Fractures >
+l2< Fracture complications >
+Fracture blisters
+Fracture delayed union
+Fracture infection
+Fracture malunion
+Fracture nonunion
+Pseudarthrosis
+l2</ Fracture complications >
+l2< Fractures NEC >
+Atypical fracture
+Avulsion fracture
+Bone fissure
+Bone fragmentation
+Comminuted fracture
+Complicated fracture
+Compression fracture
+Fracture
+Fracture displacement
+Impacted fracture
+Jaw fracture
+Metaphyseal corner fracture
+Multiple fractures
+Open fracture
+Osteoporotic fracture
+Pathological fracture
+Periprosthetic fracture
+Stress fracture
+Subchondral insufficiency fracture
+Traumatic fracture
+l2</ Fractures NEC >
+l2< Limb fractures >
+Ankle fracture
+Atypical femur fracture
+Clavicle fracture
+Epiphyseal fracture
+Femoral neck fracture
+Femur fracture
+Fibula fracture
+Foot fracture
+Forearm fracture
+Fracture of clavicle due to birth trauma
+Greenstick fracture
+Hand fracture
+Hip fracture
+Humerus fracture
+Limb fracture
+Lisfranc fracture
+Lower limb fracture
+Osteochondral fracture
+Patella fracture
+Radius fracture
+Scapula fracture
+Scapulothoracic dissociation
+Tibia fracture
+Torus fracture
+Ulna fracture
+Upper limb fracture
+Wrist fracture
+l2</ Limb fractures >
+l2< Pelvic fractures >
+Acetabulum fracture
+Fractured ischium
+Ilium fracture
+Pelvic fracture
+Pubis fracture
+Sacroiliac fracture
+l2</ Pelvic fractures >
+l2< Skull and face fractures >
+Craniofacial fracture
+Facial bones fracture
+Fractured skull depressed
+Skull fracture
+Skull fractured base
+l2</ Skull and face fractures >
+l2< Spinal column fractures >
+Cervical vertebral fracture
+Chance fracture
+Fractured coccyx
+Fractured sacrum
+Lumbar vertebral fracture
+Spinal compression fracture
+Spinal fracture
+Spinal fusion fracture
+Thoracic vertebral fracture
+l2</ Spinal column fractures >
+l2< Thoracic cage fractures non-spinal >
+Costal cartilage fracture
+Flail chest
+Rib fracture
+Sternal fracture
+l2</ Thoracic cage fractures non-spinal >
+l1</ Fractures >
+l1< Joint disorders >
+l2< Arthropathies NEC >
+Amyloid arthropathy
+Antithyroid arthritis syndrome
+Arthritis
+Arthritis allergic
+Arthritis climacteric
+Arthritis enteropathic
+Arthritis reactive
+Arthropathy
+Arthrotoxicity
+Autoimmune arthritis
+Behcet's syndrome
+Blau syndrome
+Carcinomatous polyarthritis
+Diabetic arthropathy
+Diabetic cheiroarthropathy
+Haemarthrosis
+Haemophilic arthropathy
+Hyper IgD syndrome
+Injection site joint inflammation
+Joint microhaemorrhage
+Multicentric reticulohistiocytosis
+Neuropathic arthropathy
+Palindromic rheumatism
+Paraneoplastic arthritis
+Polyarthritis
+Poncet's disease
+Pyogenic sterile arthritis pyoderma gangrenosum and acne syndrome
+Reiter's syndrome
+Rheumatic fever
+Sacroiliitis
+Seronegative arthritis
+SLE arthritis
+Sympathetic posterior cervical syndrome
+Traumatic arthritis
+Traumatic arthropathy
+l2</ Arthropathies NEC >
+l2< Crystal arthropathic disorders >
+Chondrocalcinosis
+Chondrocalcinosis pyrophosphate
+Crystal arthropathy
+Gout
+Gouty arthritis
+Gouty tophus
+Periarthritis calcarea
+l2</ Crystal arthropathic disorders >
+l2< Infectious arthritis >
+Administration site joint infection
+Arthritis bacterial
+Arthritis fungal
+Arthritis gonococcal
+Arthritis helminthic
+Arthritis infective
+Arthritis rubella
+Arthritis salmonella
+Arthritis viral
+Epidemic polyarthritis
+Infective spondylitis
+Infusion site joint infection
+Injection site joint infection
+Medical device site joint infection
+Septic arthritis haemophilus
+Septic arthritis neisserial
+Septic arthritis staphylococcal
+Septic arthritis streptobacillus
+Septic arthritis streptococcal
+Vaccination site joint infection
+l2</ Infectious arthritis >
+l2< Joint dislocations >
+Costochondral separation
+Dislocation of sternum
+Dislocation of vertebra
+Joint dislocation
+Joint dislocation pathological
+Joint dislocation postoperative
+Radial head dislocation
+l2</ Joint dislocations >
+l2< Joint related disorders NEC >
+Ankle impingement
+Arthrofibrosis
+Articular calcification
+Articular disc disorder
+Atlantoaxial instability
+Carpal collapse
+Chondromalacia
+Craniocervical syndrome
+Crowned dens syndrome
+Facet joint syndrome
+Femoroacetabular impingement
+Hypermobility syndrome
+Infrapatellar fat pad inflammation
+Joint adhesion
+Joint ankylosis
+Joint capsule rupture
+Joint contracture
+Joint deposit
+Joint destruction
+Joint hyperextension
+Joint injury
+Joint instability
+Joint laxity
+Joint lock
+Joint space narrowing
+Knee impingement syndrome
+Lateral patellar compression syndrome
+Ligament laxity
+Patellofemoral pain syndrome
+Periarthritis
+Periarticular disorder
+Rotator cuff syndrome
+Scapular dyskinesis
+Temporomandibular joint syndrome
+Ulnocarpal abutment syndrome
+Vertebral foraminal stenosis
+l2</ Joint related disorders NEC >
+l2< Joint related signs and symptoms >
+Administration site joint discomfort
+Administration site joint effusion
+Administration site joint erythema
+Administration site joint inflammation
+Administration site joint movement impairment
+Administration site joint pain
+Administration site joint warmth
+Application site joint discomfort
+Application site joint effusion
+Application site joint erythema
+Application site joint inflammation
+Application site joint movement impairment
+Application site joint pain
+Application site joint swelling
+Application site joint warmth
+Arthralgia
+Floating patella
+Infusion site joint discomfort
+Infusion site joint effusion
+Infusion site joint erythema
+Infusion site joint inflammation
+Infusion site joint movement impairment
+Infusion site joint pain
+Infusion site joint swelling
+Infusion site joint warmth
+Injection site joint discomfort
+Injection site joint effusion
+Injection site joint erythema
+Injection site joint movement impairment
+Injection site joint pain
+Injection site joint swelling
+Injection site joint warmth
+Joint crepitation
+Joint effusion
+Joint range of motion decreased
+Joint stiffness
+Joint swelling
+Joint vibration
+Joint warmth
+Loose body in joint
+Medical device site joint discomfort
+Medical device site joint effusion
+Medical device site joint erythema
+Medical device site joint inflammation
+Medical device site joint movement impairment
+Medical device site joint pain
+Medical device site joint swelling
+Medical device site joint warmth
+Plica syndrome
+Pogosta disease
+Vaccination site joint discomfort
+Vaccination site joint effusion
+Vaccination site joint erythema
+Vaccination site joint inflammation
+Vaccination site joint movement impairment
+Vaccination site joint pain
+Vaccination site joint swelling
+Vaccination site joint warmth
+l2</ Joint related signs and symptoms >
+l2< Osteoarthropathies >
+Cervicobrachial syndrome
+Interspinous osteoarthritis
+Nodal osteoarthritis
+Osteoarthritis
+Osteoarthropathy
+Rapidly progressive osteoarthritis
+Spinal osteoarthritis
+Traumatic arthrosis
+Vertebral osteophyte
+l2</ Osteoarthropathies >
+l2< Psoriatic arthropathies >
+Juvenile psoriatic arthritis
+Psoriatic arthropathy
+l2</ Psoriatic arthropathies >
+l2< Rheumatoid arthropathies >
+Caplan's syndrome
+Felty's syndrome
+Juvenile idiopathic arthritis
+Laryngeal rheumatoid arthritis
+Rheumatoid arthritis
+Rheumatoid lung
+Rheumatoid neutrophilic dermatosis
+Rheumatoid nodule
+Rheumatoid scleritis
+Rheumatoid vasculitis
+Still's disease
+l2</ Rheumatoid arthropathies >
+l2< Spondyloarthropathies >
+Adjacent segment degeneration
+Ankylosing spondylitis
+Axial spondyloarthritis
+Destructive spondyloarthropathy
+Diffuse idiopathic skeletal hyperostosis
+Enteropathic spondylitis
+Juvenile spondyloarthritis
+Spinal fusion acquired
+Spondylitis
+Spondyloarthropathy
+Spondylopathy traumatic
+l2</ Spondyloarthropathies >
+l1</ Joint disorders >
+l1< Muscle disorders >
+l2< Muscle infections and inflammations >
+Antisynthetase syndrome
+Dermatomyositis
+Eosinophilia myalgia syndrome
+Inclusion body myositis
+Infective myositis
+Juvenile polymyositis
+Lupus myositis
+Muscle abscess
+Muscular sarcoidosis
+Myositis
+Myositis ossificans
+Myositis-like syndrome
+Polymyositis
+Psoas abscess
+Pyomyositis
+Sarcocystis infection
+Trichiniasis
+Viral myositis
+l2</ Muscle infections and inflammations >
+l2< Muscle injuries >
+Aponeurosis contusion
+Fascial rupture
+Muscle contusion
+Muscle hernia
+Muscle injury
+Muscle rupture
+Muscle strain
+l2</ Muscle injuries >
+l2< Muscle pains >
+Fibromyalgia
+Malignant psoas syndrome
+Myalgia
+Myalgia intercostal
+Myofascial pain syndrome
+Neuromuscular pain
+Tensor fasciae latae syndrome
+l2</ Muscle pains >
+l2< Muscle related signs and symptoms NEC >
+Anal spasm
+Chills
+Chvostek's sign
+Diastasis recti abdominis
+Heat cramps
+Hypercreatinaemia
+Latent tetany
+Mephisto sign
+Muscle atrophy
+Muscle contractions involuntary
+Muscle disorder
+Muscle fatigue
+Muscle fibrosis
+Muscle haemorrhage
+Muscle hypertrophy
+Muscle hypoxia
+Muscle mass
+Muscle oedema
+Muscle spasms
+Muscle swelling
+Muscle tightness
+Muscle twitching
+Myofascial spasm
+Myoglobinaemia
+Myoglobinuria
+Myokymia
+Myosclerosis
+Myositis ossificans circumscripta
+Neuromyopathy
+Neuromyotonia
+Neuropathic muscular atrophy
+Pelvic floor dyssynergia
+Periodic limb movement disorder
+Psoas sign
+Rectal spasm
+Rectal tenesmus
+Restless legs syndrome
+Satoyoshi syndrome
+Tetany
+Trousseau's sign
+Werner's syndrome
+l2</ Muscle related signs and symptoms NEC >
+l2< Muscle tone abnormalities >
+Allan-Herndon-Dudley syndrome
+Cataplexy
+Cogwheel rigidity
+Drop attacks
+Dysponesis
+Floppy infant
+Hypertonia
+Hypertonia neonatal
+Hypotonia
+Hypotonia neonatal
+Morvan syndrome
+Muscle rigidity
+Muscle spasticity
+Muscle tone disorder
+Myotonia
+Neonatal behavioural syndrome
+Neuroleptic malignant syndrome
+Nuchal rigidity
+Pallister-Killian syndrome
+Sandifer's syndrome
+Serotonin syndrome
+Stiff leg syndrome
+Stiff person syndrome
+Torticollis
+Torticollis psychogenic
+Traumatic torticollis
+Trismus
+l2</ Muscle tone abnormalities >
+l2< Muscle weakness conditions >
+Adult polyglucosan body disease
+Diaphragm muscle weakness
+Dropped head syndrome
+Motor dysfunction
+Muscular weakness
+Pelvic floor muscle weakness
+Post polio syndrome
+Respiratory muscle weakness
+Sarcopenia
+l2</ Muscle weakness conditions >
+l2< Myasthenia gravis and related conditions >
+Myasthenia gravis
+Myasthenia gravis crisis
+Myasthenia gravis neonatal
+Myasthenic syndrome
+Ocular myasthenia
+l2</ Myasthenia gravis and related conditions >
+l2< Myopathies >
+3-hydroxyacetyl-coenzyme A dehydrogenase deficiency
+Acute post asthmatic amyotrophy
+Amyotrophy
+Bulbospinal muscular atrophy congenital
+Compartment syndrome
+Diabetic amyotrophy
+Extraocular muscle disorder
+Glycogen storage disease type II
+Glycogen storage disease type III
+Glycogen storage disease type V
+Glycogen storage disease type VII
+Hereditary motor neurone disease
+Immune-mediated necrotising myopathy
+Intensive care unit acquired weakness
+Kearns-Sayre syndrome
+Long-chain acyl-coenzyme A dehydrogenase deficiency
+Medium-chain acyl-coenzyme A dehydrogenase deficiency
+MELAS syndrome
+Metabolic myopathy
+Mitochondrial encephalomyopathy
+Mitochondrial myopathy
+Mitochondrial myopathy acquired
+MLASA syndrome
+Monomelic amyotrophy
+Muscle necrosis
+Myoclonic epilepsy and ragged-red fibres
+Myopathy
+Myopathy endocrine
+Myopathy toxic
+Necrotising myositis
+Neuralgic amyotrophy
+Rhabdomyolysis
+Short-chain acyl-coenzyme A dehydrogenase deficiency
+Spinal muscular atrophy
+Uraemic myopathy
+Very long-chain acyl-coenzyme A dehydrogenase deficiency
+l2</ Myopathies >
+l1</ Muscle disorders >
+l1< Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders) >
+l2< Extremity deformities >
+Acquired claw toe
+Ainhum
+Ankle deformity
+Blount's disease
+Bone deformity
+Camptodactyly acquired
+Cheiromegaly
+Elbow deformity
+Finger deformity
+Foot deformity
+Hand deformity
+Hip deformity
+Klippel-Trenaunay syndrome
+Knee deformity
+Limb asymmetry
+Limb deformity
+Mallet finger
+Musculoskeletal deformity
+Parkes-Weber syndrome
+Pseudosyndactyly
+Thalidomide embryopathy
+Wrist deformity
+l2</ Extremity deformities >
+l2< Intervertebral disc disorders NEC >
+Delayed spinal fusion
+Incomplete spinal fusion
+Intervertebral disc annular tear
+Intervertebral disc calcification
+Intervertebral disc compression
+Intervertebral disc degeneration
+Intervertebral disc disorder
+Intervertebral disc displacement
+Intervertebral disc injury
+Intervertebral disc protrusion
+Intervertebral disc space narrowing
+Sciatica
+l2</ Intervertebral disc disorders NEC >
+l2< Musculoskeletal and connective tissue deformities of skull, face and buccal cavity >
+18q minus syndrome
+Acquired macrocephaly
+Cranial sutures widening
+Delayed closure of cranial sutures
+Delayed fontanelle closure
+Dentofacial functional disorder
+Facial asymmetry
+Head deformity
+Kleefstra syndrome
+Newborn head moulding
+Nose deformity
+Positional plagiocephaly
+Potter's syndrome
+Premature closure of cranial sutures
+Prognathism
+Retrognathia
+Stenocephaly
+Trisomy 4p
+Wolf-Hirschhorn syndrome
+l2</ Musculoskeletal and connective tissue deformities of skull, face and buccal cavity >
+l2< Spine and neck deformities >
+Acquired foramen magnum stenosis
+Cervical spinal stenosis
+Flatback syndrome
+Foramen magnum syndrome
+Kyphoscoliosis
+Kyphosis
+Kyphosis postoperative
+Kyphosis radiation
+Lordosis
+Lordosis post surgical
+Lumbar spinal stenosis
+Neck deformity
+Scoliosis
+Scoliosis radiation
+Spinal column stenosis
+Spinal deformity
+Spinal flattening
+Spinal instability
+Spondylolisthesis
+Spondylolysis
+l2</ Spine and neck deformities >
+l2< Trunk deformities >
+Barrel chest
+Deformity thorax
+Drooping shoulder syndrome
+Flat chest
+Funnel chest acquired
+Keeled chest acquired
+Pelvic deformity
+Rachitic rosary
+Rib deformity
+Shoulder deformity
+l2</ Trunk deformities >
+l1</ Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders) >
+l1< Musculoskeletal and connective tissue disorders congenital >
+l2< Connective tissue disorders congenital >
+Arterial tortuosity syndrome
+Congenital cutis laxa
+Ehlers-Danlos syndrome
+Neonatal lupus erythematosus
+Pseudoxanthoma elasticum
+l2</ Connective tissue disorders congenital >
+l2< Musculoskeletal and connective tissue disorders of face, neck and jaw congenital >
+Branchial cleft sinus
+Branchial cyst
+Branchiogenic syndrome
+Cervical auricle
+Cleft lip
+Cleidocranial dysostosis
+Congenital jaw malformation
+Congenital lip fistula
+Cyclopia
+Dentofacial anomaly
+Dysgnathia
+Fibrous dysplasia of jaw
+Gnathoschisis
+Hypertelorism of orbit
+Hypotelorism of orbit
+Macrocheilia
+Macrogenia
+Macrognathia
+Macrostomia
+Mandibulofacial dysostosis
+Maxillonasal dysplasia
+Microcheilia
+Microgenia
+Micrognathia
+Microstomia
+Nijmegen breakage syndrome
+Opitz-G/BBB syndrome
+Otocephaly
+Pierre Robin syndrome
+Preauricular cyst
+Pterygium colli
+Rubinstein-Taybi syndrome
+Velo-cardio-facial syndrome
+l2</ Musculoskeletal and connective tissue disorders of face, neck and jaw congenital >
+l2< Musculoskeletal and connective tissue disorders of limbs congenital >
+Accessory carpal bone
+Accessory navicular syndrome
+Adactyly
+Amniotic band syndrome
+Arachnodactyly
+Brachydactyly
+Camptodactyly congenital
+Camptomelia
+Carpus curvus
+Central core disease
+Chronic infantile neurological cutaneous and articular syndrome
+Clinodactyly
+Congenital amputation
+Congenital bowing of long bones
+Congenital claw toe
+Congenital flat feet
+Congenital foot malformation
+Congenital hand malformation
+Congenital hyperextension of knee
+Congenital knee deformity
+Congenital knee dislocation
+Congenital limb hyperextension
+Cryopyrin associated periodic syndrome
+Developmental hip dysplasia
+Dyschondrosteosis
+Ectrodactyly
+Familial cold autoinflammatory syndrome
+Femoral anteversion
+Femoral retroversion
+Femur-fibula-ulna complex
+Fibula agenesis
+Fraser syndrome
+Gollop-Wolfgang complex
+Hand-foot-genital syndrome
+Hypochondroplasia
+Larsen syndrome
+Limb hypoplasia congenital
+Limb malformation
+Limb reduction defect
+Macrodactyly
+Marfan's syndrome
+Metatarsus primus varus
+Monopodia
+Morton's syndrome
+Muckle-Wells syndrome
+Os trigonum
+Phalangeal agenesis
+Phalangeal hypoplasia
+Poland's syndrome
+Polydactyly
+Proximal focal femoral deficiency
+Radioulnar synostosis
+Sirenomelia
+Syndactyly
+Talipes
+Thrombocytopenia-absent radius syndrome
+Tibial agenesis
+Tibial torsion
+Vertical talus
+l2</ Musculoskeletal and connective tissue disorders of limbs congenital >
+l2< Musculoskeletal and connective tissue disorders of skull congenital >
+Apert's syndrome
+Bannayan-Riley-Ruvalcaba syndrome
+Brachycephaly
+Congenital absence of cranial vault
+Craniofacial deformity
+Craniofacial dysostosis
+Craniolacunia
+Craniorachischisis
+Craniosynostosis
+Craniotabes
+Familial scaphocephaly syndrome
+Foramen magnum stenosis
+Hypocalvaria
+Iniencephaly
+Macrocephaly
+Microcephaly
+Oculoauriculovertebral dysplasia
+Plagiocephaly
+Platybasia
+Scaphocephaly
+Skull malformation
+l2</ Musculoskeletal and connective tissue disorders of skull congenital >
+l2< Musculoskeletal and connective tissue disorders of spine congenital >
+Arcuate foramen
+Caudal regression syndrome
+Congenital absence of vertebra
+Congenital hyperextension of spine
+Congenital kyphoscoliosis
+Congenital scoliosis
+Congenital spinal fusion
+Congenital spinal stenosis
+Congenital spondylolisthesis
+Congenital spondylolysis
+Congenital torticollis
+Currarino syndrome
+Hemivertebra
+Kimmerle's anomaly
+Klippel-Feil syndrome
+Kyphosis congenital
+Lumbarisation
+Platyspondylia
+Sacral hypoplasia
+Sacralisation
+Spine malformation
+Spondyloepiphyseal dysplasia
+Supernumerary vertebra
+Transitional vertebrae
+l2</ Musculoskeletal and connective tissue disorders of spine congenital >
+l2< Musculoskeletal and connective tissue disorders of trunk congenital (excl spine) >
+Cervical rib
+Congenital clavicular agenesis
+Congenital deformity of clavicle
+Congenital elevation of scapula
+Pectus carinatum
+Pectus excavatum
+Rib hypoplasia
+Rib synostosis
+Synostosis
+l2</ Musculoskeletal and connective tissue disorders of trunk congenital (excl spine) >
+l2< Musculoskeletal disorders congenital NEC >
+Aase syndrome
+Acrodysostosis
+Bloom syndrome
+Cartilage-hair hypoplasia
+Cohen syndrome
+Congenital fibrosarcoma
+Congenital joint malformation
+Congenital multiplex arthrogryposis
+Congenital musculoskeletal anomaly
+Cornelia de Lange syndrome
+Costello syndrome
+Dubowitz syndrome
+Dysmorphism
+Ellis-van Creveld syndrome
+Faciodigitogenital dysplasia
+Floating-Harbor syndrome
+Freeman-Sheldon syndrome
+Juvenile Paget's disease
+Kabuki make-up syndrome
+Laron syndrome
+Lowry-Wood syndrome
+Meier-Gorlin syndrome
+Metaphyseal dysplasia
+Multiple epiphyseal dysplasia
+Nail-patella syndrome
+Noonan syndrome
+Oculodentodigital dysplasia
+Oral-facial-digital syndrome type II
+PHACES syndrome
+Popliteal pterygium syndrome
+Proteus syndrome
+Schinzel-Giedion syndrome
+Silver-Russell syndrome
+Sotos' syndrome
+Thanatophoric dwarfism
+Trichorhinophalangeal syndrome
+Weill-Marchesani syndrome
+Wildervanck syndrome
+Winchester syndrome
+l2</ Musculoskeletal disorders congenital NEC >
+l2< Non-site specific bone disorders congenital >
+Albright's disease
+Congenital osteodystrophy
+Congenital pseudarthrosis
+Dermatofibrosis lenticularis disseminata
+Fibrous dysplasia of bone
+Gorham's disease
+Hereditary hypophosphataemic rickets
+Hereditary multiple osteochondromas
+Infantile cortical hyperostosis
+Kenny-Caffey syndrome
+Osteogenesis imperfecta
+Osteopathia striata
+Osteopetrosis
+Osteopoikilosis
+Osteoporosis-pseudoglioma syndrome
+Pachydermoperiostosis
+Schimke immunoosseous dysplasia
+Skeletal dysplasia
+l2</ Non-site specific bone disorders congenital >
+l2< Non-site specific cartilage disorders congenital >
+Asphyxiating thoracic dystrophy
+Chondrodystrophy
+Chondroectodermal dysplasia
+l2</ Non-site specific cartilage disorders congenital >
+l2< Non-site specific muscle disorders congenital >
+Accessory muscle
+Becker's muscular dystrophy
+Benign congenital hypotonia
+Congenital floppy infant
+Congenital muscle absence
+Congenital myopathy
+Duchenne muscular dystrophy
+Facioscapulohumeral muscular dystrophy
+Familial tremor
+Fibrodysplasia ossificans progressiva
+GNE myopathy
+Greig's syndrome
+Kinematic imbalances due to suboccipital strain
+Muscular dystrophy
+Myotonia congenita
+Myotonic dystrophy
+Rippling muscle disease
+Welander distal myopathy
+l2</ Non-site specific muscle disorders congenital >
+l1</ Musculoskeletal and connective tissue disorders congenital >
+l1< Musculoskeletal and connective tissue disorders NEC >
+l2< Musculoskeletal and connective tissue infections and inflammations NEC >
+Abscess neck
+Bezold abscess
+Chest wall abscess
+Chronic recurrent multifocal osteomyelitis
+Connective tissue inflammation
+Dactylitis
+Deficiency of the interleukin-1 receptor antagonist
+Dupuytren's contracture
+Fascial infection
+Fasciitis
+Infective tenosynovitis
+Lyme disease
+Majeed's syndrome
+Necrotising fasciitis
+Necrotising fasciitis fungal
+Necrotising fasciitis staphylococcal
+Necrotising fasciitis streptococcal
+Necrotising soft tissue infection
+Palmar fasciitis
+Perineal abscess
+Perineal infection
+Plantar fascial fibromatosis
+Plantar fasciitis
+SAPHO syndrome
+Schnitzler's syndrome
+Severe invasive streptococcal infection
+Soft tissue infection
+Southern tick-associated rash illness
+Syphilis musculoskeletal
+l2</ Musculoskeletal and connective tissue infections and inflammations NEC >
+l2< Musculoskeletal and connective tissue pain and discomfort >
+Back pain
+Burning feet syndrome
+Cervicogenic headache
+Chondrodynia
+Cytarabine syndrome
+Epidural fibrosis
+Fishbane reaction
+Flank pain
+Fracture pain
+Growing pains
+Limb discomfort
+Masticatory pain
+Musculoskeletal chest pain
+Musculoskeletal discomfort
+Musculoskeletal pain
+Neck pain
+Pain in extremity
+Painful os peroneum syndrome
+Piriformis syndrome
+Post laminectomy syndrome
+Post treatment Lyme disease syndrome
+Post-traumatic neck syndrome
+Rheumatic disorder
+l2</ Musculoskeletal and connective tissue pain and discomfort >
+l2< Musculoskeletal and connective tissue signs and symptoms NEC >
+Abscess limb
+Acral overgrowth
+Acromegaly
+Asymmetric gluteal fold
+Back disorder
+Calcification of muscle
+Camptocormia
+Chest wall haematoma
+Chest wall mass
+Chest wall necrosis
+Computer vision syndrome
+Contusion
+Decerebrate posture
+Decorticate posture
+Decreased nasolabial fold
+Dysstasia
+Epidermal naevus syndrome
+Extremity contracture
+Fibrosis tendinous
+Gait disturbance
+Growth accelerated
+Growth failure
+Growth retardation
+Hypothenar hammer syndrome
+Infantile back arching
+Limb mass
+Locomotive syndrome
+Mandibular mass
+Mastication disorder
+Mobility decreased
+Muscle contracture
+Musculoskeletal disorder
+Musculoskeletal foreign body
+Musculoskeletal injury
+Musculoskeletal stiffness
+Postoperative heterotopic calcification
+Posture abnormal
+Pseudostrabismus
+Pseudothrombophlebitis
+Sclerodactylia
+Smith-Lemli-Opitz syndrome
+Somatic dysfunction
+Toe walking
+Toxic oil syndrome
+Trendelenburg's symptom
+VACTERL syndrome
+Weight bearing difficulty
+Winged scapula
+l2</ Musculoskeletal and connective tissue signs and symptoms NEC >
+l2< Soft tissue disorders NEC >
+Abscess soft tissue
+Axillary mass
+Calcifying fibrous pseudotumour
+Clubbing
+Fistula
+Fistula discharge
+Fistula inflammation
+Fluctuance
+Groin abscess
+Groin infection
+Groin pain
+Infected fistula
+Inguinal mass
+Neck mass
+Perineal induration
+Perineal necrosis
+Perineal ulceration
+Post procedural fistula
+Purple glove syndrome
+Soft tissue atrophy
+Soft tissue disorder
+Soft tissue foreign body
+Soft tissue haemorrhage
+Soft tissue injury
+Soft tissue mass
+Soft tissue necrosis
+Soft tissue swelling
+Stickler's syndrome
+l2</ Soft tissue disorders NEC >
+l1</ Musculoskeletal and connective tissue disorders NEC >
+l1< Musculoskeletal and connective tissue neoplasms >
+l2< Benign musculoskeletal and connective tissue neoplasms >
+Angiofibroma
+Angiolipoma
+Angiomyolipoma
+Angiomyxoma
+Benign bone neoplasm
+Benign cartilage neoplasm
+Benign joint neoplasm
+Benign mesothelioma
+Benign muscle neoplasm
+Benign soft tissue neoplasm
+Bone giant cell tumour benign
+Chest wall cyst
+Chondroblastoma
+Chondroma
+Chondromatosis
+Desmoid tumour
+Elastofibroma
+Enchondromatosis
+Fibroma
+Fibromatosis
+Fibrous cortical defect
+Haemangioma of bone
+Hygroma colli
+Intravascular lipoma
+Knuckle pads
+Lipoblastoma
+Lipofibroma
+Lipoma
+Lymphangioma
+Nodular fasciitis
+Osteochondroma
+Osteofibroma
+Osteoma
+Phosphaturic mesenchymal tumour
+Rhabdomyoma
+Xanthogranuloma
+l2</ Benign musculoskeletal and connective tissue neoplasms >
+l2< Malignant musculoskeletal and connective tissue neoplasms >
+Alveolar rhabdomyosarcoma
+Alveolar soft part sarcoma
+Alveolar soft part sarcoma metastatic
+Alveolar soft part sarcoma recurrent
+Biphasic mesothelioma
+Bone cancer
+Bone cancer metastatic
+Bone giant cell tumour malignant
+Bone sarcoma
+Chondrosarcoma
+Chondrosarcoma metastatic
+Chondrosarcoma recurrent
+Chordoma
+Clear cell sarcoma of soft tissue
+Dedifferentiated liposarcoma
+Dermatofibrosarcoma protuberans
+Dermatofibrosarcoma protuberans metastatic
+Desmoplastic mesothelioma
+Embryonal rhabdomyosarcoma
+Epithelioid mesothelioma
+Epithelioid sarcoma
+Epithelioid sarcoma metastatic
+Epithelioid sarcoma recurrent
+Ewing's sarcoma
+Ewing's sarcoma metastatic
+Ewing's sarcoma recurrent
+Extra-osseous Ewing's sarcoma
+Extra-osseous Ewing's sarcoma metastatic
+Extra-osseous Ewing's sarcoma recurrent
+Extraskeletal chondrosarcoma metastatic
+Extraskeletal chondrosarcoma recurrent
+Extraskeletal myxoid chondrosarcoma
+Extraskeletal osteosarcoma
+Extraskeletal osteosarcoma metastatic
+Extraskeletal osteosarcoma recurrent
+Fibrosarcoma
+Fibrosarcoma metastatic
+Inflammatory malignant fibrous histiocytoma
+Kaposi's sarcoma classical type
+Langerhans' cell histiocytosis
+Leiomyosarcoma
+Leiomyosarcoma metastatic
+Leiomyosarcoma recurrent
+Liposarcoma
+Liposarcoma metastatic
+Liposarcoma recurrent
+Lymphangiosarcoma
+Malignant connective tissue neoplasm
+Malignant fibrous histiocytoma
+Malignant fibrous histiocytoma metastatic
+Malignant fibrous histiocytoma of bone
+Malignant fibrous histiocytoma recurrent
+Malignant giant cell fibrous histiocytoma
+Malignant joint neoplasm
+Malignant mesenchymoma
+Malignant mesenchymoma metastatic
+Malignant mesenchymoma recurrent
+Malignant muscle neoplasm
+Mesothelioma malignant
+Mesothelioma malignant recurrent
+Metastases to bone
+Metastases to chest wall
+Metastases to muscle
+Metastases to neck
+Metastases to perineum
+Metastases to soft tissue
+Metastases to spine
+Mixed-type liposarcoma
+Musculoskeletal cancer
+Myxofibrosarcoma
+Myxoid liposarcoma
+Neurofibrosarcoma
+Neurofibrosarcoma metastatic
+Neurofibrosarcoma recurrent
+Osteosarcoma
+Osteosarcoma metastatic
+Osteosarcoma recurrent
+Peripheral neuroepithelioma of bone
+Peripheral neuroepithelioma of bone metastatic
+Peripheral neuroepithelioma of bone recurrent
+Peripheral neuroepithelioma of soft tissue
+Peripheral primitive neuroectodermal bone tumour
+Peripheral primitive neuroectodermal tumour of soft tissue
+Pleomorphic liposarcoma
+Pleomorphic malignant fibrous histiocytoma
+Rhabdomyosarcoma
+Rhabdomyosarcoma recurrent
+Round cell liposarcoma
+Sarcoma
+Sarcoma metastatic
+Sarcoma of skin
+Sarcomatoid mesothelioma
+Sarcomatosis
+Soft tissue sarcoma
+Spindle cell sarcoma
+Synovial sarcoma
+Synovial sarcoma metastatic
+Synovial sarcoma recurrent
+Undifferentiated sarcoma
+l2</ Malignant musculoskeletal and connective tissue neoplasms >
+l2< Musculoskeletal and connective tissue neoplasms NEC >
+Bone giant cell tumour
+Bone neoplasm
+Cartilage neoplasm
+Chest wall tumour
+Connective tissue neoplasm
+Giant cell tumour of tendon sheath
+Inflammatory myofibroblastic tumour
+Inflammatory pseudotumour
+Intraosseous angioma
+Joint neoplasm
+Leiomyoma
+Muscle neoplasm
+Smooth muscle cell neoplasm
+Soft tissue neoplasm
+Tendon neoplasm
+l2</ Musculoskeletal and connective tissue neoplasms NEC >
+l1</ Musculoskeletal and connective tissue neoplasms >
+l1< Synovial and bursal disorders >
+l2< Bursal disorders >
+Bursa calcification
+Bursa disorder
+Bursa injury
+Bursal fluid accumulation
+Bursal haematoma
+Bursitis
+l2</ Bursal disorders >
+l2< Synovial disorders >
+Meniscus cyst
+Myxoid cyst
+Purulent synovitis
+Synovial cyst
+Synovial disorder
+Synovial rupture
+Synovitis
+Tenosynovitis stenosans
+l2</ Synovial disorders >
+l1</ Synovial and bursal disorders >
+l1< Tendon, ligament and cartilage disorders >
+l2< Cartilage disorders >
+Cartilage atrophy
+Cartilage development disorder
+Cartilage hypertrophy
+Cartilage injury
+Chondritis
+Chondrolysis
+Chondropathy
+Chondroporosis
+Chondrosis
+Chondrotoxicity
+Costochondritis
+Hypoplastic nasal cartilage
+Infective chondritis
+MAGIC syndrome
+Meniscal degeneration
+Meniscus injury
+Osteochondritis
+Osteochondrosis
+Perichondritis
+Polychondritis
+Sever's disease
+Slipping rib syndrome
+l2</ Cartilage disorders >
+l2< Ligament disorders >
+Fascial hernia
+Iliolumbar syndrome
+Iliotibial band syndrome
+Ligament calcification
+Ligament disorder
+Ligament injury
+Ligament pain
+Ligament rupture
+Ligament sprain
+Ligamentitis
+Ligamentum flavum hypertrophy
+Pellegrini Stieda disease
+Sinus tarsi syndrome
+Spinal ligament ossification
+Symphysiolysis
+Syndesmophyte
+l2</ Ligament disorders >
+l2< Tendon disorders >
+Enthesopathy
+Epicondylitis
+Tendinous contracture
+Tendon calcification
+Tendon discomfort
+Tendon dislocation
+Tendon disorder
+Tendon injury
+Tendon laxity
+Tendon necrosis
+Tendon pain
+Tendon rupture
+Tendon sheath disorder
+Tendonitis
+Tenosynovitis
+Trigger finger
+Tuberculous tenosynovitis
+l2</ Tendon disorders >
+l1</ Tendon, ligament and cartilage disorders >
+l0</ Musculoskeletal and connective tissue disorders>

@@ -1,0 +1,913 @@
+l0< Metabolism and nutrition disorders>
+l1< Acid-base disorders >
+l2< Metabolic acidoses (excl diabetic acidoses) >
+Acetate intolerance
+Acetonaemia
+Acetonaemic vomiting
+Acidosis hyperchloraemic
+Alcoholic ketoacidosis
+Beta ketothiolase deficiency
+Fanconi syndrome
+Fanconi syndrome acquired
+Hyperlactacidaemia
+Ketoacidosis
+Ketosis
+Kussmaul respiration
+Lactic acidosis
+Late metabolic acidosis of newborn
+MELAS syndrome
+Metabolic acidosis
+MLASA syndrome
+Propofol infusion syndrome
+Renal tubular acidosis
+Uraemic acidosis
+l2</ Metabolic acidoses (excl diabetic acidoses) >
+l2< Metabolic alkaloses >
+Alkalosis
+Alkalosis hypochloraemic
+Alkalosis hypokalaemic
+Liddle's syndrome
+Metabolic alkalosis
+Milk-alkali syndrome
+l2</ Metabolic alkaloses >
+l2< Mixed acid-base disorders >
+Acid-base balance disorder mixed
+Acidosis
+Coma acidotic
+l2</ Mixed acid-base disorders >
+l2< Respiratory acidoses >
+Acute respiratory failure
+Chronic respiratory failure
+Hypercapnia
+Hypercapnic coma
+Neonatal respiratory acidosis
+Respiratory acidosis
+Respiratory failure
+l2</ Respiratory acidoses >
+l2< Respiratory alkaloses >
+Neonatal respiratory alkalosis
+Respiratory alkalosis
+l2</ Respiratory alkaloses >
+l1</ Acid-base disorders >
+l1< Appetite and general nutritional disorders >
+l2< Alcohol related nutritional disorders >
+Amblyopia alcohol
+Polyneuropathy alcoholic
+l2</ Alcohol related nutritional disorders >
+l2< Anorexia nervosa and bulimia >
+Anorexia and bulimia syndrome
+Anorexia nervosa
+Bulimia nervosa
+Hypersomnia-bulimia syndrome
+l2</ Anorexia nervosa and bulimia >
+l2< Appetite disorders >
+Adiposogenital dystrophy
+Appetite disorder
+Bradyphagia
+Decreased appetite
+Diet refusal
+Early satiety
+Eating disorder
+Eating disorder symptom
+Food craving
+Food refusal
+Hyperphagia
+Hypophagia
+Increased appetite
+Kluver-Bucy syndrome
+Lack of satiety
+Prader-Willi syndrome
+Salt craving
+Sleep-related eating disorder
+l2</ Appetite disorders >
+l2< General nutritional disorders NEC >
+Abnormal loss of weight
+Abnormal weight gain
+Adult failure to thrive
+Cachexia
+Central obesity
+Deficiency anaemia
+Failure to thrive
+Feeding disorder
+Food aversion
+Growth failure
+Hunger
+Kwashiorkor
+Malnutrition
+Malnutrition-inflammation-atherosclerosis syndrome
+Marasmus
+Neonatal insufficient breast milk syndrome
+Obesity
+Overfeeding of infant
+Overweight
+Pantothenic acid deficiency
+Pica
+Poor feeding infant
+Protein deficiency
+Protein-losing gastroenteropathy
+Pseudogynaecomastia
+Selective eating disorder
+Starvation
+Thirst
+Thirst decreased
+Underweight
+Weight fluctuation
+Weight gain poor
+Weight loss poor
+l2</ General nutritional disorders NEC >
+l1</ Appetite and general nutritional disorders >
+l1< Bone, calcium, magnesium and phosphorus metabolism disorders >
+l2< Bone metabolism disorders >
+Bone atrophy
+Bone decalcification
+Bone metabolism disorder
+Brown tumour
+Chronic kidney disease-mineral and bone disorder
+Craniotabes
+Gorham's disease
+Hereditary hypophosphataemic rickets
+High turnover osteopathy
+Hungry bone syndrome
+Hypochondroplasia
+Hypophosphataemic rickets
+Itai-itai disease
+Low turnover osteopathy
+Oncogenic osteomalacia
+Osteolysis
+Osteomalacia
+Osteopenia
+Osteoporosis
+Osteoporosis circumscripta cranii
+Osteoporosis postmenopausal
+Osteoporotic fracture
+Rachitic rosary
+Resorption bone decreased
+Resorption bone increased
+Rickets
+Senile osteoporosis
+Spinal compression fracture
+l2</ Bone metabolism disorders >
+l2< Calcium metabolism disorders >
+Calcification metastatic
+Calciphylaxis
+Calcium deficiency
+Calcium intoxication
+Calcium metabolism disorder
+Chondrocalcinosis pyrophosphate
+Chvostek's sign
+Dent's disease
+Familial hypocalciuric hypercalcaemia
+Gastric mucosal calcinosis
+Hypercalcaemia
+Hypercalcaemia of malignancy
+Hypercalcaemic nephropathy
+Hypercalcitoninaemia
+Hypercalciuria
+Hypocalcaemia
+Hypocalcaemic seizure
+Hypocalciuria
+Hypoparathyroidism
+Hypoparathyroidism secondary
+Latent tetany
+Neonatal hypocalcaemia
+Parathyroid hyperplasia
+Periarthritis calcarea
+Primary familial brain calcification
+Primary hypoparathyroidism
+Pseudohypercalcaemia
+Pseudohypoparathyroidism
+Tetany
+Tooth demineralisation
+Trousseau's sign
+Williams syndrome
+l2</ Calcium metabolism disorders >
+l2< Magnesium metabolism disorders >
+Hypermagnesaemia
+Hypermagnesuria
+Hypomagnesaemia
+Magnesium deficiency
+Magnesium metabolism disorder
+Neonatal tetany
+Primary familial hypomagnesaemia
+l2</ Magnesium metabolism disorders >
+l2< Phosphorus metabolism disorders >
+Acute phosphate nephropathy
+Hyperphosphataemia
+Hyperphosphaturia
+Hypophosphataemia
+Phosphorus metabolism disorder
+Pseudohyperphosphataemia
+Renal rickets
+l2</ Phosphorus metabolism disorders >
+l1</ Bone, calcium, magnesium and phosphorus metabolism disorders >
+l1< Diabetic complications >
+l2< Diabetic complications cardiovascular >
+Cardiac autonomic neuropathy
+Diabetic arteritis
+Diabetic cardiomyopathy
+Diabetic macroangiopathy
+Diabetic microangiopathy
+Diabetic vascular disorder
+l2</ Diabetic complications cardiovascular >
+l2< Diabetic complications dermal >
+Diabetic bullosis
+Diabetic cheiroarthropathy
+Diabetic dermopathy
+Diabetic foot
+Diabetic foot infection
+Diabetic gangrene
+Diabetic ulcer
+Necrobiosis lipoidica diabeticorum
+l2</ Diabetic complications dermal >
+l2< Diabetic complications gastrointestinal >
+Diabetic enteropathy
+Diabetic gastroenteropathy
+Diabetic gastroparesis
+Diabetic gastropathy
+l2</ Diabetic complications gastrointestinal >
+l2< Diabetic complications NEC >
+Diabetic arthropathy
+Diabetic complication
+Diabetic dyslipidaemia
+Diabetic endorgan damage
+Diabetic foetopathy
+Diabetic hepatopathy
+Diabetic ketoacidosis
+Diabetic ketosis
+Diabetic mastopathy
+Diabetic metabolic decompensation
+Euglycaemic diabetic ketoacidosis
+Mauriac syndrome
+Somogyi phenomenon
+l2</ Diabetic complications NEC >
+l2< Diabetic complications neurological >
+Acute painful neuropathy of rapid glycaemic control
+Diabetic amyotrophy
+Diabetic autonomic neuropathy
+Diabetic coma
+Diabetic encephalopathy
+Diabetic hyperglycaemic coma
+Diabetic hyperosmolar coma
+Diabetic ketoacidotic hyperglycaemic coma
+Diabetic mononeuropathy
+Diabetic neuropathic ulcer
+Diabetic neuropathy
+Hyperglycaemic hyperosmolar nonketotic syndrome
+Small fibre neuropathy
+l2</ Diabetic complications neurological >
+l2< Diabetic complications ophthalmic >
+Cataract diabetic
+Diabetic blindness
+Diabetic eye disease
+Diabetic glaucoma
+Diabetic keratopathy
+Diabetic ophthalmoplegia
+Diabetic retinal oedema
+Diabetic retinopathy
+Diabetic uveitis
+Retinal neovascularisation
+Retinopathy haemorrhagic
+Retinopathy proliferative
+l2</ Diabetic complications ophthalmic >
+l2< Diabetic complications renal >
+Diabetic cystopathy
+Diabetic end stage renal disease
+Diabetic nephropathy
+Emphysematous pyelonephritis
+Intercapillary glomerulosclerosis
+Microalbuminuria
+Renal papillary necrosis
+l2</ Diabetic complications renal >
+l1</ Diabetic complications >
+l1< Electrolyte and fluid balance conditions >
+l2< Antidiuretic hormone related conditions >
+Antidiuretic hormone abnormality
+Congenital central diabetes insipidus
+Congenital nephrogenic diabetes insipidus
+Diabetes insipidus
+Inappropriate antidiuretic hormone secretion
+Nephrogenic diabetes insipidus
+l2</ Antidiuretic hormone related conditions >
+l2< Chloride imbalance >
+Hyperchloraemia
+Hyperchloruria
+Hypochloraemia
+l2</ Chloride imbalance >
+l2< Electrolyte imbalance NEC >
+Acquired apparent mineralocorticoid excess
+Apparent mineralocorticoid excess
+Bartter's syndrome
+Blood hyposmosis
+Electrolyte depletion
+Electrolyte imbalance
+Fluid imbalance
+Gitelman's syndrome
+Hyperosmolar state
+Hypoosmolar state
+Potassium wasting nephropathy
+Pseudo-Bartter syndrome
+Renal salt-wasting syndrome
+Tumour lysis syndrome
+l2</ Electrolyte imbalance NEC >
+l2< Fluid intake decreased >
+Fluid intake reduced
+Oligodipsia
+l2</ Fluid intake decreased >
+l2< Fluid intake increased >
+Polydipsia
+Polydipsia psychogenic
+l2</ Fluid intake increased >
+l2< Potassium imbalance >
+Hyperkalaemia
+Hyperkaliuria
+Hypokalaemia
+Hypokalaemic syndrome
+Pseudohyperkalaemia
+l2</ Potassium imbalance >
+l2< Sodium imbalance >
+Cerebral salt-wasting syndrome
+Hyperaldosteronism
+Hypernatraemia
+Hypernatriuria
+Hyponatraemia
+Hyponatraemic coma
+Hyponatraemic encephalopathy
+Hyponatraemic seizure
+Hyponatraemic syndrome
+Hyponatriuria
+Neonatal hyponatraemia
+Primary hyperaldosteronism
+Pseudoaldosteronism
+Pseudohyponatraemia
+Salt intoxication
+Sodium retention
+l2</ Sodium imbalance >
+l2< Total fluid volume decreased >
+Dehydration
+Fontanelle depressed
+Hypovolaemia
+Shock haemorrhagic
+l2</ Total fluid volume decreased >
+l2< Total fluid volume increased >
+Extensive interdialytic weight gain
+Fluid overload
+Fluid retention
+Generalised oedema
+Gingival oedema
+Hydraemia
+Hypervolaemia
+Localised oedema
+Mirror syndrome
+Oedema
+Oedema peripheral
+Peripheral oedema neonatal
+Transurethral resection syndrome
+Water intoxication
+l2</ Total fluid volume increased >
+l1</ Electrolyte and fluid balance conditions >
+l1< Food intolerance syndromes >
+l2< Food malabsorption and intolerance syndromes (excl sugar intolerance) >
+Alcohol intolerance
+Breast milk substitute intolerance
+Coeliac disease
+Cow's milk intolerance
+Cronkhite-Canada syndrome
+Fat intolerance
+Feeding intolerance
+Food intolerance
+Gluten sensitivity
+Histamine intolerance
+Malabsorption
+Milk soy protein intolerance
+Reaction to food additive
+Sprue-like enteropathy
+l2</ Food malabsorption and intolerance syndromes (excl sugar intolerance) >
+l2< Sugar intolerance (excl glucose intolerance) >
+Carbohydrate intolerance
+Disaccharidase deficiency
+Disaccharide metabolism disorder
+Fructose intolerance
+Galactose intolerance
+Lactase deficiency
+Lactose intolerance
+Sucrose intolerance
+l2</ Sugar intolerance (excl glucose intolerance) >
+l1</ Food intolerance syndromes >
+l1< Glucose metabolism disorders (incl diabetes mellitus) >
+l2< Diabetes mellitus (incl subtypes) >
+Acquired lipoatrophic diabetes
+Congenital generalised lipodystrophy
+Cystic fibrosis related diabetes
+Decreased insulin requirement
+Diabetes complicating pregnancy
+Diabetes mellitus
+Diabetes mellitus inadequate control
+Diabetes mellitus malnutrition-related
+Diabetes with hyperosmolarity
+Fulminant type 1 diabetes mellitus
+Gestational diabetes
+Increased insulin requirement
+Insulin autoimmune syndrome
+Insulin resistant diabetes
+Insulin-requiring type 2 diabetes mellitus
+Ketosis-prone diabetes mellitus
+Latent autoimmune diabetes in adults
+Monogenic diabetes
+Neonatal diabetes mellitus
+Pancreatogenous diabetes
+Type 1 diabetes mellitus
+Type 2 diabetes mellitus
+Type 3 diabetes mellitus
+Wolfram syndrome
+l2</ Diabetes mellitus (incl subtypes) >
+l2< Hyperglycaemic conditions NEC >
+Dawn phenomenon
+Glucose tolerance impaired
+Glucose tolerance impaired in pregnancy
+Glycosuria during pregnancy
+HAIR-AN syndrome
+Hyperglycaemia
+Hyperglycaemic seizure
+Hyperglycaemic unconsciousness
+Hypoinsulinaemia
+Hypoinsulinaemia postoperative
+Impaired fasting glucose
+Impaired insulin secretion
+Insulin resistance
+Insulin resistance syndrome
+l2</ Hyperglycaemic conditions NEC >
+l2< Hypoglycaemic conditions NEC >
+Diencephalic syndrome of infancy
+Hyperinsulinaemia
+Hyperinsulinaemic hypoglycaemia
+Hyperinsulinism
+Hyperinsulinism syndrome
+Hypoglycaemia
+Hypoglycaemia neonatal
+Hypoglycaemia unawareness
+Hypoglycaemic coma
+Hypoglycaemic encephalopathy
+Hypoglycaemic seizure
+Hypoglycaemic unconsciousness
+Nesidioblastosis
+Neuroglycopenia
+Postprandial hypoglycaemia
+Pseudohypoglycaemia
+Shock hypoglycaemic
+l2</ Hypoglycaemic conditions NEC >
+l1</ Glucose metabolism disorders (incl diabetes mellitus) >
+l1< Inborn errors of metabolism >
+l2< Inborn errors of amino acid metabolism >
+Albinism
+Alkaptonuria
+Aminoaciduria
+Arginase deficiency
+Argininosuccinate lyase deficiency
+Argininosuccinate synthetase deficiency
+Aspartate-glutamate-transporter deficiency
+Biotinidase deficiency
+Carbamoyl phosphate synthetase deficiency
+Cystathionine beta-synthase deficiency
+Cystinosis
+Cystinuria
+Glutathione synthetase deficiency
+Hartnup disease
+Homocystinaemia
+Homocystinuria
+Hydroxyprolinaemia
+Hypermethioninaemia
+Hypermethioniuria
+Hyperprolinaemia
+Lysinuric protein intolerance
+Maple syrup disease
+Methylenetetrahydrofolate reductase deficiency
+Methylenetetrahydrofolate reductase gene mutation
+Methylmalonic aciduria
+Molybdenum cofactor deficiency
+Multiple carboxylase deficiency
+N-acetylglutamate synthase deficiency
+Nonketotic hyperglycinaemia
+Ornithine transcarbamoylase deficiency
+Phenylketonuria
+Rett syndrome
+Sarcosinaemia
+Tetrahydrobiopterin deficiency
+Tyrosinaemia
+Urea cycle disorder
+l2</ Inborn errors of amino acid metabolism >
+l2< Inborn errors of bilirubin metabolism >
+Crigler-Najjar syndrome
+Dubin-Johnson syndrome
+Gilbert's syndrome
+Inborn error of bilirubin metabolism
+Rotor's syndrome
+l2</ Inborn errors of bilirubin metabolism >
+l2< Inborn errors of carbohydrate metabolism (excl glucose) >
+Carbohydrate metabolism disorder
+Congenital disorder of glycosylation
+Essential fructosuria
+Galactosaemia
+Glucose-6-phosphate dehydrogenase deficiency
+Glucose-galactose malabsorption
+Glycogen storage disease type I
+Glycogen storage disease type II
+Glycogen storage disease type III
+Glycogen storage disease type IV
+Glycogen storage disease type V
+Glycogen storage disease type VI
+Glycogen storage disease type VII
+Glycogen storage disease type VIII
+Glycogen storage disorder
+Hereditary fructose intolerance
+Metabolic myopathy
+Pyruvate carboxylase deficiency
+Sucrase-isomaltase deficiency
+l2</ Inborn errors of carbohydrate metabolism (excl glucose) >
+l2< Inborn errors of metabolism NEC >
+2-Hydroxyglutaric aciduria
+Acetylcholinesterase deficiency
+Alpha-1 anti-trypsin deficiency
+Citrate transporter deficiency
+Congenital intrinsic factor deficiency
+Congenital oxalosis
+Hyper IgD syndrome
+Hypophosphatasia
+Inborn error of metabolism
+Mevalonate kinase deficiency
+Mitochondrial enzyme deficiency
+Primary insulin like growth factor-1 deficiency
+Pseudocholinesterase deficiency
+Trimethylaminuria
+l2</ Inborn errors of metabolism NEC >
+l2< Inborn errors of porphyrin metabolism >
+Porphyria
+Porphyria acute
+Porphyria non-acute
+Porphyrin metabolism disorder
+Porphyrinuria
+l2</ Inborn errors of porphyrin metabolism >
+l2< Inborn errors of steroid synthesis >
+11-beta-hydroxylase deficiency
+17,20-desmolase deficiency
+17-alpha-hydroxylase deficiency
+20,22-desmolase deficiency
+21-hydroxylase deficiency
+5-alpha-reductase deficiency
+Inborn error in primary bile acid synthesis
+l2</ Inborn errors of steroid synthesis >
+l2< Lysosomal storage disorders >
+Aspartylglucosaminuria
+Canavan disease
+Dysmyelination
+Fabry's disease
+Gaucher's disease
+Gaucher's disease type I
+Gaucher's disease type II
+Gaucher's disease type III
+Hermansky-Pudlak syndrome
+Krabbe's disease
+Leukodystrophy
+Lipidosis
+Lysosomal acid lipase deficiency
+Metachromatic leukodystrophy
+Mucolipidosis
+Mucolipidosis type I
+Mucolipidosis type II
+Mucolipidosis type III
+Mucolipidosis type IV
+Mucopolysaccharidosis
+Mucopolysaccharidosis I
+Mucopolysaccharidosis II
+Mucopolysaccharidosis III
+Mucopolysaccharidosis IV
+Mucopolysaccharidosis V
+Mucopolysaccharidosis VI
+Mucopolysaccharidosis VII
+Neuronal ceroid lipofuscinosis
+Niemann-Pick disease
+Pelizaeus-Merzbacher disease
+Refsum's disease
+Tay-Sachs disease
+l2</ Lysosomal storage disorders >
+l1</ Inborn errors of metabolism >
+l1< Iron and trace metal metabolism disorders >
+l2< Copper metabolism disorders >
+Copper deficiency
+Copper metabolism disorder
+Hepato-lenticular degeneration
+Kayser-Fleischer ring
+Menkes' syndrome
+l2</ Copper metabolism disorders >
+l2< Iron deficiencies >
+Anaemia of pregnancy
+Hyposideraemia
+Iron deficiency
+Iron deficiency anaemia
+l2</ Iron deficiencies >
+l2< Iron excess >
+Cardiac siderosis
+Cerebral haemosiderin deposition
+Haemochromatosis
+Haemochromatosis trait
+Haemosiderosis
+Hepatic siderosis
+Hereditary haemochromatosis
+Hyperferritinaemia
+Iron overload
+Neonatal haemochromatosis
+Pulmonary haemosiderosis
+Superficial siderosis of central nervous system
+l2</ Iron excess >
+l2< Iron metabolism disorders NEC >
+Iron metabolism disorder
+l2</ Iron metabolism disorders NEC >
+l2< Mineral related disorders NEC >
+Aluminium overload
+Iodine deficiency
+Iodine overload
+Mineral deficiency
+Mineral metabolism disorder
+Trace element deficiency
+l2</ Mineral related disorders NEC >
+l2< Trace metal disorders NEC >
+Selenium deficiency
+l2</ Trace metal disorders NEC >
+l2< Zinc disorders >
+Acquired acrodermatitis enteropathica
+Acrodermatitis enteropathica
+Hyperzincaemia
+Hypozincaemia
+Zinc deficiency
+l2</ Zinc disorders >
+l1</ Iron and trace metal metabolism disorders >
+l1< Lipid metabolism disorders >
+l2< Elevated cholesterol >
+Cholesterosis
+Hypercholesterolaemia
+Primary hypercholesterolaemia
+Type II hyperlipidaemia
+Type IIa hyperlipidaemia
+l2</ Elevated cholesterol >
+l2< Elevated cholesterol with elevated triglycerides >
+Acquired mixed hyperlipidaemia
+Hyperchylomicronaemia
+Remnant hyperlipidaemia
+Type IIb hyperlipidaemia
+Type III hyperlipidaemia
+l2</ Elevated cholesterol with elevated triglycerides >
+l2< Elevated triglycerides >
+Familial hypertriglyceridaemia
+Hypertriglyceridaemia
+Type I hyperlipidaemia
+Type IV hyperlipidaemia
+Type V hyperlipidaemia
+l2</ Elevated triglycerides >
+l2< Hyperlipidaemias NEC >
+Autoimmune hyperlipidaemia
+Hyperlipidaemia
+Phytosterolaemia
+Zieve syndrome
+l2</ Hyperlipidaemias NEC >
+l2< Lipid metabolism and deposit disorders NEC >
+3-hydroxyacetyl-coenzyme A dehydrogenase deficiency
+Barth syndrome
+Body fat disorder
+CANDLE syndrome
+Cardiac steatosis
+Carnitine deficiency
+Carnitine palmitoyltransferase deficiency
+Carnitine-acylcarnitine translocase deficiency
+Congenital carnitine deficiency
+Dyslipidaemia
+Epidural lipomatosis
+Facial wasting
+Familial high density lipoprotein deficiency
+Fat redistribution
+Fatty acid deficiency
+Fatty acid oxidation disorder
+Fatty liver alcoholic
+Gastric xanthoma
+Hepatic steato-fibrosis
+Hepatic steatosis
+HIV lipodystrophy
+Hyper HDL cholesterolaemia
+Hypo HDL cholesterolaemia
+Hypocarnitinaemia
+Hypocholesterolaemia
+Hypolipidaemia
+Hypotriglyceridaemia
+Inborn error of lipid metabolism
+Intestinal steatosis
+Lecithin-cholesterol acyltransferase deficiency
+Lipaemia retinalis
+Lipid metabolism disorder
+Lipid proteinosis
+Lipoatrophy
+Lipodystrophy acquired
+Lipoedema
+Lipohypertrophy
+Lipomatosis
+Lipoprotein deficiency
+Long-chain acyl-coenzyme A dehydrogenase deficiency
+Medium-chain acyl-coenzyme A dehydrogenase deficiency
+Non-alcoholic fatty liver
+Non-alcoholic steatohepatitis
+Pancreatic steatosis
+Parotid lipomatosis
+Partial lipodystrophy
+Phospholipidosis
+Renal lipomatosis
+Short-chain acyl-coenzyme A dehydrogenase deficiency
+Steatohepatitis
+Tangier disease
+Thyroid steatosis
+Trifunctional protein deficiency
+Very long-chain acyl-coenzyme A dehydrogenase deficiency
+Xanthelasma
+Xanthoma
+Xanthomatosis
+l2</ Lipid metabolism and deposit disorders NEC >
+l1</ Lipid metabolism disorders >
+l1< Metabolism disorders NEC >
+l2< Cell metabolism disorders NEC >
+Apoptosis
+Cell death
+Cell-mediated cytotoxicity
+Congenital mitochondrial cytopathy
+Mitochondrial cytopathy
+Mitochondrial DNA deletion
+Mitochondrial DNA depletion
+Mitochondrial DNA mutation
+Mitochondrial toxicity
+Phagocytosis
+Sick cell syndrome
+l2</ Cell metabolism disorders NEC >
+l2< Metabolic disorders NEC >
+Acquired porphyria
+Acral overgrowth
+Acromegaly
+Addison's disease
+Adrenal atrophy
+Adrenal cortex necrosis
+Adrenal insufficiency
+Adrenal insufficiency neonatal
+Adrenal medulla hyperfunction
+Adrenal suppression
+Adrenocortical insufficiency acute
+Adrenocortical insufficiency neonatal
+Alcoholic pseudo Cushing's syndrome
+Bilirubin excretion disorder
+Catabolic state
+Citrate toxicity
+Congenital hyperthyroidism
+Congenital hypothyroidism
+Cortisol deficiency
+Crystal arthropathy
+Crystal nephropathy
+Cushing's syndrome
+Cushingoid
+Ectopic hyperthyroidism
+Endocrine ophthalmopathy
+Enzyme abnormality
+Enzyme induction
+Enzyme inhibition
+Glucocorticoid deficiency
+Goitre
+Hyperadrenalism
+Hyperadrenocorticism
+Hyperamylasaemia
+Hyperbilirubinaemia
+Hyperbilirubinaemia neonatal
+Hypercarotinaemia
+Hypercatabolism
+Hypercorticoidism
+Hypercreatinaemia
+Hypercreatininaemia
+Hyperlipasaemia
+Hypermetabolism
+Hyperoxalaemia
+Hyperphosphatasaemia
+Hyperthyroidism
+Hypoaldosteronism
+Hypometabolism
+Hypothyroidic goitre
+Hypothyroidism
+Macroamylasaemia
+Marine Lenhart syndrome
+Metabolic cardiomyopathy
+Metabolic disorder
+Metabolic encephalopathy
+Metabolic syndrome
+Mineralocorticoid deficiency
+Myxoedema coma
+Oxalosis
+Post procedural hypothyroidism
+Primary adrenal insufficiency
+Primary hyperthyroidism
+Primary hypothyroidism
+Pseudophaeochromocytoma
+Refeeding syndrome
+Secondary adrenocortical insufficiency
+Secondary hyperthyroidism
+Secondary hypothyroidism
+Tertiary hypothyroidism
+Thyrotoxic cardiomyopathy
+Thyrotoxic crisis
+Thyrotoxic periodic paralysis
+Toxic goitre
+Toxic nodular goitre
+l2</ Metabolic disorders NEC >
+l1</ Metabolism disorders NEC >
+l1< Protein and amino acid metabolism disorders NEC >
+l2< Amino acid metabolism disorders NEC >
+Acquired aminoaciduria
+Amino acid catabolism disorder
+Amino acid metabolism disorder
+Hyperhomocysteinaemia
+l2</ Amino acid metabolism disorders NEC >
+l2< Protein metabolism disorders NEC >
+Bisalbuminaemia
+Coma uraemic
+Hyperalbuminaemia
+Hyperammonaemia
+Hyperammonaemic crisis
+Hyperammonaemic encephalopathy
+Hyperproteinaemia
+Hypoalbuminaemia
+Hypoproteinaemia
+Plasma protein metabolism disorder
+Protein anabolism increased
+Protein deficiency anaemia
+Uraemic encephalopathy
+l2</ Protein metabolism disorders NEC >
+l1</ Protein and amino acid metabolism disorders NEC >
+l1< Purine and pyrimidine metabolism disorders >
+l2< Disorders of purine metabolism >
+Adenine phosphoribosyl transferase deficiency
+Gout
+Gouty arthritis
+Gouty tophus
+Hyperuricaemia
+Hypouricaemia
+Hypoxanthine-guanine phosphoribosyl transferase deficiency
+Purine metabolism disorder
+Urate nephropathy
+l2</ Disorders of purine metabolism >
+l2< Disorders of pyrimidine metabolism >
+Acquired pyrimidine metabolism disorder
+Dihydropyrimidine dehydrogenase deficiency
+Oroticaciduria
+Oroticaciduria congenital
+l2</ Disorders of pyrimidine metabolism >
+l1</ Purine and pyrimidine metabolism disorders >
+l1< Vitamin related disorders >
+l2< Fat soluble vitamin deficiencies and disorders >
+Haemorrhagic disease of newborn
+Keratomalacia
+Night blindness
+Vitamin A deficiency
+Vitamin A deficiency eye disorder
+Vitamin A deficiency related conjunctival disorder
+Vitamin A deficiency related corneal disorder
+Vitamin D deficiency
+Vitamin E deficiency
+Vitamin K deficiency
+Xerophthalmia
+l2</ Fat soluble vitamin deficiencies and disorders >
+l2< Hypervitaminoses NEC >
+Hypervitaminosis
+Hypervitaminosis A
+Hypervitaminosis D
+l2</ Hypervitaminoses NEC >
+l2< Vitamin deficiencies NEC >
+Anaemia macrocytic
+Anaemia megaloblastic
+Hypovitaminosis
+Multi-vitamin deficiency
+Tropical sprue
+l2</ Vitamin deficiencies NEC >
+l2< Water soluble vitamin deficiencies >
+Amblyopia tobacco
+Anaemia folate deficiency
+Anaemia vitamin B12 deficiency
+Anaemia vitamin B6 deficiency
+Biotin deficiency
+Folate deficiency
+Infantile scurvy
+Korsakoff's syndrome
+Neuropathy vitamin B12 deficiency
+Neuropathy vitamin B6 deficiency
+Nicotinic acid deficiency
+Shoshin beriberi
+Subacute combined cord degeneration
+Vitamin B complex deficiency
+Vitamin B1 deficiency
+Vitamin B12 deficiency
+Vitamin B2 deficiency
+Vitamin B6 deficiency
+Vitamin C deficiency
+Wernicke's encephalopathy
+Wernicke-Korsakoff syndrome
+l2</ Water soluble vitamin deficiencies >
+l1</ Vitamin related disorders >
+l0</ Metabolism and nutrition disorders>

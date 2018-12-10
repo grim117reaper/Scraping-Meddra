@@ -1,0 +1,1223 @@
+l0< Blood and lymphatic system disorders>
+l1< Anaemias nonhaemolytic and marrow depression >
+l2< Anaemia deficiencies >
+Anaemia folate deficiency
+Anaemia of pregnancy
+Anaemia vitamin B12 deficiency
+Anaemia vitamin B6 deficiency
+Deficiency anaemia
+Iron deficiency anaemia
+Pernicious anaemia
+Protein deficiency anaemia
+Subacute combined cord degeneration
+l2</ Anaemia deficiencies >
+l2< Anaemias due to chronic disorders >
+Anaemia of chronic disease
+Anaemia of malignant disease
+Nephrogenic anaemia
+l2</ Anaemias due to chronic disorders >
+l2< Anaemias NEC >
+Anaemia
+Anaemia macrocytic
+Anaemia megaloblastic
+Anaemia neonatal
+Anaemia postoperative
+Anaemic hypoxia
+Autoimmune anaemia
+Babesiosis
+Blood loss anaemia neonatal
+Congenital anaemia
+Congenital malaria
+Conjunctival pallor
+Foetal anaemia
+Haemorrhagic anaemia
+Hereditary sideroblastic anaemia
+Hyperchromic anaemia
+Hypochromic anaemia
+Leukoerythroblastic anaemia
+Malaria
+Microcytic anaemia
+MLASA syndrome
+Normochromic anaemia
+Normochromic normocytic anaemia
+Normocytic anaemia
+Plasmodium falciparum infection
+Plasmodium knowlesi infection
+Plasmodium malariae infection
+Plasmodium ovale infection
+Plasmodium vivax infection
+Sideroblastic anaemia
+Tropical sprue
+l2</ Anaemias NEC >
+l2< Marrow depression and hypoplastic anaemias >
+Aase syndrome
+Aplasia pure red cell
+Aplastic anaemia
+Autoimmune aplastic anaemia
+Autoimmune pancytopenia
+Bicytopenia
+Bone marrow failure
+Bone marrow toxicity
+Congenital aplastic anaemia
+Congenital dyskeratosis
+Cytopenia
+Dubowitz syndrome
+Erythroid maturation arrest
+Febrile bone marrow aplasia
+Gelatinous transformation of the bone marrow
+Granulocytes maturation arrest
+Hypoplastic anaemia
+Myeloid maturation arrest
+Pancytopenia
+Panmyelopathy
+Pearson's syndrome
+Platelet maturation arrest
+Pure white cell aplasia
+Shwachman-Diamond syndrome
+l2</ Marrow depression and hypoplastic anaemias >
+l1</ Anaemias nonhaemolytic and marrow depression >
+l1< Coagulopathies and bleeding diatheses (excl thrombocytopenic) >
+l2< Bleeding tendencies >
+Ecchymosis
+Haemorrhagic diathesis
+Haemorrhagic disease of newborn
+Haemorrhagic disorder
+Hermansky-Pudlak syndrome
+Increased tendency to bruise
+Infantile scurvy
+Petechiae
+Spontaneous haematoma
+Spontaneous haemorrhage
+Vitamin C deficiency
+l2</ Bleeding tendencies >
+l2< Coagulation factor deficiencies >
+Acquired afibrinogenaemia
+Acquired antithrombin III deficiency
+Acquired haemophilia
+Acquired haemophilia with anti FVIII, XI, or XIII
+Acquired protein S deficiency
+Acquired Von Willebrand's disease
+Antithrombin III deficiency
+Coagulation factor deficiency
+Factor I deficiency
+Factor II deficiency
+Factor III deficiency
+Factor IX deficiency
+Factor V deficiency
+Factor VII deficiency
+Factor VIII deficiency
+Factor X deficiency
+Factor XI deficiency
+Factor XII deficiency
+Factor XIII deficiency
+Haemophilia
+Haemophilia A with anti factor VIII
+Haemophilia A without inhibitors
+Haemophilia B with anti factor IX
+Haemophilia B without inhibitors
+Haemophilic pseudotumour
+Hypofibrinogenaemia
+Hypoprothrombinaemia
+Hypothrombinaemia
+Hypothromboplastinaemia
+Protein C deficiency
+Protein S deficiency
+Von Willebrand's disease
+l2</ Coagulation factor deficiencies >
+l2< Coagulopathies >
+Abnormal clotting factor
+Acquired dysfibrinogenaemia
+Activated protein C resistance
+Anaphylactoid syndrome of pregnancy
+Antiphospholipid syndrome
+Coagulation disorder neonatal
+Coagulation factor mutation
+Coagulopathy
+Congenital coagulopathy
+Congenital dysfibrinogenaemia
+Congenital hypercoagulation
+Dilutional coagulopathy
+Disseminated intravascular coagulation
+Disseminated intravascular coagulation in newborn
+Endothelial protein C receptor polymorphism
+Factor II inhibition
+Factor II mutation
+Factor IX inhibition
+Factor V inhibition
+Factor V Leiden mutation
+Factor VII inhibition
+Factor VIII inhibition
+Factor X inhibition
+Factor XIII Inhibition
+Heparin resistance
+Hypercoagulation
+Hyperfibrinogenaemia
+Hyperfibrinolysis
+Hyperhomocysteinaemia
+Hyperprothrombinaemia
+Hyperthrombinaemia
+Hypocoagulable state
+Methylenetetrahydrofolate reductase deficiency
+Methylenetetrahydrofolate reductase polymorphism
+Plasminogen activator inhibitor polymorphism
+Purpura fulminans
+Thrombotic microangiopathy
+Von Willebrand's factor inhibition
+l2</ Coagulopathies >
+l2< Purpuras (excl thrombocytopenic) >
+Acute haemorrhagic oedema of infancy
+Chronic pigmented purpura
+Haemorrhagic vasculitis
+Henoch-Schonlein purpura
+Henoch-Schonlein purpura nephritis
+Hypersensitivity vasculitis
+Purpura
+Purpura neonatal
+Purpura non-thrombocytopenic
+Purpura senile
+Vascular purpura
+l2</ Purpuras (excl thrombocytopenic) >
+l1</ Coagulopathies and bleeding diatheses (excl thrombocytopenic) >
+l1< Haematological disorders NEC >
+l2< Haematological disorders >
+Acquired complement deficiency disease
+Blood disorder
+Bone marrow disorder
+Bone marrow granuloma
+Bone marrow haemorrhage
+Bone marrow infiltration
+Bone marrow ischaemia
+Bone marrow necrosis
+Bone marrow oedema
+Bone marrow oedema syndrome
+Bone marrow reticulin fibrosis
+Bone marrow transplant rejection
+Carboxyhaemoglobinaemia
+Complement deficiency disease
+Congenital haematological disorder
+Congenital methaemoglobinaemia
+Cutaneous extramedullary haemopoiesis
+Cutaneous T-cell dyscrasia
+Dysglobulinaemia
+Engraftment syndrome
+Erythrosis
+Extramedullary haemopoiesis
+Haematotoxicity
+Haemoconcentration
+Haemodilution
+Histiocytosis haematophagic
+Hypergammaglobulinaemia
+Hyperglobulinaemia
+Hyperviscosity syndrome
+Hypocomplementaemia
+Hypoglobulinaemia
+Mast cell activation syndrome
+Mastocytosis
+Melanaemia
+Metastases to bone marrow
+Methaemoglobinaemia
+Methaemoglobinuria
+Myelolipoma
+Placental transfusion syndrome
+Post transplant distal limb syndrome
+Sulphaemoglobinaemia
+Systemic mastocytosis
+Transfusion reaction
+l2</ Haematological disorders >
+l1</ Haematological disorders NEC >
+l1< Haematopoietic neoplasms (excl leukaemias and lymphomas) >
+l2< Haematologic neoplasms NEC >
+Benign lymph node neoplasm
+Benign spleen tumour
+Bone marrow leukaemic cell infiltration
+Bone marrow tumour cell infiltration
+Haemangioma of spleen
+Haematological malignancy
+Haematopoietic neoplasm
+Lymphatic system neoplasm
+Malignant mast cell neoplasm
+Malignant splenic neoplasm
+Marrow hyperplasia
+Minimal residual disease
+Splenic hamartoma
+Splenic neoplasm malignancy unspecified
+l2</ Haematologic neoplasms NEC >
+l2< Haematological cysts and polyps >
+Splenic cyst
+l2</ Haematological cysts and polyps >
+l2< Histiocytoses >
+Erdheim-Chester disease
+Familial haemophagocytic lymphohistiocytosis
+Follicular dendritic cell sarcoma
+Histiocytic medullary reticulosis
+Histiocytic sarcoma
+Histiocytosis
+Langerhans cell sarcoma
+Langerhans' cell histiocytosis
+Lymphohistiocytosis
+Malignant histiocytosis
+Multicentric reticulohistiocytosis
+Omenn syndrome
+Rosai-Dorfman syndrome
+Solitary epithelioid histiocytoma
+l2</ Histiocytoses >
+l2< Lymphoproliferative disorders NEC (excl leukaemias and lymphomas) >
+Castleman's disease
+Epstein Barr virus positive mucocutaneous ulcer
+Epstein-Barr virus associated lymphoproliferative disorder
+Histiocytic necrotising lymphadenitis
+Lymphoproliferative disorder
+Lymphoproliferative disorder in remission
+Post transplant lymphoproliferative disorder
+X-linked lymphoproliferative syndrome
+l2</ Lymphoproliferative disorders NEC (excl leukaemias and lymphomas) >
+l2< Myeloproliferative disorders (excl leukaemias) >
+Blast cell proliferation
+Essential thrombocythaemia
+Leukoerythroblastosis
+Myeloblastoma
+Myelofibrosis
+Myeloid metaplasia
+Myeloproliferative neoplasm
+Polycythaemia vera
+Primary myelofibrosis
+l2</ Myeloproliferative disorders (excl leukaemias) >
+l1</ Haematopoietic neoplasms (excl leukaemias and lymphomas) >
+l1< Haemoglobinopathies >
+l2< Haemoglobinopathies NEC >
+Acquired haemoglobinopathy
+Anaemia Heinz body
+Haemoglobin C disease
+Haemoglobin C trait
+Haemoglobin D disease
+Haemoglobin D trait
+Haemoglobin E disease
+Haemoglobin E trait
+Haemoglobin E-thalassaemia disease
+Haemoglobinopathy
+l2</ Haemoglobinopathies NEC >
+l2< Sickle cell trait and disorders >
+Acute chest syndrome
+Double heterozygous sickling disorders
+Hand and foot syndrome secondary to sickle cell anaemia
+Retinopathy sickle cell
+Sickle cell anaemia
+Sickle cell anaemia with crisis
+Sickle cell trait
+Thalassaemia sickle cell
+l2</ Sickle cell trait and disorders >
+l2< Thalassaemic disorders >
+Acquired thalassaemia
+Delta-beta thalassaemia
+Thalassaemia
+Thalassaemia alpha
+Thalassaemia beta
+l2</ Thalassaemic disorders >
+l1</ Haemoglobinopathies >
+l1< Haemolyses and related conditions >
+l2< Anaemias haemolytic immune >
+ABO incompatibility
+Acute haemolytic transfusion reaction
+Alloimmunisation
+Autoimmune haemolytic anaemia
+Blood type incompatibility
+Cold type haemolytic anaemia
+Coombs positive haemolytic anaemia
+Delayed haemolytic transfusion reaction
+Delayed serologic transfusion reaction
+Evans syndrome
+Haemolytic transfusion reaction
+Isoimmune haemolytic disease
+Passenger lymphocyte syndrome
+Rhesus incompatibility
+Warm type haemolytic anaemia
+l2</ Anaemias haemolytic immune >
+l2< Anaemias haemolytic immune newborn >
+ABO haemolytic disease of newborn
+Blood incompatibility haemolytic anaemia of newborn
+Erythroblastosis foetalis
+Rhesus haemolytic disease of newborn
+l2</ Anaemias haemolytic immune newborn >
+l2< Anaemias haemolytic mechanical factor >
+Atypical haemolytic uraemic syndrome
+Cardiac haemolytic anaemia
+Haemolytic uraemic syndrome
+Microangiopathic haemolytic anaemia
+Red cell fragmentation syndrome
+l2</ Anaemias haemolytic mechanical factor >
+l2< Anaemias haemolytic NEC >
+Anaemia splenic
+Coombs negative haemolytic anaemia
+Haemolytic anaemia
+Hereditary haemolytic anaemia
+Paroxysmal nocturnal haemoglobinuria
+l2</ Anaemias haemolytic NEC >
+l2< Haemolyses NEC >
+Extravascular haemolysis
+Haemoglobinaemia
+Haemoglobinuria
+Haemolysis
+Haemolysis neonatal
+Haemosiderinuria
+Hyperbilirubinaemia
+Intravascular haemolysis
+Jaundice
+Jaundice acholuric
+Jaundice neonatal
+March haemoglobinuria
+Ocular icterus
+Pigment nephropathy
+l2</ Haemolyses NEC >
+l2< Red cell membrane and enzyme abnormalities >
+Elliptocytosis hereditary
+Glucose-6-phosphate dehydrogenase deficiency
+Glutathione synthetase deficiency
+Haemolytic anaemia enzyme specific
+Haemolytic icteroanaemia
+Hereditary spherocytosis
+Hereditary stomatocytosis
+Hexokinase deficiency anaemia
+Pyruvate kinase deficiency anaemia
+Red blood cell enzymes abnormal
+Spherocytic anaemia
+Spur cell anaemia
+l2</ Red cell membrane and enzyme abnormalities >
+l1</ Haemolyses and related conditions >
+l1< Leukaemias >
+l2< Leukaemias acute lymphocytic >
+Acute lymphocytic leukaemia
+Acute lymphocytic leukaemia (in remission)
+Acute lymphocytic leukaemia recurrent
+Acute lymphocytic leukaemia refractory
+B precursor type acute leukaemia
+B-cell type acute leukaemia
+Burkitt's leukaemia
+Mature B-cell type acute leukaemia
+T-cell type acute leukaemia
+l2</ Leukaemias acute lymphocytic >
+l2< Leukaemias acute myeloid >
+Acute megakaryocytic leukaemia
+Acute megakaryocytic leukaemia (in remission)
+Acute monocytic leukaemia
+Acute monocytic leukaemia (in remission)
+Acute myeloid leukaemia
+Acute myeloid leukaemia (in remission)
+Acute myeloid leukaemia recurrent
+Acute myelomonocytic leukaemia
+Acute promyelocytic leukaemia
+Erythraemic myelosis (in remission)
+Erythroleukaemia
+Transformation to acute myeloid leukaemia
+l2</ Leukaemias acute myeloid >
+l2< Leukaemias acute NEC >
+Acute biphenotypic leukaemia
+Acute leukaemia
+Acute leukaemia in remission
+Acute undifferentiated leukaemia
+Blast cell crisis
+l2</ Leukaemias acute NEC >
+l2< Leukaemias chronic lymphocytic >
+Chronic lymphocytic leukaemia
+Chronic lymphocytic leukaemia (in remission)
+Chronic lymphocytic leukaemia recurrent
+Chronic lymphocytic leukaemia refractory
+Chronic lymphocytic leukaemia stage 0
+Chronic lymphocytic leukaemia stage 1
+Chronic lymphocytic leukaemia stage 2
+Chronic lymphocytic leukaemia stage 3
+Chronic lymphocytic leukaemia stage 4
+Chronic lymphocytic leukaemia transformation
+Hairy cell leukaemia
+Hairy cell leukaemia recurrent
+Prolymphocytic leukaemia
+Trisomy 12
+l2</ Leukaemias chronic lymphocytic >
+l2< Leukaemias chronic myeloid >
+Chronic eosinophilic leukaemia
+Chronic myeloid leukaemia
+Chronic myeloid leukaemia (in remission)
+Chronic myeloid leukaemia recurrent
+Chronic myeloid leukaemia transformation
+Juvenile chronic myelomonocytic leukaemia
+l2</ Leukaemias chronic myeloid >
+l2< Leukaemias chronic NEC >
+Chronic leukaemia
+Chronic leukaemia in remission
+l2</ Leukaemias chronic NEC >
+l2< Leukaemias chronic T-cell >
+Large granular lymphocytosis
+Natural killer-cell leukaemia
+T-cell chronic lymphocytic leukaemia
+T-cell prolymphocytic leukaemia
+l2</ Leukaemias chronic T-cell >
+l2< Leukaemias lymphocytic NEC >
+Lymphocytic leukaemia
+Lymphoid leukaemia (in remission)
+l2</ Leukaemias lymphocytic NEC >
+l2< Leukaemias myeloid NEC >
+Blast crisis in myelogenous leukaemia
+Chloroma
+Chloroma (in remission)
+Eosinophilic leukaemia
+Leukaemia basophilic
+Leukaemia granulocytic
+Leukaemia monocytic
+Monocytic leukaemia in remission
+Myeloid leukaemia
+Myeloid leukaemia in remission
+l2</ Leukaemias myeloid NEC >
+l2< Leukaemias NEC >
+Aleukaemic leukaemia
+Central nervous system leukaemia
+Leukaemia
+Leukaemia cutis
+Leukaemia in remission
+Leukaemia recurrent
+Leukaemic cardiac infiltration
+Leukaemic infiltration
+Leukaemic infiltration extramedullary
+Leukaemic infiltration gingiva
+Leukaemic infiltration hepatic
+Leukaemic infiltration ovary
+Leukaemic infiltration pulmonary
+Leukaemic infiltration renal
+Leukaemic retinopathy
+Mastocytic leukaemia
+Neonatal leukaemia
+l2</ Leukaemias NEC >
+l2< Myelodysplastic syndromes >
+5q minus syndrome
+Chronic myelomonocytic leukaemia
+Chronic myelomonocytic leukaemia (in remission)
+Myelodysplastic syndrome
+Myelodysplastic syndrome transformation
+Myelodysplastic syndrome unclassifiable
+Refractory anaemia with an excess of blasts
+Refractory anaemia with ringed sideroblasts
+Refractory cytopenia with multilineage dysplasia
+Refractory cytopenia with unilineage dysplasia
+l2</ Myelodysplastic syndromes >
+l1</ Leukaemias >
+l1< Lymphomas Hodgkin's disease >
+l2< Hodgkin's disease lymphocyte depletion type >
+Hodgkin's disease lymphocyte depletion stage I site unspecified
+Hodgkin's disease lymphocyte depletion stage I subdiaphragm
+Hodgkin's disease lymphocyte depletion stage I supradiaphragm
+Hodgkin's disease lymphocyte depletion stage II site unspecified
+Hodgkin's disease lymphocyte depletion stage II subdiaphragm
+Hodgkin's disease lymphocyte depletion stage II supradiaphragm
+Hodgkin's disease lymphocyte depletion type recurrent
+Hodgkin's disease lymphocyte depletion type refractory
+Hodgkin's disease lymphocyte depletion type stage III
+Hodgkin's disease lymphocyte depletion type stage IV
+Hodgkin's disease lymphocyte depletion type stage unspecified
+l2</ Hodgkin's disease lymphocyte depletion type >
+l2< Hodgkin's disease lymphocyte predominance type >
+Hodgkin's disease lymphocyte predominance stage I site unspec
+Hodgkin's disease lymphocyte predominance stage I subdiaphragm
+Hodgkin's disease lymphocyte predominance stage I supradiaphragm
+Hodgkin's disease lymphocyte predominance stage II site unspec
+Hodgkin's disease lymphocyte predominance stage II subdiaphragm
+Hodgkin's disease lymphocyte predominance stage II supradiaphragm
+Hodgkin's disease lymphocyte predominance type recurrent
+Hodgkin's disease lymphocyte predominance type refractory
+Hodgkin's disease lymphocyte predominance type stage III
+Hodgkin's disease lymphocyte predominance type stage IV
+Hodgkin's disease lymphocyte predominance type stage unspecified
+l2</ Hodgkin's disease lymphocyte predominance type >
+l2< Hodgkin's disease mixed cellularity type >
+Hodgkin's disease mixed cellularity recurrent
+Hodgkin's disease mixed cellularity refractory
+Hodgkin's disease mixed cellularity stage I site unspecified
+Hodgkin's disease mixed cellularity stage I subdiaphragmatic
+Hodgkin's disease mixed cellularity stage I supradiaphragmatic
+Hodgkin's disease mixed cellularity stage II subdiaphragmatic
+Hodgkin's disease mixed cellularity stage II supradiaphragmatic
+Hodgkin's disease mixed cellularity stage III
+Hodgkin's disease mixed cellularity stage IV
+Hodgkin's disease mixed cellularity stage unspecified
+l2</ Hodgkin's disease mixed cellularity type >
+l2< Hodgkin's disease NEC >
+Hodgkin's disease
+Hodgkin's disease recurrent
+Hodgkin's disease refractory
+Hodgkin's disease stage I
+Hodgkin's disease stage II
+Hodgkin's disease stage III
+Hodgkin's disease stage IV
+Hodgkin's disease unclassifiable
+Nodular lymphocyte predominant Hodgkin lymphoma
+l2</ Hodgkin's disease NEC >
+l2< Hodgkin's disease nodular sclerosis type >
+Hodgkin's disease nodular sclerosis
+Hodgkin's disease nodular sclerosis recurrent
+Hodgkin's disease nodular sclerosis refractory
+Hodgkin's disease nodular sclerosis stage I
+Hodgkin's disease nodular sclerosis stage II
+Hodgkin's disease nodular sclerosis stage III
+Hodgkin's disease nodular sclerosis stage IV
+l2</ Hodgkin's disease nodular sclerosis type >
+l1</ Lymphomas Hodgkin's disease >
+l1< Lymphomas NEC >
+l2< Lymphomas unclassifiable malignant >
+Composite lymphoma
+Malignant lymphoma unclassifiable high grade
+Malignant lymphoma unclassifiable low grade
+l2</ Lymphomas unclassifiable malignant >
+l2< Lymphomas unspecified NEC >
+Anaplastic large-cell lymphoma
+Blastic plasmacytoid dendritic cell neoplasia
+Central nervous system lymphoma
+Disseminated large cell lymphoma
+Lymphocytic lymphoma
+Lymphoma
+Lymphoma AIDS related
+Lymphoma transformation
+Malignant lymphoid neoplasm
+Metastatic lymphoma
+Primary cardiac lymphoma
+l2</ Lymphomas unspecified NEC >
+l1</ Lymphomas NEC >
+l1< Lymphomas non-Hodgkin's B-cell >
+l2< B-cell lymphomas NEC >
+B-cell lymphoma
+B-cell lymphoma recurrent
+B-cell lymphoma refractory
+B-cell lymphoma stage I
+B-cell lymphoma stage II
+B-cell lymphoma stage III
+B-cell lymphoma stage IV
+Double hit lymphoma
+Epstein-Barr virus associated lymphoma
+High-grade B-cell lymphoma
+Lymphoma cutis
+Ocular lymphoma
+Primary effusion lymphoma
+Thyroid B-cell lymphoma
+Triple hit lymphoma
+l2</ B-cell lymphomas NEC >
+l2< B-cell small lymphocytic lymphomas >
+B-cell prolymphocytic leukaemia
+B-cell small lymphocytic lymphoma
+B-cell small lymphocytic lymphoma recurrent
+B-cell small lymphocytic lymphoma refractory
+B-cell small lymphocytic lymphoma stage I
+B-cell small lymphocytic lymphoma stage II
+B-cell small lymphocytic lymphoma stage III
+B-cell small lymphocytic lymphoma stage IV
+l2</ B-cell small lymphocytic lymphomas >
+l2< B-cell unclassifiable lymphomas >
+B-cell unclassifiable lymphoma high grade
+B-cell unclassifiable lymphoma low grade
+l2</ B-cell unclassifiable lymphomas >
+l2< Burkitt's lymphomas >
+Burkitt's lymphoma
+Burkitt's lymphoma recurrent
+Burkitt's lymphoma refractory
+Burkitt's lymphoma stage I
+Burkitt's lymphoma stage II
+Burkitt's lymphoma stage III
+Burkitt's lymphoma stage IV
+l2</ Burkitt's lymphomas >
+l2< Diffuse large B-cell lymphomas >
+Diffuse large B-cell lymphoma
+Diffuse large B-cell lymphoma recurrent
+Diffuse large B-cell lymphoma refractory
+Diffuse large B-cell lymphoma stage I
+Diffuse large B-cell lymphoma stage II
+Diffuse large B-cell lymphoma stage III
+Diffuse large B-cell lymphoma stage IV
+Richter's syndrome
+l2</ Diffuse large B-cell lymphomas >
+l2< Extranodal marginal zone B-cell lymphomas (low grade B-cell) >
+Extranodal marginal zone B-cell lymphoma (MALT type)
+Extranodal marginal zone B-cell lymphoma (MALT type) recurrent
+Extranodal marginal zone B-cell lymphoma (MALT type) refractory
+Extranodal marginal zone B-cell lymphoma (MALT type) stage I
+Extranodal marginal zone B-cell lymphoma (MALT type) stage II
+Extranodal marginal zone B-cell lymphoma (MALT type) stage III
+Extranodal marginal zone B-cell lymphoma (MALT type) stage IV
+l2</ Extranodal marginal zone B-cell lymphomas (low grade B-cell) >
+l2< Follicle centre lymphomas diffuse predominantly small cell >
+Follicle centre lymphoma diffuse small cell lymphoma
+Follicle centre lymphoma diffuse small cell lymphoma recurrent
+Follicle centre lymphoma diffuse small cell lymphoma refractory
+Follicle centre lymphoma diffuse small cell lymphoma stage I
+Follicle centre lymphoma diffuse small cell lymphoma stage II
+Follicle centre lymphoma diffuse small cell lymphoma stage III
+Follicle centre lymphoma diffuse small cell lymphoma stage IV
+l2</ Follicle centre lymphomas diffuse predominantly small cell >
+l2< Follicle centre lymphomas, follicular grade I, II, III >
+Follicle centre lymphoma, follicular grade I, II, III
+Follicle centre lymphoma, follicular grade I, II, III recurrent
+Follicle centre lymphoma, follicular grade I, II, III refractory
+Follicle centre lymphoma, follicular grade I, II, III stage I
+Follicle centre lymphoma, follicular grade I, II, III stage II
+Follicle centre lymphoma, follicular grade I, II, III stage III
+Follicle centre lymphoma, follicular grade I, II, III stage IV
+Primary gastrointestinal follicular lymphoma
+l2</ Follicle centre lymphomas, follicular grade I, II, III >
+l2< High grade B-cell lymphomas Burkitt-like lymphoma >
+High grade B-cell lymphoma Burkitt-like lymphoma
+High grade B-cell lymphoma Burkitt-like lymphoma recurrent
+High grade B-cell lymphoma Burkitt-like lymphoma refractory
+High grade B-cell lymphoma Burkitt-like lymphoma stage I
+High grade B-cell lymphoma Burkitt-like lymphoma stage II
+High grade B-cell lymphoma Burkitt-like lymphoma stage III
+High grade B-cell lymphoma Burkitt-like lymphoma stage IV
+l2</ High grade B-cell lymphomas Burkitt-like lymphoma >
+l2< Lymphoplasmacytoid lymphomas/immunocytomas >
+Lymphoplasmacytoid lymphoma/immunocytoma
+Lymphoplasmacytoid lymphoma/immunocytoma recurrent
+Lymphoplasmacytoid lymphoma/immunocytoma refractory
+Lymphoplasmacytoid lymphoma/immunocytoma stage I
+Lymphoplasmacytoid lymphoma/immunocytoma stage II
+Lymphoplasmacytoid lymphoma/immunocytoma stage III
+Lymphoplasmacytoid lymphoma/immunocytoma stage IV
+l2</ Lymphoplasmacytoid lymphomas/immunocytomas >
+l2< Mantle cell lymphomas >
+Mantle cell lymphoma
+Mantle cell lymphoma recurrent
+Mantle cell lymphoma refractory
+Mantle cell lymphoma stage I
+Mantle cell lymphoma stage II
+Mantle cell lymphoma stage III
+Mantle cell lymphoma stage IV
+l2</ Mantle cell lymphomas >
+l2< Marginal zone lymphomas NEC >
+Marginal zone lymphoma
+Marginal zone lymphoma recurrent
+Marginal zone lymphoma refractory
+Marginal zone lymphoma stage I
+Marginal zone lymphoma stage II
+Marginal zone lymphoma stage III
+Marginal zone lymphoma stage IV
+l2</ Marginal zone lymphomas NEC >
+l2< Nodal marginal zone B-cell lymphomas >
+Nodal marginal zone B-cell lymphoma
+Nodal marginal zone B-cell lymphoma recurrent
+Nodal marginal zone B-cell lymphoma refractory
+Nodal marginal zone B-cell lymphoma stage I
+Nodal marginal zone B-cell lymphoma stage II
+Nodal marginal zone B-cell lymphoma stage III
+Nodal marginal zone B-cell lymphoma stage IV
+l2</ Nodal marginal zone B-cell lymphomas >
+l2< Precursor B-lymphoblastic lymphomas >
+Precursor B-lymphoblastic lymphoma
+Precursor B-lymphoblastic lymphoma recurrent
+Precursor B-lymphoblastic lymphoma refractory
+Precursor B-lymphoblastic lymphoma stage I
+Precursor B-lymphoblastic lymphoma stage II
+Precursor B-lymphoblastic lymphoma stage III
+Precursor B-lymphoblastic lymphoma stage IV
+l2</ Precursor B-lymphoblastic lymphomas >
+l2< Primary mediastinal large B-cell lymphomas >
+Primary mediastinal large B-cell lymphoma
+Primary mediastinal large B-cell lymphoma recurrent
+Primary mediastinal large B-cell lymphoma refractory
+Primary mediastinal large B-cell lymphoma stage I
+Primary mediastinal large B-cell lymphoma stage II
+Primary mediastinal large B-cell lymphoma stage III
+Primary mediastinal large B-cell lymphoma stage IV
+l2</ Primary mediastinal large B-cell lymphomas >
+l2< Splenic marginal zone lymphomas >
+Splenic marginal zone lymphoma
+Splenic marginal zone lymphoma recurrent
+Splenic marginal zone lymphoma refractory
+Splenic marginal zone lymphoma stage I
+Splenic marginal zone lymphoma stage II
+Splenic marginal zone lymphoma stage III
+Splenic marginal zone lymphoma stage IV
+l2</ Splenic marginal zone lymphomas >
+l2< Waldenstrom's macroglobulinaemias >
+Waldenstrom's macroglobulinaemia
+Waldenstrom's macroglobulinaemia recurrent
+Waldenstrom's macroglobulinaemia refractory
+Waldenstrom's macroglobulinaemia stage I
+Waldenstrom's macroglobulinaemia stage II
+Waldenstrom's macroglobulinaemia stage III
+Waldenstrom's macroglobulinaemia stage IV
+l2</ Waldenstrom's macroglobulinaemias >
+l1</ Lymphomas non-Hodgkin's B-cell >
+l1< Lymphomas non-Hodgkin's T-cell >
+l2< Adult T-cell lymphomas/leukaemias >
+Adult T-cell lymphoma/leukaemia
+Adult T-cell lymphoma/leukaemia recurrent
+Adult T-cell lymphoma/leukaemia refractory
+Adult T-cell lymphoma/leukaemia stage I
+Adult T-cell lymphoma/leukaemia stage II
+Adult T-cell lymphoma/leukaemia stage III
+Adult T-cell lymphoma/leukaemia stage IV
+Hepatosplenic T-cell lymphoma
+l2</ Adult T-cell lymphomas/leukaemias >
+l2< Anaplastic large cell lymphomas T- and null-cell types >
+Anaplastic large cell lymphoma T- and null-cell types
+Anaplastic large cell lymphoma T- and null-cell types recurrent
+Anaplastic large cell lymphoma T- and null-cell types refractory
+Anaplastic large cell lymphoma T- and null-cell types stage I
+Anaplastic large cell lymphoma T- and null-cell types stage II
+Anaplastic large cell lymphoma T- and null-cell types stage III
+Anaplastic large cell lymphoma T- and null-cell types stage IV
+T-cell lymphoma
+T-cell lymphoma recurrent
+T-cell lymphoma refractory
+T-cell lymphoma stage I
+T-cell lymphoma stage II
+T-cell lymphoma stage III
+T-cell lymphoma stage IV
+l2</ Anaplastic large cell lymphomas T- and null-cell types >
+l2< Angiocentric lymphomas >
+Angiocentric lymphoma
+Angiocentric lymphoma recurrent
+Angiocentric lymphoma refractory
+Angiocentric lymphoma stage I
+Angiocentric lymphoma stage II
+Angiocentric lymphoma stage III
+Angiocentric lymphoma stage IV
+l2</ Angiocentric lymphomas >
+l2< Angioimmunoblastic T-cell lymphomas >
+Angioimmunoblastic T-cell lymphoma
+Angioimmunoblastic T-cell lymphoma recurrent
+Angioimmunoblastic T-cell lymphoma refractory
+Angioimmunoblastic T-cell lymphoma stage I
+Angioimmunoblastic T-cell lymphoma stage II
+Angioimmunoblastic T-cell lymphoma stage III
+Angioimmunoblastic T-cell lymphoma stage IV
+l2</ Angioimmunoblastic T-cell lymphomas >
+l2< Intestinal T-cell lymphomas >
+Enteropathy-associated T-cell lymphoma
+Intestinal T-cell lymphoma recurrent
+Intestinal T-cell lymphoma refractory
+Intestinal T-cell lymphoma stage I
+Intestinal T-cell lymphoma stage II
+Intestinal T-cell lymphoma stage III
+Intestinal T-cell lymphoma stage IV
+l2</ Intestinal T-cell lymphomas >
+l2< Mycoses fungoides >
+Mycosis fungoides
+Mycosis fungoides recurrent
+Mycosis fungoides refractory
+Mycosis fungoides stage I
+Mycosis fungoides stage II
+Mycosis fungoides stage III
+Mycosis fungoides stage IV
+l2</ Mycoses fungoides >
+l2< Peripheral T-cell lymphomas NEC >
+Peripheral T-cell lymphoma unspecified
+Peripheral T-cell lymphoma unspecified recurrent
+Peripheral T-cell lymphoma unspecified refractory
+Peripheral T-cell lymphoma unspecified stage I
+Peripheral T-cell lymphoma unspecified stage II
+Peripheral T-cell lymphoma unspecified stage III
+Peripheral T-cell lymphoma unspecified stage IV
+l2</ Peripheral T-cell lymphomas NEC >
+l2< Precursor T-lymphoblastic lymphomas/leukaemias >
+Natural killer-cell lymphoblastic lymphoma
+Precursor T-lymphoblastic lymphoma/leukaemia
+Precursor T-lymphoblastic lymphoma/leukaemia recurrent
+Precursor T-lymphoblastic lymphoma/leukaemia refractory
+Precursor T-lymphoblastic lymphoma/leukaemia stage I
+Precursor T-lymphoblastic lymphoma/leukaemia stage II
+Precursor T-lymphoblastic lymphoma/leukaemia stage III
+Precursor T-lymphoblastic lymphoma/leukaemia stage IV
+l2</ Precursor T-lymphoblastic lymphomas/leukaemias >
+l2< T-cell unclassifiable lymphomas >
+T-cell unclassifiable lymphoma high grade
+T-cell unclassifiable lymphoma low grade
+l2</ T-cell unclassifiable lymphomas >
+l1</ Lymphomas non-Hodgkin's T-cell >
+l1< Lymphomas non-Hodgkin's unspecified histology >
+l2< Non-Hodgkin's lymphomas NEC >
+Cutaneous lymphoma
+Gastrointestinal lymphoma
+Leukaemic lymphoma
+Non-Hodgkin's lymphoma
+Non-Hodgkin's lymphoma metastatic
+Non-Hodgkin's lymphoma recurrent
+Non-Hodgkin's lymphoma refractory
+Non-Hodgkin's lymphoma stage I
+Non-Hodgkin's lymphoma stage II
+Non-Hodgkin's lymphoma stage III
+Non-Hodgkin's lymphoma stage IV
+Plasmablastic lymphoma
+l2</ Non-Hodgkin's lymphomas NEC >
+l2< Non-Hodgkin's lymphomas transformed recurrent >
+Non-Hodgkin's lymphoma transformed recurrent
+l2</ Non-Hodgkin's lymphomas transformed recurrent >
+l2< Non-Hodgkin's lymphomas unspecified histology aggressive >
+Immunoblastic lymphoma
+Non-Hodgkin's lymphoma unspecified histology aggressive
+Non-Hodgkin's lymphoma unspecified histology aggressive recurrent
+Non-Hodgkin's lymphoma unspecified histology aggressive refractory
+Non-Hodgkin's lymphoma unspecified histology aggressive stage I
+Non-Hodgkin's lymphoma unspecified histology aggressive stage II
+Non-Hodgkin's lymphoma unspecified histology aggressive stage III
+Non-Hodgkin's lymphoma unspecified histology aggressive stage IV
+l2</ Non-Hodgkin's lymphomas unspecified histology aggressive >
+l2< Non-Hodgkin's lymphomas unspecified histology indolent >
+Non-Hodgkin's lymphoma unspecified histology indolent
+Non-Hodgkin's lymphoma unspecified histology indolent stage I
+Non-Hodgkin's lymphoma unspecified histology indolent stage II
+Non-Hodgkin's lymphoma unspecified histology indolent stage III
+Non-Hodgkin's lymphoma unspecified histology indolent stage IV
+l2</ Non-Hodgkin's lymphomas unspecified histology indolent >
+l1</ Lymphomas non-Hodgkin's unspecified histology >
+l1< Plasma cell neoplasms >
+l2< Plasma cell myelomas >
+Leptomeningeal myelomatosis
+Plasma cell leukaemia
+Plasma cell leukaemia in remission
+Plasma cell myeloma
+Plasma cell myeloma in remission
+Plasma cell myeloma recurrent
+Plasmacytoma
+POEMS syndrome
+l2</ Plasma cell myelomas >
+l2< Plasma cell neoplasms NEC >
+Gammopathy
+Heavy chain disease
+Hypergammaglobulinaemia benign monoclonal
+Light chain disease
+Monoclonal gammopathy
+Paraproteinaemia
+TEMPI syndrome
+l2</ Plasma cell neoplasms NEC >
+l1</ Plasma cell neoplasms >
+l1< Platelet disorders >
+l2< Platelet disorders NEC >
+Congenital thrombocyte disorder
+Megakaryocyte destruction increased
+Platelet aggregation inhibition
+Platelet anisocytosis
+Platelet destruction increased
+Platelet disorder
+Platelet dysfunction
+Platelet glycoprotein gene mutation
+Platelet toxicity
+Sticky platelet syndrome
+Thrombasthenia
+l2</ Platelet disorders NEC >
+l2< Thrombocytopenias >
+Acquired amegakaryocytic thrombocytopenia
+Amegakaryocytic thrombocytopenia
+Congenital thrombocytopenia
+Cutaneovisceral angiomatosis with thrombocytopenia
+Haemangioma-thrombocytopenia syndrome
+HELLP syndrome
+Heparin-induced thrombocytopenia
+Immune thrombocytopenic purpura
+MYH9-related disease
+Neonatal alloimmune thrombocytopenia
+Non-immune heparin associated thrombocytopenia
+Platelet production decreased
+Post transfusion purpura
+Severe fever with thrombocytopenia syndrome
+Thrombocytopenia
+Thrombocytopenia neonatal
+Thrombocytopenia-absent radius syndrome
+Thrombocytopenic purpura
+Thrombotic thrombocytopenic purpura
+Wiskott-Aldrich syndrome
+l2</ Thrombocytopenias >
+l2< Thrombocytoses >
+Postsplenectomy syndrome
+Thrombocytosis
+l2</ Thrombocytoses >
+l1</ Platelet disorders >
+l1< Red blood cell disorders >
+l2< Polycythaemia (excl rubra vera) >
+Familial polycythaemia
+Pickwickian syndrome
+Polycythaemia
+Polycythaemia neonatorum
+Stress polycythaemia
+l2</ Polycythaemia (excl rubra vera) >
+l2< Red blood cell abnormal findings NEC >
+Anisochromia
+Anisocytosis
+Elliptocytosis
+Erythroblastosis
+Erythropenia
+Erythropoiesis abnormal
+Heinz bodies
+Hyperchromasia
+Hypochromasia
+Macrocytosis
+Microcytosis
+Nucleated red cells
+Poikilocytosis
+Polychromasia
+Punctate basophilia
+Red blood cell abnormality
+Red blood cell agglutination
+Red blood cell vacuolisation
+Reticulocytopenia
+Reticulocytosis
+Rouleaux formation
+Schistocytosis
+l2</ Red blood cell abnormal findings NEC >
+l1</ Red blood cell disorders >
+l1< Spleen, lymphatic and reticuloendothelial system disorders >
+l2< Liver and spleen enlargement >
+Hepatosplenomegaly
+Hepatosplenomegaly neonatal
+l2</ Liver and spleen enlargement >
+l2< Lymphatic system disorders NEC >
+Abdominal lymphadenopathy
+Acral angiokeratoma-like pseudolymphoma
+Adenoiditis
+Administration site lymphadenopathy
+Application site lymphadenopathy
+Atypical mycobacterial lymphadenitis
+Autoimmune lymphoproliferative syndrome
+Axillary web syndrome
+Broncholithiasis
+Cardiac lymphangioma
+Congenital lymphoedema
+Conjunctival lymphangiectasia
+Cystic lymphangioma
+Dermatopathic lymphadenopathy
+Elephantiasis
+Elephantiasis nostras verrucosa
+Filariasis lymphatic
+Granulomatous lymphadenitis
+Hilar lymphadenopathy
+Infected lymphocele
+Infusion site lymphadenopathy
+Injection site lymphadenopathy
+Lymph gland infection
+Lymph node abscess
+Lymph node calcification
+Lymph node fibrosis
+Lymph node haemorrhage
+Lymph node pain
+Lymph node tuberculosis
+Lymphadenitis
+Lymphadenitis bacterial
+Lymphadenitis fungal
+Lymphadenitis helminthic
+Lymphadenitis viral
+Lymphadenocyst
+Lymphadenopathy
+Lymphadenopathy mediastinal
+Lymphangiectasia
+Lymphangiectasia intestinal
+Lymphangiectasia intestinal congenital
+Lymphangioleiomyomatosis
+Lymphangioma
+Lymphangiopathy
+Lymphangiosarcoma
+Lymphangiosis carcinomatosa
+Lymphangitis
+Lymphatic disorder
+Lymphatic duct injury
+Lymphatic fistula
+Lymphatic insufficiency
+Lymphatic obstruction
+Lymphatic sinus catarrh
+Lymphocele
+Lymphoedema
+Lymphogranuloma venereum
+Lymphoid hyperplasia of intestine
+Lymphoid tissue hyperplasia
+Lymphoid tissue hypoplasia
+Lymphorrhoea
+Lymphostasis
+Medical device site lymphadenopathy
+Metastases to lymph nodes
+Oculoglandular syndrome
+Paratracheal lymphadenopathy
+Persistent generalised lymphadenopathy
+PFAPA syndrome
+Postmastectomy lymphoedema syndrome
+Pseudolymphoma
+Pulmonary lymphangiectasia
+Pulmonary nodular lymphoid hyperplasia
+Renal lymphocele
+Retroperitoneal lymphadenopathy
+Tuberculosis of intrathoracic lymph nodes
+Tuberculosis of peripheral lymph nodes
+Vaccination site lymphadenopathy
+Venolymphatic malformation
+l2</ Lymphatic system disorders NEC >
+l2< Reticuloendothelial disorders NEC >
+Lymphoplasia
+Reticuloendothelial dysfunction
+Reticuloendothelial system stimulated
+l2</ Reticuloendothelial disorders NEC >
+l2< Spleen disorders >
+Accessory spleen
+Acquired asplenia
+Asplenia
+Banti's syndrome
+Gastrosplenic fistula
+Hepatosplenic abscess
+Hepatosplenic candidiasis
+Hypersplenism
+Hypersplenism congenital
+Hyposplenism
+Metastases to spleen
+Perisplenitis
+Spleen atrophy
+Spleen congestion
+Spleen contusion
+Spleen disorder
+Spleen follicular hyperplasia
+Spleen malformation
+Spleen tuberculosis
+Splenic abscess
+Splenic artery perforation
+Splenic artery stenosis
+Splenic artery thrombosis
+Splenic calcification
+Splenic candidiasis
+Splenic embolism
+Splenic fibrosis
+Splenic granuloma
+Splenic haematoma
+Splenic haemorrhage
+Splenic induration
+Splenic infarction
+Splenic infection
+Splenic infection bacterial
+Splenic infection fungal
+Splenic infection helminthic
+Splenic infection viral
+Splenic injury
+Splenic lesion
+Splenic necrosis
+Splenic peliosis
+Splenic rupture
+Splenic thrombosis
+Splenic varices
+Splenic varices haemorrhage
+Splenic vein occlusion
+Splenic vein thrombosis
+Splenitis
+Splenomegaly
+Splenorenal shunt
+Splenosis
+l2</ Spleen disorders >
+l2< Thymus disorders >
+Benign neoplasm of thymus
+Congenital thymus absence
+Good syndrome
+Malignant neoplasm of thymus
+Neoplasm of thymus
+Thymic cancer metastatic
+Thymic cyst
+Thymoma
+Thymoma malignant
+Thymoma malignant recurrent
+Thymus abscess
+Thymus disorder
+Thymus enlargement
+Thymus hypoplasia
+l2</ Thymus disorders >
+l1</ Spleen, lymphatic and reticuloendothelial system disorders >
+l1< White blood cell disorders >
+l2< Eosinophilic disorders >
+Allergic eosinophilia
+Angiolymphoid hyperplasia with eosinophilia
+Bronchopulmonary aspergillosis allergic
+Eosinophilia
+Eosinophilia myalgia syndrome
+Eosinophilic bronchitis
+Eosinophilic cellulitis
+Eosinophilic colitis
+Eosinophilic cystitis
+Eosinophilic fasciitis
+Eosinophilic granulomatosis with polyangiitis
+Eosinophilic myocarditis
+Eosinophilic oesophagitis
+Eosinophilic panniculitis
+Eosinophilic pleural effusion
+Eosinophilic pneumonia
+Eosinophilic pneumonia acute
+Eosinophilic pneumonia chronic
+Eosinophilic pustular folliculitis
+Eosinophilic pustulosis
+Eosinophilic rhinitis
+Gastroenteritis eosinophilic
+Gleich's syndrome
+Hepatic infiltration eosinophilic
+Hypereosinophilic syndrome
+Loeffler's syndrome
+Meningitis eosinophilic
+Pulmonary eosinophilia
+Traumatic ulcerative granuloma with stromal eosinophilia
+Tropical eosinophilia
+l2</ Eosinophilic disorders >
+l2< Leukocytoses NEC >
+Acute febrile neutrophilic dermatosis
+Bandaemia
+Basophilia
+CANDLE syndrome
+Cytomegalovirus mononucleosis
+Granulocytosis
+Hepatic lymphocytic infiltration
+Hyperleukocytosis
+IDH differentiation syndrome
+Infectious mononucleosis
+Jessner's lymphocytic infiltration
+Leukaemoid reaction
+Leukocytosis
+Leukostasis syndrome
+Lymphoblastosis
+Lymphocytic infiltration
+Lymphocytosis
+Monoclonal B-cell lymphocytosis
+Monocytosis
+Mononucleosis syndrome
+Myelocytosis
+Neutrophilia
+Neutrophilic dermatosis
+Plasmacytosis
+Polyclonal B-cell lymphocytosis
+Pseudomononucleosis
+l2</ Leukocytoses NEC >
+l2< Leukopenias NEC >
+Basophilopenia
+Enteritis leukopenic
+Eosinopenia
+Leukopenia
+Leukopenia neonatal
+Lymphocytopenia neonatal
+Lymphopenia
+Monocytopenia
+Radiation leukopenia
+l2</ Leukopenias NEC >
+l2< Neutropenias >
+Agranulocytosis
+Autoimmune neutropenia
+Benign ethnic neutropenia
+Cyclic neutropenia
+Febrile neutropenia
+Felty's syndrome
+Granulocytopenia
+Granulocytopenia neonatal
+Idiopathic neutropenia
+Infantile genetic agranulocytosis
+Neutropenia
+Neutropenia neonatal
+Neutropenic colitis
+Neutropenic infection
+Neutropenic sepsis
+l2</ Neutropenias >
+l2< White blood cell abnormal findings NEC >
+Atypical lymphocytic lobular panniculitis
+B-lymphocyte abnormalities
+Chediak-Higashi syndrome
+Chronic granulomatous disease
+Congenital white blood cell disorder
+Erythrophagocytosis
+Leukocyte vacuolisation
+Lymphocytic oesophagitis
+Myeloperoxidase deficiency
+Neutrophil function disorder
+Plasma cell disorder
+Polymorphonuclear chromatin clumping
+White blood cell disorder
+l2</ White blood cell abnormal findings NEC >
+l1</ White blood cell disorders >
+l0</ Blood and lymphatic system disorders>

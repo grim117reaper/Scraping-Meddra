@@ -1,0 +1,1298 @@
+l0< Reproductive system and breast disorders>
+l1< Breast disorders >
+l2< Benign and malignant breast neoplasms >
+Apocrine breast carcinoma
+Benign breast neoplasm
+Benign nipple neoplasm
+Breast adenoma
+Breast angiosarcoma
+Breast angiosarcoma metastatic
+Breast cancer
+Breast cancer female
+Breast cancer in situ
+Breast cancer male
+Breast cancer metastatic
+Breast cancer recurrent
+Breast cancer stage I
+Breast cancer stage II
+Breast cancer stage III
+Breast cancer stage IV
+Breast cyst
+Breast cyst rupture
+Breast fibroma
+Breast hyperplasia
+Breast neoplasm
+Breast sarcoma
+Breast sarcoma metastatic
+Breast sarcoma recurrent
+Fibroadenoma of breast
+Fibrocystic breast disease
+Haemangioma of breast
+Haemorrhagic breast cyst
+HER-2 positive breast cancer
+Hormone refractory breast cancer
+Inflammatory carcinoma of breast recurrent
+Inflammatory carcinoma of breast stage III
+Inflammatory carcinoma of breast stage IV
+Inflammatory carcinoma of the breast
+Intracystic breast papilloma
+Intraductal papillary breast neoplasm
+Intraductal papilloma of breast
+Intraductal proliferative breast lesion
+Invasive breast carcinoma
+Invasive ductal breast carcinoma
+Invasive lobular breast carcinoma
+Invasive papillary breast carcinoma
+Lipoma of breast
+Lobular breast carcinoma in situ
+Malignant nipple neoplasm
+Malignant nipple neoplasm female
+Malignant nipple neoplasm male
+Medullary carcinoma of breast
+Metaplastic breast carcinoma
+Metastases to breast
+Mucinous breast carcinoma
+Neuroendocrine breast tumour
+Nipple neoplasm
+Oestrogen receptor positive breast cancer
+Paget's disease of nipple
+Phyllodes tumour
+Squamous cell breast carcinoma
+Triple negative breast cancer
+Tubular breast carcinoma
+l2</ Benign and malignant breast neoplasms >
+l2< Breast disorders NEC >
+Adipomastia
+Amastia
+Anisomastia
+Bilateral breast buds
+Breast atrophy
+Breast calcifications
+Breast complication associated with device
+Breast disorder
+Breast disorder female
+Breast disorder male
+Breast dysplasia
+Breast enlargement
+Breast fibrosis
+Breast hypoplasia
+Breast injury
+Breast mass
+Breast necrosis
+Breast proliferative changes
+Breast ulceration
+Diabetic mastopathy
+Gynaecomastia
+Mammary duct ectasia
+Mammary fistula
+Mastoptosis
+Micromastia
+Nipple disorder
+Nipple enlargement
+Pseudogynaecomastia
+Red breast syndrome
+Retracted nipple
+Symmastia
+l2</ Breast disorders NEC >
+l2< Breast infections and inflammations >
+Breast abscess
+Breast cellulitis
+Breast discharge infected
+Breast inflammation
+Mastitis
+Mastitis bacterial
+Mastitis fungal
+Mastitis postpartum
+Nipple infection
+Nipple inflammation
+Plasma cell mastitis
+Radiation mastitis
+Viral mastitis
+l2</ Breast infections and inflammations >
+l2< Breast signs and symptoms >
+Breast discharge
+Breast discolouration
+Breast discomfort
+Breast engorgement
+Breast haematoma
+Breast haemorrhage
+Breast induration
+Breast oedema
+Breast pain
+Breast swelling
+Breast tenderness
+Capsular contracture associated with breast implant
+Nipple exudate bloody
+Nipple oedema
+Nipple pain
+Nipple swelling
+l2</ Breast signs and symptoms >
+l2< Lactation disorders >
+Amenorrhoea-galactorrhoea syndrome
+Breast milk discolouration
+Galactocele
+Galactorrhoea
+Galactostasis
+Lactation disorder
+Lactation puerperal increased
+Suppressed lactation
+l2</ Lactation disorders >
+l1</ Breast disorders >
+l1< Cervix disorders (excl infections and inflammations) >
+l2< Cervix disorders NEC >
+Cervical bulla
+Cervical discharge
+Cervical dysplasia
+Cervical friability
+Cervical incompetence
+Cervical leukoplakia
+Cervix disorder
+Cervix enlargement
+Cervix erythema
+Cervix haematoma uterine
+Cervix haemorrhage uterine
+Cervix injury
+Cervix oedema
+Ectropion of cervix
+Endocervicosis
+Shortened cervix
+Uterine cervical erosion
+Uterine cervical exfoliation
+Uterine cervical laceration
+Uterine cervical metaplasia
+Uterine cervical pain
+Uterine cervix atrophy
+Uterine cervix hypoplasia
+Uterine cervix stenosis
+Uterine cervix ulcer
+l2</ Cervix disorders NEC >
+l2< Cervix neoplasms >
+Adenocarcinoma of the cervix
+Adenosquamous carcinoma of the cervix
+Benign neoplasm of cervix uteri
+Cervical cyst
+Cervical polyp
+Cervix adenomatous polyp
+Cervix cancer metastatic
+Cervix carcinoma
+Cervix carcinoma recurrent
+Cervix carcinoma stage 0
+Cervix carcinoma stage I
+Cervix carcinoma stage II
+Cervix carcinoma stage III
+Cervix carcinoma stage IV
+Cervix neoplasm
+Clear cell carcinoma of cervix
+Small cell carcinoma of the cervix
+Squamous cell carcinoma of the cervix
+l2</ Cervix neoplasms >
+l1</ Cervix disorders (excl infections and inflammations) >
+l1< Congenital reproductive tract and breast disorders >
+l2< Congenital breast and reproductive tract disorders NEC >
+Accessory breast
+Breast malformation
+Cloacal exstrophy
+Congenital genital malformation
+Congenital genitourinary abnormality
+Genitalia external ambiguous
+Persistent cloaca
+Persistent urogenital sinus
+l2</ Congenital breast and reproductive tract disorders NEC >
+l2< Congenital female reproductive tract disorders >
+Congenital fallopian tube anomaly
+Congenital genital malformation female
+Congenital labia pudendi adhesions
+Congenital ovarian anomaly
+Congenital uterine anomaly
+Diethylstilboestrol syndrome
+Ectopic ovary
+Mayer-Rokitansky-Kuster-Hauser syndrome
+Ovarian agenesis
+Uterine aplasia
+Uterine hypoplasia
+Vaginal atresia
+Vaginal hypoplasia
+Vaginal septum
+l2</ Congenital female reproductive tract disorders >
+l2< Congenital male reproductive tract disorders >
+Buried penis syndrome
+Congenital genital malformation male
+Congenital vas deferens absence
+Cryptorchism
+Epispadias
+Fryns syndrome
+Hypospadias
+Penile torsion
+Penoscrotal fusion
+Penoscrotal transposition
+Reproductive tract hypoplasia, male
+Sertoli-cell-only syndrome
+Testicular dysplasia
+l2</ Congenital male reproductive tract disorders >
+l1</ Congenital reproductive tract and breast disorders >
+l1< Female reproductive tract infections and inflammations >
+l2< Cervix infections and inflammations >
+Candida cervicitis
+Cervicitis
+Cervicitis cystic
+Cervicitis gonococcal
+Cervicitis human papilloma virus
+Cervicitis mycoplasmal
+Cervicitis streptococcal
+Cervicitis trichomonal
+Cervix inflammation
+Cervix warts
+Chlamydial cervicitis
+Herpes simplex cervicitis
+l2</ Cervix infections and inflammations >
+l2< Fallopian tube and ovary infections and inflammations >
+Bacterial salpingitis
+Fallopian tube abscess
+Noninfective oophoritis
+Oophoritis
+Ovarian abscess
+Ovarian bacterial infection
+Salpingitis
+Salpingitis gonococcal
+Salpingitis tuberculous
+Salpingo-oophoritis
+Tubo-ovarian abscess
+l2</ Fallopian tube and ovary infections and inflammations >
+l2< Pelvic and site unspecified infections and inflammations >
+Chlamydial pelvic inflammatory disease
+Douglas' abscess
+Female genital tract tuberculosis
+Genital infection female
+Gonococcal pelvic inflammatory disease
+Gynaecological chlamydia infection
+Mycoplasmal postpartum fever
+Parametric abscess
+Parametritis
+Pelvic inflammatory disease
+Pelvic inflammatory disease mycoplasmal
+Perihepatitis
+Perihepatitis gonococcal
+Peritoneal chlamydia infection
+l2</ Pelvic and site unspecified infections and inflammations >
+l2< Uterine infections and inflammations (excl cervix) >
+Endometritis
+Endometritis bacterial
+Endometritis decidual
+Endometritis gonococcal
+Lochial infection
+Myometritis
+Puerperal infection
+Pyometra
+Tuberculous endometritis
+Uterine abscess
+Uterine infection
+Uterine inflammation
+l2</ Uterine infections and inflammations (excl cervix) >
+l2< Vaginal and vulval infections and inflammations >
+Bacterial vaginosis
+Bacterial vulvovaginitis
+Bartholin's abscess
+Bartholinitis
+Clitoris abscess
+Escherichia vaginitis
+Noninfective bartholinitis
+Plasma cell vulvitis
+Rectovaginal septum abscess
+Vaginal abscess
+Vaginal cellulitis
+Vaginal infection
+Vaginitis chlamydial
+Vaginitis gardnerella
+Vaginitis viral
+Vulval abscess
+Vulval cellulitis
+Vulvitis
+Vulvovaginal candidiasis
+Vulvovaginal human papilloma virus infection
+Vulvovaginal inflammation
+Vulvovaginal mycotic infection
+Vulvovaginal warts
+Vulvovaginitis
+Vulvovaginitis chlamydial
+Vulvovaginitis gonococcal
+Vulvovaginitis helminthic
+Vulvovaginitis staphylococcal
+Vulvovaginitis streptococcal
+Vulvovaginitis trichomonal
+l2</ Vaginal and vulval infections and inflammations >
+l1</ Female reproductive tract infections and inflammations >
+l1< Gonadotrophin and sex hormone changes >
+l2< Gonadotrophic hormone abnormalities >
+Adiposogenital dystrophy
+Gonadotrophin deficiency
+Gonadotrophin releasing hormone deficiency
+Olfacto genital dysplasia
+Secondary hypogonadism
+l2</ Gonadotrophic hormone abnormalities >
+l2< Male sex hormone abnormalities >
+Androgen deficiency
+Congenital androgen deficiency
+Late onset hypogonadism syndrome
+l2</ Male sex hormone abnormalities >
+l1</ Gonadotrophin and sex hormone changes >
+l1< Male reproductive tract infections and inflammations >
+l2< Penile and scrotal infections and inflammations >
+Balanitis candida
+Balanoposthitis
+Balanoposthitis infective
+Cellulitis of male external genital organ
+Erosive balanitis
+Fungal balanitis
+Gangrenous balanitis
+Genital infection male
+Male genital tract tuberculosis
+Penile abscess
+Penile infection
+Plasma cell balanitis
+Scrotal abscess
+Scrotal infection
+Scrotal inflammation
+l2</ Penile and scrotal infections and inflammations >
+l2< Prostate and seminal vesicles infections and inflammations >
+Bacterial prostatitis
+Prostate infection
+Prostatic abscess
+Prostatitis
+Prostatitis Escherichia coli
+Prostatitis gonococcal
+Prostatitis trichomonal
+Prostatitis tuberculous
+Prostatovesiculitis
+Radiation prostatitis
+Seminal vesicle abscess
+Seminal vesicular infection
+Seminal vesiculitis
+Seminal vesiculitis gonococcal
+l2</ Prostate and seminal vesicles infections and inflammations >
+l2< Testicular and epididymal infections and inflammations >
+Epididymitis
+Epididymitis blastomyces
+Epididymitis mumps
+Epididymitis tuberculous
+Epididymitis ureaplasmal
+Epididymo-orchitis gonococcal
+Hydrocele male infected
+Noninfective epididymitis
+Orchitis
+Orchitis mumps
+Orchitis noninfective
+Spermatic cord funiculitis
+Spermatic cord inflammation
+Testicular abscess
+l2</ Testicular and epididymal infections and inflammations >
+l1</ Male reproductive tract infections and inflammations >
+l1< Menopause related conditions >
+l2< Menopausal effects NEC >
+Arthritis climacteric
+Artificial menopause
+Hot flush
+Keratoderma climactericum
+Menopausal depression
+Menopausal disorder
+Menopausal symptoms
+Menopause delayed
+Osteoporosis postmenopausal
+Premature menopause
+Radiation menopause
+l2</ Menopausal effects NEC >
+l2< Menopausal effects on the genitourinary tract >
+Atrophic vulvovaginitis
+Postmenopausal haemorrhage
+Urethral atrophy
+Urogenital atrophy
+l2</ Menopausal effects on the genitourinary tract >
+l1</ Menopause related conditions >
+l1< Menstrual cycle and uterine bleeding disorders >
+l2< Menstruation and uterine bleeding NEC >
+Abnormal withdrawal bleeding
+Anovulatory cycle
+Bleeding anovulatory
+Delayed menarche
+Dysfunctional uterine bleeding
+Dysmenorrhoea
+Menstrual discomfort
+Menstrual disorder
+Menstruation irregular
+Metrorrhagia
+Premature menarche
+Premenstrual cramps
+Premenstrual dysphoric disorder
+Premenstrual headache
+Premenstrual pain
+Premenstrual syndrome
+Retrograde menstruation
+Withdrawal bleed
+l2</ Menstruation and uterine bleeding NEC >
+l2< Menstruation with decreased bleeding >
+Amenorrhoea
+Hypomenorrhoea
+Menstruation delayed
+Oligomenorrhoea
+Pituitary amenorrhoea
+l2</ Menstruation with decreased bleeding >
+l2< Menstruation with increased bleeding >
+Menometrorrhagia
+Menorrhagia
+Polymenorrhagia
+Polymenorrhoea
+l2</ Menstruation with increased bleeding >
+l1</ Menstrual cycle and uterine bleeding disorders >
+l1< Ovarian and fallopian tube disorders >
+l2< Ovarian and fallopian tube cysts and neoplasms >
+Benign fallopian tube neoplasm
+Benign ovarian tumour
+Borderline mucinous tumour of ovary
+Borderline ovarian tumour
+Borderline serous tumour of ovary
+Brenner tumour
+Cystadenocarcinoma ovary
+Cystadenofibroma of fallopian tube
+Fallopian tube cancer
+Fallopian tube cancer metastatic
+Fallopian tube cancer stage I
+Fallopian tube cancer stage II
+Fallopian tube cancer stage III
+Fallopian tube cancer stage IV
+Fallopian tube cyst
+Fallopian tube leiomyoma
+Fallopian tube neoplasm
+Haemorrhagic ovarian cyst
+Hyperreactio luteinalis
+Leukaemic infiltration ovary
+Malignant ovarian cyst
+Meigs' syndrome
+Metastases to fallopian tube
+Metastases to ovary
+Mucinous cystadenocarcinoma ovary
+Ovarian adenoma
+Ovarian cancer
+Ovarian cancer metastatic
+Ovarian cancer recurrent
+Ovarian cancer stage I
+Ovarian cancer stage II
+Ovarian cancer stage III
+Ovarian cancer stage IV
+Ovarian clear cell carcinoma
+Ovarian cyst
+Ovarian cyst ruptured
+Ovarian cyst torsion
+Ovarian dysgerminoma stage I
+Ovarian dysgerminoma stage II
+Ovarian dysgerminoma stage III
+Ovarian dysgerminoma stage IV
+Ovarian epithelial cancer
+Ovarian epithelial cancer metastatic
+Ovarian epithelial cancer recurrent
+Ovarian epithelial cancer stage I
+Ovarian epithelial cancer stage II
+Ovarian epithelial cancer stage III
+Ovarian epithelial cancer stage IV
+Ovarian fibroma
+Ovarian germ cell cancer stage I
+Ovarian germ cell cancer stage II
+Ovarian germ cell cancer stage III
+Ovarian germ cell cancer stage IV
+Ovarian germ cell choriocarcinoma
+Ovarian germ cell choriocarcinoma stage I
+Ovarian germ cell choriocarcinoma stage II
+Ovarian germ cell choriocarcinoma stage III
+Ovarian germ cell choriocarcinoma stage IV
+Ovarian germ cell embryonal carcinoma stage I
+Ovarian germ cell embryonal carcinoma stage II
+Ovarian germ cell embryonal carcinoma stage III
+Ovarian germ cell embryonal carcinoma stage IV
+Ovarian germ cell endodermal sinus tumour
+Ovarian germ cell endodermal sinus tumour stage I
+Ovarian germ cell endodermal sinus tumour stage II
+Ovarian germ cell endodermal sinus tumour stage III
+Ovarian germ cell endodermal sinus tumour stage IV
+Ovarian germ cell polyembryoma
+Ovarian germ cell polyembryoma stage I
+Ovarian germ cell polyembryoma stage II
+Ovarian germ cell polyembryoma stage III
+Ovarian germ cell polyembryoma stage IV
+Ovarian germ cell teratoma
+Ovarian germ cell teratoma benign
+Ovarian germ cell teratoma stage I
+Ovarian germ cell teratoma stage II
+Ovarian germ cell teratoma stage III
+Ovarian germ cell teratoma stage IV
+Ovarian germ cell tumour
+Ovarian germ cell tumour mixed
+Ovarian granulosa cell tumour
+Ovarian granulosa-theca cell tumour
+Ovarian low malignant potential tumour
+Ovarian neoplasm
+Ovarian Sertoli-Leydig cell tumour
+Ovarian theca cell tumour
+Polycystic ovaries
+Serous cystadenocarcinoma ovary
+l2</ Ovarian and fallopian tube cysts and neoplasms >
+l2< Ovarian and fallopian tube disorders NEC >
+Adnexal torsion
+Delayed follicular ripening
+Endosalpingiosis
+Fallopian tube disorder
+Fallopian tube diverticulosis
+Fallopian tube enlargement
+Fallopian tube necrosis
+Fallopian tube obstruction
+Fallopian tube perforation
+Fallopian tube spasm
+Fallopian tube stenosis
+Haematosalpinx
+Hydrosalpinx
+Hyperthecosis
+Hypogonadism female
+Increased follicular atresia
+Luteinising unruptured follicle syndrome
+Oestrogen deficiency
+Ovarian adhesion
+Ovarian atrophy
+Ovarian calcification
+Ovarian disorder
+Ovarian dysgerminoma stage unspecified
+Ovarian embryonal carcinoma
+Ovarian endometrioid carcinoma
+Ovarian enlargement
+Ovarian failure
+Ovarian failure postoperative
+Ovarian fibrosis
+Ovarian germ cell cancer
+Ovarian haematoma
+Ovarian haemorrhage
+Ovarian hyperfunction
+Ovarian hyperstimulation syndrome
+Ovarian hypoplasia
+Ovarian injury
+Ovarian mass
+Ovarian necrosis
+Ovarian oedema
+Ovarian perforation
+Ovarian prolapse
+Ovarian remnant syndrome
+Ovarian rupture
+Ovarian stromal cancer
+Ovarian stromal hyperplasia
+Ovarian vein thrombosis
+Ovulation delayed
+Ovulation disorder
+Ovulation pain
+Post ablation tubal ligation syndrome
+Premature follicular ripening
+Premature ovulation
+Residual ovary syndrome
+Superovulation
+Tubal rupture
+Varicocele ovarian
+Varicocele utero-ovarian
+l2</ Ovarian and fallopian tube disorders NEC >
+l1</ Ovarian and fallopian tube disorders >
+l1< Penile and scrotal disorders (excl infections and inflammations) >
+l2< Penile disorders NEC (excl erection and ejaculation) >
+Acquired phimosis
+Chordee
+Fracture of penis
+Frenulum breve
+Hooded prepuce
+Leukoplakia of penis
+Micropenis
+Penile adhesion
+Penile artery occlusion
+Penile blister
+Penile burning sensation
+Penile contusion
+Penile curvature
+Penile discharge
+Penile dysplasia
+Penile erythema
+Penile exfoliation
+Penile haematoma
+Penile haemorrhage
+Penile necrosis
+Penile oedema
+Penile pain
+Penile plaque
+Penile size reduced
+Penile swelling
+Penile ulceration
+Penile vascular disorder
+Penile vein thrombosis
+Penis disorder
+Penis injury
+Peyronie's disease
+Phimosis
+Prepuce redundant
+Thrombosis corpora cavernosa
+l2</ Penile disorders NEC (excl erection and ejaculation) >
+l2< Penile neoplasms >
+Benign penile neoplasm
+Carcinoma in situ of penis
+Erythroplasia of penis
+Metastases to penis
+Paget's disease of penis
+Pearly penile papules
+Penile cancer
+Penile neoplasm
+Penile squamous cell carcinoma
+Penile wart
+Penis carcinoma metastatic
+Penis carcinoma recurrent
+Penis carcinoma stage I
+Penis carcinoma stage II
+Penis carcinoma stage III
+Penis carcinoma stage IV
+l2</ Penile neoplasms >
+l2< Scrotal disorders NEC >
+Acquired hydrocele
+Congenital scrotal hypertrophy
+Congenital varicocele
+Hydrocele
+Scrotal angiokeratoma
+Scrotal cyst
+Scrotal disorder
+Scrotal erythema
+Scrotal gangrene
+Scrotal haematocoele
+Scrotal haematoma
+Scrotal irritation
+Scrotal mass
+Scrotal oedema
+Scrotal pain
+Scrotal swelling
+Scrotal ulcer
+Scrotal varicose veins
+Urocele
+Varicocele
+l2</ Scrotal disorders NEC >
+l2< Scrotal neoplasms >
+Benign neoplasm of scrotum
+Scrotal cancer
+l2</ Scrotal neoplasms >
+l1</ Penile and scrotal disorders (excl infections and inflammations) >
+l1< Prostatic disorders (excl infections and inflammations) >
+l2< Prostatic neoplasms and hypertrophy >
+Benign neoplasm of prostate
+Benign prostatic hyperplasia
+Carcinoid tumour of the prostate
+Hormone-dependent prostate cancer
+Hormone-refractory prostate cancer
+Metastases to prostate
+Neoplasm prostate
+Prostate cancer
+Prostate cancer metastatic
+Prostate cancer recurrent
+Prostate cancer stage 0
+Prostate cancer stage I
+Prostate cancer stage II
+Prostate cancer stage III
+Prostate cancer stage IV
+Prostatic adenoma
+l2</ Prostatic neoplasms and hypertrophy >
+l2< Prostatic signs, symptoms and disorders NEC >
+Calculus prostatic
+Prostate induration
+Prostate tenderness
+Prostatic asymmetry
+Prostatic atrophy
+Prostatic calcification
+Prostatic cyst
+Prostatic disorder
+Prostatic dysplasia
+Prostatic fibrosis
+Prostatic haemorrhage
+Prostatic hypoplasia
+Prostatic mass
+Prostatic obstruction
+Prostatic pain
+Prostatic perforation
+Prostatic polyp
+Prostatic varices
+Prostatism
+Prostatomegaly
+Rectoprostatic fistula
+l2</ Prostatic signs, symptoms and disorders NEC >
+l1</ Prostatic disorders (excl infections and inflammations) >
+l1< Reproductive tract disorders NEC >
+l2< Gender disorders >
+Androgen insensitivity syndrome
+Denys-Drash syndrome
+Disorder of sex development
+Feminisation acquired
+Frasier syndrome
+Hermaphroditism
+Pseudohermaphroditism
+Pseudohermaphroditism female
+Pseudohermaphroditism male
+Secondary sexual characteristics absence
+Virilism
+Virilism foetal
+l2</ Gender disorders >
+l2< Reproductive tract disorders NEC (excl neoplasms) >
+Anogenital dysplasia
+Endometriosis male
+External genitalia crushing
+Faciodigitogenital dysplasia
+Female genital tract fistula
+Foreign body in reproductive tract
+Foreign body in urogenital tract
+Genital atrophy
+Genital blister
+Genital contusion
+Genital disorder female
+Genital disorder male
+Genital erosion
+Genital haemorrhage
+Genital hyperaesthesia
+Genital hypoaesthesia
+Genital injury
+Genital lesion
+Genital leukoplakia
+Genital paraesthesia
+Genital ulceration
+Male genital atrophy
+Male genital tract fistula
+Perineal cellulitis
+Perineal disorder
+Perineal fistula
+Perineal necrosis
+Perineal ulceration
+Popliteal pterygium syndrome
+Radiation castration
+Reproductive complication associated with device
+Reproductive toxicity
+Reproductive tract anastomotic leak
+Reproductive tract disorder
+Seminal vesicle atrophy
+Seminal vesicular calculus
+Seminal vesicular cyst
+Seminal vesicular disorder
+Urethroperineal fistula
+Urogenital disorder
+Urogenital fistula
+Urogenital haemorrhage
+Varicose veins pelvic
+l2</ Reproductive tract disorders NEC (excl neoplasms) >
+l2< Reproductive tract infections and inflammations NEC >
+Anogenital warts
+Behcet's syndrome
+Chancroid
+Condyloma latum
+Genital abscess
+Genital candidiasis
+Genital herpes
+Genital herpes simplex
+Genital herpes zoster
+Genital infection
+Genital infection bacterial
+Genital infection fungal
+Genital infection helminthic
+Genital infection viral
+Genital tract inflammation
+Genital ulcer syndrome
+Genitourinary chlamydia infection
+Genitourinary tract gonococcal infection
+Genitourinary tract infection
+Lichen sclerosus
+Lymphogranuloma venereum
+MAGIC syndrome
+Mycoplasma genitalium infection
+Pelvic abscess
+Pelvic infection
+Pelvic sepsis
+Syphilis genital
+Tuberculosis of genitourinary system
+Urogenital infection bacterial
+Urogenital infection fungal
+Urogenital trichomoniasis
+l2</ Reproductive tract infections and inflammations NEC >
+l2< Reproductive tract neoplasms NEC >
+Angiomyofibroblastoma
+Benign female reproductive tract neoplasm
+Benign genitourinary tract neoplasm
+Benign male reproductive tract neoplasm
+Benign neoplasm of seminal vesicle
+Buschke-Lowenstein's tumour
+Congenital teratoma
+Extragonadal primary embryonal carcinoma
+Extragonadal primary germ cell tumour
+Extragonadal primary germ cell tumour mixed
+Extragonadal primary germ cell tumour mixed stage I
+Extragonadal primary germ cell tumour mixed stage II
+Extragonadal primary germ cell tumour mixed stage III
+Extragonadal primary malignant teratoma
+Extragonadal primary non-seminoma
+Extragonadal primary non-seminoma stage I
+Extragonadal primary non-seminoma stage II
+Extragonadal primary non-seminoma stage III
+Extragonadal primary non-seminoma stage IV
+Extragonadal primary seminoma (pure)
+Extragonadal primary seminoma (pure) stage I
+Extragonadal primary seminoma (pure) stage II
+Extragonadal primary seminoma (pure) stage III
+Extragonadal primary seminoma (pure) stage IV
+Female reproductive neoplasm
+Female reproductive tract carcinoma in situ
+Genital cancer male
+Genital cancer male in situ
+Genital cyst
+Genital neoplasm malignant female
+Genitourinary melanoma
+Genitourinary tract neoplasm
+Germ cell cancer
+Germ cell cancer metastatic
+Germ cell neoplasm
+Gestational trophoblastic tumour
+Male reproductive tract neoplasm
+Malignant genitourinary tract neoplasm
+Malignant neoplasm of seminal vesicle
+Malignant neoplasm of uterine adnexa
+Mesonephric duct cyst
+Metastases to reproductive organ
+Mueller's mixed tumour
+Perineal cyst
+Queyrat erythroplasia
+Teratoma
+Yolk sac tumour site unspecified
+l2</ Reproductive tract neoplasms NEC >
+l2< Reproductive tract signs and symptoms NEC >
+Genital burning sensation
+Genital discharge
+Genital discomfort
+Genital erythema
+Genital pain
+Genital rash
+Genital swelling
+Genitals enlarged
+Genitourinary symptom
+Haematuria
+Hydrometra
+Oedema genital
+Pelvic discomfort
+Pelvic pain
+Perineal erythema
+Perineal induration
+Perineal pain
+Perineal rash
+Pruritus genital
+Pudendal canal syndrome
+l2</ Reproductive tract signs and symptoms NEC >
+l1</ Reproductive tract disorders NEC >
+l1< Sexual function and fertility disorders >
+l2< Erection and ejaculation conditions and disorders >
+Ejaculation delayed
+Ejaculation disorder
+Ejaculation failure
+Erectile dysfunction
+Erection increased
+Nocturnal emission
+Organic erectile dysfunction
+Painful ejaculation
+Painful erection
+Premature ejaculation
+Priapism
+Psychogenic erectile dysfunction
+Retrograde ejaculation
+Spontaneous ejaculation
+Spontaneous penile erection
+l2</ Erection and ejaculation conditions and disorders >
+l2< Sexual function and fertility disorders NEC >
+Adrenal androgen deficiency
+Adrenal androgen excess
+Adrenogenital syndrome
+Albright's disease
+Delayed puberty
+Dyspareunia
+Female orgasmic disorder
+Female sexual arousal disorder
+Female sexual dysfunction
+Fertility increased
+Follicle stimulating hormone deficiency
+Genito-pelvic pain/penetration disorder
+HAIR-AN syndrome
+Hyperandrogenism
+Hypergonadism
+Hyperoestrogenism
+Hyperprogesteronism
+Hypogonadism
+Hypoprogesteronism
+Incomplete precocious puberty
+Infertility
+Infertility female
+Infertility male
+Libido decreased
+Libido disorder
+Libido increased
+Luteinising hormone deficiency
+Male orgasmic disorder
+Male sexual dysfunction
+Mauriac syndrome
+Orgasm abnormal
+Orgasmic sensation decreased
+Persistent genital arousal disorder
+Precocious puberty
+Primary ciliary dyskinesia
+Primary hypogonadism
+Pseudoprecocious puberty
+Pubertal failure
+Sexual dysfunction
+l2</ Sexual function and fertility disorders NEC >
+l2< Spermatogenesis and semen disorders >
+Aspermia
+Asthenospermia
+Azoospermia
+Haematospermia
+Hypospermia
+Necrospermia
+Oligoasthenoteratozoospermia
+Oligospermia
+Pyospermia
+Semen discolouration
+Spermatogenesis abnormal
+Spermatorrhoea
+Teratospermia
+Young's syndrome
+l2</ Spermatogenesis and semen disorders >
+l1</ Sexual function and fertility disorders >
+l1< Testicular and epididymal disorders >
+l2< Testicular and epididymal disorders NEC >
+Anorchism
+Congenital monorchidism
+Epididymal calculus
+Epididymal disorder
+Epididymal enlargement
+Epididymal tenderness
+Eunuchoidism
+Hypogonadism male
+Monorchidism
+Neonatal testicular torsion
+Sperm granuloma
+Spermatic cord disorder
+Spermatic cord haemorrhage
+Spermatic cord mass
+Spermatic cord obstruction
+Spermatic cord pain
+Spermatic cord perforation
+Spermatic cord stenosis
+Testicular appendage torsion
+Testicular atrophy
+Testicular autoimmunity
+Testicular disorder
+Testicular failure
+Testicular failure postoperative
+Testicular failure primary
+Testicular haemorrhage
+Testicular hyperfunction
+Testicular hypertrophy
+Testicular infarction
+Testicular injury
+Testicular mass
+Testicular microlithiasis
+Testicular necrosis
+Testicular oedema
+Testicular pain
+Testicular perforation
+Testicular retraction
+Testicular rupture
+Testicular swelling
+Testicular torsion
+Testis discomfort
+Testotoxicosis
+l2</ Testicular and epididymal disorders NEC >
+l2< Testicular and epididymal neoplasms >
+Benign neoplasm of epididymis
+Benign neoplasm of testis
+Epididymal cancer
+Epididymal cyst
+Epididymal neoplasm
+Granulosa cell tumour of the testis
+Leydig cell tumour of the testis
+Malignant neoplasm of spermatic cord
+Metastases to testicle
+Seminoma
+Sertoli cell testicular tumour
+Spermatocele
+Spermatocytic seminoma
+Testicle adenoma
+Testicular cancer metastatic
+Testicular choriocarcinoma
+Testicular choriocarcinoma recurrent
+Testicular choriocarcinoma stage I
+Testicular choriocarcinoma stage II
+Testicular choriocarcinoma stage III
+Testicular cyst
+Testicular embryonal carcinoma
+Testicular embryonal carcinoma stage I
+Testicular embryonal carcinoma stage II
+Testicular embryonal carcinoma stage III
+Testicular germ cell cancer
+Testicular germ cell cancer metastatic
+Testicular germ cell tumour
+Testicular germ cell tumour mixed
+Testicular germ cell tumour mixed stage I
+Testicular germ cell tumour mixed stage II
+Testicular germ cell tumour mixed stage III
+Testicular leiomyosarcoma
+Testicular malignant teratoma
+Testicular malignant teratoma stage I
+Testicular malignant teratoma stage II
+Testicular malignant teratoma stage III
+Testicular neoplasm
+Testicular papilloma
+Testicular seminoma (pure)
+Testicular seminoma (pure) stage I
+Testicular seminoma (pure) stage II
+Testicular seminoma (pure) stage III
+Testicular teratoma benign
+Testicular yolk sac tumour
+Testicular yolk sac tumour stage I
+Testicular yolk sac tumour stage II
+Testicular yolk sac tumour stage III
+Testis cancer
+Testis cancer recurrent
+l2</ Testicular and epididymal neoplasms >
+l1</ Testicular and epididymal disorders >
+l1< Uterine, pelvic and broad ligament disorders >
+l2< Pelvic prolapse conditions >
+Colpocele
+Cystocele
+Enterocele
+Genital prolapse
+Hysterocele
+Pelvic prolapse
+Rectocele
+Urogenital prolapse
+Uterine prolapse
+Uterovaginal prolapse
+Vaginal prolapse
+l2</ Pelvic prolapse conditions >
+l2< Pelvis and broad ligament disorders NEC >
+Adnexa uteri cyst
+Adnexa uteri mass
+Adnexa uteri pain
+Broad ligament haematoma
+Broad ligament tear
+Douglas' pouch mass
+Intra-abdominal fluid collection
+Metastases to pelvis
+Pelvic adhesions
+Pelvic congestion
+Pelvic cyst
+Pelvic floor muscle weakness
+Pelvic fluid collection
+Pelvic haematoma
+Pelvic haemorrhage
+Pelvic mass
+Pelvic neoplasm
+Pelvic organ injury
+Peritoneal adhesions
+Symphysiolysis
+l2</ Pelvis and broad ligament disorders NEC >
+l2< Uterine disorders NEC >
+Adenomyosis
+Asherman's syndrome
+Decidual cast
+Endometrial atrophy
+Endometrial disorder
+Endometrial dysplasia
+Endometrial hyperplasia
+Endometrial hypertrophy
+Endometrial hypoplasia
+Endometrial metaplasia
+Endometrial thickening
+Endometriosis
+Uterine adhesions
+Uterine atrophy
+Uterine dehiscence
+Uterine disorder
+Uterine enlargement
+Uterine fibrosis
+Uterine fistula
+Uterine haematoma
+Uterine haemorrhage
+Uterine injury
+Uterine ischaemia
+Uterine mass
+Uterine necrosis
+Uterine pain
+Uterine perforation
+Uterine peristalsis absent
+Uterine rupture
+Uterine scar
+Uterine scar diverticulum
+Uterine stenosis
+Uterine tenderness
+l2</ Uterine disorders NEC >
+l2< Uterine neoplasms >
+Benign hydatidiform mole
+Benign uterine neoplasm
+Clear cell endometrial carcinoma
+Endometrial adenocarcinoma
+Endometrial adenoma
+Endometrial cancer
+Endometrial cancer metastatic
+Endometrial cancer recurrent
+Endometrial cancer stage 0
+Endometrial cancer stage I
+Endometrial cancer stage II
+Endometrial cancer stage III
+Endometrial cancer stage IV
+Endometrial neoplasm
+Endometrial sarcoma
+Endometrial sarcoma metastatic
+Endometrial sarcoma recurrent
+Endometrial stromal sarcoma
+Intravenous leiomyomatosis
+Malignant hydatidiform mole
+Metastases to uterus
+Metastatic uterine cancer
+Mucinous endometrial carcinoma
+Multiple cutaneous and uterine leiomyomatosis
+Papillary serous endometrial carcinoma
+Placental chorioangioma
+Sarcoma uterus
+Squamous endometrial carcinoma
+Uterine cancer
+Uterine carcinoma in situ
+Uterine cyst
+Uterine leiomyoma
+Uterine leiomyosarcoma
+Uterine myoma expulsion
+Uterine neoplasm
+Uterine polyp
+l2</ Uterine neoplasms >
+l2< Uterine structure and position disorders >
+Endometrium arrested stage
+Haematocoele female
+Hydrocele female
+Uterine inversion
+Uterine malposition
+Uterine obstruction
+l2</ Uterine structure and position disorders >
+l2< Uterine tone disorders >
+Incoordinate uterine action
+Postpartum uterine subinvolution
+Uterine atony
+Uterine contractions abnormal
+Uterine hyperstimulation
+Uterine hypertonus
+Uterine hypotonus
+Uterine spasm
+Uterine tachysystole
+l2</ Uterine tone disorders >
+l1</ Uterine, pelvic and broad ligament disorders >
+l1< Vulvovaginal disorders (excl infections and inflammations) >
+l2< Vulvovaginal cysts and neoplasms >
+Adenosquamous carcinoma of vagina
+Bartholin's cyst
+Benign vaginal neoplasm
+Benign vulval neoplasm
+Congenital vaginal cyst
+Erythroplasia of vulva
+Metastases to vagina
+Paget's disease of the vulva
+Squamous cell carcinoma of the vagina
+Squamous cell carcinoma of the vulva
+Vaginal adenocarcinoma
+Vaginal cancer
+Vaginal cancer metastatic
+Vaginal cancer recurrent
+Vaginal cancer stage 0
+Vaginal cancer stage I
+Vaginal cancer stage II
+Vaginal cancer stage III
+Vaginal cancer stage IVA
+Vaginal cancer stage IVB
+Vaginal cyst
+Vaginal neoplasm
+Vaginal polyp
+Vulva cyst
+Vulval angiokeratoma
+Vulval cancer
+Vulval cancer metastatic
+Vulval cancer recurrent
+Vulval cancer stage 0
+Vulval cancer stage I
+Vulval cancer stage II
+Vulval cancer stage III
+Vulval cancer stage IV
+Vulval neoplasm
+Vulval polyp
+Vulvar adenocarcinoma
+l2</ Vulvovaginal cysts and neoplasms >
+l2< Vulvovaginal disorders NEC >
+Anovulvar fistula
+Genital labial adhesions
+Human seminal plasma hypersensitivity
+Imperforate hymen
+Radiation vulvovaginitis
+Rigid hymen
+Septate hymen
+Vaginal cuff dehiscence
+Vaginal disorder
+Vaginal dysplasia
+Vaginal erosion
+Vaginal exfoliation
+Vaginal fistula
+Vaginal haematoma
+Vaginal haemorrhage
+Vaginal hyperplasia
+Vaginal laceration
+Vaginal leukoplakia
+Vaginal mucosal blistering
+Vaginal obstruction
+Vaginal perforation
+Vaginal stricture
+Vaginal ulceration
+Vaginal wall congestion
+Varicose veins vaginal
+Varicose veins vulval
+Vulval disorder
+Vulval haematoma
+Vulval haemorrhage
+Vulval laceration
+Vulval leukoplakia
+Vulval ulceration
+Vulvar dysplasia
+Vulvar erosion
+Vulvar melanosis
+Vulvar squamous cell hyperplasia
+Vulvovaginal adenosis
+Vulvovaginal adhesion
+Vulvovaginal disorder
+Vulvovaginal injury
+Vulvovaginal ulceration
+l2</ Vulvovaginal disorders NEC >
+l2< Vulvovaginal signs and symptoms >
+Clitoral engorgement
+Coital bleeding
+Enlarged clitoris
+Haematocolpos
+Inadequate lubrication
+Labia enlarged
+Vaginal discharge
+Vaginal enlargement
+Vaginal flatulence
+Vaginal lesion
+Vaginal odour
+Vaginal oedema
+Vaginal reflux
+Vaginal relaxation
+Vulval oedema
+Vulvovaginal burning sensation
+Vulvovaginal discomfort
+Vulvovaginal dryness
+Vulvovaginal erythema
+Vulvovaginal hypoaesthesia
+Vulvovaginal pain
+Vulvovaginal pruritus
+Vulvovaginal rash
+Vulvovaginal swelling
+l2</ Vulvovaginal signs and symptoms >
+l1</ Vulvovaginal disorders (excl infections and inflammations) >
+l0</ Reproductive system and breast disorders>

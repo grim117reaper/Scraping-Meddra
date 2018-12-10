@@ -1,0 +1,477 @@
+l0< Hepatobiliary disorders>
+l1< Bile duct disorders >
+l2< Bile duct infections and inflammations >
+Biliary abscess
+Biliary colic
+Biliary sepsis
+Biliary tract infection
+Biliary tract infection bacterial
+Biliary tract infection cryptosporidial
+Biliary tract infection fungal
+Biliary tract infection helminthic
+Biliary tract infection viral
+Cholangiolitis
+Cholangitis
+Cholangitis acute
+Cholangitis chronic
+Cholangitis infective
+Cholangitis sclerosing
+Cholecystocholangitis
+Duodenal papillitis
+Lemmel's syndrome
+l2</ Bile duct infections and inflammations >
+l2< Obstructive bile duct disorders (excl neoplasms) >
+AIDS cholangiopathy
+Alagille syndrome
+Ampulla of Vater stenosis
+Bile duct obstruction
+Bile duct stenosis
+Bile duct stenosis traumatic
+Bile duct stone
+Biliary cast syndrome
+Obstructive pancreatitis
+Sphincter of Oddi dysfunction
+l2</ Obstructive bile duct disorders (excl neoplasms) >
+l2< Structural and other bile duct disorders >
+Anomalous arrangement of pancreaticobiliary duct
+Bile duct necrosis
+Biliary anastomosis complication
+Biliary cyst
+Biliary dilatation
+Biliary fistula
+Biliary ischaemia
+Biliary tract disorder
+Biliary-bronchial fistula
+Cholangiectasis acquired
+Cholangiectasis congenital
+Choledochal cyst
+Congenital absence of bile ducts
+Dilatation intrahepatic duct acquired
+Dilatation intrahepatic duct congenital
+Malformation biliary
+Perforation bile duct
+Post procedural bile leak
+Vanishing bile duct syndrome
+l2</ Structural and other bile duct disorders >
+l1</ Bile duct disorders >
+l1< Gallbladder disorders >
+l2< Cholecystitis and cholelithiasis >
+Cholecystitis
+Cholecystitis acute
+Cholecystitis chronic
+Cholecystitis infective
+Cholelithiasis
+Cholelithiasis migration
+Cholelithiasis obstructive
+Emphysematous cholecystitis
+Gallstone ileus
+Pseudocholelithiasis
+l2</ Cholecystitis and cholelithiasis >
+l2< Gallbladder disorders NEC >
+Biliary dyskinesia
+Gallbladder abscess
+Gallbladder agenesis
+Gallbladder anomaly congenital
+Gallbladder cholesterolosis
+Gallbladder disorder
+Gallbladder empyema
+Gallbladder enlargement
+Gallbladder fibrosis
+Gallbladder fistula
+Gallbladder injury
+Gallbladder mucocoele
+Gallbladder necrosis
+Gallbladder non-functioning
+Gallbladder obstruction
+Gallbladder oedema
+Gallbladder pain
+Gallbladder perforation
+Gallbladder polyp
+Gallbladder volvulus
+Hydrocholecystis
+Hyperplastic cholecystopathy
+Limy bile syndrome
+Porcelain gallbladder
+l2</ Gallbladder disorders NEC >
+l1</ Gallbladder disorders >
+l1< Hepatic and hepatobiliary disorders >
+l2< Cholestasis and jaundice >
+Cholestasis
+Cholestasis of pregnancy
+Deficiency of bile secretion
+Hepatitis cholestatic
+Hyperbilirubinaemia
+Hyperbilirubinaemia neonatal
+Jaundice
+Jaundice acholuric
+Jaundice cholestatic
+Jaundice extrahepatic obstructive
+Jaundice hepatocellular
+Jaundice neonatal
+Kernicterus
+Neonatal cholestasis
+Ocular icterus
+Parenteral nutrition associated liver disease
+Post cholecystectomy syndrome
+Progressive familial intrahepatic cholestasis
+Stauffer's syndrome
+Yellow skin
+l2</ Cholestasis and jaundice >
+l2< Hepatic and hepatobiliary disorders NEC >
+Accessory liver lobe
+Biliary polyp
+Biliary-vascular fistula
+Biloma
+Biloma rupture
+Cerebrohepatorenal syndrome
+Cholaemia
+Complications of transplanted liver
+Congenital cystic disease of liver
+Congenital hepatobiliary anomaly
+Diabetic hepatopathy
+Haemobilia
+Haemorrhagic hepatic cyst
+Hepatic amyloidosis
+Hepatic atrophy
+Hepatic calcification
+Hepatic cyst
+Hepatic cyst ruptured
+Hepatic displacement
+Hepatic dysplasia
+Hepatic infection
+Hepatic lesion
+Hepatic mass
+Hepatic rupture
+Hepatic sequestration
+Hepatic seroma
+Hepatobiliary cyst
+Hepatobiliary disease
+Hepatobiliary infection
+Hepatopulmonary syndrome
+Hypercholia
+Hyperphosphatasaemia
+Liver and pancreas transplant rejection
+Liver contusion
+Liver disorder
+Liver graft loss
+Liver sarcoidosis
+Liver transplant rejection
+Mitochondrial hepatopathy
+Oedema due to hepatic disease
+Polycystic liver disease
+Small-for-size liver syndrome
+Traumatic liver injury
+l2</ Hepatic and hepatobiliary disorders NEC >
+l2< Hepatic enzymes and function abnormalities >
+Acquired complement deficiency disease
+Bilirubin excretion disorder
+Crigler-Najjar syndrome
+HELLP syndrome
+Hepatic function abnormal
+Hyperammonaemia
+Hyperammonaemic crisis
+Hypertransaminasaemia
+Hypoalbuminaemia
+Hypoproteinaemia
+l2</ Hepatic enzymes and function abnormalities >
+l2< Hepatic failure and associated disorders >
+Acute hepatic failure
+Acute on chronic liver failure
+Asterixis
+Chronic hepatic failure
+Coma hepatic
+Hepatic encephalopathy
+Hepatic failure
+Hepatorenal failure
+Hepatorenal syndrome
+Minimal hepatic encephalopathy
+Subacute hepatic failure
+l2</ Hepatic failure and associated disorders >
+l2< Hepatic fibrosis and cirrhosis >
+Biliary cirrhosis
+Biliary cirrhosis primary
+Biliary fibrosis
+Cardiac cirrhosis
+Cirrhosis alcoholic
+Congenital hepatic fibrosis
+Cryptogenic cirrhosis
+Glycogen storage disease type IV
+Hepatic cirrhosis
+Hepatic fibrosis
+Lupoid hepatic cirrhosis
+Nodular regenerative hyperplasia
+Portal fibrosis
+Pseudocirrhosis
+Reynold's syndrome
+l2</ Hepatic fibrosis and cirrhosis >
+l2< Hepatic infections (excl viral) >
+Bacillary angiomatosis
+Clonorchiasis
+Fascioliasis
+Hepatic amoebiasis
+Hepatic candidiasis
+Hepatic cyst infection
+Hepatic echinococciasis
+Hepatic gas gangrene
+Hepatic infection bacterial
+Hepatic infection fungal
+Hepatic infection helminthic
+Hepatitis syphilitic
+Hepatitis toxoplasmal
+Hepatosplenic abscess
+Hepatosplenic candidiasis
+Liver abscess
+Opisthorchiasis
+Perihepatic abscess
+Portal pyaemia
+Schistosomiasis liver
+Tuberculosis liver
+l2</ Hepatic infections (excl viral) >
+l2< Hepatic metabolic disorders >
+Alpha-1 anti-trypsin deficiency
+Dubin-Johnson syndrome
+Gilbert's syndrome
+Haemochromatosis
+Haemochromatosis trait
+Hepatic siderosis
+Hepato-lenticular degeneration
+Hereditary haemochromatosis
+Mauriac syndrome
+Porphyria acute
+Porphyria non-acute
+Porphyrin metabolism disorder
+Porphyrinuria
+Rotor's syndrome
+l2</ Hepatic metabolic disorders >
+l2< Hepatic vascular disorders >
+Anorectal varices
+Anorectal varices haemorrhage
+Banti's syndrome
+Budd-Chiari syndrome
+Duodenal varices
+Gallbladder varices
+Gastric varices
+Gastric varices haemorrhage
+Hepatic arteriovenous malformation
+Hepatic artery aneurysm
+Hepatic artery embolism
+Hepatic artery occlusion
+Hepatic artery stenosis
+Hepatic artery thrombosis
+Hepatic haematoma
+Hepatic haemorrhage
+Hepatic infarction
+Hepatic ischaemia
+Hepatic vascular thrombosis
+Hepatic vein dilatation
+Hepatic vein embolism
+Hepatic vein occlusion
+Hepatic vein stenosis
+Hepatic vein thrombosis
+Intestinal varices
+Intrahepatic portal hepatic venous fistula
+Non-cirrhotic portal hypertension
+Oesophageal varices haemorrhage
+Peripancreatic varices
+Periportal sinus dilatation
+Portal hypertension
+Portal hypertensive colopathy
+Portal hypertensive enteropathy
+Portal hypertensive gastropathy
+Portal shunt
+Portal vein cavernous transformation
+Portal vein dilatation
+Portal vein occlusion
+Portal vein phlebitis
+Portal vein stenosis
+Portal vein thrombosis
+Portal venous system anomaly
+Portopulmonary hypertension
+Portosplenomesenteric venous thrombosis
+Retrograde portal vein flow
+Splenic varices
+Splenic varices haemorrhage
+Splenorenal shunt
+Spontaneous intrahepatic portosystemic venous shunt
+Stomal varices
+Urinary bladder varices
+Varices oesophageal
+Varicose veins of abdominal wall
+Venoocclusive liver disease
+White nipple sign
+l2</ Hepatic vascular disorders >
+l2< Hepatic viral infections >
+Acute hepatitis B
+Acute hepatitis C
+Adenoviral hepatitis
+Asymptomatic viral hepatitis
+Chronic hepatitis B
+Chronic hepatitis C
+Congenital hepatitis B infection
+Cytomegalovirus hepatitis
+Gianotti-Crosti syndrome
+Hepatitis A
+Hepatitis B
+Hepatitis B reactivation
+Hepatitis C
+Hepatitis D
+Hepatitis E
+Hepatitis F
+Hepatitis G
+Hepatitis H
+Hepatitis infectious mononucleosis
+Hepatitis non-A non-B
+Hepatitis non-A non-B non-C
+Hepatitis post transfusion
+Hepatitis viral
+Herpes simplex hepatitis
+Withdrawal hepatitis
+l2</ Hepatic viral infections >
+l2< Hepatobiliary signs and symptoms >
+Ascites
+Bacterascites
+Biliary ascites
+Biliary dyspepsia
+Cholestatic pruritus
+Congenital hepatomegaly
+Foetor hepaticus
+Haemorrhagic ascites
+Hepatic congestion
+Hepatic hydrothorax
+Hepatic hypertrophy
+Hepatic pain
+Hepatomegaly
+Hepatosplenomegaly
+Hepatosplenomegaly neonatal
+Kayser-Fleischer ring
+Liver induration
+Liver prolapse
+Liver tenderness
+Neonatal hepatomegaly
+Perihepatic discomfort
+Periportal oedema
+Pneumobilia
+l2</ Hepatobiliary signs and symptoms >
+l2< Hepatocellular damage and hepatitis NEC >
+Acute fatty liver of pregnancy
+Acute graft versus host disease in liver
+Acute yellow liver atrophy
+Alcoholic liver disease
+Allergic hepatitis
+Autoimmune hepatitis
+Cholestatic liver injury
+Chronic graft versus host disease in liver
+Chronic hepatitis
+Cystic fibrosis hepatic disease
+Drug-induced liver injury
+Fatty liver alcoholic
+Glycogen storage disease type I
+Glycogen storage disease type III
+Glycogen storage disease type VI
+Graft versus host disease in liver
+Granulomatous liver disease
+Hepatic infiltration eosinophilic
+Hepatic lymphocytic infiltration
+Hepatic necrosis
+Hepatic steato-fibrosis
+Hepatic steatosis
+Hepatitis
+Hepatitis acute
+Hepatitis alcoholic
+Hepatitis chronic active
+Hepatitis chronic persistent
+Hepatitis fulminant
+Hepatitis mumps
+Hepatitis neonatal
+Hepatitis toxic
+Hepatocellular damage neonatal
+Hepatocellular foamy cell syndrome
+Hepatocellular injury
+Hepatotoxicity
+Ischaemic hepatitis
+Liver injury
+Lupus hepatitis
+Lysosomal acid lipase deficiency
+Mixed liver injury
+Non-alcoholic fatty liver
+Non-alcoholic steatohepatitis
+Peliosis hepatis
+Portal tract inflammation
+Radiation hepatitis
+Reye's syndrome
+Steatohepatitis
+Zieve syndrome
+l2</ Hepatocellular damage and hepatitis NEC >
+l1</ Hepatic and hepatobiliary disorders >
+l1< Hepatobiliary neoplasms >
+l2< Hepatobiliary neoplasms benign >
+Benign biliary neoplasm
+Benign hepatic neoplasm
+Benign hepatobiliary neoplasm
+Benign neoplasm of ampulla of Vater
+Biliary adenoma
+Biliary hamartoma
+Cholangioadenoma
+Focal nodular hyperplasia
+Gallbladder adenoma
+Gallbladder papilloma
+Haemangioma of liver
+Hepatic adenoma
+Hepatic haemangioma rupture
+Hepatic hamartoma
+l2</ Hepatobiliary neoplasms benign >
+l2< Hepatobiliary neoplasms NEC >
+Biliary neoplasm
+Gallbladder neoplasm
+Hepatic neoplasm
+Hepatobiliary neoplasm
+Tumour of ampulla of Vater
+l2</ Hepatobiliary neoplasms NEC >
+l2< Malignant hepatobiliary neoplasms >
+Bile duct adenocarcinoma
+Bile duct adenosquamous carcinoma
+Bile duct cancer
+Bile duct cancer recurrent
+Bile duct cancer stage 0
+Bile duct cancer stage I
+Bile duct cancer stage II
+Bile duct cancer stage III
+Bile duct cancer stage IV
+Bile duct squamous cell carcinoma
+Biliary cancer metastatic
+Cholangiocarcinoma
+Cholangiosarcoma
+Gallbladder adenocarcinoma
+Gallbladder adenosquamous carcinoma
+Gallbladder cancer
+Gallbladder cancer metastatic
+Gallbladder cancer recurrent
+Gallbladder cancer stage 0
+Gallbladder cancer stage I
+Gallbladder cancer stage II
+Gallbladder cancer stage III
+Gallbladder cancer stage IV
+Gallbladder squamous cell carcinoma
+Hepatic angiosarcoma
+Hepatic cancer
+Hepatic cancer metastatic
+Hepatic cancer recurrent
+Hepatic cancer stage I
+Hepatic cancer stage II
+Hepatic cancer stage III
+Hepatic cancer stage IV
+Hepatobiliary cancer
+Hepatobiliary cancer in situ
+Hepatoblastoma
+Hepatoblastoma recurrent
+Hepatocellular carcinoma
+Leukaemic infiltration hepatic
+Liver carcinoma ruptured
+Malignant neoplasm of ampulla of Vater
+Metastases to biliary tract
+Metastases to gallbladder
+Metastases to liver
+Mixed hepatocellular cholangiocarcinoma
+l2</ Malignant hepatobiliary neoplasms >
+l1</ Hepatobiliary neoplasms >
+l0</ Hepatobiliary disorders>

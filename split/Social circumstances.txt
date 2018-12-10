@@ -1,0 +1,330 @@
+l0< Social circumstances>
+l1< Age related factors >
+l2< Age related issues >
+Adolescence
+Andropause
+Childhood
+Early adult transition
+Elderly
+Infant
+Late developer
+Life expectancy shortened
+Menarche
+Menopause
+Mid-life crisis
+Middle aged
+Postmenopause
+Premenarche
+Puberty
+l2</ Age related issues >
+l1</ Age related factors >
+l1< Economic and housing issues >
+l2< Economic circumstances >
+Bankruptcy
+Economic problem
+High income
+Inability to afford medication
+Insurance issue
+Low income
+Poverty
+l2</ Economic circumstances >
+l2< Employment issues >
+Early retirement
+Job change
+Job dissatisfaction
+Loss of employment
+Military service
+Overwork
+Retirement
+Stress at work
+Threat of redundancy
+Unemployment
+Voluntary redundancy
+l2</ Employment issues >
+l2< Housing circumstances >
+Damp housing
+Homeless
+Homeless family
+Inadequate housing
+Living alone
+Living in residential institution
+Overcrowded housing
+Return to family home
+Social stay hospitalisation
+l2</ Housing circumstances >
+l1</ Economic and housing issues >
+l1< Environmental issues >
+l2< Non-occupational and unspecified environmental problems >
+Flooding
+Food contamination
+Pollution
+Poor sanitation
+Water pollution
+l2</ Non-occupational and unspecified environmental problems >
+l2< Occupational environmental problems >
+Occupational physical problem
+Occupational problem environmental
+l2</ Occupational environmental problems >
+l1</ Environmental issues >
+l1< Family issues >
+l2< Bereavement issues >
+Bereavement
+Death of companion
+Death of pet
+Death of relative
+Suicide of companion
+Suicide of relative
+l2</ Bereavement issues >
+l2< Dependents >
+Aged parent
+Alcoholic relative
+Caregiver
+Demented relative
+Diabetic relative
+Disabled relative
+Psychotic family member
+Schizophrenic relative
+Sick relative
+l2</ Dependents >
+l2< Family and partner issues >
+Adoption
+Anxious parent
+Bed sharing
+Delivery of partner
+Divorced
+Divorced parents
+Empty nest syndrome
+Familial risk factor
+Family stress
+Foster care
+Homosexual parent
+Imprisonment of relative
+Infertile partner
+Marital problem
+Married
+Miscarriage of partner
+Multiple birth sibling
+Orphan
+Overprotective parent
+Parent-child problem
+Parental consanguinity
+Partner stress
+Pregnancy of partner
+Reconciliation with partner
+Respite care
+Sexual relationship change
+Single parent family
+Surrogate mother
+l2</ Family and partner issues >
+l1</ Family issues >
+l1< Gender related factors >
+l2< Pregnancy related circumstances >
+Aborted pregnancy
+Bottle feeding
+Breast feeding
+Child born to unmarried parents
+Delivery outside health facility
+Multigravida
+Multiparous
+Nulli gravida
+Nulliparous
+Parity
+Planning to become infertile
+Planning to become pregnant
+Primigravida
+Primiparous
+Woman of childbearing potential
+l2</ Pregnancy related circumstances >
+l2< Sexuality issues >
+Anal sex
+Bisexuality
+Early sexual debut
+Female genital mutilation
+Heterosexuality
+High risk sexual behaviour
+Homosexuality
+Non-consummation
+Promiscuity
+Sexual activity increased
+Sexually active
+Trans-sexualism
+l2</ Sexuality issues >
+l1</ Gender related factors >
+l1< Legal issues >
+l2< Crime victims >
+Burglary victim
+Victim of abuse
+Victim of chemical submission
+Victim of child abuse
+Victim of crime
+Victim of elder abuse
+Victim of homicide
+Victim of sexual abuse
+Victim of spousal abuse
+l2</ Crime victims >
+l2< Criminal activity >
+Chemical submission
+Child abuse
+Child neglect
+Crime
+Delinquency
+Drug diversion
+Elder abuse
+Foeticide
+Homicide
+Imprisonment
+Incest
+Legal problem
+Physical abuse
+Physical assault
+Prescription form tampering
+Psychological abuse
+Sexual abuse
+Shoplifting
+Spousal abuse
+Theft
+Verbal abuse
+l2</ Criminal activity >
+l1</ Legal issues >
+l1< Lifestyle issues >
+l2< Alcohol product use >
+Abstains from alcohol
+Alcohol use
+Alcoholic
+Ex-alcohol user
+Ex-alcoholic
+Maternal alcohol use
+Social alcohol drinker
+l2</ Alcohol product use >
+l2< Dietary and nutritional issues >
+Anabolic diet
+Diet noncompliance
+Fasting
+Feeding tube user
+Inadequate diet
+Kosher diet
+Macrobiotic diet
+Unhealthy diet
+Vegan
+Vegetarian
+l2</ Dietary and nutritional issues >
+l2< Disability issues >
+Amputee
+Artificial heart device user
+Artificial kidney device user
+Bedridden
+Blood product transfusion dependent
+Breast prosthesis user
+Cardiac assistance device user
+Cardiac valve prosthesis user
+Corrective lens user
+Dental prosthesis user
+Denture wearer
+Dependence on oxygen therapy
+Device dependence
+Disability
+Edentulous
+External ear prosthesis user
+Eye prosthesis user
+Foot prosthesis user
+Hand prosthesis user
+Hearing aid user
+Hearing disability
+Housebound
+Immobile
+Immobilisation prolonged
+Impaired ability to use machinery
+Impaired driving ability
+Impaired work ability
+Joint prosthesis user
+Laryngeal prosthesis user
+Limb prosthesis user
+Loss of personal independence in daily activities
+Mandibular prosthesis user
+Maxillofacial prosthesis user
+Mental disability
+Middle ear prosthesis user
+Orthodontic appliance user
+Orthosis user
+Paralytic disability
+Penile prosthesis user
+Physical disability
+Prosthesis user
+Sight disability
+Testicular prosthesis user
+Truss user
+Urinary assistance device user
+Vascular device user
+Walking aid user
+Walking disability
+Wheelchair user
+l2</ Disability issues >
+l2< Drug and chemical abuse >
+Drug abuser
+Ex-drug abuser
+Maternal use of illicit drugs
+Substance abuser
+l2</ Drug and chemical abuse >
+l2< Educational issues >
+Educational problem
+Failed examinations
+Fight in school
+Illiteracy
+Mentally late developer
+Truancy
+Well educated
+l2</ Educational issues >
+l2< Social issues NEC >
+Abstains from recreational drugs
+Blood donor
+Bone marrow donor
+Caffeine consumption
+Celibacy
+Circumcised
+Clinical trial participant
+Contraindication to medical treatment
+Contraindication to surgery
+Contraindication to vaccination
+Convalescent
+Cosmetic body piercing
+Disease risk factor
+Ear piercing
+Excessive exercise
+Exercise adequate
+Exercise lack of
+Foreign travel
+Gambling
+Genetic sexual attraction
+Hair dye user
+Impaired quality of life
+Investigation noncompliance
+Non-economic loss
+Oocyte donor
+Organ donor
+Patient dissatisfaction with device
+Patient dissatisfaction with treatment
+Patient uncooperative
+Personal relationship issue
+Poor personal hygiene
+Prostitute
+Refusal of examination
+Refusal of treatment by patient
+Refusal of treatment by relative
+Social problem
+Stem cell donor
+Substance use
+Tanning
+Tattoo
+Treatment noncompliance
+Uncircumcised
+Wig wearer
+l2</ Social issues NEC >
+l2< Tobacco use >
+Electronic cigarette user
+Ex-tobacco user
+Non-tobacco user
+Passive smoking
+Tobacco user
+l2</ Tobacco use >
+l1</ Lifestyle issues >
+l0</ Social circumstances>

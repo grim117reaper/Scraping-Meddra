@@ -1,0 +1,2332 @@
+l0< Infections and infestations>
+l1< Ancillary infectious topics >
+l2< Infectious disorders carrier >
+Bacterial disease carrier
+Diphtheria carrier
+HIV carrier
+HTLV-1 carrier
+Infectious disease carrier
+Mycobacterial disease carrier
+Sexually transmitted disease carrier
+Typhoid carrier
+Viral hepatitis carrier
+l2</ Infectious disorders carrier >
+l2< Infectious transmissions >
+Air-borne transmission
+Community acquired infection
+Direct infection transmission
+Faecal-oral transmission of infection
+Food poisoning
+Human immunodeficiency virus transmission
+Iatrogenic infection
+Indirect infection transmission
+Infection transmission via personal contact
+Infection via vaccinee
+Nosocomial infection
+Primary transmission
+Secondary transmission
+Sexual transmission of infection
+Suspected transmission of an infectious agent via product
+Tick paralysis
+Transmission of an infectious agent via product
+Transmission of an infectious agent via transplant
+Vaccine virus shedding
+Vector-borne transmission of infection
+Vertical infection transmission
+l2</ Infectious transmissions >
+l2< Inflammatory disorders following infection >
+Acute encephalitis with refractory, repetitive partial seizures
+Acute motor axonal neuropathy
+Acute motor-sensory axonal neuropathy
+Arthritis reactive
+Bickerstaff's encephalitis
+Chronic gastritis
+Chronic hepatitis
+Encephalitis post immunisation
+Encephalitis post varicella
+Endocarditis rheumatic
+Erythema marginatum
+Febrile infection-related epilepsy syndrome
+Granulomatous lymphadenitis
+Guillain-Barre syndrome
+Hepatitis chronic active
+Hepatitis chronic persistent
+Hepatitis fulminant
+Kawasaki's disease
+Keratoderma blenorrhagica
+Malacoplakia gastrointestinal
+Malacoplakia vesicae
+Myocarditis post infection
+Paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection
+Pericarditis rheumatic
+Poncet's disease
+Post herpetic neuralgia
+Post infection glomerulonephritis
+Post polio syndrome
+Post streptococcal glomerulonephritis
+Progressive massive fibrosis
+Psorospermiasis
+Reiter's syndrome
+Reye's syndrome
+Rheumatic fever
+Rheumatic heart disease
+Roseola
+Secondary amyloidosis
+Sporadic infantile bilateral striatal necrosis
+Stevens-Johnson syndrome
+Subacute sclerosing panencephalitis
+Sydenham's chorea
+Thyroiditis subacute
+Toxic epidermal necrolysis
+l2</ Inflammatory disorders following infection >
+l1</ Ancillary infectious topics >
+l1< Bacterial infectious disorders >
+l2< Actinomycotic infectious disorders >
+Actinomycosis
+Actinomycotic abdominal infection
+Actinomycotic pulmonary infection
+Actinomycotic skin infection
+l2</ Actinomycotic infectious disorders >
+l2< Aeromonas infections >
+Aeromonas infection
+Gastroenteritis aeromonas
+l2</ Aeromonas infections >
+l2< Bacillary infections >
+Anthrax
+Anthrax sepsis
+Bacillus bacteraemia
+Bacillus infection
+Cutaneous anthrax
+Gastroenteritis bacillus
+Gastrointestinal anthrax
+Pneumonia anthrax
+Shewanella algae bacteraemia
+l2</ Bacillary infections >
+l2< Bacterial infections NEC >
+Abdominal hernia gangrenous
+Abscess bacterial
+Acid fast bacilli infection
+Acinetobacter bacteraemia
+Acinetobacter infection
+Acute focal bacterial nephritis
+Administration site cellulitis
+Alcaligenes infection
+Angina gangrenous
+Anorectal cellulitis
+Anorectal infection bacterial
+Application site cellulitis
+Arteriosclerotic gangrene
+Arthritis bacterial
+Asymptomatic bacteriuria
+Bacterascites
+Bacterial abdominal infection
+Bacterial abscess central nervous system
+Bacterial allergy
+Bacterial blepharitis
+Bacterial colitis
+Bacterial dacryocystitis
+Bacterial diarrhoea
+Bacterial food poisoning
+Bacterial infection
+Bacterial iritis
+Bacterial labyrinthitis
+Bacterial parotitis
+Bacterial pericarditis
+Bacterial prostatitis
+Bacterial pyelonephritis
+Bacterial rhinitis
+Bacterial salpingitis
+Bacterial sepsis
+Bacterial tracheitis
+Bacterial ureteritis
+Bacterial urethritis
+Bacterial vaginosis
+Bacterial vulvovaginitis
+Bacteriuria
+Bacteriuria in pregnancy
+Bacteroides infection
+Bifidobacterium infection
+Biliary tract infection bacterial
+Botryomycosis
+Breast cellulitis
+Brevibacterium infection
+Bronchitis bacterial
+Catheter site cellulitis
+Cellulitis
+Cellulitis gangrenous
+Cellulitis of male external genital organ
+Cellulitis orbital
+Citrobacter bacteraemia
+Citrobacter infection
+Citrobacter sepsis
+Colon gangrene
+Conjunctivitis bacterial
+Cronobacter bacteraemia
+Cronobacter infection
+Cronobacter necrotising enterocolitis
+Cystitis bacterial
+Diabetic gangrene
+Diaphragmatic hernia gangrenous
+Ear infection bacterial
+Eczema impetiginous
+Empedobacter brevis infection
+Endocarditis bacterial
+Endometritis bacterial
+Enterocolitis bacterial
+Eubacterium infection
+External ear cellulitis
+Eye infection bacterial
+Femoral hernia gangrenous
+Flavobacterium infection
+Gangrene
+Gangrene neonatal
+Gangrenous balanitis
+Gastritis bacterial
+Gastroenteritis bacterial
+Gastroenteritis paracolon bacillus
+Gastrointestinal bacterial infection
+Gastrointestinal bacterial overgrowth
+Gastrointestinal gangrene
+Genital infection bacterial
+Granulicatella bacteraemia
+Granulicatella infection
+Hepatic infection bacterial
+Hernia gangrenous
+Ileal gangrene
+Implant site cellulitis
+Incision site cellulitis
+Incisional hernia gangrenous
+Infusion site cellulitis
+Inguinal hernia gangrenous
+Injection site cellulitis
+Intestinal gangrene
+Janeway lesion
+Jejunal gangrene
+Keratitis bacterial
+Lacrimal sac cellulitis
+Lactobacillus infection
+Laryngitis bacterial
+Leptotrichia infection
+Leuconostoc infection
+Lower respiratory tract infection bacterial
+Lymphadenitis bacterial
+Mastitis bacterial
+Medical device site cellulitis
+Meningitis bacterial
+Meningitis cronobacter
+Meningoencephalitis bacterial
+Methylobacterium infection
+Micrococcal sepsis
+Micrococcus infection
+Morganella infection
+Myocarditis bacterial
+Nail bed infection bacterial
+Oesophagitis bacterial
+Oral bacterial infection
+Osler's nodes
+Osteomyelitis bacterial
+Otitis externa bacterial
+Otitis media bacterial
+Ovarian bacterial infection
+Overgrowth bacterial
+Pancreatitis bacterial
+Pantoea agglomerans infection
+Parvimonas infection
+Parvimonas micra infection
+Peptostreptococcus infection
+Perichondritis
+Periorbital cellulitis
+Peritonitis bacterial
+Pharyngitis bacterial
+Pleural infection bacterial
+Pneumonia acinetobacter
+Pneumonia bacterial
+Post procedural cellulitis
+Proctitis bacterial
+Propionibacterium infection
+Puncture site cellulitis
+Purple urine bag syndrome
+Pyomyositis
+Raoultella ornithinolytica infection
+Respiratory tract infection bacterial
+Rhodococcus infection
+Scrotal gangrene
+Sinusitis bacterial
+Skin bacterial infection
+Small intestine gangrene
+Sphingomonas paucimobilis infection
+Splenic infection bacterial
+Stenotrophomonas infection
+Stenotrophomonas sepsis
+Stoma site cellulitis
+Stomatococcal infection
+Superinfection bacterial
+Sycosis barbae
+Systemic bacterial infection
+Tonsillitis bacterial
+Tuberculous abscess central nervous system
+Umbilical hernia gangrenous
+Upper respiratory tract infection bacterial
+Urinary tract infection bacterial
+Urogenital infection bacterial
+Vaccination site cellulitis
+Vaginal cellulitis
+Veillonella infection
+Vessel puncture site cellulitis
+Vulval cellulitis
+Whipple's disease
+Wound infection bacterial
+Zoonotic bacterial infection
+l2</ Bacterial infections NEC >
+l2< Bordetella infections >
+Bordetella infection
+Pertussis
+Pneumonia bordetella
+l2</ Bordetella infections >
+l2< Borrelial infections >
+Acrodermatitis chronica atrophicans
+Borrelia infection
+Erythema migrans
+Lyme carditis
+Lyme disease
+Meningitis borrelia
+Neuroborreliosis
+Post treatment Lyme disease syndrome
+Relapsing fever
+l2</ Borrelial infections >
+l2< Brucella infections >
+Brucella sepsis
+Brucellosis
+l2</ Brucella infections >
+l2< Burkholderia infections >
+Burkholderia cepacia complex infection
+Burkholderia cepacia complex sepsis
+Burkholderia gladioli infection
+Burkholderia infection
+Burkholderia mallei infection
+Burkholderia pseudomallei infection
+l2</ Burkholderia infections >
+l2< Campylobacter infections >
+Campylobacter colitis
+Campylobacter gastroenteritis
+Campylobacter infection
+Campylobacter sepsis
+l2</ Campylobacter infections >
+l2< Capnocytophaga infections >
+Capnocytophaga infection
+l2</ Capnocytophaga infections >
+l2< Clostridia infections >
+Botulism
+Clostridial infection
+Clostridial sepsis
+Clostridium bacteraemia
+Clostridium colitis
+Clostridium difficile colitis
+Clostridium difficile infection
+Enteritis necroticans
+Gas gangrene
+Gastroenteritis clostridial
+Hepatic gas gangrene
+Pseudomembranous colitis
+Tetanus
+Tetanus neonatorum
+l2</ Clostridia infections >
+l2< Corynebacteria infections >
+Corynebacterium bacteraemia
+Corynebacterium infection
+Corynebacterium sepsis
+Diphtheria
+Erythrasma
+l2</ Corynebacteria infections >
+l2< Enterobacter infections >
+Enterobacter bacteraemia
+Enterobacter infection
+Enterobacter pneumonia
+Enterobacter sepsis
+Enterobacter tracheobronchitis
+Gastroenteritis aerobacter
+l2</ Enterobacter infections >
+l2< Enterococcal infections >
+Cellulitis enterococcal
+Endocarditis enterococcal
+Enterococcal bacteraemia
+Enterococcal gastroenteritis
+Enterococcal infection
+Enterococcal sepsis
+Meningitis enterococcal
+Urinary tract infection enterococcal
+l2</ Enterococcal infections >
+l2< Erysipelothrix infections >
+Erysipelothrix infection
+l2</ Erysipelothrix infections >
+l2< Escherichia infections >
+Cystitis escherichia
+Escherichia bacteraemia
+Escherichia infection
+Escherichia pyelonephritis
+Escherichia sepsis
+Escherichia urinary tract infection
+Escherichia vaginitis
+Gastroenteritis Escherichia coli
+Pneumonia escherichia
+Prostatitis Escherichia coli
+l2</ Escherichia infections >
+l2< Francisella infections >
+Pneumonia tularaemia
+Tularaemia
+l2</ Francisella infections >
+l2< Fusobacterium infections >
+Fusobacterium infection
+Lemierre syndrome
+Lineal gingival erythema
+Necrobacillosis
+Necrotising ulcerative gingivostomatitis
+Necrotising ulcerative periodontitis
+l2</ Fusobacterium infections >
+l2< Gardnerella infections >
+Gardnerella infection
+Vaginitis gardnerella
+l2</ Gardnerella infections >
+l2< Haemophilus infections >
+Bronchitis haemophilus
+Chancroid
+Endocarditis haemophilus
+Epiglottitis haemophilus
+Haemophilus bacteraemia
+Haemophilus infection
+Haemophilus sepsis
+Meningitis haemophilus
+Otitis media haemophilus
+Pneumonia haemophilus
+Septic arthritis haemophilus
+l2</ Haemophilus infections >
+l2< Helicobacter infections >
+Gastric ulcer helicobacter
+Helicobacter duodenitis
+Helicobacter gastritis
+Helicobacter infection
+Helicobacter sepsis
+Peptic ulcer helicobacter
+l2</ Helicobacter infections >
+l2< Klebsiella infections >
+Cystitis klebsiella
+Granuloma inguinale
+Klebsiella bacteraemia
+Klebsiella infection
+Klebsiella sepsis
+Pneumonia klebsiella
+Rhinoscleroma
+l2</ Klebsiella infections >
+l2< Legionella infections >
+Legionella infection
+Pneumonia legionella
+Pontiac fever
+l2</ Legionella infections >
+l2< Leptospira infections >
+Anicteric leptospirosis
+Leptospirosis
+Meningitis leptospiral
+Weil's disease
+l2</ Leptospira infections >
+l2< Listeria infections >
+Listeria encephalitis
+Listeria sepsis
+Listeriosis
+Meningitis listeria
+l2</ Listeria infections >
+l2< Moraxella infections >
+Bronchitis moraxella
+Moraxella infection
+Otitis media moraxella
+Pneumonia moraxella
+l2</ Moraxella infections >
+l2< Neisseria infections >
+Arthritis gonococcal
+Cervicitis gonococcal
+Conjunctivitis gonococcal neonatal
+Cystitis gonococcal
+Encephalitis meningococcal
+Endocarditis gonococcal
+Endocarditis meningococcal
+Endometritis gonococcal
+Epididymo-orchitis gonococcal
+Eye infection gonococcal
+Genitourinary tract gonococcal infection
+Gonococcal heart disease
+Gonococcal pelvic inflammatory disease
+Gonorrhoea
+Keratosis gonococcal
+Meningitis gonococcal
+Meningitis meningococcal
+Meningococcal bacteraemia
+Meningococcal carditis
+Meningococcal infection
+Meningococcal sepsis
+Myocarditis meningococcal
+Neisseria infection
+Optic neuritis meningococcal
+Oropharyngeal gonococcal infection
+Pericarditis gonococcal
+Pericarditis meningococcal
+Perihepatitis gonococcal
+Peritonitis gonococcal
+Proctitis gonococcal
+Prostatitis gonococcal
+Salpingitis gonococcal
+Seminal vesiculitis gonococcal
+Septic arthritis neisserial
+Urethritis gonococcal
+Vulvovaginitis gonococcal
+Waterhouse-Friderichsen syndrome
+l2</ Neisseria infections >
+l2< Nocardia infections >
+Nocardia sepsis
+Nocardiosis
+l2</ Nocardia infections >
+l2< Pasteurella infections >
+Cellulitis pasteurella
+Pasteurella infection
+Sepsis pasteurella
+l2</ Pasteurella infections >
+l2< Porphyromonas infections >
+Porphyromonas infection
+l2</ Porphyromonas infections >
+l2< Proteus infections >
+Gastroenteritis proteus
+Pneumonia proteus
+Proteus infection
+l2</ Proteus infections >
+l2< Pseudomonal infections >
+Cystitis pseudomonal
+Endocarditis pseudomonal
+Gastroenteritis pseudomonas
+Lung infection pseudomonal
+Pneumonia pseudomonal
+Pseudomonal bacteraemia
+Pseudomonal sepsis
+Pseudomonas aeruginosa meningitis
+Pseudomonas bronchitis
+Pseudomonas infection
+Urinary tract infection pseudomonal
+Wound infection pseudomonas
+l2</ Pseudomonal infections >
+l2< Salmonella infections >
+Aortitis salmonella
+Arthritis salmonella
+Gastroenteritis salmonella
+Meningitis salmonella
+Osteomyelitis salmonella
+Paratyphoid fever
+Pneumonia salmonella
+Salmonella bacteraemia
+Salmonella sepsis
+Salmonellosis
+Typhoid fever
+l2</ Salmonella infections >
+l2< Serratia infections >
+Pneumonia serratia
+Serratia bacteraemia
+Serratia infection
+Serratia sepsis
+l2</ Serratia infections >
+l2< Shigella infections >
+Gastroenteritis shigella
+Shigella infection
+Shigella sepsis
+l2</ Shigella infections >
+l2< Spirillum infections >
+Spirillary fever
+l2</ Spirillum infections >
+l2< Staphylococcal infections >
+Bullous impetigo
+Bursitis infective staphylococcal
+Cellulitis staphylococcal
+Ear infection staphylococcal
+Endocarditis staphylococcal
+Eye infection staphylococcal
+Furuncle
+Gastroenteritis staphylococcal
+Meningitis staphylococcal
+Necrotising fasciitis staphylococcal
+Periporitis staphylogenes
+Pneumonia staphylococcal
+Septic arthritis staphylococcal
+Staphylococcal abscess
+Staphylococcal bacteraemia
+Staphylococcal blepharitis
+Staphylococcal impetigo
+Staphylococcal infection
+Staphylococcal mediastinitis
+Staphylococcal osteomyelitis
+Staphylococcal parotitis
+Staphylococcal pharyngitis
+Staphylococcal scalded skin syndrome
+Staphylococcal sepsis
+Staphylococcal skin infection
+Staphylococcal toxaemia
+Toxic shock syndrome staphylococcal
+Urinary tract infection staphylococcal
+Vulvovaginitis staphylococcal
+Wound infection staphylococcal
+l2</ Staphylococcal infections >
+l2< Streptobacillus infections >
+Septic arthritis streptobacillus
+Streptobacillary fever
+Streptobacillus infection
+l2</ Streptobacillus infections >
+l2< Streptococcal infections >
+Alpha haemolytic streptococcal infection
+Beta haemolytic streptococcal infection
+Bronchitis pneumococcal
+Cellulitis streptococcal
+Cervicitis streptococcal
+Erysipelas
+Group B streptococcus neonatal sepsis
+Meningitis pneumococcal
+Meningitis streptococcal
+Necrotising fasciitis streptococcal
+Perianal streptococcal infection
+Peritonitis pneumococcal
+Pharyngitis streptococcal
+Pneumococcal bacteraemia
+Pneumococcal infection
+Pneumococcal sepsis
+Pneumonia pneumococcal
+Pneumonia streptococcal
+Pyoderma streptococcal
+Scarlet fever
+Septic arthritis streptococcal
+Severe invasive streptococcal infection
+Streptococcal abscess
+Streptococcal bacteraemia
+Streptococcal endocarditis
+Streptococcal impetigo
+Streptococcal infection
+Streptococcal sepsis
+Streptococcal urinary tract infection
+Tonsillitis streptococcal
+Toxic shock syndrome streptococcal
+Vulvovaginitis streptococcal
+l2</ Streptococcal infections >
+l2< Treponema infections >
+Adenopathy syphilitic
+Alopecia syphilitic
+Aortic aneurysm syphilitic
+Aortitis syphilitic
+Brachyspira infection
+Cardiovascular syphilis
+Cerebral aneurysm ruptured syphilitic
+Condyloma latum
+Congenital syphilis
+Congenital syphilitic encephalitis
+Congenital syphilitic meningitis
+Congenital syphilitic osteochondritis
+Endemic syphilis
+Endocarditis syphilitic
+Eye infection syphilitic
+Hepatitis syphilitic
+Latent syphilis
+Malignant syphilis
+Myocarditis syphilitic
+Neurosyphilis
+Pericarditis syphilitic
+Peritonitis syphilitic
+Pinta
+Primary syphilis
+Pulmonary syphilis
+Renal syphilis
+Secondary syphilis
+Spirochaetal infection
+Syphilis
+Syphilis anal
+Syphilis genital
+Syphilis musculoskeletal
+Syphilitic endocarditis of heart valve
+Tertiary syphilis
+Yaws
+Yaws of bone
+Yaws of skin
+l2</ Treponema infections >
+l2< Vibrio infections >
+Cholera
+Gastroenteritis vibrio
+l2</ Vibrio infections >
+l2< Yersinia infections >
+Bubonic plague
+Gastroenteritis yersinia
+Plague
+Plague sepsis
+Pneumonic plague
+Yersinia bacteraemia
+Yersinia infection
+Yersinia sepsis
+l2</ Yersinia infections >
+l1</ Bacterial infectious disorders >
+l1< Chlamydial infectious disorders >
+l2< Chlamydial infections >
+Anal chlamydia infection
+Chlamydial cervicitis
+Chlamydial infection
+Chlamydial pelvic inflammatory disease
+Conjunctivitis chlamydial
+Eye infection chlamydial
+Genitourinary chlamydia infection
+Gynaecological chlamydia infection
+Inclusion conjunctivitis
+Inclusion conjunctivitis neonatal
+Lymphogranuloma venereum
+Peritoneal chlamydia infection
+Pharyngeal chlamydia infection
+Pneumonia chlamydial
+Proctitis chlamydial
+Psittacosis
+Trachoma
+Urethritis chlamydial
+Vaginitis chlamydial
+Vulvovaginitis chlamydial
+l2</ Chlamydial infections >
+l1</ Chlamydial infectious disorders >
+l1< Ectoparasitic disorders >
+l2< Ectoparasitic infestations >
+Acariasis
+Acarodermatitis
+Arthropod infestation
+Bed bug infestation
+Demodicidosis
+Flea infestation
+Hirudiniasis
+Infestation
+Lice infestation
+Myiasis
+l2</ Ectoparasitic infestations >
+l1</ Ectoparasitic disorders >
+l1< Fungal infectious disorders >
+l2< Allescheria infections >
+Allescheriosis
+l2</ Allescheria infections >
+l2< Aspergillus infections >
+Aspergilloma
+Aspergillosis oral
+Aspergillus infection
+Bronchopulmonary aspergillosis
+Bronchopulmonary aspergillosis allergic
+Cerebral aspergillosis
+Meningitis aspergillus
+Oro-pharyngeal aspergillosis
+Sinusitis aspergillus
+l2</ Aspergillus infections >
+l2< Blastomyces infections >
+Blastomycosis
+Epididymitis blastomyces
+Osteomyelitis blastomyces
+Pneumonia blastomyces
+l2</ Blastomyces infections >
+l2< Candida infections >
+Anal candidiasis
+Balanitis candida
+Bladder candidiasis
+Candida cervicitis
+Candida endophthalmitis
+Candida infection
+Candida nappy rash
+Candida osteomyelitis
+Candida pneumonia
+Candida retinitis
+Candida sepsis
+Candidiasis of trachea
+Candiduria
+Cerebral candidiasis
+Endocarditis candida
+Gastrointestinal candidiasis
+Genital candidiasis
+Hepatic candidiasis
+Hepatosplenic candidiasis
+Meningitis candida
+Mucocutaneous candidiasis
+Nail candida
+Nasal candidiasis
+Neonatal candida infection
+Oesophageal candidiasis
+Oral candidiasis
+Oropharyngeal candidiasis
+Otitis externa candida
+Peritoneal candidiasis
+Proctitis monilial
+Respiratory moniliasis
+Skin candida
+Splenic candidiasis
+Stoma site candida
+Systemic candida
+Vulvovaginal candidiasis
+l2</ Candida infections >
+l2< Cladosporidia infections >
+Chromoblastomycosis
+l2</ Cladosporidia infections >
+l2< Coccidioides infections >
+Coccidioides encephalitis
+Coccidioidomycosis
+Cutaneous coccidioidomycosis
+Meningitis coccidioides
+l2</ Coccidioides infections >
+l2< Cryptococcal infections >
+Cryptococcal cutaneous infection
+Cryptococcal fungaemia
+Cryptococcosis
+Disseminated cryptococcosis
+Gastroenteritis cryptococcal
+Meningitis cryptococcal
+Neurocryptococcosis
+Pneumonia cryptococcal
+l2</ Cryptococcal infections >
+l2< Exserohilum infections >
+Exserohilum infection
+Meningitis exserohilum
+l2</ Exserohilum infections >
+l2< Fungal infections NEC >
+Abscess fungal
+Alternaria infection
+Anal fungal infection
+Arthritis fungal
+Biliary tract infection fungal
+Bronchitis fungal
+Central nervous system fungal infection
+Cerebral fungal infection
+Ear infection fungal
+Encephalitis fungal
+Enterocolitis fungal
+Eye infection fungal
+Fungal abscess central nervous system
+Fungal balanitis
+Fungal cystitis
+Fungal endocarditis
+Fungal infection
+Fungal labyrinthitis
+Fungal oesophagitis
+Fungal paronychia
+Fungal peritonitis
+Fungal pharyngitis
+Fungal retinitis
+Fungal rhinitis
+Fungal sepsis
+Fungal skin infection
+Fungal tracheitis
+Funguria
+Fusarium infection
+Gastritis fungal
+Gastrointestinal fungal infection
+Genital infection fungal
+Geotrichum infection
+Hepatic infection fungal
+Keratitis fungal
+Laryngitis fungal
+Lobomycosis
+Lower respiratory tract infection fungal
+Lymphadenitis fungal
+Mastitis fungal
+Meningitis fungal
+Mucormycosis
+Mycetoma mycotic
+Mycotic corneal ulcer
+Mycotic endophthalmitis
+Mycotoxicosis
+Myocarditis mycotic
+Necrotising fasciitis fungal
+Neoscytalidium infection
+Onychomycosis
+Oral fungal infection
+Oropharyngitis fungal
+Osteomyelitis fungal
+Otitis externa fungal
+Otitis media fungal
+Overgrowth fungal
+Pancreatitis fungal
+Penicillium infection
+Pericarditis fungal
+Phaehyphomycosis
+Pneumonia fungal
+Proctitis fungal
+Pulmonary mycosis
+Pulmonary trichosporonosis
+Pyelonephritis fungal
+Pythium insidiosum infection
+Respiratory tract infection fungal
+Scedosporium infection
+Scopulariopsis infection
+Severe asthma with fungal sensitisation
+Sinusitis fungal
+Splenic infection fungal
+Superinfection fungal
+Systemic mycosis
+Tongue fungal infection
+Tonsillitis fungal
+Torulopsis infection
+Trichosporon infection
+Upper respiratory fungal infection
+Urinary tract infection fungal
+Urogenital infection fungal
+Vulvovaginal mycotic infection
+Wound infection fungal
+l2</ Fungal infections NEC >
+l2< Histoplasma infections >
+Acute pulmonary histoplasmosis
+Chronic pulmonary histoplasmosis
+Endocarditis histoplasma
+Histoplasmosis
+Histoplasmosis cutaneous
+Histoplasmosis disseminated
+Meningitis histoplasma
+Pericarditis histoplasma
+Presumed ocular histoplasmosis syndrome
+Retinitis histoplasma
+l2</ Histoplasma infections >
+l2< Paracoccidioides infections >
+Paracoccidioides infection
+l2</ Paracoccidioides infections >
+l2< Pneumocystis infections >
+Pneumocystis jirovecii infection
+Pneumocystis jirovecii pneumonia
+l2</ Pneumocystis infections >
+l2< Pseudallescheria infections >
+Pseudallescheria infection
+Pseudallescheria sepsis
+l2</ Pseudallescheria infections >
+l2< Rhinosporidia infections >
+Rhinosporidiosis
+l2</ Rhinosporidia infections >
+l2< Sporothrix infections >
+Cutaneous sporotrichosis
+Sporotrichosis
+l2</ Sporothrix infections >
+l2< Tinea infections >
+Anal tinea
+Black piedra
+Body tinea
+Dermatophytosis
+Dermatophytosis of nail
+Kerion
+Malassezia infection
+Microsporum infection
+Tinea barbae
+Tinea blanca
+Tinea capitis
+Tinea cruris
+Tinea faciei
+Tinea imbricata
+Tinea infection
+Tinea manuum
+Tinea nigra
+Tinea pedis
+Tinea versicolour
+Trichophytic granuloma
+Trichophytosis
+l2</ Tinea infections >
+l1</ Fungal infectious disorders >
+l1< Helminthic disorders >
+l2< Cestode infections >
+Cestode infection
+Diphyllobothriasis
+Echinococciasis
+Hepatic echinococciasis
+Hymenolepiasis
+Neurocysticercosis
+Pulmonary echinococciasis
+Renal echinococciasis
+Taeniasis
+Thyroid echinococciasis
+l2</ Cestode infections >
+l2< Helminthic infections NEC >
+Arthritis helminthic
+Biliary tract infection helminthic
+Cystitis helminthic
+Endocarditis helminthic
+Enterocolitis helminthic
+Eye infection helminthic
+Gastritis helminthic
+Genital infection helminthic
+Helminthic infection
+Hepatic infection helminthic
+Lymphadenitis helminthic
+Meningoencephalitis helminthic
+Myocarditis helminthic
+Oral helminthic infection
+Pancreatitis helminthic
+Pericarditis helminthic
+Peritonitis helminthic
+Pneumonia helminthic
+Skin infection helminthic
+Splenic infection helminthic
+Upper respiratory tract infection helminthic
+Vulvovaginitis helminthic
+Wound infection helminthic
+l2</ Helminthic infections NEC >
+l2< Nematode infections >
+Angiostrongylus infection
+Anisakiasis
+Ascariasis
+Capillariasis
+Cutaneous larva migrans
+Dirofilariasis
+Dracunculiasis
+Enterobiasis
+Filariasis
+Filariasis lymphatic
+Gnathostomiasis
+Hookworm infection
+Nematodiasis
+Onchocerciasis
+Strongyloidiasis
+Toxocariasis
+Trichiniasis
+Trichostrongyliasis
+Trichuriasis
+Tropical eosinophilia
+l2</ Nematode infections >
+l2< Trematode infections >
+Clonorchiasis
+Fascioliasis
+Fasciolopsiasis
+Heterophyiasis
+Metagonimiasis
+Opisthorchiasis
+Paragonimiasis
+Schistosomiasis
+Schistosomiasis bladder
+Schistosomiasis cutaneous
+Schistosomiasis liver
+Trematode infection
+l2</ Trematode infections >
+l1</ Helminthic disorders >
+l1< Infections - pathogen unspecified >
+l2< Abdominal and gastrointestinal infections >
+Abdominal abscess
+Abdominal hernia infection
+Abdominal infection
+Abdominal wall abscess
+Abdominal wall infection
+Abscess intestinal
+Anal abscess
+Anal fistula infection
+Anal infection
+Anal papillitis
+Anorectal infection
+Appendiceal abscess
+Appendicitis
+Appendicitis perforated
+Colonic abscess
+Colostomy infection
+Diarrhoea infectious
+Diarrhoea infectious neonatal
+Diverticulitis
+Diverticulitis intestinal haemorrhagic
+Douglas' abscess
+Dysentery
+Enteritis infectious
+Enterocolitis infectious
+Gastric infection
+Gastroenteritis
+Gastrointestinal infection
+Haemorrhoid infection
+Infectious colitis
+Infective gastroduodenitis
+Infective mesenteric panniculitis
+Intestinal fistula infection
+Mesenteric abscess
+Oesophageal infection
+Pancreas infection
+Pancreatic abscess
+Paraoesophageal abscess
+Parasitic gastroenteritis
+Perihepatic abscess
+Perirectal abscess
+Peritoneal abscess
+Peritonitis
+Proctitis infectious
+Pyloric abscess
+Rectal abscess
+Retroperitoneal abscess
+Retroperitoneal infection
+Retroperitonitis
+Subdiaphragmatic abscess
+l2</ Abdominal and gastrointestinal infections >
+l2< Bone and joint infections >
+Abscess jaw
+Administration site joint infection
+Application site joint infection
+Arthritis infective
+Bone abscess
+Bursitis infective
+Fracture infection
+Infected bunion
+Infective chondritis
+Infective periostitis
+Infective spondylitis
+Infusion site joint infection
+Injection site joint infection
+Intervertebral discitis
+Joint abscess
+Medical device site joint infection
+Osteomyelitis
+Osteomyelitis acute
+Osteomyelitis chronic
+Paraspinal abscess
+Purulent synovitis
+Sternitis
+Subperiosteal abscess
+Vaccination site joint infection
+l2</ Bone and joint infections >
+l2< Breast infections >
+Breast abscess
+Breast discharge infected
+Mastitis
+Mastitis postpartum
+Nipple infection
+l2</ Breast infections >
+l2< Cardiac infections >
+Acute endocarditis
+Cardiac infection
+Cardiac valve abscess
+Cardiac valve vegetation
+Endocarditis
+Infective pericardial effusion
+Myocardiac abscess
+Myocarditis infectious
+Myocarditis septic
+Pericarditis infective
+Purulent pericarditis
+Subacute endocarditis
+l2</ Cardiac infections >
+l2< Central nervous system and spinal infections >
+Brain abscess
+Brain empyema
+Cavernous sinus thrombosis
+Central nervous system abscess
+Central nervous system infection
+CNS ventriculitis
+Cranial nerve infection
+Dural abscess
+Encephalitis
+Encephalitis brain stem
+Encephalitis lethargica
+Encephalomyelitis
+Ependymitis
+Epidural empyema
+Extradural abscess
+Meningitis
+Meningitis aseptic
+Meningitis neonatal
+Myelitis
+Neurological infection
+Panencephalitis
+Spinal cord abscess
+Spinal cord infection
+Spinal empyema
+Subarachnoid abscess
+Subdural empyema
+l2</ Central nervous system and spinal infections >
+l2< Dental and oral soft tissue infections >
+Abscess of salivary gland
+Abscess oral
+Alveolar osteitis
+Angular cheilitis
+Dental fistula
+Dental gangrene
+Gingival abscess
+Gingivitis
+Infective glossitis
+Lip infection
+Ludwig angina
+Oral infection
+Oral pustule
+Parotid abscess
+Parotitis
+Peri-implantitis
+Pericoronitis
+Periodontal destruction
+Periodontitis
+Pulpitis dental
+Root canal infection
+Sialoadenitis
+Tongue abscess
+Tooth abscess
+Tooth infection
+l2</ Dental and oral soft tissue infections >
+l2< Ear infections >
+Abscess of external auditory meatus
+Ear infection
+Ear lobe infection
+Gradenigo's syndrome
+Labyrinthitis
+Mastoid abscess
+Mastoid empyema
+Mastoiditis
+Myringitis
+Otitis externa
+Otitis media
+Otitis media acute
+Otitis media chronic
+Otosalpingitis
+Petrositis
+l2</ Ear infections >
+l2< Eye and eyelid infections >
+Abscess of eyelid
+Blebitis
+Chorioretinitis
+Conjunctivitis
+Corneal abscess
+Corneal infection
+Dacryocanaliculitis
+Dacryocystitis
+Endophthalmitis
+Eye abscess
+Eye infection
+Eye infection intraocular
+Eyelid boil
+Eyelid infection
+Hordeolum
+Hypopyon
+Infectious crystalline keratopathy
+Infectious iridocyclitis
+Infective corneal ulcer
+Infective episcleritis
+Infective iritis
+Infective keratitis
+Infective scleritis
+Infective uveitis
+Keratouveitis
+Lacrimal gland abscess
+Oculoglandular syndrome
+Ophthalmia neonatorum
+Orbital infection
+Periorbital abscess
+Periorbital infection
+Retinitis
+Vitreous abscess
+l2</ Eye and eyelid infections >
+l2< Female reproductive tract infections >
+Abortion infected
+Amniotic cavity infection
+Bartholin's abscess
+Bartholinitis
+Cervicitis
+Clitoris abscess
+Endometritis
+Endometritis decidual
+Fallopian tube abscess
+Funisitis
+Genital infection female
+Induced abortion infection
+Intrauterine infection
+Lochial infection
+Myometritis
+Oophoritis
+Ovarian abscess
+Parametric abscess
+Parametritis
+Pelvic inflammatory disease
+Post abortion infection
+Puerperal infection
+Puerperal pyrexia
+Pyometra
+Salpingitis
+Salpingo-oophoritis
+Tubo-ovarian abscess
+Umbilical sepsis
+Uterine abscess
+Uterine infection
+Vaginal abscess
+Vaginal infection
+Vulval abscess
+Vulvitis
+Vulvovaginitis
+l2</ Female reproductive tract infections >
+l2< Hepatobiliary and spleen infections >
+Biliary abscess
+Biliary sepsis
+Biliary tract infection
+Cholangitis infective
+Cholecystitis infective
+Emphysematous cholecystitis
+Gallbladder abscess
+Gallbladder empyema
+Hepatic cyst infection
+Hepatic infection
+Hepatitis post transfusion
+Hepatobiliary infection
+Hepatosplenic abscess
+Liver abscess
+Portal pyaemia
+Splenic abscess
+Splenic infection
+l2</ Hepatobiliary and spleen infections >
+l2< Infections NEC >
+Abscess
+Abscess limb
+Abscess rupture
+Abscess soft tissue
+Activated PI3 kinase delta syndrome
+Administration site abscess
+Administration site infection
+Adrenal gland abscess
+Adrenalitis
+Anastomotic infection
+Application site abscess
+Application site infection
+Arthropod-borne disease
+Catheter site abscess
+Catheter site infection
+Congenital infection
+Cross infection
+Device related infection
+Empyema
+Febrile infection
+Genital abscess
+Genital infection
+Genital ulcer syndrome
+Graft infection
+Groin abscess
+Groin infection
+Implant site abscess
+Implant site infection
+Incision site abscess
+Infantile septic granulomatosis
+Infected bite
+Infected cyst
+Infected fistula
+Infected neoplasm
+Infected seroma
+Infection
+Infection in an immunocompromised host
+Infection masked
+Infection parasitic
+Infection reactivation
+Infection susceptibility increased
+Infectious thyroiditis
+Injection site abscess
+Injection site infection
+Instillation site abscess
+Instillation site infection
+Localised infection
+Lymph gland infection
+Lymph node abscess
+Mediastinitis
+Medical device site abscess
+Medical device site infection
+Mononucleosis syndrome
+Mucosal infection
+Neonatal infection
+Neonatal infective mastitis
+Neutropenic infection
+Obstetric infection
+Omphalitis
+Opportunistic infection
+Overgrowth of nonsusceptible organisms
+Parasite allergy
+Parasitic encephalitis
+Parasitic oesophagitis
+Parathyroid gland abscess
+Pathogen resistance
+Pelvic abscess
+Pelvic infection
+Perihepatitis
+Peripheral nerve infection
+Post procedural infection
+Postoperative abscess
+Postoperative wound infection
+Puncture site abscess
+Puncture site infection
+Purulence
+Purulent discharge
+Pyuria
+Rectovaginal septum abscess
+Respiratory tract infection
+Sexually transmitted disease
+Southern tick-associated rash illness
+Stitch abscess
+Stoma site abscess
+Stoma site infection
+Superinfection
+Systemic infection
+Thymus abscess
+Thyroglossal cyst infection
+Thyroid gland abscess
+Tick-borne fever
+Toxic shock syndrome
+Transplant abscess
+Tropical infectious disease
+Vaccination site abscess
+Vaccination site infection
+Vaccine breakthrough infection
+Vascular access site infection
+Vessel puncture site infection
+Vestibulitis
+Virologic failure
+Visceral larva migrans
+Wound abscess
+Wound infection
+Zoonosis
+l2</ Infections NEC >
+l2< Lower respiratory tract and lung infections >
+Atypical pneumonia
+Bronchitis
+Congenital pneumonia
+Embolic pneumonia
+Haemorrhagic pneumonia
+Infectious pleural effusion
+Infective exacerbation of bronchiectasis
+Infective exacerbation of chronic obstructive airways disease
+Infective pulmonary exacerbation of cystic fibrosis
+Lower respiratory tract infection
+Lung abscess
+Lung infection
+Mediastinal abscess
+Miliary pneumonia
+Neonatal pneumonia
+Parasitic lung infection
+Parasitic pneumonia
+Pleural infection
+Pneumonia
+Pneumonia necrotising
+Post procedural pneumonia
+Pyopneumothorax
+Sputum purulent
+Young's syndrome
+l2</ Lower respiratory tract and lung infections >
+l2< Male reproductive tract infections >
+Balanoposthitis infective
+Epididymitis
+Genital infection male
+Hydrocele male infected
+Orchitis
+Penile abscess
+Penile infection
+Prostate infection
+Prostatic abscess
+Pyospermia
+Scrotal abscess
+Scrotal infection
+Seminal vesicle abscess
+Seminal vesicular infection
+Spermatic cord funiculitis
+Testicular abscess
+l2</ Male reproductive tract infections >
+l2< Muscle and soft tissue infections >
+Abscess neck
+Bezold abscess
+Chest wall abscess
+Fascial infection
+Infective myositis
+Infective tenosynovitis
+Muscle abscess
+Necrotising fasciitis
+Necrotising soft tissue infection
+Perineal abscess
+Perineal cellulitis
+Perineal infection
+Psoas abscess
+Soft tissue infection
+l2</ Muscle and soft tissue infections >
+l2< Sepsis, bacteraemia, viraemia and fungaemia NEC >
+Abdominal sepsis
+Amniotic infection syndrome of Blane
+Bacteraemia
+Bacterial toxaemia
+Bacterial translocation
+Bacteroides bacteraemia
+Cerebral septic infarct
+Device related sepsis
+Endotoxaemia
+Endotoxic shock
+Fungaemia
+Intestinal sepsis
+Neutropenic sepsis
+Pelvic sepsis
+Post procedural sepsis
+Postpartum sepsis
+Pulmonary sepsis
+Sepsis
+Sepsis neonatal
+Sepsis syndrome
+Septic embolus
+Septic encephalopathy
+Septic necrosis
+Septic phlebitis
+Septic rash
+Septic shock
+Septic vasculitis
+Thrombophlebitis septic
+Urosepsis
+Viraemia
+Wound sepsis
+l2</ Sepsis, bacteraemia, viraemia and fungaemia NEC >
+l2< Skin structures and soft tissue infections >
+Abscess sweat gland
+Acne pustular
+Application site folliculitis
+Application site pustules
+Blister infected
+Burn infection
+Carbuncle
+Catheter site pustule
+Dermatitis infected
+Dermo-hypodermitis
+Diabetic foot infection
+Ecthyma
+Eczema infected
+Erysipeloid
+Eyelid folliculitis
+Folliculitis
+Impetigo
+Implant site pustules
+Infected dermal cyst
+Infected naevus
+Infected skin ulcer
+Infusion site pustule
+Injection site pustule
+Instillation site pustules
+Medical device site pustule
+Nail bed infection
+Nail infection
+Paronychia
+Periumbilical abscess
+Pilonidal cyst
+Pilonidal cyst congenital
+Pitted keratolysis
+Pyoderma
+Rash pustular
+Sebaceous gland infection
+Skin graft infection
+Skin infection
+Subcutaneous abscess
+Sweat gland infection
+Tropical ulcer
+Vaccination site pustule
+l2</ Skin structures and soft tissue infections >
+l2< Upper respiratory tract infections >
+Acute sinusitis
+Adenoiditis
+Cellulitis laryngeal
+Cellulitis pharyngeal
+Chronic sinusitis
+Chronic tonsillitis
+Croup infectious
+Epiglottitis
+Epiglottitis obstructive
+Laryngitis
+Laryngotracheitis obstructive
+Nasal abscess
+Nasal vestibulitis
+Nasopharyngitis
+Peritonsillar abscess
+Peritonsillitis
+Pharyngeal abscess
+Pharyngitis
+Pharyngolaryngeal abscess
+Pharyngotonsillitis
+Pseudocroup
+Rhinitis
+Rhinolaryngitis
+Rhinotracheitis
+Sinobronchitis
+Sinusitis
+Subglottic laryngitis
+Thornwaldt disease
+Tonsillitis
+Tracheitis
+Tracheitis obstructive
+Tracheobronchitis
+Tracheostomy infection
+Upper aerodigestive tract infection
+Upper respiratory tract infection
+l2</ Upper respiratory tract infections >
+l2< Urinary tract infections >
+Bladder diverticulitis
+Cystitis
+Emphysematous cystitis
+Emphysematous pyelonephritis
+Genitourinary tract infection
+Kidney infection
+Perinephric abscess
+Pyelitis
+Pyelocystitis
+Pyelonephritis
+Pyelonephritis acute
+Pyelonephritis chronic
+Pyonephrosis
+Renal abscess
+Renal cyst infection
+Renal graft infection
+Urachal abscess
+Ureter abscess
+Ureteritis
+Urethral abscess
+Urethral carbuncle
+Urethral discharge syndrome
+Urethral stricture post infection
+Urethritis
+Urinary bladder abscess
+Urinary tract abscess
+Urinary tract infection
+Urinary tract infection neonatal
+l2</ Urinary tract infections >
+l2< Vascular infections >
+Arteriovenous fistula site infection
+Arteriovenous graft site abscess
+Arteriovenous graft site infection
+Arteritis infective
+Haematoma infection
+Infected lymphocele
+Infected varicose vein
+Infective aneurysm
+Infective aortitis
+Infective thrombosis
+Infusion site abscess
+Infusion site infection
+Lymphangitis
+Phlebitis infective
+Shunt infection
+Vascular stent infection
+l2</ Vascular infections >
+l1</ Infections - pathogen unspecified >
+l1< Mycobacterial infectious disorders >
+l2< Atypical mycobacterial infections >
+Atypical mycobacterial infection
+Atypical mycobacterial lower respiratory tract infection
+Atypical mycobacterial lymphadenitis
+Atypical mycobacterial pneumonia
+Atypical mycobacterium pericarditis
+Mycobacterial infection
+Mycobacterial peritonitis
+Mycobacterium abscessus infection
+Mycobacterium avium complex immune restoration disease
+Mycobacterium avium complex infection
+Mycobacterium chelonae infection
+Mycobacterium fortuitum infection
+Mycobacterium kansasii infection
+Mycobacterium marinum infection
+Mycobacterium ulcerans infection
+Superinfection mycobacterial
+l2</ Atypical mycobacterial infections >
+l2< Leprous infections >
+Borderline leprosy
+Indeterminate leprosy
+Lepromatous leprosy
+Leprosy
+Tuberculoid leprosy
+Type 1 lepra reaction
+Type 2 lepra reaction
+l2</ Leprous infections >
+l2< Tuberculous infections >
+Adrenal gland tuberculosis
+Bone tuberculosis
+Bovine tuberculosis
+Choroid tubercles
+Congenital tuberculosis
+Conjunctivitis tuberculous
+Cutaneous tuberculosis
+Disseminated Bacillus Calmette-Guerin infection
+Disseminated tuberculosis
+Ear tuberculosis
+Epididymitis tuberculous
+Erythema induratum
+Extrapulmonary tuberculosis
+Female genital tract tuberculosis
+Immune reconstitution inflammatory syndrome associated tuberculosis
+Intestinal tuberculosis
+Joint tuberculosis
+Latent tuberculosis
+Lupus vulgaris
+Lymph node tuberculosis
+Male genital tract tuberculosis
+Meningitis tuberculous
+Oesophageal tuberculosis
+Oral tuberculosis
+Pericarditis tuberculous
+Peritoneal tuberculosis
+Prostatitis tuberculous
+Pulmonary tuberculoma
+Pulmonary tuberculosis
+Renal tuberculosis
+Salpingitis tuberculous
+Silicotuberculosis
+Spleen tuberculosis
+Thyroid tuberculosis
+Tuberculoma of central nervous system
+Tuberculosis
+Tuberculosis bladder
+Tuberculosis gastrointestinal
+Tuberculosis liver
+Tuberculosis of central nervous system
+Tuberculosis of eye
+Tuberculosis of genitourinary system
+Tuberculosis of intrathoracic lymph nodes
+Tuberculosis of peripheral lymph nodes
+Tuberculosis ureter
+Tuberculous endometritis
+Tuberculous laryngitis
+Tuberculous pleurisy
+Tuberculous tenosynovitis
+l2</ Tuberculous infections >
+l1</ Mycobacterial infectious disorders >
+l1< Mycoplasmal infectious disorders >
+l2< Mycoplasma infections >
+Bronchitis mycoplasmal
+Cervicitis mycoplasmal
+Mycoplasma genitalium infection
+Mycoplasma infection
+Mycoplasmal postabortal fever
+Mycoplasmal postpartum fever
+Pelvic inflammatory disease mycoplasmal
+Pericarditis mycoplasmal
+Pharyngitis mycoplasmal
+Pneumonia mycoplasmal
+Proctitis mycoplasmal
+Pyelonephritis mycoplasmal
+Tracheobronchitis mycoplasmal
+Urethritis mycoplasmal
+l2</ Mycoplasma infections >
+l2< Ureaplasma infections >
+Epididymitis ureaplasmal
+Ureaplasma infection
+Urethritis ureaplasmal
+l2</ Ureaplasma infections >
+l1</ Mycoplasmal infectious disorders >
+l1< Protozoal infectious disorders >
+l2< Amoebic infections >
+Acanthamoeba infection
+Acanthamoeba keratitis
+Amoebiasis
+Amoebic brain abscess
+Amoebic colitis
+Amoebic dysentery
+Amoebic lung abscess
+Amoebic skin ulcer
+Balamuthia infection
+Hepatic amoebiasis
+Meningoencephalitis amoebic
+Naegleria infection
+Pericarditis amoebic
+l2</ Amoebic infections >
+l2< Babesia infections >
+Babesiosis
+l2</ Babesia infections >
+l2< Balantidia infections >
+Balantidiasis
+l2</ Balantidia infections >
+l2< Blastocystis infections >
+Blastocystis infection
+l2</ Blastocystis infections >
+l2< Cryptosporidia infections >
+Biliary tract infection cryptosporidial
+Cryptosporidiosis infection
+Gastroenteritis cryptosporidial
+l2</ Cryptosporidia infections >
+l2< Cyclosporidia infections >
+Cyclosporidium infection
+l2</ Cyclosporidia infections >
+l2< Giardia infections >
+Giardiasis
+l2</ Giardia infections >
+l2< Isospora infections >
+Isosporiasis
+l2</ Isospora infections >
+l2< Leishmania infections >
+Cutaneous leishmaniasis
+Leishmaniasis
+Mucocutaneous leishmaniasis
+Visceral leishmaniasis
+l2</ Leishmania infections >
+l2< Plasmodia infections >
+Cerebral malaria
+Congenital malaria
+Malaria
+Malarial myocarditis
+Plasmodium falciparum infection
+Plasmodium knowlesi infection
+Plasmodium malariae infection
+Plasmodium ovale infection
+Plasmodium vivax infection
+l2</ Plasmodia infections >
+l2< Protozoal infections NEC >
+Encephalitis protozoal
+Gastrointestinal protozoal infection
+Infection protozoal
+Microsporidia infection
+Protozoal corneal ulcer
+Vorticella infection
+l2</ Protozoal infections NEC >
+l2< Sarcocystis infections >
+Sarcocystis infection
+l2</ Sarcocystis infections >
+l2< Toxoplasma infections >
+Cerebral toxoplasmosis
+Congenital toxoplasmosis
+Eye infection toxoplasmal
+Hepatitis toxoplasmal
+Meningitis toxoplasmal
+Myocarditis toxoplasmal
+Pneumonia toxoplasmal
+Toxoplasmosis
+l2</ Toxoplasma infections >
+l2< Trichomonas infections >
+Cervicitis trichomonal
+Dientamoeba infection
+Prostatitis trichomonal
+Trichomoniasis
+Trichomoniasis intestinal
+Urethritis trichomonal
+Urogenital trichomoniasis
+Vulvovaginitis trichomonal
+l2</ Trichomonas infections >
+l2< Trypanosomal infections >
+African trypanosomiasis
+American trypanosomiasis
+Chagoma
+Meningitis trypanosomal
+Romana's sign
+Trypanosomiasis
+l2</ Trypanosomal infections >
+l1</ Protozoal infectious disorders >
+l1< Rickettsial infectious disorders >
+l2< Bartonella infections >
+Bacillary angiomatosis
+Bartonellosis
+Cat scratch disease
+Trench fever
+l2</ Bartonella infections >
+l2< Coxiella infections >
+Coxiella infection
+Endocarditis Q fever
+Q fever
+l2</ Coxiella infections >
+l2< Rickettsial infectious disorders NEC >
+Encephalitis rickettsial
+Human anaplasmosis
+Human ehrlichiosis
+Rickettsioses not tick borne
+Rickettsiosis
+l2</ Rickettsial infectious disorders NEC >
+l2< Spotted fever disorders >
+Boutonneuse fever
+Japanese spotted fever
+North Asian tick typhus
+Queensland tick typhus
+Rickettsialpox
+Rocky mountain spotted fever
+l2</ Spotted fever disorders >
+l2< Typhus infections >
+Epidemic typhus
+Murine typhus
+Recrudescent typhus
+Scrub typhus
+Typhus
+l2</ Typhus infections >
+l1</ Rickettsial infectious disorders >
+l1< Viral infectious disorders >
+l2< Adenoviral infections >
+Adenoviral conjunctivitis
+Adenoviral haemorrhagic cystitis
+Adenoviral hepatitis
+Adenoviral upper respiratory infection
+Adenovirus encephalomyeloradiculitis
+Adenovirus infection
+Gastroenteritis adenovirus
+Pharyngoconjunctival fever of children
+Pneumonia adenoviral
+l2</ Adenoviral infections >
+l2< Alphaviral infections >
+Alphaviral infection
+Chikungunya virus infection
+Encephalitis eastern equine
+Encephalitis venezuelan equine
+Encephalitis western equine
+Epidemic polyarthritis
+Pogosta disease
+l2</ Alphaviral infections >
+l2< Arboviral infections NEC >
+Arboviral infection
+Colorado tick fever
+Congo-Crimean haemorrhagic fever
+Encephalitis california
+Orbivirus infection
+Snowshoe hare virus infection
+l2</ Arboviral infections NEC >
+l2< Arenaviral infections >
+Arenaviral haemorrhagic fever
+Argentine haemorrhagic fever
+Bolivian haemorrhagic fever
+Choriomeningitis lymphocytic
+Lassa fever
+Lujo haemorrhagic fever
+l2</ Arenaviral infections >
+l2< Astroviral infections >
+Gastroenteritis astroviral
+l2</ Astroviral infections >
+l2< Caliciviral infections >
+Gastroenteritis caliciviral
+Gastroenteritis norovirus
+Gastroenteritis sapovirus
+l2</ Caliciviral infections >
+l2< Coxsackie viral infections >
+Coxsackie carditis
+Coxsackie endocarditis
+Coxsackie myocarditis
+Coxsackie pericarditis
+Coxsackie viral disease of the newborn
+Coxsackie viral infection
+Epidemic pleurodynia
+Hand-foot-and-mouth disease
+Herpangina
+Meningitis coxsackie viral
+l2</ Coxsackie viral infections >
+l2< Cytomegaloviral infections >
+Congenital cytomegalovirus infection
+Cytomegalovirus chorioretinitis
+Cytomegalovirus colitis
+Cytomegalovirus duodenitis
+Cytomegalovirus enteritis
+Cytomegalovirus enterocolitis
+Cytomegalovirus gastritis
+Cytomegalovirus gastroenteritis
+Cytomegalovirus gastrointestinal infection
+Cytomegalovirus gastrointestinal ulcer
+Cytomegalovirus hepatitis
+Cytomegalovirus infection
+Cytomegalovirus mononucleosis
+Cytomegalovirus mucocutaneous ulcer
+Cytomegalovirus myelomeningoradiculitis
+Cytomegalovirus myocarditis
+Cytomegalovirus nephritis
+Cytomegalovirus oesophagitis
+Cytomegalovirus pancreatitis
+Cytomegalovirus pericarditis
+Cytomegalovirus syndrome
+Cytomegalovirus urinary tract infection
+Cytomegalovirus viraemia
+Disseminated cytomegaloviral infection
+Encephalitis cytomegalovirus
+Pneumonia cytomegaloviral
+l2</ Cytomegaloviral infections >
+l2< Echo viral infections >
+Echo virus infection
+Meningitis echo viral
+l2</ Echo viral infections >
+l2< Enteroviral infections NEC >
+Acute haemorrhagic conjunctivitis
+Central nervous system enteroviral infection
+Encephalitis enteroviral
+Enterovirus infection
+Enterovirus myocarditis
+Gastroenteritis enteroviral
+Meningitis enteroviral
+l2</ Enteroviral infections NEC >
+l2< Epstein-Barr viral infections >
+Epstein Barr virus positive mucocutaneous ulcer
+Epstein-Barr viraemia
+Epstein-Barr virus associated lymphoma
+Epstein-Barr virus associated lymphoproliferative disorder
+Epstein-Barr virus infection
+Hepatitis infectious mononucleosis
+Infectious mononucleosis
+Oral hairy leukoplakia
+Post transplant lymphoproliferative disorder
+X-linked lymphoproliferative syndrome
+l2</ Epstein-Barr viral infections >
+l2< Filovirus viral infections >
+Ebola disease
+Ebola Reston virus infection
+Filovirus infection
+Marburg disease
+l2</ Filovirus viral infections >
+l2< Flaviviral infections >
+Dengue fever
+Encephalitis australia
+Encephalitis Japanese B
+Flavivirus infection
+Kyasanur Forest disease
+Louping ill
+Murray Valley encephalitis
+Omsk haemorrhagic fever
+St. Louis encephalitis
+Tick-borne viral encephalitis
+West Nile viral infection
+Yellow fever
+Yellow fever vaccine-associated neurotropic disease
+Yellow fever vaccine-associated viscerotropic disease
+Zika virus infection
+l2</ Flaviviral infections >
+l2< Hanta viral infections >
+Haemorrhagic fever with renal syndrome
+Hantaviral infection
+Hantavirus pulmonary infection
+l2</ Hanta viral infections >
+l2< Hepatitis viral infections >
+Acute hepatitis B
+Acute hepatitis C
+Asymptomatic viral hepatitis
+Chronic hepatitis B
+Chronic hepatitis C
+Congenital hepatitis B infection
+Gianotti-Crosti syndrome
+Hepatitis A
+Hepatitis B
+Hepatitis B reactivation
+Hepatitis C
+Hepatitis D
+Hepatitis E
+Hepatitis F
+Hepatitis G
+Hepatitis H
+Hepatitis non-A non-B
+Hepatitis non-A non-B non-C
+Hepatitis virus-associated nephropathy
+Perinatal HBV infection
+l2</ Hepatitis viral infections >
+l2< Herpes viral infections >
+Colitis herpes
+Congenital herpes simplex infection
+Congenital varicella infection
+Disseminated varicella zoster vaccine virus infection
+Eczema herpeticum
+Exanthema subitum
+Gastritis herpes
+Genital herpes
+Genital herpes simplex
+Genital herpes zoster
+Haemorrhagic varicella syndrome
+Herpes dermatitis
+Herpes oesophagitis
+Herpes ophthalmic
+Herpes pharyngitis
+Herpes sepsis
+Herpes simplex
+Herpes simplex cervicitis
+Herpes simplex colitis
+Herpes simplex encephalitis
+Herpes simplex gastritis
+Herpes simplex hepatitis
+Herpes simplex meningitis
+Herpes simplex meningoencephalitis
+Herpes simplex meningomyelitis
+Herpes simplex necrotising retinopathy
+Herpes simplex oesophagitis
+Herpes simplex otitis externa
+Herpes simplex pharyngitis
+Herpes simplex pneumonia
+Herpes simplex sepsis
+Herpes simplex virus conjunctivitis neonatal
+Herpes simplex visceral
+Herpes virus infection
+Herpes zoster
+Herpes zoster cutaneous disseminated
+Herpes zoster disseminated
+Herpes zoster infection neurological
+Herpes zoster meningitis
+Herpes zoster meningoencephalitis
+Herpes zoster meningomyelitis
+Herpes zoster meningoradiculitis
+Herpes zoster necrotising retinopathy
+Herpes zoster oticus
+Herpes zoster pharyngitis
+Human herpesvirus 6 infection
+Human herpesvirus 7 infection
+Human herpesvirus 8 infection
+Lower respiratory tract herpes infection
+Meningitis herpes
+Meningoencephalitis herpes simplex neonatal
+Meningoencephalitis herpetic
+Meningomyelitis herpes
+Nasal herpes
+Necrotising herpetic retinopathy
+Neonatal mucocutaneous herpes simplex
+Ophthalmic herpes simplex
+Ophthalmic herpes zoster
+Oral herpes
+Pneumonia herpes viral
+Proctitis herpes
+Varicella
+Varicella keratitis
+Varicella post vaccine
+Varicella zoster gastritis
+Varicella zoster oesophagitis
+Varicella zoster pneumonia
+Varicella zoster virus infection
+l2</ Herpes viral infections >
+l2< Influenza viral infections >
+Avian influenza
+Encephalitis influenzal
+H1N1 influenza
+H2N2 influenza
+Influenza
+Pneumonia influenzal
+l2</ Influenza viral infections >
+l2< Molluscum contagiosum viral infections >
+Molluscum contagiosum
+l2</ Molluscum contagiosum viral infections >
+l2< Mumps viral infections >
+Encephalitis mumps
+Epididymitis mumps
+Hepatitis mumps
+Meningitis mumps
+Mumps
+Mumps deafness
+Orchitis mumps
+Pancreatitis mumps
+Polyneuropathy mumps
+l2</ Mumps viral infections >
+l2< Newcastle viral infections >
+Newcastle disease
+l2</ Newcastle viral infections >
+l2< Orthopox viral infections >
+Cow pox
+Eczema vaccinatum
+Generalised vaccinia
+Monkeypox
+Orthopox virus infection
+Post vaccination autoinoculation
+Progressive vaccinia
+Smallpox
+Vaccinia virus infection
+l2</ Orthopox viral infections >
+l2< Papilloma viral infections >
+Anogenital warts
+Anorectal human papilloma virus infection
+Blepharal papilloma
+Buschke-Lowenstein's tumour
+Cervicitis human papilloma virus
+Cervix warts
+Congenital condyloma
+Epidermodysplasia verruciformis
+Focal epithelial hyperplasia
+Laryngeal papilloma
+Oral papilloma
+Papilloma viral infection
+Penile wart
+Respiratory papilloma
+Sinonasal papilloma
+Skin papilloma
+Tracheal papilloma
+Urethral papilloma
+Viral acanthoma
+Vulvovaginal human papilloma virus infection
+Vulvovaginal warts
+l2</ Papilloma viral infections >
+l2< Parainfluenzae viral infections >
+Parainfluenzae viral laryngotracheobronchitis
+Parainfluenzae virus infection
+Pneumonia parainfluenzae viral
+l2</ Parainfluenzae viral infections >
+l2< Parapox viral infections >
+Bovine pustular stomatitis virus infection
+Milker's nodules
+Orf
+Parapox virus infection
+l2</ Parapox viral infections >
+l2< Paravaccinia infections >
+Paravaccinia
+l2</ Paravaccinia infections >
+l2< Parvoviral infections >
+Erythema infectiosum
+Human bocavirus infection
+Parvovirus B19 infection
+Parvovirus infection
+l2</ Parvoviral infections >
+l2< Phleboviral infections >
+Phlebotomus fever
+Rift Valley fever
+Severe fever with thrombocytopenia syndrome
+l2</ Phleboviral infections >
+l2< Poliomyelitis viral infections >
+Bulbar poliomyelitis
+Polioencephalitis
+Poliomyelitis
+Vaccine associated paralytic poliomyelitis
+l2</ Poliomyelitis viral infections >
+l2< Polyomavirus infections >
+BK virus infection
+Human polyomavirus infection
+JC virus granule cell neuronopathy
+JC virus infection
+Polyomavirus-associated nephropathy
+Progressive multifocal leukoencephalopathy
+l2</ Polyomavirus infections >
+l2< Prion-associated disorders >
+Creutzfeldt-Jakob disease
+Fatal familial insomnia
+Gerstmann Straussler Scheinker syndrome
+Kuru
+Prion disease
+Slow virus infection
+Variant Creutzfeldt-Jakob disease
+l2</ Prion-associated disorders >
+l2< Rabies viral infections >
+Rabies
+l2</ Rabies viral infections >
+l2< Respiratory syncytial viral infections >
+Pneumonia respiratory syncytial viral
+Respiratory syncytial virus bronchiolitis
+Respiratory syncytial virus bronchitis
+Respiratory syncytial virus infection
+l2</ Respiratory syncytial viral infections >
+l2< Retroviral infections >
+Acquired immunodeficiency syndrome
+Acute HIV infection
+AIDS cholangiopathy
+AIDS related complex
+AIDS related complication
+AIDS retinopathy
+Asymptomatic HIV infection
+Congenital HIV infection
+End stage AIDS
+Enterocolitis AIDS
+HIV associated nephropathy
+HIV cardiomyopathy
+HIV enteropathy
+HIV infection
+HIV infection CDC category A
+HIV infection CDC category B
+HIV infection CDC category C
+HIV infection CDC Group I
+HIV infection CDC Group II
+HIV infection CDC Group III
+HIV infection CDC group IV
+HIV infection CDC Group IV subgroup A
+HIV infection CDC Group IV subgroup B
+HIV infection CDC Group IV subgroup C1
+HIV infection CDC Group IV subgroup C2
+HIV infection CDC Group IV subgroup D
+HIV infection CDC Group IV subgroup E
+HIV infection WHO clinical stage I
+HIV infection WHO clinical stage II
+HIV infection WHO clinical stage III
+HIV infection WHO clinical stage IV
+HIV lipodystrophy
+HIV peripheral neuropathy
+HIV viraemia
+HIV wasting syndrome
+HIV-associated neurocognitive disorder
+Human T-cell lymphocytic virus type II infection
+Human T-cell lymphotropic virus infection
+Human T-cell lymphotropic virus type I infection
+Immune reconstitution inflammatory syndrome associated Kaposi's sarcoma
+Kaposi's sarcoma
+Kaposi's sarcoma AIDS related
+Lymphoma AIDS related
+Perinatal HIV infection
+Persistent generalised lymphadenopathy
+Retroviral infection
+Retroviral rebound syndrome
+T-cell lymphoma
+T-cell type acute leukaemia
+Tropical spastic paresis
+l2</ Retroviral infections >
+l2< Rhinoviral infections >
+Rhinovirus infection
+l2</ Rhinoviral infections >
+l2< Rotaviral infections >
+Gastroenteritis rotavirus
+Rotavirus infection
+l2</ Rotaviral infections >
+l2< Rubella viral infections >
+Arthritis rubella
+Cataract congenital
+Congenital rubella infection
+Encephalomyelitis rubella
+Rubella
+Rubella in pregnancy
+Rubella infection neurological
+l2</ Rubella viral infections >
+l2< Rubeola viral infections >
+Keratoconjunctivitis measles
+Measles
+Measles post vaccine
+Otitis media post measles
+Pneumonia measles
+Post measles blindness
+l2</ Rubeola viral infections >
+l2< Viral infections NEC >
+Arthritis viral
+Biliary tract infection viral
+Bronchiolitis
+Bronchitis viral
+Central nervous system viral infection
+Conjunctivitis viral
+Corona virus infection
+Cystitis viral
+Ear infection viral
+Encephalitis viral
+Endocarditis viral
+Enterocolitis viral
+Eruptive pseudoangiomatosis
+Eye infection viral
+Foot and mouth disease
+Gastritis viral
+Gastroenteritis viral
+Gastrointestinal viral infection
+Genital infection viral
+Haemorrhagic fever
+Hepatitis viral
+Kaposi's varicelliform eruption
+Keratitis viral
+Laryngitis viral
+Lower respiratory tract infection viral
+Lymphadenitis viral
+Meningitis viral
+Meningoencephalitis viral
+Metapneumovirus infection
+Middle East respiratory syndrome
+Nail bed infection viral
+Nipah virus infection
+Oral viral infection
+Osteomyelitis viral
+Otitis externa viral
+Otitis media viral
+Pancreatitis viral
+Parechovirus infection
+Peritonitis viral
+Picornavirus infection
+Pleurisy viral
+Pneumonia viral
+Post viral fatigue syndrome
+Pyelonephritis viral
+Respiratory tract infection viral
+Retinitis viral
+Severe acute respiratory syndrome
+Splenic infection viral
+Superinfection viral
+Sweating fever
+Systemic viral infection
+Tracheobronchitis viral
+Urinary tract infection viral
+Vaginitis viral
+Vestibular neuronitis
+Viral cardiomyopathy
+Viral corneal ulcer
+Viral diarrhoea
+Viral epiglottitis
+Viral haemorrhagic cystitis
+Viral infection
+Viral keratouveitis
+Viral labyrinthitis
+Viral mastitis
+Viral myelitis
+Viral myocarditis
+Viral myositis
+Viral oesophagitis
+Viral parotitis
+Viral pericarditis
+Viral pharyngitis
+Viral rash
+Viral rhinitis
+Viral sepsis
+Viral sinusitis
+Viral skin infection
+Viral tonsillitis
+Viral tracheitis
+Viral upper respiratory tract infection
+Viral uveitis
+Viral vasculitis
+Withdrawal hepatitis
+Wound infection viral
+l2</ Viral infections NEC >
+l1</ Viral infectious disorders >
+l0</ Infections and infestations>

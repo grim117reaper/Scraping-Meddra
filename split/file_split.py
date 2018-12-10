@@ -2,7 +2,7 @@ import os,sys
 import re
 
 list = ["Blood and lymphatic system disorders","Cardiac disorders","Congenital, familial and genetic disorders","Ear and labyrinth disorders","Endocrine disorders","Eye disorders","Gastrointestinal disorders","General disorders and administration site conditions","Hepatobiliary disorders","Immune system disorders","Infections and infestations","Injury, poisoning and procedural complications","Investigations","Metabolism and nutrition disorders","Musculoskeletal and connective tissue disorders","Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Nervous system disorders","Pregnancy, puerperium and perinatal conditions","Product issues","Psychiatric disorders","Renal and urinary disorders","Reproductive system and breast disorders","Respiratory, thoracic and mediastinal disorders","Skin and subcutaneous tissue disorders","Social circumstances","Surgical and medical procedures","Vascular disorders"]
-
+i1 = 1
 with open('tree.txt', 'r') as istr:
     for i in list:
         file_name = i + "_unformated.txt"
@@ -10,15 +10,18 @@ with open('tree.txt', 'r') as istr:
             line1 = "Spacer " + i
             ostr.write(line1 + "\n")
             for line in istr:
-                if "Vascular disorders" not in i:
-                    if list[list.index(i)+1] in line:
-                        ostr.close()
-                        break
+                if i1 == 0:
+                    if "Vascular disorders" not in i:
+                        if list[list.index(i)+1] in line:
+                            ostr.close()
+                            break
+                    else:
+                        if "Venous valve ruptured" in line:
+                            ostr.write(line)
+                            break
+                    ostr.write(line)
                 else:
-                    if "Venous valve ruptured" in line:
-                        ostr.write(line)
-                        break
-                ostr.write(line)
+                    i1 = i1 - 1
 for i in list:
     file_name = i +"_unformated.txt"
     file_foramted = i + ".txt"

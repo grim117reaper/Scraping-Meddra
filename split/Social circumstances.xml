@@ -1,0 +1,878 @@
+<level0 name =" Social">
+<level1 name =" Age related factors">
+<level2 name =" Age related issues">
+<level3>
+Adolescence
+</level3>
+<level3>
+Andropause
+</level3>
+<level3>
+Childhood
+</level3>
+<level3>
+Early adult transition
+</level3>
+<level3>
+Elderly
+</level3>
+<level3>
+Infant
+</level3>
+<level3>
+Late developer
+</level3>
+<level3>
+Life expectancy shortened
+</level3>
+<level3>
+Menarche
+</level3>
+<level3>
+Menopause
+</level3>
+<level3>
+Mid-life crisis
+</level3>
+<level3>
+Middle aged
+</level3>
+<level3>
+Postmenopause
+</level3>
+<level3>
+Premenarche
+</level3>
+<level3>
+Puberty
+</level3>
+</level2>
+</level1>
+<level1 name =" Economic and housing issues">
+<level2 name =" Economic circumstances">
+<level3>
+Bankruptcy
+</level3>
+<level3>
+Economic problem
+</level3>
+<level3>
+High income
+</level3>
+<level3>
+Inability to afford medication
+</level3>
+<level3>
+Insurance issue
+</level3>
+<level3>
+Low income
+</level3>
+<level3>
+Poverty
+</level3>
+</level2>
+<level2 name =" Employment issues">
+<level3>
+Early retirement
+</level3>
+<level3>
+Job change
+</level3>
+<level3>
+Job dissatisfaction
+</level3>
+<level3>
+Loss of employment
+</level3>
+<level3>
+Military service
+</level3>
+<level3>
+Overwork
+</level3>
+<level3>
+Retirement
+</level3>
+<level3>
+Stress at work
+</level3>
+<level3>
+Threat of redundancy
+</level3>
+<level3>
+Unemployment
+</level3>
+<level3>
+Voluntary redundancy
+</level3>
+</level2>
+<level2 name =" Housing circumstances">
+<level3>
+Damp housing
+</level3>
+<level3>
+Homeless
+</level3>
+<level3>
+Homeless family
+</level3>
+<level3>
+Inadequate housing
+</level3>
+<level3>
+Living alone
+</level3>
+<level3>
+Living in residential institution
+</level3>
+<level3>
+Overcrowded housing
+</level3>
+<level3>
+Return to family home
+</level3>
+<level3>
+Social stay hospitalisation
+</level3>
+</level2>
+</level1>
+<level1 name =" Environmental issues">
+<level2 name =" Non-occupational and unspecified environmental problems">
+<level3>
+Flooding
+</level3>
+<level3>
+Food contamination
+</level3>
+<level3>
+Pollution
+</level3>
+<level3>
+Poor sanitation
+</level3>
+<level3>
+Water pollution
+</level3>
+</level2>
+<level2 name =" Occupational environmental problems">
+<level3>
+Occupational physical problem
+</level3>
+<level3>
+Occupational problem environmental
+</level3>
+</level2>
+</level1>
+<level1 name =" Family issues">
+<level2 name =" Bereavement issues">
+<level3>
+Bereavement
+</level3>
+<level3>
+Death of companion
+</level3>
+<level3>
+Death of pet
+</level3>
+<level3>
+Death of relative
+</level3>
+<level3>
+Suicide of companion
+</level3>
+<level3>
+Suicide of relative
+</level3>
+</level2>
+<level2 name =" Dependents">
+<level3>
+Aged parent
+</level3>
+<level3>
+Alcoholic relative
+</level3>
+<level3>
+Caregiver
+</level3>
+<level3>
+Demented relative
+</level3>
+<level3>
+Diabetic relative
+</level3>
+<level3>
+Disabled relative
+</level3>
+<level3>
+Psychotic family member
+</level3>
+<level3>
+Schizophrenic relative
+</level3>
+<level3>
+Sick relative
+</level3>
+</level2>
+<level2 name =" Family and partner issues">
+<level3>
+Adoption
+</level3>
+<level3>
+Anxious parent
+</level3>
+<level3>
+Bed sharing
+</level3>
+<level3>
+Delivery of partner
+</level3>
+<level3>
+Divorced
+</level3>
+<level3>
+Divorced parents
+</level3>
+<level3>
+Empty nest syndrome
+</level3>
+<level3>
+Familial risk factor
+</level3>
+<level3>
+Family stress
+</level3>
+<level3>
+Foster care
+</level3>
+<level3>
+Homosexual parent
+</level3>
+<level3>
+Imprisonment of relative
+</level3>
+<level3>
+Infertile partner
+</level3>
+<level3>
+Marital problem
+</level3>
+<level3>
+Married
+</level3>
+<level3>
+Miscarriage of partner
+</level3>
+<level3>
+Multiple birth sibling
+</level3>
+<level3>
+Orphan
+</level3>
+<level3>
+Overprotective parent
+</level3>
+<level3>
+Parent-child problem
+</level3>
+<level3>
+Parental consanguinity
+</level3>
+<level3>
+Partner stress
+</level3>
+<level3>
+Pregnancy of partner
+</level3>
+<level3>
+Reconciliation with partner
+</level3>
+<level3>
+Respite care
+</level3>
+<level3>
+Sexual relationship change
+</level3>
+<level3>
+Single parent family
+</level3>
+<level3>
+Surrogate mother
+</level3>
+</level2>
+</level1>
+<level1 name =" Gender related factors">
+<level2 name =" Pregnancy related circumstances">
+<level3>
+Aborted pregnancy
+</level3>
+<level3>
+Bottle feeding
+</level3>
+<level3>
+Breast feeding
+</level3>
+<level3>
+Child born to unmarried parents
+</level3>
+<level3>
+Delivery outside health facility
+</level3>
+<level3>
+Multigravida
+</level3>
+<level3>
+Multiparous
+</level3>
+<level3>
+Nulli gravida
+</level3>
+<level3>
+Nulliparous
+</level3>
+<level3>
+Parity
+</level3>
+<level3>
+Planning to become infertile
+</level3>
+<level3>
+Planning to become pregnant
+</level3>
+<level3>
+Primigravida
+</level3>
+<level3>
+Primiparous
+</level3>
+<level3>
+Woman of childbearing potential
+</level3>
+</level2>
+<level2 name =" Sexuality issues">
+<level3>
+Anal sex
+</level3>
+<level3>
+Bisexuality
+</level3>
+<level3>
+Early sexual debut
+</level3>
+<level3>
+Female genital mutilation
+</level3>
+<level3>
+Heterosexuality
+</level3>
+<level3>
+High risk sexual behaviour
+</level3>
+<level3>
+Homosexuality
+</level3>
+<level3>
+Non-consummation
+</level3>
+<level3>
+Promiscuity
+</level3>
+<level3>
+Sexual activity increased
+</level3>
+<level3>
+Sexually active
+</level3>
+<level3>
+Trans-sexualism
+</level3>
+</level2>
+</level1>
+<level1 name =" Legal issues">
+<level2 name =" Crime victims">
+<level3>
+Burglary victim
+</level3>
+<level3>
+Victim of abuse
+</level3>
+<level3>
+Victim of chemical submission
+</level3>
+<level3>
+Victim of child abuse
+</level3>
+<level3>
+Victim of crime
+</level3>
+<level3>
+Victim of elder abuse
+</level3>
+<level3>
+Victim of homicide
+</level3>
+<level3>
+Victim of sexual abuse
+</level3>
+<level3>
+Victim of spousal abuse
+</level3>
+</level2>
+<level2 name =" Criminal activity">
+<level3>
+Chemical submission
+</level3>
+<level3>
+Child abuse
+</level3>
+<level3>
+Child neglect
+</level3>
+<level3>
+Crime
+</level3>
+<level3>
+Delinquency
+</level3>
+<level3>
+Drug diversion
+</level3>
+<level3>
+Elder abuse
+</level3>
+<level3>
+Foeticide
+</level3>
+<level3>
+Homicide
+</level3>
+<level3>
+Imprisonment
+</level3>
+<level3>
+Incest
+</level3>
+<level3>
+Legal problem
+</level3>
+<level3>
+Physical abuse
+</level3>
+<level3>
+Physical assault
+</level3>
+<level3>
+Prescription form tampering
+</level3>
+<level3>
+Psychological abuse
+</level3>
+<level3>
+Sexual abuse
+</level3>
+<level3>
+Shoplifting
+</level3>
+<level3>
+Spousal abuse
+</level3>
+<level3>
+Theft
+</level3>
+<level3>
+Verbal abuse
+</level3>
+</level2>
+</level1>
+<level1 name =" Lifestyle issues">
+<level2 name =" Alcohol product use">
+<level3>
+Abstains from alcohol
+</level3>
+<level3>
+Alcohol use
+</level3>
+<level3>
+Alcoholic
+</level3>
+<level3>
+Ex-alcohol user
+</level3>
+<level3>
+Ex-alcoholic
+</level3>
+<level3>
+Maternal alcohol use
+</level3>
+<level3>
+Social alcohol drinker
+</level3>
+</level2>
+<level2 name =" Dietary and nutritional issues">
+<level3>
+Anabolic diet
+</level3>
+<level3>
+Diet noncompliance
+</level3>
+<level3>
+Fasting
+</level3>
+<level3>
+Feeding tube user
+</level3>
+<level3>
+Inadequate diet
+</level3>
+<level3>
+Kosher diet
+</level3>
+<level3>
+Macrobiotic diet
+</level3>
+<level3>
+Unhealthy diet
+</level3>
+<level3>
+Vegan
+</level3>
+<level3>
+Vegetarian
+</level3>
+</level2>
+<level2 name =" Disability issues">
+<level3>
+Amputee
+</level3>
+<level3>
+Artificial heart device user
+</level3>
+<level3>
+Artificial kidney device user
+</level3>
+<level3>
+Bedridden
+</level3>
+<level3>
+Blood product transfusion dependent
+</level3>
+<level3>
+Breast prosthesis user
+</level3>
+<level3>
+Cardiac assistance device user
+</level3>
+<level3>
+Cardiac valve prosthesis user
+</level3>
+<level3>
+Corrective lens user
+</level3>
+<level3>
+Dental prosthesis user
+</level3>
+<level3>
+Denture wearer
+</level3>
+<level3>
+Dependence on oxygen therapy
+</level3>
+<level3>
+Device dependence
+</level3>
+<level3>
+Disability
+</level3>
+<level3>
+Edentulous
+</level3>
+<level3>
+External ear prosthesis user
+</level3>
+<level3>
+Eye prosthesis user
+</level3>
+<level3>
+Foot prosthesis user
+</level3>
+<level3>
+Hand prosthesis user
+</level3>
+<level3>
+Hearing aid user
+</level3>
+<level3>
+Hearing disability
+</level3>
+<level3>
+Housebound
+</level3>
+<level3>
+Immobile
+</level3>
+<level3>
+Immobilisation prolonged
+</level3>
+<level3>
+Impaired ability to use machinery
+</level3>
+<level3>
+Impaired driving ability
+</level3>
+<level3>
+Impaired work ability
+</level3>
+<level3>
+Joint prosthesis user
+</level3>
+<level3>
+Laryngeal prosthesis user
+</level3>
+<level3>
+Limb prosthesis user
+</level3>
+<level3>
+Loss of personal independence in daily activities
+</level3>
+<level3>
+Mandibular prosthesis user
+</level3>
+<level3>
+Maxillofacial prosthesis user
+</level3>
+<level3>
+Mental disability
+</level3>
+<level3>
+Middle ear prosthesis user
+</level3>
+<level3>
+Orthodontic appliance user
+</level3>
+<level3>
+Orthosis user
+</level3>
+<level3>
+Paralytic disability
+</level3>
+<level3>
+Penile prosthesis user
+</level3>
+<level3>
+Physical disability
+</level3>
+<level3>
+Prosthesis user
+</level3>
+<level3>
+Sight disability
+</level3>
+<level3>
+Testicular prosthesis user
+</level3>
+<level3>
+Truss user
+</level3>
+<level3>
+Urinary assistance device user
+</level3>
+<level3>
+Vascular device user
+</level3>
+<level3>
+Walking aid user
+</level3>
+<level3>
+Walking disability
+</level3>
+<level3>
+Wheelchair user
+</level3>
+</level2>
+<level2 name =" Drug and chemical abuse">
+<level3>
+Drug abuser
+</level3>
+<level3>
+Ex-drug abuser
+</level3>
+<level3>
+Maternal use of illicit drugs
+</level3>
+<level3>
+Substance abuser
+</level3>
+</level2>
+<level2 name =" Educational issues">
+<level3>
+Educational problem
+</level3>
+<level3>
+Failed examinations
+</level3>
+<level3>
+Fight in school
+</level3>
+<level3>
+Illiteracy
+</level3>
+<level3>
+Mentally late developer
+</level3>
+<level3>
+Truancy
+</level3>
+<level3>
+Well educated
+</level3>
+</level2>
+<level2 name =" Social issues NEC">
+<level3>
+Abstains from recreational drugs
+</level3>
+<level3>
+Blood donor
+</level3>
+<level3>
+Bone marrow donor
+</level3>
+<level3>
+Caffeine consumption
+</level3>
+<level3>
+Celibacy
+</level3>
+<level3>
+Circumcised
+</level3>
+<level3>
+Clinical trial participant
+</level3>
+<level3>
+Contraindication to medical treatment
+</level3>
+<level3>
+Contraindication to surgery
+</level3>
+<level3>
+Contraindication to vaccination
+</level3>
+<level3>
+Convalescent
+</level3>
+<level3>
+Cosmetic body piercing
+</level3>
+<level3>
+Disease risk factor
+</level3>
+<level3>
+Ear piercing
+</level3>
+<level3>
+Excessive exercise
+</level3>
+<level3>
+Exercise adequate
+</level3>
+<level3>
+Exercise lack of
+</level3>
+<level3>
+Foreign travel
+</level3>
+<level3>
+Gambling
+</level3>
+<level3>
+Genetic sexual attraction
+</level3>
+<level3>
+Hair dye user
+</level3>
+<level3>
+Impaired quality of life
+</level3>
+<level3>
+Investigation noncompliance
+</level3>
+<level3>
+Non-economic loss
+</level3>
+<level3>
+Oocyte donor
+</level3>
+<level3>
+Organ donor
+</level3>
+<level3>
+Patient dissatisfaction with device
+</level3>
+<level3>
+Patient dissatisfaction with treatment
+</level3>
+<level3>
+Patient uncooperative
+</level3>
+<level3>
+Personal relationship issue
+</level3>
+<level3>
+Poor personal hygiene
+</level3>
+<level3>
+Prostitute
+</level3>
+<level3>
+Refusal of examination
+</level3>
+<level3>
+Refusal of treatment by patient
+</level3>
+<level3>
+Refusal of treatment by relative
+</level3>
+<level3>
+Social problem
+</level3>
+<level3>
+Stem cell donor
+</level3>
+<level3>
+Substance use
+</level3>
+<level3>
+Tanning
+</level3>
+<level3>
+Tattoo
+</level3>
+<level3>
+Treatment noncompliance
+</level3>
+<level3>
+Uncircumcised
+</level3>
+<level3>
+Wig wearer
+</level3>
+</level2>
+<level2 name =" Tobacco use">
+<level3>
+Electronic cigarette user
+</level3>
+<level3>
+Ex-tobacco user
+</level3>
+<level3>
+Non-tobacco user
+</level3>
+<level3>
+Passive smoking
+</level3>
+<level3>
+Tobacco user
+</level3>
+</level2>
+</level1>
+</level0>

@@ -1,0 +1,1866 @@
+<level0 name =" Pregnancy, puerperium and perinatal">
+<level1 name =" Abortions and stillbirth">
+<level2 name =" Abortion related conditions and complications">
+<level3>
+Abnormal product of conception
+</level3>
+<level3>
+Abortion infected
+</level3>
+<level3>
+Anembryonic gestation
+</level3>
+<level3>
+Decreased embryo viability
+</level3>
+<level3>
+Induced abortion failed
+</level3>
+<level3>
+Post abortion complication
+</level3>
+<level3>
+Post abortion haemorrhage
+</level3>
+<level3>
+Post abortion infection
+</level3>
+<level3>
+Retained products of conception
+</level3>
+</level2>
+<level2 name =" Abortions not specified as induced or spontaneous">
+<level3>
+Abortion
+</level3>
+<level3>
+Abortion complete
+</level3>
+<level3>
+Abortion complete complicated
+</level3>
+<level3>
+Abortion complicated
+</level3>
+<level3>
+Abortion early
+</level3>
+<level3>
+Abortion incomplete
+</level3>
+<level3>
+Abortion incomplete complicated
+</level3>
+<level3>
+Abortion late
+</level3>
+<level3>
+Abortion missed
+</level3>
+<level3>
+Abortion of ectopic pregnancy
+</level3>
+</level2>
+<level2 name =" Abortions spontaneous">
+<level3>
+Abortion spontaneous
+</level3>
+<level3>
+Abortion spontaneous complete
+</level3>
+<level3>
+Abortion spontaneous complete complicated
+</level3>
+<level3>
+Abortion spontaneous complicated
+</level3>
+<level3>
+Abortion spontaneous incomplete
+</level3>
+<level3>
+Abortion spontaneous incomplete complicated
+</level3>
+<level3>
+Abortion threatened
+</level3>
+<level3>
+Habitual abortion
+</level3>
+<level3>
+Imminent abortion
+</level3>
+<level3>
+Molar abortion
+</level3>
+</level2>
+<level2 name =" Stillbirth and foetal death">
+<level3>
+Foetal death
+</level3>
+<level3>
+Stillbirth
+</level3>
+<level3>
+Vanishing twin syndrome
+</level3>
+</level2>
+</level1>
+<level1 name =" Foetal complications">
+<level2 name =" Foetal complications NEC">
+<level3>
+Acardia
+</level3>
+<level3>
+Baseline foetal heart rate variability disorder
+</level3>
+<level3>
+Bradycardia foetal
+</level3>
+<level3>
+Cerebral haemorrhage foetal
+</level3>
+<level3>
+Cerebral infarction foetal
+</level3>
+<level3>
+Congenital amputation
+</level3>
+<level3>
+Conjoined twins
+</level3>
+<level3>
+Delayed foetal renal development
+</level3>
+<level3>
+Foetal acidosis
+</level3>
+<level3>
+Foetal anaemia
+</level3>
+<level3>
+Foetal arrhythmia
+</level3>
+<level3>
+Foetal cardiac disorder
+</level3>
+<level3>
+Foetal cerebrovascular disorder
+</level3>
+<level3>
+Foetal chromosome abnormality
+</level3>
+<level3>
+Foetal compartment fluid collection
+</level3>
+<level3>
+Foetal damage
+</level3>
+<level3>
+Foetal disorder
+</level3>
+<level3>
+Foetal distress syndrome
+</level3>
+<level3>
+Foetal heart rate acceleration abnormality
+</level3>
+<level3>
+Foetal heart rate deceleration abnormality
+</level3>
+<level3>
+Foetal heart rate disorder
+</level3>
+<level3>
+Foetal hypokinesia
+</level3>
+<level3>
+Foetal malformation
+</level3>
+<level3>
+Foetal movement disorder
+</level3>
+<level3>
+Foetal renal impairment
+</level3>
+<level3>
+Foetal tachyarrhythmia
+</level3>
+<level3>
+Foetal-maternal haemorrhage
+</level3>
+<level3>
+Haemorrhage foetal
+</level3>
+<level3>
+Hydrops foetalis
+</level3>
+<level3>
+Hypopituitarism foetal
+</level3>
+<level3>
+Nonreassuring foetal heart rate pattern
+</level3>
+<level3>
+Paternal drugs affecting foetus
+</level3>
+<level3>
+Radiation injury affecting foetus
+</level3>
+<level3>
+Sinusoidal foetal heart rate pattern
+</level3>
+<level3>
+Tachycardia foetal
+</level3>
+<level3>
+Twin reversed arterial perfusion sequence malformation
+</level3>
+</level2>
+<level2 name =" Foetal conditions due to maternal conditions">
+<level3>
+Abnormal labour affecting foetus
+</level3>
+<level3>
+Anaesthetic complication foetal
+</level3>
+<level3>
+Angiotensin converting enzyme inhibitor foetopathy
+</level3>
+<level3>
+Diethylstilboestrol syndrome
+</level3>
+<level3>
+Drug dependence, antepartum
+</level3>
+<level3>
+Drug dependence, postpartum
+</level3>
+<level3>
+Drug use disorder, antepartum
+</level3>
+<level3>
+Foetal alcohol syndrome
+</level3>
+<level3>
+Foetal anticonvulsant syndrome
+</level3>
+<level3>
+Foetal methotrexate syndrome
+</level3>
+<level3>
+Foetal retinoid syndrome
+</level3>
+<level3>
+Foetal warfarin syndrome
+</level3>
+<level3>
+Intrauterine infection
+</level3>
+<level3>
+Maternal condition affecting foetus
+</level3>
+<level3>
+Maternal death affecting foetus
+</level3>
+<level3>
+Maternal drugs affecting foetus
+</level3>
+<level3>
+Maternal hypertension affecting foetus
+</level3>
+<level3>
+Thalidomide embryopathy
+</level3>
+</level2>
+<level2 name =" Foetal growth complications">
+<level3>
+Diabetic foetopathy
+</level3>
+<level3>
+Discordant twin
+</level3>
+<level3>
+Foetal growth abnormality
+</level3>
+<level3>
+Foetal growth restriction
+</level3>
+<level3>
+Foetal macrosomia
+</level3>
+<level3>
+Foetal malnutrition
+</level3>
+</level2>
+<level2 name =" Foetal position and presentation abnormalities">
+<level3>
+Breech presentation
+</level3>
+<level3>
+Brow presentation
+</level3>
+<level3>
+Face presentation
+</level3>
+<level3>
+Foetal arm prolapse
+</level3>
+<level3>
+Foetal malposition
+</level3>
+<level3>
+Foetal malpresentation
+</level3>
+<level3>
+High foetal head
+</level3>
+<level3>
+Locked twins
+</level3>
+<level3>
+Oblique presentation
+</level3>
+<level3>
+Shoulder dystocia
+</level3>
+<level3>
+Transverse presentation
+</level3>
+<level3>
+Unstable foetal lie
+</level3>
+</level2>
+</level1>
+<level1 name =" Maternal complications of labour and delivery">
+<level2 name =" Failed labour">
+<level3>
+Arrested labour
+</level3>
+<level3>
+Failed induction of labour
+</level3>
+<level3>
+Failed trial of labour
+</level3>
+<level3>
+False labour
+</level3>
+<level3>
+Missed labour
+</level3>
+</level2>
+<level2 name =" Labour onset and length abnormalities">
+<level3>
+Delayed delivery
+</level3>
+<level3>
+Induced labour
+</level3>
+<level3>
+Obstructed labour
+</level3>
+<level3>
+Precipitate labour
+</level3>
+<level3>
+Premature delivery
+</level3>
+<level3>
+Premature labour
+</level3>
+<level3>
+Premature rupture of membranes
+</level3>
+<level3>
+Prolonged labour
+</level3>
+<level3>
+Prolonged pregnancy
+</level3>
+<level3>
+Prolonged rupture of membranes
+</level3>
+<level3>
+Threatened labour
+</level3>
+</level2>
+<level2 name =" Maternal complications of delivery NEC">
+<level3>
+Breech delivery
+</level3>
+<level3>
+Broad ligament tear
+</level3>
+<level3>
+Cervix dystocia
+</level3>
+<level3>
+Complication of delivery
+</level3>
+<level3>
+Failed forceps delivery
+</level3>
+<level3>
+Maternal death during childbirth
+</level3>
+<level3>
+Pelvic haematoma obstetric
+</level3>
+<level3>
+Perineal erythema
+</level3>
+<level3>
+Perineal haematoma
+</level3>
+<level3>
+Perineal injury
+</level3>
+<level3>
+Retained placenta or membranes
+</level3>
+<level3>
+Traumatic delivery
+</level3>
+<level3>
+Vaginal laceration
+</level3>
+</level2>
+<level2 name =" Maternal complications of labour NEC">
+<level3>
+Abnormal labour
+</level3>
+<level3>
+Cephalo-pelvic disproportion
+</level3>
+<level3>
+Incoordinate uterine action
+</level3>
+<level3>
+Intrapartum haemorrhage
+</level3>
+<level3>
+Labour complication
+</level3>
+<level3>
+Maternal distress during labour
+</level3>
+<level3>
+Obstetric infection
+</level3>
+<level3>
+Obstetric procedure complication
+</level3>
+<level3>
+Perineal abscess
+</level3>
+<level3>
+Perineal infection
+</level3>
+<level3>
+Uterine cervical laceration
+</level3>
+<level3>
+Uterine contractions abnormal
+</level3>
+<level3>
+Uterine hyperstimulation
+</level3>
+<level3>
+Uterine hypertonus
+</level3>
+<level3>
+Uterine hypotonus
+</level3>
+<level3>
+Uterine tachysystole
+</level3>
+<level3>
+Vulval laceration
+</level3>
+</level2>
+</level1>
+<level1 name =" Maternal complications of pregnancy">
+<level2 name =" Haemorrhagic complications of pregnancy">
+<level3>
+Haemorrhage in pregnancy
+</level3>
+<level3>
+Peripartum haemorrhage
+</level3>
+<level3>
+Placenta praevia haemorrhage
+</level3>
+<level3>
+Premature separation of placenta
+</level3>
+<level3>
+Retroplacental haematoma
+</level3>
+<level3>
+Subchorionic haematoma
+</level3>
+<level3>
+Subchorionic haemorrhage
+</level3>
+</level2>
+<level2 name =" Hypertension associated disorders of pregnancy">
+<level3>
+Eclampsia
+</level3>
+<level3>
+Gestational hypertension
+</level3>
+<level3>
+HELLP syndrome
+</level3>
+<level3>
+Mirror syndrome
+</level3>
+<level3>
+Pre-eclampsia
+</level3>
+</level2>
+<level2 name =" Maternal complications of pregnancy NEC">
+<level3>
+Acute fatty liver of pregnancy
+</level3>
+<level3>
+Anaemia of pregnancy
+</level3>
+<level3>
+Anaphylactoid syndrome of pregnancy
+</level3>
+<level3>
+Bacteriuria in pregnancy
+</level3>
+<level3>
+Biochemical pregnancy
+</level3>
+<level3>
+Cervical incompetence
+</level3>
+<level3>
+Complication of pregnancy
+</level3>
+<level3>
+Decidual cast
+</level3>
+<level3>
+Diastasis recti abdominis
+</level3>
+<level3>
+Ectopic pregnancy
+</level3>
+<level3>
+Ectopic pregnancy under hormonal contraception
+</level3>
+<level3>
+Ectopic pregnancy with contraceptive device
+</level3>
+<level3>
+Endometritis decidual
+</level3>
+<level3>
+Gestational oedema
+</level3>
+<level3>
+Gestational trophoblastic detachment
+</level3>
+<level3>
+Herpes gestationis
+</level3>
+<level3>
+Heterotopic pregnancy
+</level3>
+<level3>
+Hyperemesis gravidarum
+</level3>
+<level3>
+Impetigo herpetiformis
+</level3>
+<level3>
+Inferior vena cava syndrome
+</level3>
+<level3>
+Maternal cancer in pregnancy
+</level3>
+<level3>
+Obstetrical pulmonary embolism
+</level3>
+<level3>
+Pituitary infarction
+</level3>
+<level3>
+Polymorphic eruption of pregnancy
+</level3>
+<level3>
+Preterm premature rupture of membranes
+</level3>
+<level3>
+Rubella in pregnancy
+</level3>
+<level3>
+Ruptured ectopic pregnancy
+</level3>
+<level3>
+Silent thyroiditis
+</level3>
+<level3>
+Symphysiolysis
+</level3>
+<level3>
+Thyroid dysfunction in pregnancy
+</level3>
+<level3>
+Tubal rupture
+</level3>
+<level3>
+Urinary bladder varices
+</level3>
+<level3>
+Uterine dehiscence
+</level3>
+<level3>
+Uterine irritability
+</level3>
+<level3>
+Uterine rupture
+</level3>
+<level3>
+Venous thrombosis in pregnancy
+</level3>
+<level3>
+Vomiting in pregnancy
+</level3>
+</level2>
+<level2 name =" Pregnancy complicated by maternal disorders">
+<level3>
+Antiphospholipid syndrome
+</level3>
+<level3>
+Cholestasis of pregnancy
+</level3>
+<level3>
+Diabetes complicating pregnancy
+</level3>
+<level3>
+Gestational diabetes
+</level3>
+<level3>
+Glucose tolerance impaired in pregnancy
+</level3>
+<level3>
+Glycosuria during pregnancy
+</level3>
+<level3>
+Peripartum cardiomyopathy
+</level3>
+<level3>
+Renal disorder in pregnancy
+</level3>
+</level2>
+</level1>
+<level1 name =" Neonatal and perinatal conditions">
+<level2 name =" Congenital neonatal infections">
+<level3>
+Congenital condyloma
+</level3>
+<level3>
+Congenital cytomegalovirus infection
+</level3>
+<level3>
+Congenital hepatitis B infection
+</level3>
+<level3>
+Congenital herpes simplex infection
+</level3>
+<level3>
+Congenital HIV infection
+</level3>
+<level3>
+Congenital infection
+</level3>
+<level3>
+Congenital malaria
+</level3>
+<level3>
+Congenital pneumonia
+</level3>
+<level3>
+Congenital rubella infection
+</level3>
+<level3>
+Congenital syphilis
+</level3>
+<level3>
+Congenital syphilitic encephalitis
+</level3>
+<level3>
+Congenital syphilitic meningitis
+</level3>
+<level3>
+Congenital toxoplasmosis
+</level3>
+<level3>
+Congenital tuberculosis
+</level3>
+<level3>
+Congenital varicella infection
+</level3>
+<level3>
+Conjunctivitis gonococcal neonatal
+</level3>
+</level2>
+<level2 name =" Gestational age and weight conditions">
+<level3>
+Large for dates baby
+</level3>
+<level3>
+Low birth weight baby
+</level3>
+<level3>
+Poor weight gain neonatal
+</level3>
+<level3>
+Postmature baby
+</level3>
+<level3>
+Premature baby
+</level3>
+<level3>
+Small for dates baby
+</level3>
+<level3>
+Weight decrease neonatal
+</level3>
+</level2>
+<level2 name =" Neonatal blood incompatibility disorders">
+<level3>
+ABO haemolytic disease of newborn
+</level3>
+<level3>
+ABO incompatibility
+</level3>
+<level3>
+Alloimmunisation
+</level3>
+<level3>
+Blood incompatibility haemolytic anaemia of newborn
+</level3>
+<level3>
+Blood type incompatibility
+</level3>
+<level3>
+Erythroblastosis foetalis
+</level3>
+<level3>
+Isoimmune haemolytic disease
+</level3>
+<level3>
+Rhesus haemolytic disease of newborn
+</level3>
+<level3>
+Rhesus incompatibility
+</level3>
+</level2>
+<level2 name =" Neonatal cardiovascular disorders (excl cardiorespiratory arrest)">
+<level3>
+Arrhythmia neonatal
+</level3>
+<level3>
+Atrioventricular node dispersion
+</level3>
+<level3>
+Bradycardia neonatal
+</level3>
+<level3>
+Cardiac arrest neonatal
+</level3>
+<level3>
+Cardiomyopathy neonatal
+</level3>
+<level3>
+Circulatory failure neonatal
+</level3>
+<level3>
+Ductus arteriosus premature closure
+</level3>
+<level3>
+Ductus venosus agenesis
+</level3>
+<level3>
+Grey syndrome neonatal
+</level3>
+<level3>
+Hypertension neonatal
+</level3>
+<level3>
+Junctional ectopic tachycardia
+</level3>
+<level3>
+Neonatal cardiac failure
+</level3>
+<level3>
+Neonatal hypotension
+</level3>
+<level3>
+Neonatal tachycardia
+</level3>
+<level3>
+Peripheral oedema neonatal
+</level3>
+<level3>
+Periventricular leukomalacia
+</level3>
+<level3>
+Persistent foetal circulation
+</level3>
+<level3>
+Thrombophlebitis neonatal
+</level3>
+<level3>
+Venous thrombosis neonatal
+</level3>
+</level2>
+<level2 name =" Neonatal complications of maternal substance abuse">
+<level3>
+Drug withdrawal syndrome neonatal
+</level3>
+<level3>
+Neonatal complications of substance abuse
+</level3>
+</level2>
+<level2 name =" Neonatal disorders due to birth trauma (excl intracranial haemorrhages)">
+<level3>
+Birth trauma
+</level3>
+<level3>
+Caput succedaneum
+</level3>
+<level3>
+Cephalhaematoma
+</level3>
+<level3>
+Cranial nerve injury secondary to birth trauma
+</level3>
+<level3>
+Facial nerve injury due to birth trauma
+</level3>
+<level3>
+Fracture of clavicle due to birth trauma
+</level3>
+<level3>
+Injury to brachial plexus due to birth trauma
+</level3>
+<level3>
+Injury to spinal cord secondary to birth trauma
+</level3>
+<level3>
+Newborn head moulding
+</level3>
+<level3>
+Perinatal brain damage
+</level3>
+<level3>
+Subgaleal haematoma
+</level3>
+</level2>
+<level2 name =" Neonatal gastrointestinal disorders">
+<level3>
+Breast milk substitute intolerance
+</level3>
+<level3>
+Diarrhoea neonatal
+</level3>
+<level3>
+Feeding intolerance
+</level3>
+<level3>
+Fixed bowel loop
+</level3>
+<level3>
+Infantile colic
+</level3>
+<level3>
+Infantile spitting up
+</level3>
+<level3>
+Infantile vomiting
+</level3>
+<level3>
+Meconium abnormal
+</level3>
+<level3>
+Meconium cyst
+</level3>
+<level3>
+Meconium ileus
+</level3>
+<level3>
+Meconium increased
+</level3>
+<level3>
+Meconium peritonitis
+</level3>
+<level3>
+Meconium plug syndrome
+</level3>
+<level3>
+Melaena neonatal
+</level3>
+<level3>
+Necrotising enterocolitis neonatal
+</level3>
+<level3>
+Neonatal gastrointestinal disorder
+</level3>
+<level3>
+Neonatal gastrointestinal haemorrhage
+</level3>
+<level3>
+Neonatal intestinal dilatation
+</level3>
+<level3>
+Neonatal intestinal obstruction
+</level3>
+<level3>
+Neonatal intestinal perforation
+</level3>
+</level2>
+<level2 name =" Neonatal haematologic disorders (excl blood incompatibility)">
+<level3>
+Anaemia neonatal
+</level3>
+<level3>
+Blood loss anaemia neonatal
+</level3>
+<level3>
+Coagulation disorder neonatal
+</level3>
+<level3>
+Congenital chylothorax
+</level3>
+<level3>
+Cutaneous extramedullary haemopoiesis
+</level3>
+<level3>
+Disseminated intravascular coagulation in newborn
+</level3>
+<level3>
+Granulocytopenia neonatal
+</level3>
+<level3>
+Haemorrhagic disease of newborn
+</level3>
+<level3>
+Leukopenia neonatal
+</level3>
+<level3>
+Lymphocytopenia neonatal
+</level3>
+<level3>
+Neonatal alloimmune thrombocytopenia
+</level3>
+<level3>
+Neonatal leukaemia
+</level3>
+<level3>
+Neutropenia neonatal
+</level3>
+<level3>
+Polycythaemia neonatorum
+</level3>
+<level3>
+Purpura neonatal
+</level3>
+<level3>
+Thrombocytopenia neonatal
+</level3>
+<level3>
+Transient hypogammaglobulinaemia of infancy
+</level3>
+</level2>
+<level2 name =" Neonatal hepatobiliary disorders">
+<level3>
+Hepatitis neonatal
+</level3>
+<level3>
+Hepatocellular damage neonatal
+</level3>
+<level3>
+Hepatosplenomegaly neonatal
+</level3>
+<level3>
+Hyperbilirubinaemia neonatal
+</level3>
+<level3>
+Jaundice neonatal
+</level3>
+<level3>
+Neonatal cholestasis
+</level3>
+<level3>
+Neonatal haemochromatosis
+</level3>
+<level3>
+Neonatal hepatomegaly
+</level3>
+</level2>
+<level2 name =" Neonatal hypoxia and asphyxia">
+<level3>
+Apparent life threatening event
+</level3>
+<level3>
+Hypoventilation neonatal
+</level3>
+<level3>
+Infantile apnoea
+</level3>
+<level3>
+Neonatal anoxia
+</level3>
+<level3>
+Neonatal asphyxia
+</level3>
+<level3>
+Neonatal hypoxia
+</level3>
+</level2>
+<level2 name =" Neonatal infections (excl congenital infections)">
+<level3>
+Coxsackie viral disease of the newborn
+</level3>
+<level3>
+Cronobacter necrotising enterocolitis
+</level3>
+<level3>
+Diarrhoea infectious neonatal
+</level3>
+<level3>
+Group B streptococcus neonatal sepsis
+</level3>
+<level3>
+Herpes simplex virus conjunctivitis neonatal
+</level3>
+<level3>
+Inclusion conjunctivitis neonatal
+</level3>
+<level3>
+Meningitis neonatal
+</level3>
+<level3>
+Meningoencephalitis herpes simplex neonatal
+</level3>
+<level3>
+Neonatal candida infection
+</level3>
+<level3>
+Neonatal infection
+</level3>
+<level3>
+Neonatal infective mastitis
+</level3>
+<level3>
+Neonatal mucocutaneous herpes simplex
+</level3>
+<level3>
+Neonatal pneumonia
+</level3>
+<level3>
+Omphalitis
+</level3>
+<level3>
+Ophthalmia neonatorum
+</level3>
+<level3>
+Perinatal HBV infection
+</level3>
+<level3>
+Perinatal HIV infection
+</level3>
+<level3>
+Sepsis neonatal
+</level3>
+<level3>
+Tetanus neonatorum
+</level3>
+<level3>
+Umbilical sepsis
+</level3>
+<level3>
+Urinary tract infection neonatal
+</level3>
+</level2>
+<level2 name =" Neonatal intracranial haemorrhage">
+<level3>
+Cerebral haemorrhage neonatal
+</level3>
+<level3>
+Intraventricular haemorrhage neonatal
+</level3>
+<level3>
+Periventricular haemorrhage neonatal
+</level3>
+<level3>
+Subarachnoid haemorrhage neonatal
+</level3>
+<level3>
+Subdural haemorrhage neonatal
+</level3>
+</level2>
+<level2 name =" Neonatal metabolic and endocrine disorders">
+<level3>
+Adrenal insufficiency neonatal
+</level3>
+<level3>
+Adrenocortical insufficiency neonatal
+</level3>
+<level3>
+Hypoglycaemia neonatal
+</level3>
+<level3>
+Hypothermia neonatal
+</level3>
+<level3>
+Late metabolic acidosis of newborn
+</level3>
+<level3>
+Neonatal diabetes mellitus
+</level3>
+<level3>
+Neonatal hypocalcaemia
+</level3>
+<level3>
+Neonatal hyponatraemia
+</level3>
+<level3>
+Neonatal hypoparathyroidism
+</level3>
+<level3>
+Neonatal insufficient breast milk syndrome
+</level3>
+<level3>
+Neonatal tetany
+</level3>
+<level3>
+Neonatal thyrotoxicosis
+</level3>
+<level3>
+Overfeeding of infant
+</level3>
+<level3>
+Poor feeding infant
+</level3>
+<level3>
+Primary familial hypomagnesaemia
+</level3>
+<level3>
+Transient hypothyroxinaemia of prematurity
+</level3>
+<level3>
+Virilism foetal
+</level3>
+</level2>
+<level2 name =" Neonatal neurological system disorders NEC">
+<level3>
+Agitation neonatal
+</level3>
+<level3>
+Benign familial neonatal convulsions
+</level3>
+<level3>
+Cerebral palsy
+</level3>
+<level3>
+Coma neonatal
+</level3>
+<level3>
+Convulsion neonatal
+</level3>
+<level3>
+Dyskinesia neonatal
+</level3>
+<level3>
+Encephalopathy neonatal
+</level3>
+<level3>
+Fontanelle bulging
+</level3>
+<level3>
+Fontanelle depressed
+</level3>
+<level3>
+Hyperkinesia neonatal
+</level3>
+<level3>
+Hypokinesia neonatal
+</level3>
+<level3>
+Kernicterus
+</level3>
+<level3>
+Lenticulostriatal vasculopathy
+</level3>
+<level3>
+Myasthenia gravis neonatal
+</level3>
+<level3>
+Neonatal behavioural syndrome
+</level3>
+<level3>
+Nonketotic hyperglycinaemia
+</level3>
+<level3>
+Perinatal stroke
+</level3>
+<level3>
+Poor sucking reflex
+</level3>
+<level3>
+Posthaemorrhagic hydrocephalus
+</level3>
+<level3>
+Somnolence neonatal
+</level3>
+<level3>
+Tremor neonatal
+</level3>
+</level2>
+<level2 name =" Neonatal respiratory arrest and failure">
+<level3>
+Cardio-respiratory arrest neonatal
+</level3>
+<level3>
+Neonatal respiratory arrest
+</level3>
+<level3>
+Neonatal respiratory depression
+</level3>
+<level3>
+Neonatal respiratory failure
+</level3>
+</level2>
+<level2 name =" Neonatal respiratory disorders NEC">
+<level3>
+Alveolar capillary dysplasia
+</level3>
+<level3>
+Atelectasis neonatal
+</level3>
+<level3>
+Congenital pulmonary hypertension
+</level3>
+<level3>
+Cyanosis neonatal
+</level3>
+<level3>
+Immature larynx
+</level3>
+<level3>
+Immature respiratory system
+</level3>
+<level3>
+Neonatal alveolar aeration excessive
+</level3>
+<level3>
+Neonatal aspiration
+</level3>
+<level3>
+Neonatal respiratory acidosis
+</level3>
+<level3>
+Neonatal respiratory alkalosis
+</level3>
+<level3>
+Neonatal tachypnoea
+</level3>
+<level3>
+Pulmonary air leakage
+</level3>
+<level3>
+Pulmonary dysmaturity syndrome
+</level3>
+<level3>
+Pulmonary oedema neonatal
+</level3>
+<level3>
+Respiratory disorder neonatal
+</level3>
+<level3>
+Respiratory tract haemorrhage neonatal
+</level3>
+<level3>
+Transient tachypnoea of the newborn
+</level3>
+</level2>
+<level2 name =" Neonatal respiratory distress related conditions">
+<level3>
+Bronchopulmonary dysplasia
+</level3>
+<level3>
+Dry lung syndrome
+</level3>
+<level3>
+Gasping syndrome
+</level3>
+<level3>
+Meconium aspiration syndrome
+</level3>
+<level3>
+Neonatal respiratory distress syndrome
+</level3>
+<level3>
+Neuroendocrine cell hyperplasia of infancy
+</level3>
+<level3>
+Pulmonary lymphangiectasia
+</level3>
+</level2>
+<level2 name =" Newborn complications NEC">
+<level3>
+Abnormal organ growth
+</level3>
+<level3>
+Anaesthetic complication neonatal
+</level3>
+<level3>
+Asymmetric gluteal fold
+</level3>
+<level3>
+Collodion baby
+</level3>
+<level3>
+Congenital floppy infant
+</level3>
+<level3>
+Cranial sutures widening
+</level3>
+<level3>
+Craniotabes
+</level3>
+<level3>
+Death neonatal
+</level3>
+<level3>
+Delayed visual maturation
+</level3>
+<level3>
+Disturbance of thermoregulation of newborn
+</level3>
+<level3>
+Erythema toxicum neonatorum
+</level3>
+<level3>
+Failure to thrive
+</level3>
+<level3>
+Fever neonatal
+</level3>
+<level3>
+Floppy infant
+</level3>
+<level3>
+Gangrene neonatal
+</level3>
+<level3>
+Haemolysis neonatal
+</level3>
+<level3>
+Haemorrhage neonatal
+</level3>
+<level3>
+Harlequin foetus
+</level3>
+<level3>
+Harlequin skin reaction
+</level3>
+<level3>
+Hypertonia neonatal
+</level3>
+<level3>
+Hypotonia neonatal
+</level3>
+<level3>
+Infantile back arching
+</level3>
+<level3>
+Intoxication by breast feeding
+</level3>
+<level3>
+Neonatal anuria
+</level3>
+<level3>
+Neonatal disorder
+</level3>
+<level3>
+Neonatal lupus erythematosus
+</level3>
+<level3>
+Neonatal multi-organ failure
+</level3>
+<level3>
+Neonatal oversedation
+</level3>
+<level3>
+Neonatal testicular torsion
+</level3>
+<level3>
+Neonatal toxicity
+</level3>
+<level3>
+Netherton's syndrome
+</level3>
+<level3>
+Oedema neonatal
+</level3>
+<level3>
+Premature baby death
+</level3>
+<level3>
+Rash neonatal
+</level3>
+<level3>
+Renal failure neonatal
+</level3>
+<level3>
+Renal impairment neonatal
+</level3>
+<level3>
+Retinopathy of prematurity
+</level3>
+<level3>
+Sudden infant death syndrome
+</level3>
+<level3>
+Transient neonatal pustular melanosis
+</level3>
+<level3>
+Vision abnormal neonatal
+</level3>
+</level2>
+<level2 name =" Umbilical cord complications">
+<level3>
+Funisitis
+</level3>
+<level3>
+Omphalorrhexis
+</level3>
+<level3>
+Single umbilical artery
+</level3>
+<level3>
+Umbilical artery hypoplasia
+</level3>
+<level3>
+Umbilical cord abnormality
+</level3>
+<level3>
+Umbilical cord around neck
+</level3>
+<level3>
+Umbilical cord compression
+</level3>
+<level3>
+Umbilical cord cyst
+</level3>
+<level3>
+Umbilical cord haemorrhage
+</level3>
+<level3>
+Umbilical cord occlusion
+</level3>
+<level3>
+Umbilical cord prolapse
+</level3>
+<level3>
+Umbilical cord short
+</level3>
+<level3>
+Umbilical cord thrombosis
+</level3>
+<level3>
+Umbilical cord vascular disorder
+</level3>
+<level3>
+Umbilical discharge
+</level3>
+<level3>
+Umbilical granuloma
+</level3>
+<level3>
+Umbilical malformation
+</level3>
+</level2>
+</level1>
+<level1 name =" Placental, amniotic and cavity disorders (excl haemorrhages)">
+<level2 name =" Amniotic fluid and cavity disorders of pregnancy NEC">
+<level3>
+Amniorrhexis
+</level3>
+<level3>
+Amniorrhoea
+</level3>
+<level3>
+Amniotic band syndrome
+</level3>
+<level3>
+Amniotic cavity disorder
+</level3>
+<level3>
+Amniotic cavity infection
+</level3>
+<level3>
+Amniotic infection syndrome of Blane
+</level3>
+<level3>
+Meconium in amniotic fluid
+</level3>
+<level3>
+Meconium stain
+</level3>
+<level3>
+Oligohydramnios
+</level3>
+<level3>
+Polyhydramnios
+</level3>
+</level2>
+<level2 name =" Placental abnormalities (excl neoplasms)">
+<level3>
+Chronic villitis of unknown etiology
+</level3>
+<level3>
+Foetal placental thrombosis
+</level3>
+<level3>
+Placenta accreta
+</level3>
+<level3>
+Placenta praevia
+</level3>
+<level3>
+Placental disorder
+</level3>
+<level3>
+Placental dysplasia
+</level3>
+<level3>
+Placental hypertrophy
+</level3>
+<level3>
+Placental infarction
+</level3>
+<level3>
+Placental insufficiency
+</level3>
+<level3>
+Placental necrosis
+</level3>
+<level3>
+Placental polyp
+</level3>
+<level3>
+Placental transfusion syndrome
+</level3>
+<level3>
+Small size placenta
+</level3>
+<level3>
+Vasa praevia
+</level3>
+</level2>
+<level2 name =" Placental neoplasms">
+<level3>
+Benign hydatidiform mole
+</level3>
+<level3>
+Malignant hydatidiform mole
+</level3>
+<level3>
+Malignant neoplasm of placenta
+</level3>
+<level3>
+Metastases to placenta
+</level3>
+<level3>
+Placental chorioangioma
+</level3>
+<level3>
+Placental neoplasm
+</level3>
+</level2>
+</level1>
+<level1 name =" Postpartum and puerperal disorders">
+<level2 name =" Postpartum breast disorders">
+<level3>
+Breast abscess
+</level3>
+<level3>
+Breast milk discolouration
+</level3>
+<level3>
+Galactocele
+</level3>
+<level3>
+Galactostasis
+</level3>
+<level3>
+Lactation disorder
+</level3>
+<level3>
+Lactation puerperal increased
+</level3>
+<level3>
+Mastitis postpartum
+</level3>
+<level3>
+Retracted nipple
+</level3>
+<level3>
+Suppressed lactation
+</level3>
+</level2>
+<level2 name =" Postpartum complications NEC">
+<level3>
+Afterbirth pain
+</level3>
+<level3>
+Drug use disorder, postpartum
+</level3>
+<level3>
+Perineal repair breakdown
+</level3>
+<level3>
+Postpartum disorder
+</level3>
+<level3>
+Postpartum haemorrhage
+</level3>
+<level3>
+Postpartum hypopituitarism
+</level3>
+<level3>
+Postpartum thrombosis
+</level3>
+<level3>
+Postpartum uterine subinvolution
+</level3>
+<level3>
+Postpartum venous thrombosis
+</level3>
+<level3>
+Puerperal pyrexia
+</level3>
+<level3>
+Reversible cerebral vasoconstriction syndrome
+</level3>
+<level3>
+Third stage postpartum haemorrhage
+</level3>
+</level2>
+<level2 name =" Postpartum psychiatric disorders">
+<level3>
+Brief psychotic disorder, with postpartum onset
+</level3>
+<level3>
+Lymphocytic hypophysitis
+</level3>
+<level3>
+Perinatal depression
+</level3>
+<level3>
+Postpartum neurosis
+</level3>
+<level3>
+Postpartum stress disorder
+</level3>
+</level2>
+<level2 name =" Puerperal infections">
+<level3>
+Lochial infection
+</level3>
+<level3>
+Postpartum sepsis
+</level3>
+<level3>
+Puerperal infection
+</level3>
+</level2>
+</level1>
+<level1 name =" Pregnancy, labour, delivery and postpartum conditions">
+<level2 name =" Exposures associated with pregnancy, delivery and lactation">
+<level3>
+Exposure during breast feeding
+</level3>
+<level3>
+Exposure during pregnancy
+</level3>
+<level3>
+Exposure via father
+</level3>
+<level3>
+Foetal exposure during delivery
+</level3>
+<level3>
+Foetal exposure during pregnancy
+</level3>
+<level3>
+Foetal exposure timing unspecified
+</level3>
+<level3>
+Maternal exposure before pregnancy
+</level3>
+<level3>
+Maternal exposure during delivery
+</level3>
+<level3>
+Maternal exposure during pregnancy
+</level3>
+<level3>
+Maternal exposure timing unspecified
+</level3>
+<level3>
+Paternal exposure before pregnancy
+</level3>
+<level3>
+Paternal exposure during pregnancy
+</level3>
+<level3>
+Paternal exposure timing unspecified
+</level3>
+</level2>
+<level2 name =" High risk pregnancies">
+<level3>
+Elderly primigravida
+</level3>
+<level3>
+High risk pregnancy
+</level3>
+<level3>
+Pregnancy in habitual aborter
+</level3>
+<level3>
+Pregnancy of unknown location
+</level3>
+<level3>
+Pregnancy with advanced maternal age
+</level3>
+<level3>
+Pregnancy with young maternal age
+</level3>
+<level3>
+Previous caesarean section
+</level3>
+<level3>
+Risk of future pregnancy miscarriage
+</level3>
+<level3>
+Short interpregnancy interval
+</level3>
+<level3>
+Uterine inversion
+</level3>
+<level3>
+Uterine malposition
+</level3>
+</level2>
+<level2 name =" Multiple pregnancies">
+<level3>
+Multiple pregnancy
+</level3>
+<level3>
+Twin pregnancy
+</level3>
+</level2>
+<level2 name =" Normal newborn status">
+<level3>
+Birth weight normal
+</level3>
+<level3>
+Breast engorgement in newborn
+</level3>
+<level3>
+Normal newborn
+</level3>
+<level3>
+Pseudomenstruation neonatal
+</level3>
+</level2>
+<level2 name =" Normal pregnancy, labour and delivery">
+<level3>
+Breast engorgement
+</level3>
+<level3>
+Cervical dilatation
+</level3>
+<level3>
+Chloasma
+</level3>
+<level3>
+Delivery
+</level3>
+<level3>
+First trimester pregnancy
+</level3>
+<level3>
+Labour pain
+</level3>
+<level3>
+Live birth
+</level3>
+<level3>
+Normal foetus
+</level3>
+<level3>
+Normal labour
+</level3>
+<level3>
+Postpartum state
+</level3>
+<level3>
+Pregnancy
+</level3>
+<level3>
+Second trimester pregnancy
+</level3>
+<level3>
+Term birth
+</level3>
+<level3>
+Third trimester pregnancy
+</level3>
+<level3>
+Uterine contractions during pregnancy
+</level3>
+</level2>
+<level2 name =" Unintended pregnancies">
+<level3>
+Pregnancy after post coital contraception
+</level3>
+<level3>
+Pregnancy on contraceptive
+</level3>
+<level3>
+Pregnancy on oral contraceptive
+</level3>
+<level3>
+Pregnancy with contraceptive device
+</level3>
+<level3>
+Pregnancy with contraceptive patch
+</level3>
+<level3>
+Pregnancy with implant contraceptive
+</level3>
+<level3>
+Pregnancy with injectable contraceptive
+</level3>
+<level3>
+Unintended pregnancy
+</level3>
+<level3>
+Unwanted pregnancy
+</level3>
+</level2>
+</level1>
+</level0>

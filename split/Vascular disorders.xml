@@ -1,1784 +1,5032 @@
-l0< Vascular disorders>
-l1< Aneurysms and artery dissections >
-l2< Aneurysms and dissections non-site specific >
+<level0 name =" Vascular">
+<level1 name =" Aneurysms and artery dissections">
+<level2 name =" Aneurysms and dissections non-site specific">
+<level3>
 Aneurysm
+</level3>
+<level3>
 Aneurysm arteriovenous
+</level3>
+<level3>
 Aneurysm perforation
+</level3>
+<level3>
 Aneurysm recanalisation
+</level3>
+<level3>
 Aneurysm ruptured
+</level3>
+<level3>
 Arterial intramural haematoma
+</level3>
+<level3>
 Artery dissection
+</level3>
+<level3>
 Infective aneurysm
+</level3>
+<level3>
 Intratumoural aneurysm
+</level3>
+<level3>
 Shunt aneurysm
+</level3>
+<level3>
 Vascular access site dissection
+</level3>
+<level3>
 Vascular dissection
+</level3>
+<level3>
 Vein dissection
+</level3>
+<level3>
 Venous aneurysm
-l2</ Aneurysms and dissections non-site specific >
-l2< Aneurysms and dissections site specific NEC >
+</level3>
+</level2>
+<level2 name =" Aneurysms and dissections site specific NEC">
+<level3>
 Arterioenteric fistula
+</level3>
+<level3>
 Bronchial artery aneurysm
+</level3>
+<level3>
 Cardiac aneurysm
+</level3>
+<level3>
 Coeliac artery aneurysm
+</level3>
+<level3>
 Coronary artery aneurysm
+</level3>
+<level3>
 Coronary artery dissection
+</level3>
+<level3>
 Dissecting coronary artery aneurysm
+</level3>
+<level3>
 Hepatic artery aneurysm
+</level3>
+<level3>
 Mesenteric artery aneurysm
+</level3>
+<level3>
 Pulmonary artery aneurysm
+</level3>
+<level3>
 Renal aneurysm
+</level3>
+<level3>
 Renal artery dissection
+</level3>
+<level3>
 Retinal aneurysm
+</level3>
+<level3>
 Retinal aneurysm rupture
+</level3>
+<level3>
 Splenic artery aneurysm
+</level3>
+<level3>
 Splenic vein aneurysm
-l2</ Aneurysms and dissections site specific NEC >
-l2< Aortic aneurysms and dissections >
+</level3>
+</level2>
+<level2 name =" Aortic aneurysms and dissections">
+<level3>
 Acute aortic syndrome
+</level3>
+<level3>
 Aortic aneurysm
+</level3>
+<level3>
 Aortic aneurysm rupture
+</level3>
+<level3>
 Aortic aneurysm syphilitic
+</level3>
+<level3>
 Aortic dissection
+</level3>
+<level3>
 Aortic dissection rupture
+</level3>
+<level3>
 Aortic intramural haematoma
+</level3>
+<level3>
 False lumen dilatation of aortic dissection
+</level3>
+<level3>
 Penetrating aortic ulcer
+</level3>
+<level3>
 Penetrating atherosclerotic ulcer
-l2</ Aortic aneurysms and dissections >
-l2< Cerebrovascular aneurysms and dissections >
+</level3>
+</level2>
+<level2 name =" Cerebrovascular aneurysms and dissections">
+<level3>
 Basilar artery aneurysm
+</level3>
+<level3>
 Carotid aneurysm rupture
+</level3>
+<level3>
 Carotid artery aneurysm
+</level3>
+<level3>
 Carotid artery dissection
+</level3>
+<level3>
 Cerebral aneurysm perforation
+</level3>
+<level3>
 Cerebral aneurysm ruptured syphilitic
+</level3>
+<level3>
 Charcot-Bouchard microaneurysms
+</level3>
+<level3>
 Intracranial aneurysm
+</level3>
+<level3>
 Intracranial artery dissection
+</level3>
+<level3>
 Ruptured cerebral aneurysm
+</level3>
+<level3>
 Vertebral artery aneurysm
+</level3>
+<level3>
 Vertebral artery dissection
+</level3>
+<level3>
 Wyburn Mason's syndrome
-l2</ Cerebrovascular aneurysms and dissections >
-l2< Peripheral aneurysms and dissections >
+</level3>
+</level2>
+<level2 name =" Peripheral aneurysms and dissections">
+<level3>
 Arteriovenous fistula aneurysm
+</level3>
+<level3>
 Arteriovenous graft aneurysm
+</level3>
+<level3>
 Femoral artery aneurysm
+</level3>
+<level3>
 Femoral artery dissection
+</level3>
+<level3>
 Peripheral artery aneurysm
+</level3>
+<level3>
 Peripheral artery aneurysm rupture
+</level3>
+<level3>
 Peripheral artery dissection
+</level3>
+<level3>
 Subclavian artery aneurysm
-l2</ Peripheral aneurysms and dissections >
-l1</ Aneurysms and artery dissections >
-l1< Arteriosclerosis, stenosis, vascular insufficiency and necrosis >
-l2< Aortic necrosis and vascular insufficiency >
+</level3>
+</level2>
+</level1>
+<level1 name =" Arteriosclerosis, stenosis, vascular insufficiency and necrosis">
+<level2 name =" Aortic necrosis and vascular insufficiency">
+<level3>
 Aortic arteriosclerosis
+</level3>
+<level3>
 Aortic necrosis
+</level3>
+<level3>
 Aortic occlusion
+</level3>
+<level3>
 Aortic restenosis
+</level3>
+<level3>
 Aortic root compression
+</level3>
+<level3>
 Aortic stenosis
+</level3>
+<level3>
 Coarctation of the aorta
+</level3>
+<level3>
 Congenital aortic stenosis
+</level3>
+<level3>
 Leriche syndrome
-l2</ Aortic necrosis and vascular insufficiency >
-l2< Cerebrovascular and spinal necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Cerebrovascular and spinal necrosis and vascular insufficiency">
+<level3>
 Amaurosis fugax
+</level3>
+<level3>
 Anterior spinal artery syndrome
+</level3>
+<level3>
 Basal ganglia infarction
+</level3>
+<level3>
 Basal ganglia stroke
+</level3>
+<level3>
 Basilar artery occlusion
+</level3>
+<level3>
 Basilar artery stenosis
+</level3>
+<level3>
 Brain hypoxia
+</level3>
+<level3>
 Brain stem infarction
+</level3>
+<level3>
 Brain stem ischaemia
+</level3>
+<level3>
 Brain stem stroke
+</level3>
+<level3>
 Capsular warning syndrome
+</level3>
+<level3>
 Carotid arteriosclerosis
+</level3>
+<level3>
 Carotid artery calcification
+</level3>
+<level3>
 Carotid artery dolichoectasia
+</level3>
+<level3>
 Carotid artery insufficiency
+</level3>
+<level3>
 Carotid artery occlusion
+</level3>
+<level3>
 Carotid artery restenosis
+</level3>
+<level3>
 Carotid artery stenosis
+</level3>
+<level3>
 Central nervous system necrosis
+</level3>
+<level3>
 Cerebellar artery occlusion
+</level3>
+<level3>
 Cerebellar infarction
+</level3>
+<level3>
 Cerebellar ischaemia
+</level3>
+<level3>
 Cerebellar stroke
+</level3>
+<level3>
 Cerebral arteriosclerosis
+</level3>
+<level3>
 Cerebral artery occlusion
+</level3>
+<level3>
 Cerebral artery restenosis
+</level3>
+<level3>
 Cerebral artery stenosis
+</level3>
+<level3>
 Cerebral circulatory failure
+</level3>
+<level3>
 Cerebral infarction
+</level3>
+<level3>
 Cerebral infarction foetal
+</level3>
+<level3>
 Cerebral ischaemia
+</level3>
+<level3>
 Cerebral small vessel ischaemic disease
+</level3>
+<level3>
 Cerebral vascular occlusion
+</level3>
+<level3>
 Cerebral vasoconstriction
+</level3>
+<level3>
 Cerebrovascular insufficiency
+</level3>
+<level3>
 Cerebrovascular stenosis
+</level3>
+<level3>
 Delayed ischaemic neurological deficit
+</level3>
+<level3>
 Hypoxic-ischaemic encephalopathy
+</level3>
+<level3>
 Inner ear infarction
+</level3>
+<level3>
 Internal carotid artery kinking
+</level3>
+<level3>
 Intraoperative cerebral artery occlusion
+</level3>
+<level3>
 Ischaemic cerebral infarction
+</level3>
+<level3>
 Ischaemic stroke
+</level3>
+<level3>
 Jugular vein occlusion
+</level3>
+<level3>
 Lacunar infarction
+</level3>
+<level3>
 Lacunar stroke
+</level3>
+<level3>
 Lateral medullary syndrome
+</level3>
+<level3>
 Migrainous infarction
+</level3>
+<level3>
 Millard-Gubler syndrome
+</level3>
+<level3>
 Pituitary infarction
+</level3>
+<level3>
 Post procedural stroke
+</level3>
+<level3>
 Post-anoxic myoclonus
+</level3>
+<level3>
 Precerebral arteriosclerosis
+</level3>
+<level3>
 Precerebral artery occlusion
+</level3>
+<level3>
 Raymond-Cestan syndrome
+</level3>
+<level3>
 Reversible cerebral vasoconstriction syndrome
+</level3>
+<level3>
 Reversible ischaemic neurological deficit
+</level3>
+<level3>
 Seizure anoxic
+</level3>
+<level3>
 Spinal claudication
+</level3>
+<level3>
 Spinal cord infarction
+</level3>
+<level3>
 Spinal cord ischaemia
+</level3>
+<level3>
 Thalamic infarction
+</level3>
+<level3>
 Transient ischaemic attack
+</level3>
+<level3>
 Vascular cognitive impairment
+</level3>
+<level3>
 Vascular dementia
+</level3>
+<level3>
 Vascular encephalopathy
+</level3>
+<level3>
 Vertebral artery occlusion
+</level3>
+<level3>
 Vertebral artery stenosis
+</level3>
+<level3>
 Vertebrobasilar dolichoectasia
+</level3>
+<level3>
 Vertebrobasilar insufficiency
+</level3>
+<level3>
 Vestibular ischaemia
+</level3>
+<level3>
 White matter lesion
-l2</ Cerebrovascular and spinal necrosis and vascular insufficiency >
-l2< Coronary necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Coronary necrosis and vascular insufficiency">
+<level3>
 Acute coronary syndrome
+</level3>
+<level3>
 Acute myocardial infarction
+</level3>
+<level3>
 Angina pectoris
+</level3>
+<level3>
 Angina unstable
+</level3>
+<level3>
 Anginal equivalent
+</level3>
+<level3>
 Arteriosclerosis coronary artery
+</level3>
+<level3>
 Arteriospasm coronary
+</level3>
+<level3>
 Coronary artery compression
+</level3>
+<level3>
 Coronary artery disease
+</level3>
+<level3>
 Coronary artery insufficiency
+</level3>
+<level3>
 Coronary artery occlusion
+</level3>
+<level3>
 Coronary artery reocclusion
+</level3>
+<level3>
 Coronary artery restenosis
+</level3>
+<level3>
 Coronary artery stenosis
+</level3>
+<level3>
 Coronary bypass stenosis
+</level3>
+<level3>
 Coronary no-reflow phenomenon
+</level3>
+<level3>
 Coronary ostial stenosis
+</level3>
+<level3>
 Coronary vascular graft occlusion
+</level3>
+<level3>
 Coronary vascular graft stenosis
+</level3>
+<level3>
 Coronary vein stenosis
+</level3>
+<level3>
 Ischaemic cardiomyopathy
+</level3>
+<level3>
 Kounis syndrome
+</level3>
+<level3>
 Microvascular coronary artery disease
+</level3>
+<level3>
 Myocardial infarction
+</level3>
+<level3>
 Myocardial ischaemia
+</level3>
+<level3>
 Myocardial necrosis
+</level3>
+<level3>
 Myocardial reperfusion injury
+</level3>
+<level3>
 Myocardial stunning
+</level3>
+<level3>
 Papillary muscle infarction
+</level3>
+<level3>
 Postinfarction angina
+</level3>
+<level3>
 Prinzmetal angina
+</level3>
+<level3>
 Silent myocardial infarction
+</level3>
+<level3>
 Stress cardiomyopathy
+</level3>
+<level3>
 Subendocardial ischaemia
-l2</ Coronary necrosis and vascular insufficiency >
-l2< Gastrointestinal necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Gastrointestinal necrosis and vascular insufficiency">
+<level3>
 Abdominal strangulated hernia
+</level3>
+<level3>
 Coeliac artery compression syndrome
+</level3>
+<level3>
 Coeliac artery stenosis
+</level3>
+<level3>
 Colitis ischaemic
+</level3>
+<level3>
 Colon gangrene
+</level3>
+<level3>
 Diaphragmatic hernia gangrenous
+</level3>
+<level3>
 Femoral hernia gangrenous
+</level3>
+<level3>
 Femoral hernia strangulated
+</level3>
+<level3>
 Gastrointestinal gangrene
+</level3>
+<level3>
 Gastrointestinal ischaemia
+</level3>
+<level3>
 Gastrointestinal mucosal necrosis
+</level3>
+<level3>
 Gastrointestinal necrosis
+</level3>
+<level3>
 Gastrointestinal stoma necrosis
+</level3>
+<level3>
 Hernia gangrenous
+</level3>
+<level3>
 Hiatus hernia strangulated
+</level3>
+<level3>
 Ileal gangrene
+</level3>
+<level3>
 Incisional hernia gangrenous
+</level3>
+<level3>
 Inguinal hernia gangrenous
+</level3>
+<level3>
 Inguinal hernia strangulated
+</level3>
+<level3>
 Intestinal angina
+</level3>
+<level3>
 Intestinal gangrene
+</level3>
+<level3>
 Intestinal infarction
+</level3>
+<level3>
 Intestinal ischaemia
+</level3>
+<level3>
 Ischaemic enteritis
+</level3>
+<level3>
 Ischaemic gastritis
+</level3>
+<level3>
 Ischaemic pancreatitis
+</level3>
+<level3>
 Jejunal gangrene
+</level3>
+<level3>
 Mesenteric arterial occlusion
+</level3>
+<level3>
 Mesenteric arteriosclerosis
+</level3>
+<level3>
 Mesenteric artery stenosis
+</level3>
+<level3>
 Mesenteric phlebosclerosis
+</level3>
+<level3>
 Mesenteric vascular insufficiency
+</level3>
+<level3>
 Mesenteric vascular occlusion
+</level3>
+<level3>
 Mesenteric venous occlusion
+</level3>
+<level3>
 Omental infarction
+</level3>
+<level3>
 Omental necrosis
+</level3>
+<level3>
 Pancreatic infarction
+</level3>
+<level3>
 Peritoneal necrosis
+</level3>
+<level3>
 Small intestine gangrene
+</level3>
+<level3>
 Strangulated umbilical hernia
+</level3>
+<level3>
 Tongue infarction
+</level3>
+<level3>
 Tongue necrosis
+</level3>
+<level3>
 Umbilical hernia gangrenous
-l2</ Gastrointestinal necrosis and vascular insufficiency >
-l2< Hepatic and portal necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Hepatic and portal necrosis and vascular insufficiency">
+<level3>
 Biliary ischaemia
+</level3>
+<level3>
 Hepatic artery occlusion
+</level3>
+<level3>
 Hepatic artery stenosis
+</level3>
+<level3>
 Hepatic infarction
+</level3>
+<level3>
 Hepatic ischaemia
+</level3>
+<level3>
 Hepatic vein occlusion
+</level3>
+<level3>
 Hepatic vein stenosis
+</level3>
+<level3>
 Ischaemic hepatitis
+</level3>
+<level3>
 Portal vein occlusion
+</level3>
+<level3>
 Portal vein stenosis
+</level3>
+<level3>
 Retrograde portal vein flow
+</level3>
+<level3>
 Splenic infarction
+</level3>
+<level3>
 Venoocclusive liver disease
-l2</ Hepatic and portal necrosis and vascular insufficiency >
-l2< Musculoskeletal necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Musculoskeletal necrosis and vascular insufficiency">
+<level3>
 Arteriosclerotic gangrene
+</level3>
+<level3>
 Bone infarction
+</level3>
+<level3>
 Chest wall necrosis
+</level3>
+<level3>
 Compartment syndrome
+</level3>
+<level3>
 Diabetic foot infection
+</level3>
+<level3>
 Gangrene
+</level3>
+<level3>
 Gangrene neonatal
+</level3>
+<level3>
 Gas gangrene
+</level3>
+<level3>
 Muscle hypoxia
+</level3>
+<level3>
 Orbital compartment syndrome
+</level3>
+<level3>
 Osteonecrosis
+</level3>
+<level3>
 Osteonecrosis of external auditory canal
+</level3>
+<level3>
 Osteonecrosis of jaw
+</level3>
+<level3>
 Osteoradionecrosis
+</level3>
+<level3>
 Purple glove syndrome
-l2</ Musculoskeletal necrosis and vascular insufficiency >
-l2< Non-site specific necrosis and vascular insufficiency NEC >
+</level3>
+</level2>
+<level2 name =" Non-site specific necrosis and vascular insufficiency NEC">
+<level3>
 Arterial bypass stenosis
+</level3>
+<level3>
 Arterial dolichoectasia
+</level3>
+<level3>
 Arterial insufficiency
+</level3>
+<level3>
 Arterial occlusive disease
+</level3>
+<level3>
 Arterial restenosis
+</level3>
+<level3>
 Arterial spasm
+</level3>
+<level3>
 Arterial stenosis
+</level3>
+<level3>
 Arteriosclerosis
+</level3>
+<level3>
 Arteriosclerosis Moenckeberg-type
+</level3>
+<level3>
 Artificial blood vessel occlusion
+</level3>
+<level3>
 Atherosclerotic plaque rupture
+</level3>
+<level3>
 Fibromuscular dysplasia
+</level3>
+<level3>
 Graft ischaemia
+</level3>
+<level3>
 Haemorrhagic infarction
+</level3>
+<level3>
 Incision site vessel occlusion
+</level3>
+<level3>
 Infarction
+</level3>
+<level3>
 Ischaemia
+</level3>
+<level3>
 Malignant atrophic papulosis
+</level3>
+<level3>
 Malnutrition-inflammation-atherosclerosis syndrome
+</level3>
+<level3>
 Man-in-the-barrel syndrome
+</level3>
+<level3>
 Necrosis
+</level3>
+<level3>
 Necrosis ischaemic
+</level3>
+<level3>
 Necrosis of artery
+</level3>
+<level3>
 Peripheral venous disease
+</level3>
+<level3>
 Phlebosclerosis
+</level3>
+<level3>
 Plaque shift
+</level3>
+<level3>
 Post angioplasty restenosis
+</level3>
+<level3>
 Septic necrosis
+</level3>
+<level3>
 Soft tissue necrosis
+</level3>
+<level3>
 Steal syndrome
+</level3>
+<level3>
 Stoma site ischaemia
+</level3>
+<level3>
 Strangulated hernia
+</level3>
+<level3>
 Tumour necrosis
+</level3>
+<level3>
 Vascular compression
+</level3>
+<level3>
 Vascular graft occlusion
+</level3>
+<level3>
 Vascular graft restenosis
+</level3>
+<level3>
 Vascular graft stenosis
+</level3>
+<level3>
 Vascular insufficiency
+</level3>
+<level3>
 Vascular occlusion
+</level3>
+<level3>
 Vascular stenosis
+</level3>
+<level3>
 Vascular stent occlusion
+</level3>
+<level3>
 Vascular stent restenosis
+</level3>
+<level3>
 Vascular stent stenosis
+</level3>
+<level3>
 Vascular stent thrombosis
+</level3>
+<level3>
 Vasospasm
+</level3>
+<level3>
 Venous occlusion
+</level3>
+<level3>
 Venous stenosis
-l2</ Non-site specific necrosis and vascular insufficiency NEC >
-l2< Peripheral vasoconstriction, necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Peripheral vasoconstriction, necrosis and vascular insufficiency">
+<level3>
 Atrophie blanche
+</level3>
+<level3>
 Brachial artery entrapment syndrome
+</level3>
+<level3>
 Chillblains
+</level3>
+<level3>
 Choroidal sclerosis
+</level3>
+<level3>
 Claudication of jaw muscles
+</level3>
+<level3>
 Dependent rubor
+</level3>
+<level3>
 Diabetic foot
+</level3>
+<level3>
 Diabetic gangrene
+</level3>
+<level3>
 Diabetic macroangiopathy
+</level3>
+<level3>
 Diabetic microangiopathy
+</level3>
+<level3>
 Diabetic ulcer
+</level3>
+<level3>
 Diabetic vascular disorder
+</level3>
+<level3>
 Digital pitting scar
+</level3>
+<level3>
 Dry gangrene
+</level3>
+<level3>
 Eschar
+</level3>
+<level3>
 Extremity necrosis
+</level3>
+<level3>
 Extrinsic iliac vein compression
+</level3>
+<level3>
 Frostbite
+</level3>
+<level3>
 Hand-arm vibration syndrome
+</level3>
+<level3>
 Iliac artery disease
+</level3>
+<level3>
 Iliac artery occlusion
+</level3>
+<level3>
 Iliac vein occlusion
+</level3>
+<level3>
 Intermittent claudication
+</level3>
+<level3>
 Ischaemic limb pain
+</level3>
+<level3>
 Ischaemic neuropathy
+</level3>
+<level3>
 Ischaemic skin ulcer
+</level3>
+<level3>
 May-Thurner syndrome
+</level3>
+<level3>
 Mucocutaneous flap necrosis
+</level3>
+<level3>
 Peripheral arterial occlusive disease
+</level3>
+<level3>
 Peripheral arterial reocclusion
+</level3>
+<level3>
 Peripheral artery occlusion
+</level3>
+<level3>
 Peripheral artery restenosis
+</level3>
+<level3>
 Peripheral artery stenosis
+</level3>
+<level3>
 Peripheral coldness
+</level3>
+<level3>
 Peripheral ischaemia
+</level3>
+<level3>
 Poor peripheral circulation
+</level3>
+<level3>
 Popliteal artery entrapment syndrome
+</level3>
+<level3>
 Raynaud's phenomenon
+</level3>
+<level3>
 Scleroderma associated digital ulcer
+</level3>
+<level3>
 Skin flap necrosis
+</level3>
+<level3>
 Skin ulcer
+</level3>
+<level3>
 Spontaneous amputation
+</level3>
+<level3>
 Subclavian artery occlusion
+</level3>
+<level3>
 Subclavian artery stenosis
+</level3>
+<level3>
 Subclavian coronary steal syndrome
+</level3>
+<level3>
 Subclavian vein occlusion
+</level3>
+<level3>
 Subclavian vein stenosis
+</level3>
+<level3>
 Vasoconstriction
+</level3>
+<level3>
 Venous ulcer pain
-l2</ Peripheral vasoconstriction, necrosis and vascular insufficiency >
-l2< Renal necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Renal necrosis and vascular insufficiency">
+<level3>
 Ischaemic nephropathy
+</level3>
+<level3>
 Renal arteriosclerosis
+</level3>
+<level3>
 Renal artery arteriosclerosis
+</level3>
+<level3>
 Renal artery fibromuscular dysplasia
+</level3>
+<level3>
 Renal artery occlusion
+</level3>
+<level3>
 Renal artery stenosis
+</level3>
+<level3>
 Renal cortical necrosis
+</level3>
+<level3>
 Renal infarct
+</level3>
+<level3>
 Renal ischaemia
+</level3>
+<level3>
 Renal necrosis
+</level3>
+<level3>
 Renal transplant torsion
-l2</ Renal necrosis and vascular insufficiency >
-l2< Reproductive system necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Reproductive system necrosis and vascular insufficiency">
+<level3>
 Penile artery occlusion
+</level3>
+<level3>
 Penile necrosis
+</level3>
+<level3>
 Perineal necrosis
+</level3>
+<level3>
 Placental infarction
+</level3>
+<level3>
 Placental insufficiency
+</level3>
+<level3>
 Placental necrosis
+</level3>
+<level3>
 Scrotal gangrene
+</level3>
+<level3>
 Testicular infarction
+</level3>
+<level3>
 Testicular necrosis
+</level3>
+<level3>
 Uterine ischaemia
+</level3>
+<level3>
 Uterine necrosis
-l2</ Reproductive system necrosis and vascular insufficiency >
-l2< Retinal necrosis and vascular insufficiency >
+</level3>
+</level2>
+<level2 name =" Retinal necrosis and vascular insufficiency">
+<level3>
 Macular ischaemia
+</level3>
+<level3>
 Macular vasospasm
+</level3>
+<level3>
 Necrotising herpetic retinopathy
+</level3>
+<level3>
 Necrotising retinitis
+</level3>
+<level3>
 Optic ischaemic neuropathy
+</level3>
+<level3>
 Optic nerve infarction
+</level3>
+<level3>
 Purtscher retinopathy
+</level3>
+<level3>
 Retinal artery spasm
+</level3>
+<level3>
 Retinal artery stenosis
+</level3>
+<level3>
 Retinal infarction
+</level3>
+<level3>
 Retinal ischaemia
+</level3>
+<level3>
 Retinal vascular occlusion
+</level3>
+<level3>
 Venous stasis retinopathy
-l2</ Retinal necrosis and vascular insufficiency >
-l2< Site specific necrosis and vascular insufficiency NEC >
+</level3>
+</level2>
+<level2 name =" Site specific necrosis and vascular insufficiency NEC">
+<level3>
 Abdominal compartment syndrome
+</level3>
+<level3>
 Adrenal cortex necrosis
+</level3>
+<level3>
 Anterior segment ischaemia
+</level3>
+<level3>
 Bladder necrosis
+</level3>
+<level3>
 Bone marrow ischaemia
+</level3>
+<level3>
 Bone marrow necrosis
+</level3>
+<level3>
 Brachiocephalic arteriosclerosis
+</level3>
+<level3>
 Brachiocephalic artery occlusion
+</level3>
+<level3>
 Brachiocephalic artery stenosis
+</level3>
+<level3>
 Brachiocephalic vein occlusion
+</level3>
+<level3>
 Brachiocephalic vein stenosis
+</level3>
+<level3>
 Choroidal infarction
+</level3>
+<level3>
 Coeliac artery occlusion
+</level3>
+<level3>
 Inferior vena cava stenosis
+</level3>
+<level3>
 Inferior vena cava syndrome
+</level3>
+<level3>
 Inferior vena caval occlusion
+</level3>
+<level3>
 Nail necrosis
+</level3>
+<level3>
 Ocular ischaemic syndrome
+</level3>
+<level3>
 Paranasal sinus necrosis
+</level3>
+<level3>
 Pharyngeal necrosis
+</level3>
+<level3>
 Pulmonary artery occlusion
+</level3>
+<level3>
 Pulmonary artery stenosis
+</level3>
+<level3>
 Pulmonary artery stenosis congenital
+</level3>
+<level3>
 Pulmonary infarction
+</level3>
+<level3>
 Pulmonary vein occlusion
+</level3>
+<level3>
 Pulmonary vein stenosis
+</level3>
+<level3>
 Splenic artery stenosis
+</level3>
+<level3>
 Splenic vein occlusion
+</level3>
+<level3>
 Superior vena cava occlusion
+</level3>
+<level3>
 Superior vena cava stenosis
+</level3>
+<level3>
 Superior vena cava syndrome
+</level3>
+<level3>
 Thyroid infarction
+</level3>
+<level3>
 Umbilical cord occlusion
-l2</ Site specific necrosis and vascular insufficiency NEC >
-l1</ Arteriosclerosis, stenosis, vascular insufficiency and necrosis >
-l1< Decreased and nonspecific blood pressure disorders and shock >
-l2< Blood pressure disorders NEC >
+</level3>
+</level2>
+</level1>
+<level1 name =" Decreased and nonspecific blood pressure disorders and shock">
+<level2 name =" Blood pressure disorders NEC">
+<level3>
 Autonomic nervous system imbalance
+</level3>
+<level3>
 Blood pressure fluctuation
+</level3>
+<level3>
 Blood pressure inadequately controlled
+</level3>
+<level3>
 Labile blood pressure
+</level3>
+<level3>
 Non-dipping
+</level3>
+<level3>
 Orthostatic intolerance
-l2</ Blood pressure disorders NEC >
-l2< Circulatory collapse and shock >
+</level3>
+</level2>
+<level2 name =" Circulatory collapse and shock">
+<level3>
 Acute prerenal failure
+</level3>
+<level3>
 Anaphylactic shock
+</level3>
+<level3>
 Anaphylactoid shock
+</level3>
+<level3>
 Cardiogenic shock
+</level3>
+<level3>
 Circulatory collapse
+</level3>
+<level3>
 Circulatory failure neonatal
+</level3>
+<level3>
 CT hypotension complex
+</level3>
+<level3>
 Distributive shock
+</level3>
+<level3>
 Dizziness
+</level3>
+<level3>
 Dizziness exertional
+</level3>
+<level3>
 Dizziness postural
+</level3>
+<level3>
 Endotoxic shock
+</level3>
+<level3>
 Heat stroke
+</level3>
+<level3>
 Hypoperfusion
+</level3>
+<level3>
 Hypovolaemic shock
+</level3>
+<level3>
 Neurogenic shock
+</level3>
+<level3>
 Obstructive shock
+</level3>
+<level3>
 Peripheral circulatory failure
+</level3>
+<level3>
 Prerenal failure
+</level3>
+<level3>
 Presyncope
+</level3>
+<level3>
 Septic shock
+</level3>
+<level3>
 Severe invasive streptococcal infection
+</level3>
+<level3>
 Shock
+</level3>
+<level3>
 Shock haemorrhagic
+</level3>
+<level3>
 Shock symptom
+</level3>
+<level3>
 Syncope
+</level3>
+<level3>
 Toxic shock syndrome
+</level3>
+<level3>
 Toxic shock syndrome staphylococcal
+</level3>
+<level3>
 Toxic shock syndrome streptococcal
+</level3>
+<level3>
 Waterhouse-Friderichsen syndrome
-l2</ Circulatory collapse and shock >
-l2< Vascular hypotensive disorders >
+</level3>
+</level2>
+<level2 name =" Vascular hypotensive disorders">
+<level3>
 Anaphylactic reaction
+</level3>
+<level3>
 Anaphylactoid reaction
+</level3>
+<level3>
 Autonomic failure syndrome
+</level3>
+<level3>
 Bezold-Jarisch reflex
+</level3>
+<level3>
 Capillary leak syndrome
+</level3>
+<level3>
 Cardiovascular insufficiency
+</level3>
+<level3>
 Diastolic hypotension
+</level3>
+<level3>
 Hypotension
+</level3>
+<level3>
 Hypotensive transfusion reaction
+</level3>
+<level3>
 Mesenteric traction syndrome
+</level3>
+<level3>
 Multiple system atrophy
+</level3>
+<level3>
 Neonatal hypotension
+</level3>
+<level3>
 Nitritoid reaction
+</level3>
+<level3>
 Orthostatic hypotension
+</level3>
+<level3>
 Procedural hypotension
+</level3>
+<level3>
 Systemic inflammatory response syndrome
+</level3>
+<level3>
 Trigemino-cardiac reflex
+</level3>
+<level3>
 Vasoplegia syndrome
-l2</ Vascular hypotensive disorders >
-l1</ Decreased and nonspecific blood pressure disorders and shock >
-l1< Embolism and thrombosis >
-l2< Aortic embolism and thrombosis >
+</level3>
+</level2>
+</level1>
+<level1 name =" Embolism and thrombosis">
+<level2 name =" Aortic embolism and thrombosis">
+<level3>
 Aortic embolus
+</level3>
+<level3>
 Aortic thrombosis
-l2</ Aortic embolism and thrombosis >
-l2< Cerebrovascular embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Cerebrovascular embolism and thrombosis">
+<level3>
 Basilar artery thrombosis
+</level3>
+<level3>
 Brain stem embolism
+</level3>
+<level3>
 Brain stem thrombosis
+</level3>
+<level3>
 Carotid arterial embolus
+</level3>
+<level3>
 Carotid artery thrombosis
+</level3>
+<level3>
 Cavernous sinus thrombosis
+</level3>
+<level3>
 Cerebellar artery thrombosis
+</level3>
+<level3>
 Cerebellar embolism
+</level3>
+<level3>
 Cerebral artery embolism
+</level3>
+<level3>
 Cerebral artery thrombosis
+</level3>
+<level3>
 Cerebral gas embolism
+</level3>
+<level3>
 Cerebral microembolism
+</level3>
+<level3>
 Cerebral septic infarct
+</level3>
+<level3>
 Cerebral thrombosis
+</level3>
+<level3>
 Cerebral venous thrombosis
+</level3>
+<level3>
 Cerebrospinal thrombotic tamponade
+</level3>
+<level3>
 Embolic cerebral infarction
+</level3>
+<level3>
 Embolic stroke
+</level3>
+<level3>
 Intracranial venous sinus thrombosis
+</level3>
+<level3>
 Moyamoya disease
+</level3>
+<level3>
 Precerebral artery thrombosis
+</level3>
+<level3>
 Superior sagittal sinus thrombosis
+</level3>
+<level3>
 Thrombotic cerebral infarction
+</level3>
+<level3>
 Thrombotic stroke
+</level3>
+<level3>
 Transverse sinus thrombosis
+</level3>
+<level3>
 Vertebral artery thrombosis
-l2</ Cerebrovascular embolism and thrombosis >
-l2< Gastrointestinal embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Gastrointestinal embolism and thrombosis">
+<level3>
 Mesenteric artery embolism
+</level3>
+<level3>
 Mesenteric artery thrombosis
+</level3>
+<level3>
 Mesenteric vein thrombosis
+</level3>
+<level3>
 Splenic artery thrombosis
+</level3>
+<level3>
 Splenic embolism
+</level3>
+<level3>
 Splenic thrombosis
+</level3>
+<level3>
 Thrombosis mesenteric vessel
+</level3>
+<level3>
 Truncus coeliacus thrombosis
+</level3>
+<level3>
 Visceral venous thrombosis
-l2</ Gastrointestinal embolism and thrombosis >
-l2< Hepatic and portal embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Hepatic and portal embolism and thrombosis">
+<level3>
 Budd-Chiari syndrome
+</level3>
+<level3>
 Hepatic artery embolism
+</level3>
+<level3>
 Hepatic artery thrombosis
+</level3>
+<level3>
 Hepatic vascular thrombosis
+</level3>
+<level3>
 Hepatic vein embolism
+</level3>
+<level3>
 Hepatic vein thrombosis
+</level3>
+<level3>
 Portal pyaemia
+</level3>
+<level3>
 Portal vein thrombosis
+</level3>
+<level3>
 Portosplenomesenteric venous thrombosis
+</level3>
+<level3>
 Splenic vein thrombosis
-l2</ Hepatic and portal embolism and thrombosis >
-l2< Non-site specific embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Non-site specific embolism and thrombosis">
+<level3>
 Administration site thrombosis
+</level3>
+<level3>
 Air embolism
+</level3>
+<level3>
 Antiphospholipid syndrome
+</level3>
+<level3>
 Application site thrombosis
+</level3>
+<level3>
 Arterial thrombosis
+</level3>
+<level3>
 Arteriovenous fistula thrombosis
+</level3>
+<level3>
 Arteriovenous graft site stenosis
+</level3>
+<level3>
 Arteriovenous graft thrombosis
+</level3>
+<level3>
 Atheroembolism
+</level3>
+<level3>
 Calcium embolism
+</level3>
+<level3>
 Catheter site thrombosis
+</level3>
+<level3>
 Device embolisation
+</level3>
+<level3>
 Device related thrombosis
+</level3>
+<level3>
 Disseminated intravascular coagulation
+</level3>
+<level3>
 Disseminated intravascular coagulation in newborn
+</level3>
+<level3>
 Embolia cutis medicamentosa
+</level3>
+<level3>
 Embolism
+</level3>
+<level3>
 Embolism arterial
+</level3>
+<level3>
 Embolism venous
+</level3>
+<level3>
 Fat embolism
+</level3>
+<level3>
 Foreign body embolism
+</level3>
+<level3>
 Graft thrombosis
+</level3>
+<level3>
 Heparin-induced thrombocytopenia
+</level3>
+<level3>
 Implant site thrombosis
+</level3>
+<level3>
 Infective thrombosis
+</level3>
+<level3>
 Infusion site thrombosis
+</level3>
+<level3>
 Injection site thrombosis
+</level3>
+<level3>
 Instillation site thrombosis
+</level3>
+<level3>
 Mahler sign
+</level3>
+<level3>
 Medical device site thrombosis
+</level3>
+<level3>
 Microembolism
+</level3>
+<level3>
 Paradoxical embolism
+</level3>
+<level3>
 Paraneoplastic thrombosis
+</level3>
+<level3>
 Paroxysmal nocturnal haemoglobinuria
+</level3>
+<level3>
 Post thrombotic syndrome
+</level3>
+<level3>
 Postoperative thrombosis
+</level3>
+<level3>
 Postpartum thrombosis
+</level3>
+<level3>
 Postpartum venous thrombosis
+</level3>
+<level3>
 Septic embolus
+</level3>
+<level3>
 Shunt thrombosis
+</level3>
+<level3>
 Stoma site thrombosis
+</level3>
+<level3>
 Thrombophlebitis migrans
+</level3>
+<level3>
 Thrombophlebitis neonatal
+</level3>
+<level3>
 Thrombosis
+</level3>
+<level3>
 Thrombosis in device
+</level3>
+<level3>
 Thrombotic microangiopathy
+</level3>
+<level3>
 Trousseau's syndrome
+</level3>
+<level3>
 Tumour embolism
+</level3>
+<level3>
 Tumour thrombosis
+</level3>
+<level3>
 Vaccination site thrombosis
+</level3>
+<level3>
 Vascular graft thrombosis
+</level3>
+<level3>
 Vascular pseudoaneurysm thrombosis
+</level3>
+<level3>
 Venous intravasation
+</level3>
+<level3>
 Venous recanalisation
+</level3>
+<level3>
 Venous thrombosis
+</level3>
+<level3>
 Venous thrombosis in pregnancy
+</level3>
+<level3>
 Venous thrombosis neonatal
+</level3>
+<level3>
 Vessel puncture site thrombosis
-l2</ Non-site specific embolism and thrombosis >
-l2< Peripheral embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Peripheral embolism and thrombosis">
+<level3>
 Arterial bypass occlusion
+</level3>
+<level3>
 Arterial bypass thrombosis
+</level3>
+<level3>
 Axillary vein thrombosis
+</level3>
+<level3>
 Blue toe syndrome
+</level3>
+<level3>
 Deep vein thrombosis
+</level3>
+<level3>
 Deep vein thrombosis postoperative
+</level3>
+<level3>
 Femoral artery embolism
+</level3>
+<level3>
 Hypothenar hammer syndrome
+</level3>
+<level3>
 Iliac artery embolism
+</level3>
+<level3>
 Jugular vein thrombosis
+</level3>
+<level3>
 Lemierre syndrome
+</level3>
+<level3>
 Paget-Schroetter syndrome
+</level3>
+<level3>
 Pelvic venous thrombosis
+</level3>
+<level3>
 Penile vein thrombosis
+</level3>
+<level3>
 Peripheral artery thrombosis
+</level3>
+<level3>
 Peripheral embolism
+</level3>
+<level3>
 Spinal artery embolism
+</level3>
+<level3>
 Spinal artery thrombosis
+</level3>
+<level3>
 Subclavian artery embolism
+</level3>
+<level3>
 Subclavian artery thrombosis
+</level3>
+<level3>
 Subclavian vein thrombosis
+</level3>
+<level3>
 Thrombophlebitis
+</level3>
+<level3>
 Thrombophlebitis septic
+</level3>
+<level3>
 Thrombophlebitis superficial
+</level3>
+<level3>
 Thrombosis corpora cavernosa
+</level3>
+<level3>
 Venous thrombosis limb
-l2</ Peripheral embolism and thrombosis >
-l2< Pulmonary embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Pulmonary embolism and thrombosis">
+<level3>
 Anaphylactoid syndrome of pregnancy
+</level3>
+<level3>
 Cement embolism
+</level3>
+<level3>
 Embolic pneumonia
+</level3>
+<level3>
 Hoigne's syndrome
+</level3>
+<level3>
 Metastatic pulmonary embolism
+</level3>
+<level3>
 Obstetrical pulmonary embolism
+</level3>
+<level3>
 Post procedural pulmonary embolism
+</level3>
+<level3>
 Pulmonary artery thrombosis
+</level3>
+<level3>
 Pulmonary embolism
+</level3>
+<level3>
 Pulmonary microemboli
+</level3>
+<level3>
 Pulmonary oil microembolism
+</level3>
+<level3>
 Pulmonary thrombosis
+</level3>
+<level3>
 Pulmonary tumour thrombotic microangiopathy
+</level3>
+<level3>
 Pulmonary veno-occlusive disease
+</level3>
+<level3>
 Pulmonary venous thrombosis
-l2</ Pulmonary embolism and thrombosis >
-l2< Renal embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Renal embolism and thrombosis">
+<level3>
 Renal artery thrombosis
+</level3>
+<level3>
 Renal embolism
+</level3>
+<level3>
 Renal vascular thrombosis
+</level3>
+<level3>
 Renal vein embolism
+</level3>
+<level3>
 Renal vein thrombosis
-l2</ Renal embolism and thrombosis >
-l2< Retinal embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Retinal embolism and thrombosis">
+<level3>
 Papillophlebitis
+</level3>
+<level3>
 Retinal artery embolism
+</level3>
+<level3>
 Retinal artery occlusion
+</level3>
+<level3>
 Retinal artery thrombosis
+</level3>
+<level3>
 Retinal vascular thrombosis
+</level3>
+<level3>
 Retinal vein occlusion
+</level3>
+<level3>
 Retinal vein thrombosis
-l2</ Retinal embolism and thrombosis >
-l2< Site specific embolism and thrombosis NEC >
+</level3>
+</level2>
+<level2 name =" Site specific embolism and thrombosis NEC">
+<level3>
 Adrenal thrombosis
+</level3>
+<level3>
 Atrial thrombosis
+</level3>
+<level3>
 Brachiocephalic vein thrombosis
+</level3>
+<level3>
 Cardiac ventricular thrombosis
+</level3>
+<level3>
 Coronary artery embolism
+</level3>
+<level3>
 Coronary artery thrombosis
+</level3>
+<level3>
 Coronary bypass thrombosis
+</level3>
+<level3>
 Foetal placental thrombosis
+</level3>
+<level3>
 Intracardiac mass
+</level3>
+<level3>
 Intracardiac thrombus
+</level3>
+<level3>
 Intrapericardial thrombosis
+</level3>
+<level3>
 Ophthalmic vein thrombosis
+</level3>
+<level3>
 Ovarian vein thrombosis
+</level3>
+<level3>
 Umbilical cord thrombosis
-l2</ Site specific embolism and thrombosis NEC >
-l2< Vena caval embolism and thrombosis >
+</level3>
+</level2>
+<level2 name =" Vena caval embolism and thrombosis">
+<level3>
 Vena cava embolism
+</level3>
+<level3>
 Vena cava thrombosis
-l2</ Vena caval embolism and thrombosis >
-l1</ Embolism and thrombosis >
-l1< Lymphatic vessel disorders >
-l2< Lymphangiopathies >
+</level3>
+</level2>
+</level1>
+<level1 name =" Lymphatic vessel disorders">
+<level2 name =" Lymphangiopathies">
+<level3>
 Axillary web syndrome
+</level3>
+<level3>
 Conjunctival lymphangiectasia
+</level3>
+<level3>
 Filariasis lymphatic
+</level3>
+<level3>
 Infected lymphocele
+</level3>
+<level3>
 Lymphangiectasia
+</level3>
+<level3>
 Lymphangiectasia intestinal
+</level3>
+<level3>
 Lymphangioleiomyomatosis
+</level3>
+<level3>
 Lymphangioma
+</level3>
+<level3>
 Lymphangiopathy
+</level3>
+<level3>
 Lymphangiosis carcinomatosa
+</level3>
+<level3>
 Lymphangitis
+</level3>
+<level3>
 Lymphatic fistula
+</level3>
+<level3>
 Lymphatic insufficiency
+</level3>
+<level3>
 Lymphocele
+</level3>
+<level3>
 Lymphorrhoea
+</level3>
+<level3>
 Lymphostasis
+</level3>
+<level3>
 Pulmonary lymphangiectasia
+</level3>
+<level3>
 Renal lymphocele
-l2</ Lymphangiopathies >
-l2< Lymphoedemas >
+</level3>
+</level2>
+<level2 name =" Lymphoedemas">
+<level3>
 Congenital lymphoedema
+</level3>
+<level3>
 Elephantiasis
+</level3>
+<level3>
 Elephantiasis nostras verrucosa
+</level3>
+<level3>
 Klippel-Trenaunay syndrome
+</level3>
+<level3>
 Lymphoedema
+</level3>
+<level3>
 Morbihan disease
+</level3>
+<level3>
 Postmastectomy lymphoedema syndrome
-l2</ Lymphoedemas >
-l1</ Lymphatic vessel disorders >
-l1< Vascular disorders NEC >
-l2< Cerebrovascular and spinal vascular disorders NEC >
+</level3>
+</level2>
+</level1>
+<level1 name =" Vascular disorders NEC">
+<level2 name =" Cerebrovascular and spinal vascular disorders NEC">
+<level3>
 Amyloid related imaging abnormalities
+</level3>
+<level3>
 Basilar migraine
+</level3>
+<level3>
 Blood brain barrier defect
+</level3>
+<level3>
 Carotid artery disease
+</level3>
+<level3>
 Cavernous sinus syndrome
+</level3>
+<level3>
 Cerebral amyloid angiopathy
+</level3>
+<level3>
 Cerebral capillary telangiectasia
+</level3>
+<level3>
 Cerebral congestion
+</level3>
+<level3>
 Cerebral hyperperfusion syndrome
+</level3>
+<level3>
 Cerebral hypoperfusion
+</level3>
+<level3>
 Cerebral microangiopathy
+</level3>
+<level3>
 Cerebral reperfusion injury
+</level3>
+<level3>
 Cerebral vasodilatation
+</level3>
+<level3>
 Cerebrovascular accident
+</level3>
+<level3>
 Cerebrovascular disorder
+</level3>
+<level3>
 Familial hemiplegic migraine
+</level3>
+<level3>
 Foetal cerebrovascular disorder
+</level3>
+<level3>
 Hemiplegic migraine
+</level3>
+<level3>
 Lenticulostriatal vasculopathy
+</level3>
+<level3>
 Migraine
+</level3>
+<level3>
 Migraine with aura
+</level3>
+<level3>
 Migraine without aura
+</level3>
+<level3>
 Neurovascular conflict
+</level3>
+<level3>
 Ophthalmoplegic migraine
+</level3>
+<level3>
 Perinatal stroke
+</level3>
+<level3>
 Post stroke epilepsy
+</level3>
+<level3>
 Post stroke seizure
+</level3>
+<level3>
 Pseudostroke
+</level3>
+<level3>
 Retinal migraine
+</level3>
+<level3>
 Spinal vascular disorder
+</level3>
+<level3>
 Status migrainosus
+</level3>
+<level3>
 Stroke in evolution
+</level3>
+<level3>
 Vascular headache
+</level3>
+<level3>
 Vascular parkinsonism
-l2</ Cerebrovascular and spinal vascular disorders NEC >
-l2< Non-site specific vascular disorders NEC >
+</level3>
+</level2>
+<level2 name =" Non-site specific vascular disorders NEC">
+<level3>
 Adventitial cystic disease
+</level3>
+<level3>
 Anaesthetic complication vascular
+</level3>
+<level3>
 Angiodermatitis
+</level3>
+<level3>
 Angiopathy
+</level3>
+<level3>
 Arterial disorder
+</level3>
+<level3>
 Arterial fibrosis
+</level3>
+<level3>
 Arterial rupture
+</level3>
+<level3>
 Arterial tortuosity syndrome
+</level3>
+<level3>
 Arterial wall hypertrophy
+</level3>
+<level3>
 Arteriovenous fistula maturation failure
+</level3>
+<level3>
 Arteriovenous fistula occlusion
+</level3>
+<level3>
 Arteriovenous fistula site complication
+</level3>
+<level3>
 Arteriovenous fistula site infection
+</level3>
+<level3>
 Arteriovenous graft site abscess
+</level3>
+<level3>
 Arteriovenous graft site infection
+</level3>
+<level3>
 Capillary disorder
+</level3>
+<level3>
 Capillary fragility
+</level3>
+<level3>
 Cardiovascular deconditioning
+</level3>
+<level3>
 Cardiovascular disorder
+</level3>
+<level3>
 Cardiovascular symptom
+</level3>
+<level3>
 Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+</level3>
+<level3>
 Collateral circulation
+</level3>
+<level3>
 Endothelial dysfunction
+</level3>
+<level3>
 Haemodynamic instability
+</level3>
+<level3>
 Haemodynamic rebound
+</level3>
+<level3>
 Hyperaemia
+</level3>
+<level3>
 Hyperkinetic heart syndrome
+</level3>
+<level3>
 Intravascular gas
+</level3>
+<level3>
 Intravenous leiomyomatosis
+</level3>
+<level3>
 Macroangiopathy
+</level3>
+<level3>
 Microangiopathic haemolytic anaemia
+</level3>
+<level3>
 Microangiopathy
+</level3>
+<level3>
 Neovascularisation
+</level3>
+<level3>
 Phlebolith
+</level3>
+<level3>
 Poor venous access
+</level3>
+<level3>
 Positive vessel remodelling
+</level3>
+<level3>
 Post cardiac arrest syndrome
+</level3>
+<level3>
 Pseudoxanthoma elasticum
+</level3>
+<level3>
 Pseudoxanthoma elasticum-like syndrome
+</level3>
+<level3>
 Reperfusion injury
+</level3>
+<level3>
 Sneddon's syndrome
+</level3>
+<level3>
 Superficial vein prominence
+</level3>
+<level3>
 VACTERL syndrome
+</level3>
+<level3>
 Vascular access site complication
+</level3>
+<level3>
 Vascular access site infection
+</level3>
+<level3>
 Vascular access site occlusion
+</level3>
+<level3>
 Vascular access site pseudoaneurysm
+</level3>
+<level3>
 Vascular access site rupture
+</level3>
+<level3>
 Vascular calcification
+</level3>
+<level3>
 Vascular complication associated with device
+</level3>
+<level3>
 Vascular fragility
+</level3>
+<level3>
 Vascular graft complication
+</level3>
+<level3>
 Vascular pain
+</level3>
+<level3>
 Vascular procedure complication
+</level3>
+<level3>
 Vascular pseudoaneurysm
+</level3>
+<level3>
 Vascular pseudoaneurysm ruptured
+</level3>
+<level3>
 Vascular rupture
+</level3>
+<level3>
 Vascular stent infection
+</level3>
+<level3>
 Vascular wall discolouration
+</level3>
+<level3>
 Vascular wall hypertrophy
+</level3>
+<level3>
 Vasodilatation
+</level3>
+<level3>
 Vein collapse
+</level3>
+<level3>
 Vein discolouration
+</level3>
+<level3>
 Vein disorder
+</level3>
+<level3>
 Vein rupture
+</level3>
+<level3>
 Venoocclusive disease
+</level3>
+<level3>
 Visceral congestion
-l2</ Non-site specific vascular disorders NEC >
-l2< Ocular vascular disorders NEC >
+</level3>
+</level2>
+<level2 name =" Ocular vascular disorders NEC">
+<level3>
 Arteriosclerotic retinopathy
+</level3>
+<level3>
 Choroidal neovascularisation
+</level3>
+<level3>
 Conjunctival telangiectasia
+</level3>
+<level3>
 Conjunctival vascular disorder
+</level3>
+<level3>
 Corneal neovascularisation
+</level3>
+<level3>
 Diabetic retinopathy
+</level3>
+<level3>
 Eales' disease
+</level3>
+<level3>
 Exudative retinopathy
+</level3>
+<level3>
 Eyelid vascular disorder
+</level3>
+<level3>
 Iris neovascularisation
+</level3>
+<level3>
 Iris vascular disorder
+</level3>
+<level3>
 Lipaemia retinalis
+</level3>
+<level3>
 Ocular vascular disorder
+</level3>
+<level3>
 Optic disc hyperaemia
+</level3>
+<level3>
 Optic discs blurred
+</level3>
+<level3>
 Papilloedema
+</level3>
+<level3>
 Polypoidal choroidal vasculopathy
+</level3>
+<level3>
 Radiation retinopathy
+</level3>
+<level3>
 Retinal collateral vessels
+</level3>
+<level3>
 Retinal exudates
+</level3>
+<level3>
 Retinal neovascularisation
+</level3>
+<level3>
 Retinal oedema
+</level3>
+<level3>
 Retinal vascular disorder
+</level3>
+<level3>
 Retinal vessel avulsion
+</level3>
+<level3>
 Retinopathy
+</level3>
+<level3>
 Retinopathy congenital
+</level3>
+<level3>
 Retinopathy hyperviscosity
+</level3>
+<level3>
 Retinopathy proliferative
+</level3>
+<level3>
 Retinopathy sickle cell
-l2</ Ocular vascular disorders NEC >
-l2< Peripheral vascular disorders NEC >
+</level3>
+</level2>
+<level2 name =" Peripheral vascular disorders NEC">
+<level3>
 Cyanosis
+</level3>
+<level3>
 Erythrocyanosis
+</level3>
+<level3>
 Erythromelalgia
+</level3>
+<level3>
 Flushing
+</level3>
+<level3>
 Hot flush
+</level3>
+<level3>
 Iliac artery rupture
+</level3>
+<level3>
 Peripheral vascular disorder
+</level3>
+<level3>
 Vascular shunt
+</level3>
+<level3>
 Vein wall hypertrophy
-l2</ Peripheral vascular disorders NEC >
-l2< Pulmonary vascular disorders NEC >
+</level3>
+</level2>
+<level2 name =" Pulmonary vascular disorders NEC">
+<level3>
 Acute chest syndrome
+</level3>
+<level3>
 Non-cardiogenic pulmonary oedema
+</level3>
+<level3>
 Pulmonary arteriopathy
+</level3>
+<level3>
 Pulmonary capillary haemangiomatosis
+</level3>
+<level3>
 Pulmonary congestion
+</level3>
+<level3>
 Pulmonary hypoperfusion
+</level3>
+<level3>
 Pulmonary vascular disorder
+</level3>
+<level3>
 Pulmonary vascular resistance abnormality
+</level3>
+<level3>
 Transfusion-related acute lung injury
-l2</ Pulmonary vascular disorders NEC >
-l2< Renal vascular disorders NEC >
+</level3>
+</level2>
+<level2 name =" Renal vascular disorders NEC">
+<level3>
 Glomerular vascular disorder
+</level3>
+<level3>
 Nephroangiosclerosis
+</level3>
+<level3>
 Renal vein compression
+</level3>
+<level3>
 Renal vein occlusion
+</level3>
+<level3>
 Renal vein stenosis
+</level3>
+<level3>
 Renal vessel disorder
-l2</ Renal vascular disorders NEC >
-l2< Reproductive system vascular disorders NEC >
+</level3>
+</level2>
+<level2 name =" Reproductive system vascular disorders NEC">
+<level3>
 Penile vascular disorder
+</level3>
+<level3>
 Umbilical cord vascular disorder
-l2</ Reproductive system vascular disorders NEC >
-l2< Site specific vascular disorders NEC >
+</level3>
+</level2>
+<level2 name =" Site specific vascular disorders NEC">
+<level3>
 Aortic calcification
+</level3>
+<level3>
 Aortic dilatation
+</level3>
+<level3>
 Aortic disorder
+</level3>
+<level3>
 Aortic elongation
+</level3>
+<level3>
 Aortic rupture
+</level3>
+<level3>
 Aortic wall hypertrophy
+</level3>
+<level3>
 Carotid sinus syndrome
+</level3>
+<level3>
 Carotidynia
+</level3>
+<level3>
 Coronary artery dilatation
+</level3>
+<level3>
 Harlequin skin reaction
+</level3>
+<level3>
 Harlequin syndrome
+</level3>
+<level3>
 Hepatic vein dilatation
+</level3>
+<level3>
 Inferior vena cava dilatation
+</level3>
+<level3>
 Intrahepatic portal hepatic venous fistula
+</level3>
+<level3>
 Jugular vein distension
+</level3>
+<level3>
 Livedo reticularis
+</level3>
+<level3>
 Optic disc vascular disorder
+</level3>
+<level3>
 Ortner's syndrome
+</level3>
+<level3>
 Pallor
+</level3>
+<level3>
 Shunt blood flow excessive
+</level3>
+<level3>
 Stent-graft endoleak
+</level3>
+<level3>
 Subclavian steal syndrome
+</level3>
+<level3>
 Superior vena cava dilatation
+</level3>
+<level3>
 Thoracic outlet syndrome
+</level3>
+<level3>
 Urinary bladder varices
+</level3>
+<level3>
 Vascular skin disorder
-l2</ Site specific vascular disorders NEC >
-l2< Vascular malformations and acquired anomalies >
+</level3>
+</level2>
+<level2 name =" Vascular malformations and acquired anomalies">
+<level3>
 Angiodysplasia
+</level3>
+<level3>
 Angiokeratoma
+</level3>
+<level3>
 Anomalous pulmonary venous connection
+</level3>
+<level3>
 Aorta hypoplasia
+</level3>
+<level3>
 Aorticopulmonary septal defect
+</level3>
+<level3>
 Aorto-duodenal fistula
+</level3>
+<level3>
 Application site telangiectasia
+</level3>
+<level3>
 Arteriovenous fistula
+</level3>
+<level3>
 Arteriovenous malformation
+</level3>
+<level3>
 Cerebrovascular arteriovenous malformation
+</level3>
+<level3>
 Cobb syndrome
+</level3>
+<level3>
 Congenital aortic anomaly
+</level3>
+<level3>
 Congenital aortic atresia
+</level3>
+<level3>
 Congenital aortic dilatation
+</level3>
+<level3>
 Congenital arterial malformation
+</level3>
+<level3>
 Congenital arteriovenous fistula
+</level3>
+<level3>
 Congenital cardiovascular anomaly
+</level3>
+<level3>
 Congenital cerebrovascular anomaly
+</level3>
+<level3>
 Congenital coronary artery malformation
+</level3>
+<level3>
 Congenital gastrointestinal vessel anomaly
+</level3>
+<level3>
 Congenital great vessel anomaly
+</level3>
+<level3>
 Congenital pulmonary artery anomaly
+</level3>
+<level3>
 Corrected transposition of great vessels
+</level3>
+<level3>
 CREST syndrome
+</level3>
+<level3>
 Diencephalic syndrome of infancy
+</level3>
+<level3>
 Dieulafoy's vascular malformation
+</level3>
+<level3>
 Ductus arteriosus premature closure
+</level3>
+<level3>
 Ductus arteriosus stenosis foetal
+</level3>
+<level3>
 Ductus venosus agenesis
+</level3>
+<level3>
 Duodenal vascular ectasia
+</level3>
+<level3>
 Dural arteriovenous fistula
+</level3>
+<level3>
 Encephalocutaneous angiomatosis
+</level3>
+<level3>
 Gastric antral vascular ectasia
+</level3>
+<level3>
 Gastrointestinal angiectasia
+</level3>
+<level3>
 Gastrointestinal angiodysplasia
+</level3>
+<level3>
 Gastrointestinal arteriovenous malformation
+</level3>
+<level3>
 Gastrointestinal vascular malformation
+</level3>
+<level3>
 Haemangioma-thrombocytopenia syndrome
+</level3>
+<level3>
 Haemorrhagic arteriovenous malformation
+</level3>
+<level3>
 Hamartoma vascular
+</level3>
+<level3>
 Hepatic arteriovenous malformation
+</level3>
+<level3>
 Hereditary haemorrhagic telangiectasia
+</level3>
+<level3>
 Heyde's syndrome
+</level3>
+<level3>
 Injection site telangiectasia
+</level3>
+<level3>
 Interruption of aortic arch
+</level3>
+<level3>
 Intracranial arterial fenestration
+</level3>
+<level3>
 Left ventricle outflow tract obstruction
+</level3>
+<level3>
 Malformation venous
+</level3>
+<level3>
 Marfan's syndrome
+</level3>
+<level3>
 Naevus anaemicus
+</level3>
+<level3>
 Naevus flammeus
+</level3>
+<level3>
 Naevus spider congenital
+</level3>
+<level3>
 Optic disc telangiectasia
+</level3>
+<level3>
 Parkes-Weber syndrome
+</level3>
+<level3>
 Patent ductus arteriosus
+</level3>
+<level3>
 Periportal sinus dilatation
+</level3>
+<level3>
 Persistent foetal circulation
+</level3>
+<level3>
 Persistent left superior vena cava
+</level3>
+<level3>
 Portal vein cavernous transformation
+</level3>
+<level3>
 Portal venous system anomaly
+</level3>
+<level3>
 Preduodenal portal vein
+</level3>
+<level3>
 Proximal focal femoral deficiency
+</level3>
+<level3>
 Pseudotruncus arteriosus
+</level3>
+<level3>
 Pulmonary arteriovenous fistula
+</level3>
+<level3>
 Renal arteriovenous malformation
+</level3>
+<level3>
 Renal artery hyperplasia
+</level3>
+<level3>
 Renal vessel congenital anomaly
+</level3>
+<level3>
 Retinal arteriovenous malformation
+</level3>
+<level3>
 Retinal telangiectasia
+</level3>
+<level3>
 Right aortic arch
+</level3>
+<level3>
 Right ventricle outflow tract obstruction
+</level3>
+<level3>
 Scimitar syndrome
+</level3>
+<level3>
 Single umbilical artery
+</level3>
+<level3>
 Spider naevus
+</level3>
+<level3>
 Spinal vessel congenital anomaly
+</level3>
+<level3>
 Splenic hamartoma
+</level3>
+<level3>
 Sturge-Weber syndrome
+</level3>
+<level3>
 Superior mesenteric artery syndrome
+</level3>
+<level3>
 Systemic scleroderma
+</level3>
+<level3>
 Telangiectasia
+</level3>
+<level3>
 Telangiectasia congenital
+</level3>
+<level3>
 Transposition of the great vessels
+</level3>
+<level3>
 Truncus arteriosus persistent
+</level3>
+<level3>
 Umbilical artery hypoplasia
+</level3>
+<level3>
 Vascular malformation
+</level3>
+<level3>
 Vein of Galen aneurysmal malformation
+</level3>
+<level3>
 Venolymphatic malformation
+</level3>
+<level3>
 Vertebral artery hypoplasia
+</level3>
+<level3>
 Von Hippel-Lindau disease
-l2</ Vascular malformations and acquired anomalies >
-l2< Vascular neoplasms >
+</level3>
+</level2>
+<level2 name =" Vascular neoplasms">
+<level3>
 Angiofibroma
+</level3>
+<level3>
 Angiosarcoma
+</level3>
+<level3>
 Angiosarcoma metastatic
+</level3>
+<level3>
 Angiosarcoma non-metastatic
+</level3>
+<level3>
 Angiosarcoma recurrent
+</level3>
+<level3>
 Benign vascular neoplasm
+</level3>
+<level3>
 Breast angiosarcoma
+</level3>
+<level3>
 Breast angiosarcoma metastatic
+</level3>
+<level3>
 Cardiac haemangioma benign
+</level3>
+<level3>
 Cerebellar haemangioma
+</level3>
+<level3>
 Cerebral haemangioma
+</level3>
+<level3>
 Choroidal haemangioma
+</level3>
+<level3>
 Congenital cerebral haemangioma
+</level3>
+<level3>
 Endotheliomatosis
+</level3>
+<level3>
 Eye haemangioma
+</level3>
+<level3>
 Eyelid haemangioma
+</level3>
+<level3>
 Gastric haemangioma
+</level3>
+<level3>
 Glomus tumour
+</level3>
+<level3>
 Gorham's disease
+</level3>
+<level3>
 Haemangioma
+</level3>
+<level3>
 Haemangioma congenital
+</level3>
+<level3>
 Haemangioma of bone
+</level3>
+<level3>
 Haemangioma of breast
+</level3>
+<level3>
 Haemangioma of liver
+</level3>
+<level3>
 Haemangioma of retina
+</level3>
+<level3>
 Haemangioma of skin
+</level3>
+<level3>
 Haemangioma of spleen
+</level3>
+<level3>
 Haemangiopericytoma
+</level3>
+<level3>
 Haemangiopericytoma of meninges
+</level3>
+<level3>
 Hepatic angiosarcoma
+</level3>
+<level3>
 Hepatic haemangioma rupture
+</level3>
+<level3>
 Infantile haemangioma
+</level3>
+<level3>
 Intestinal angioma
+</level3>
+<level3>
 Intra-abdominal haemangioma
+</level3>
+<level3>
 Intracranial haemangioma
+</level3>
+<level3>
 Intraosseous angioma
+</level3>
+<level3>
 Intravascular lipoma
+</level3>
+<level3>
 Intravascular papillary endothelial hyperplasia
+</level3>
+<level3>
 Juvenile angiofibroma
+</level3>
+<level3>
 Lymphangiosarcoma
+</level3>
+<level3>
 Malignant haemangiopericytoma
+</level3>
+<level3>
 Malignant haemangiopericytoma metastatic
+</level3>
+<level3>
 Malignant haemangiopericytoma recurrent
+</level3>
+<level3>
 Metastases to peripheral vascular system
+</level3>
+<level3>
 Multinucleate cell angiohistiocytoma
+</level3>
+<level3>
 Ocular haemangiopericytoma
+</level3>
+<level3>
 Oral haemangioma
+</level3>
+<level3>
 PHACES syndrome
+</level3>
+<level3>
 Pyogenic granuloma
+</level3>
+<level3>
 Renal haemangioma
+</level3>
+<level3>
 Skin angiosarcoma
+</level3>
+<level3>
 Stewart-Treves syndrome
+</level3>
+<level3>
 Ulcerated haemangioma
+</level3>
+<level3>
 Vascular neoplasm
+</level3>
+<level3>
 Venous angioma of brain
-l2</ Vascular neoplasms >
-l1</ Vascular disorders NEC >
-l1< Vascular haemorrhagic disorders >
-l2< Bruising, ecchymosis and purpura >
+</level3>
+</level2>
+</level1>
+<level1 name =" Vascular haemorrhagic disorders">
+<level2 name =" Bruising, ecchymosis and purpura">
+<level3>
 Achenbach syndrome
+</level3>
+<level3>
 Administration site bruise
+</level3>
+<level3>
 Aponeurosis contusion
+</level3>
+<level3>
 Application site bruise
+</level3>
+<level3>
 Application site purpura
+</level3>
+<level3>
 Bone contusion
+</level3>
+<level3>
 Brain contusion
+</level3>
+<level3>
 Cardiac contusion
+</level3>
+<level3>
 Catheter site bruise
+</level3>
+<level3>
 Chronic pigmented purpura
+</level3>
+<level3>
 Contusion
+</level3>
+<level3>
 Ecchymosis
+</level3>
+<level3>
 Eye contusion
+</level3>
+<level3>
 Eyelid contusion
+</level3>
+<level3>
 Gardner-Diamond syndrome
+</level3>
+<level3>
 Gastrointestinal organ contusion
+</level3>
+<level3>
 Genital contusion
+</level3>
+<level3>
 Grey Turner's sign
+</level3>
+<level3>
 Haemorrhage subcutaneous
+</level3>
+<level3>
 Haemorrhage subepidermal
+</level3>
+<level3>
 Henoch-Schonlein purpura
+</level3>
+<level3>
 Henoch-Schonlein purpura nephritis
+</level3>
+<level3>
 Implant site bruising
+</level3>
+<level3>
 Increased tendency to bruise
+</level3>
+<level3>
 Infusion site bruising
+</level3>
+<level3>
 Injection site bruising
+</level3>
+<level3>
 Instillation site bruise
+</level3>
+<level3>
 Kidney contusion
+</level3>
+<level3>
 Liver contusion
+</level3>
+<level3>
 Medical device site bruise
+</level3>
+<level3>
 Mucocutaneous haemorrhage
+</level3>
+<level3>
 Muscle contusion
+</level3>
+<level3>
 Oral contusion
+</level3>
+<level3>
 Pancreatic contusion
+</level3>
+<level3>
 Penile contusion
+</level3>
+<level3>
 Petechiae
+</level3>
+<level3>
 Post procedural contusion
+</level3>
+<level3>
 Post transfusion purpura
+</level3>
+<level3>
 Post-traumatic punctate intraepidermal haemorrhage
+</level3>
+<level3>
 Pulmonary contusion
+</level3>
+<level3>
 Purpura
+</level3>
+<level3>
 Purpura fulminans
+</level3>
+<level3>
 Purpura neonatal
+</level3>
+<level3>
 Purpura senile
+</level3>
+<level3>
 Skin haemorrhage
+</level3>
+<level3>
 Spleen contusion
+</level3>
+<level3>
 Thrombotic thrombocytopenic purpura
+</level3>
+<level3>
 Vaccination site bruising
+</level3>
+<level3>
 Vascular access site bruising
+</level3>
+<level3>
 Vascular purpura
+</level3>
+<level3>
 Vessel puncture site bruise
-l2</ Bruising, ecchymosis and purpura >
-l2< Gastrointestinal haemorrhages >
+</level3>
+</level2>
+<level2 name =" Gastrointestinal haemorrhages">
+<level3>
 Abdominal wall haematoma
+</level3>
+<level3>
 Abdominal wall haemorrhage
+</level3>
+<level3>
 Acute haemorrhagic ulcerative colitis
+</level3>
+<level3>
 Anal fissure haemorrhage
+</level3>
+<level3>
 Anal haemorrhage
+</level3>
+<level3>
 Anal ulcer haemorrhage
+</level3>
+<level3>
 Anastomotic ulcer haemorrhage
+</level3>
+<level3>
 Angina bullosa haemorrhagica
+</level3>
+<level3>
 Aorto-oesophageal fistula
+</level3>
+<level3>
 Bloody peritoneal effluent
+</level3>
+<level3>
 Chronic gastrointestinal bleeding
+</level3>
+<level3>
 Colonic haematoma
+</level3>
+<level3>
 Diarrhoea haemorrhagic
+</level3>
+<level3>
 Diverticulitis intestinal haemorrhagic
+</level3>
+<level3>
 Diverticulum intestinal haemorrhagic
+</level3>
+<level3>
 Duodenal ulcer haemorrhage
+</level3>
+<level3>
 Duodenitis haemorrhagic
+</level3>
+<level3>
 Enterocolitis haemorrhagic
+</level3>
+<level3>
 Gastric haemorrhage
+</level3>
+<level3>
 Gastric ulcer haemorrhage
+</level3>
+<level3>
 Gastric ulcer haemorrhage, obstructive
+</level3>
+<level3>
 Gastric varices haemorrhage
+</level3>
+<level3>
 Gastritis alcoholic haemorrhagic
+</level3>
+<level3>
 Gastritis haemorrhagic
+</level3>
+<level3>
 Gastroduodenal haemorrhage
+</level3>
+<level3>
 Gastroduodenitis haemorrhagic
+</level3>
+<level3>
 Gastrointestinal angiodysplasia haemorrhagic
+</level3>
+<level3>
 Gastrointestinal haemorrhage
+</level3>
+<level3>
 Gastrointestinal polyp haemorrhage
+</level3>
+<level3>
 Gastrointestinal ulcer haemorrhage
+</level3>
+<level3>
 Gingival bleeding
+</level3>
+<level3>
 Haematemesis
+</level3>
+<level3>
 Haematochezia
+</level3>
+<level3>
 Haemorrhagic ascites
+</level3>
+<level3>
 Haemorrhagic erosive gastritis
+</level3>
+<level3>
 Haemorrhagic necrotic pancreatitis
+</level3>
+<level3>
 Intestinal haematoma
+</level3>
+<level3>
 Intestinal haemorrhage
+</level3>
+<level3>
 Intestinal varices haemorrhage
+</level3>
+<level3>
 Intra-abdominal haematoma
+</level3>
+<level3>
 Intra-abdominal haemorrhage
+</level3>
+<level3>
 Large intestinal haemorrhage
+</level3>
+<level3>
 Large intestinal ulcer haemorrhage
+</level3>
+<level3>
 Lip haematoma
+</level3>
+<level3>
 Lip haemorrhage
+</level3>
+<level3>
 Lower gastrointestinal haemorrhage
+</level3>
+<level3>
 Mallory-Weiss syndrome
+</level3>
+<level3>
 Melaena
+</level3>
+<level3>
 Melaena neonatal
+</level3>
+<level3>
 Mesenteric haematoma
+</level3>
+<level3>
 Mesenteric haemorrhage
+</level3>
+<level3>
 Mouth haemorrhage
+</level3>
+<level3>
 Neonatal gastrointestinal haemorrhage
+</level3>
+<level3>
 Oesophageal haemorrhage
+</level3>
+<level3>
 Oesophageal intramural haematoma
+</level3>
+<level3>
 Oesophageal ulcer haemorrhage
+</level3>
+<level3>
 Oesophageal varices haemorrhage
+</level3>
+<level3>
 Oesophagitis haemorrhagic
+</level3>
+<level3>
 Oral mucosa haematoma
+</level3>
+<level3>
 Pancreatic haemorrhage
+</level3>
+<level3>
 Parotid gland haemorrhage
+</level3>
+<level3>
 Peptic ulcer haemorrhage
+</level3>
+<level3>
 Peritoneal haematoma
+</level3>
+<level3>
 Peritoneal haemorrhage
+</level3>
+<level3>
 Pharyngeal haematoma
+</level3>
+<level3>
 Pharyngeal haemorrhage
+</level3>
+<level3>
 Proctitis haemorrhagic
+</level3>
+<level3>
 Rectal haemorrhage
+</level3>
+<level3>
 Rectal ulcer haemorrhage
+</level3>
+<level3>
 Small intestinal haemorrhage
+</level3>
+<level3>
 Small intestinal ulcer haemorrhage
+</level3>
+<level3>
 Stomatitis haemorrhagic
+</level3>
+<level3>
 Tongue haematoma
+</level3>
+<level3>
 Tongue haemorrhage
+</level3>
+<level3>
 Tooth pulp haemorrhage
+</level3>
+<level3>
 Tooth socket haemorrhage
+</level3>
+<level3>
 Umbilical haematoma
+</level3>
+<level3>
 Umbilical haemorrhage
+</level3>
+<level3>
 Upper gastrointestinal haemorrhage
-l2</ Gastrointestinal haemorrhages >
-l2< Haemorrhages NEC >
+</level3>
+</level2>
+<level2 name =" Haemorrhages NEC">
+<level3>
 Administration site haematoma
+</level3>
+<level3>
 Administration site haemorrhage
+</level3>
+<level3>
 Adrenal haematoma
+</level3>
+<level3>
 Adrenal haemorrhage
+</level3>
+<level3>
 Anastomotic haemorrhage
+</level3>
+<level3>
 Application site haematoma
+</level3>
+<level3>
 Application site haemorrhage
+</level3>
+<level3>
 Arenaviral haemorrhagic fever
+</level3>
+<level3>
 Argentine haemorrhagic fever
+</level3>
+<level3>
 Arterial haemorrhage
+</level3>
+<level3>
 Arteriovenous fistula site haematoma
+</level3>
+<level3>
 Arteriovenous fistula site haemorrhage
+</level3>
+<level3>
 Arteriovenous graft site haematoma
+</level3>
+<level3>
 Arteriovenous graft site haemorrhage
+</level3>
+<level3>
 Auricular haematoma
+</level3>
+<level3>
 Bladder tamponade
+</level3>
+<level3>
 Bloody discharge
+</level3>
+<level3>
 Bolivian haemorrhagic fever
+</level3>
+<level3>
 Bone marrow haemorrhage
+</level3>
+<level3>
 Bronchial haemorrhage
+</level3>
+<level3>
 Bronchial varices haemorrhage
+</level3>
+<level3>
 Bursal haematoma
+</level3>
+<level3>
 Catheter site haematoma
+</level3>
+<level3>
 Catheter site haemorrhage
+</level3>
+<level3>
 Cephalhaematoma
+</level3>
+<level3>
 Chest wall haematoma
+</level3>
+<level3>
 Congo-Crimean haemorrhagic fever
+</level3>
+<level3>
 Cullen's sign
+</level3>
+<level3>
 Deep dissecting haematoma
+</level3>
+<level3>
 Ear haemorrhage
+</level3>
+<level3>
 Ebola disease
+</level3>
+<level3>
 Epistaxis
+</level3>
+<level3>
 Exsanguination
+</level3>
+<level3>
 Extravasation blood
+</level3>
+<level3>
 Foetal-maternal haemorrhage
+</level3>
+<level3>
 Graft haemorrhage
+</level3>
+<level3>
 Haemarthrosis
+</level3>
+<level3>
 Haematidrosis
+</level3>
+<level3>
 Haematocoele
+</level3>
+<level3>
 Haematoma
+</level3>
+<level3>
 Haematoma infection
+</level3>
+<level3>
 Haematotympanum
+</level3>
+<level3>
 Haematuria
+</level3>
+<level3>
 Haematuria traumatic
+</level3>
+<level3>
 Haemobilia
+</level3>
+<level3>
 Haemophilic arthropathy
+</level3>
+<level3>
 Haemophilic pseudotumour
+</level3>
+<level3>
 Haemoptysis
+</level3>
+<level3>
 Haemorrhage
+</level3>
+<level3>
 Haemorrhage coronary artery
+</level3>
+<level3>
 Haemorrhage foetal
+</level3>
+<level3>
 Haemorrhage neonatal
+</level3>
+<level3>
 Haemorrhage urinary tract
+</level3>
+<level3>
 Haemorrhagic adrenal infarction
+</level3>
+<level3>
 Haemorrhagic anaemia
+</level3>
+<level3>
 Haemorrhagic cyst
+</level3>
+<level3>
 Haemorrhagic diathesis
+</level3>
+<level3>
 Haemorrhagic disease of newborn
+</level3>
+<level3>
 Haemorrhagic disorder
+</level3>
+<level3>
 Haemorrhagic fever
+</level3>
+<level3>
 Haemorrhagic hepatic cyst
+</level3>
+<level3>
 Haemorrhagic pneumonia
+</level3>
+<level3>
 Haemorrhagic thyroid cyst
+</level3>
+<level3>
 Haemorrhagic tumour necrosis
+</level3>
+<level3>
 Haemorrhagic varicella syndrome
+</level3>
+<level3>
 Haemothorax
+</level3>
+<level3>
 Hepatic haematoma
+</level3>
+<level3>
 Hepatic haemorrhage
+</level3>
+<level3>
 Implant site haematoma
+</level3>
+<level3>
 Implant site haemorrhage
+</level3>
+<level3>
 Incision site haematoma
+</level3>
+<level3>
 Incision site haemorrhage
+</level3>
+<level3>
 Infusion site haematoma
+</level3>
+<level3>
 Infusion site haemorrhage
+</level3>
+<level3>
 Injection site haematoma
+</level3>
+<level3>
 Injection site haemorrhage
+</level3>
+<level3>
 Instillation site haematoma
+</level3>
+<level3>
 Instillation site haemorrhage
+</level3>
+<level3>
 Internal haemorrhage
+</level3>
+<level3>
 Joint microhaemorrhage
+</level3>
+<level3>
 Laryngeal haematoma
+</level3>
+<level3>
 Laryngeal haemorrhage
+</level3>
+<level3>
 Lassa fever
+</level3>
+<level3>
 Loin pain haematuria syndrome
+</level3>
+<level3>
 Lujo haemorrhagic fever
+</level3>
+<level3>
 Lymph node haemorrhage
+</level3>
+<level3>
 Marburg disease
+</level3>
+<level3>
 Mediastinal haematoma
+</level3>
+<level3>
 Mediastinal haemorrhage
+</level3>
+<level3>
 Medical device site haematoma
+</level3>
+<level3>
 Medical device site haemorrhage
+</level3>
+<level3>
 Mucosal haemorrhage
+</level3>
+<level3>
 Muscle haemorrhage
+</level3>
+<level3>
 Myocardial haemorrhage
+</level3>
+<level3>
 Naevus haemorrhage
+</level3>
+<level3>
 Nail bed bleeding
+</level3>
+<level3>
 Nasal septum haematoma
+</level3>
+<level3>
 Omsk haemorrhagic fever
+</level3>
+<level3>
 Osteorrhagia
+</level3>
+<level3>
 Papillary muscle haemorrhage
+</level3>
+<level3>
 Paranasal sinus haematoma
+</level3>
+<level3>
 Paranasal sinus haemorrhage
+</level3>
+<level3>
 Parathyroid haemorrhage
+</level3>
+<level3>
 Pelvic congestion
+</level3>
+<level3>
 Pericardial haemorrhage
+</level3>
+<level3>
 Periosteal haematoma
+</level3>
+<level3>
 Perirenal haematoma
+</level3>
+<level3>
 Post procedural haematoma
+</level3>
+<level3>
 Post procedural haematuria
+</level3>
+<level3>
 Post procedural haemorrhage
+</level3>
+<level3>
 Procedural haemorrhage
+</level3>
+<level3>
 Pulmonary alveolar haemorrhage
+</level3>
+<level3>
 Pulmonary haematoma
+</level3>
+<level3>
 Pulmonary haemorrhage
+</level3>
+<level3>
 Puncture site haemorrhage
+</level3>
+<level3>
 Radiation associated haemorrhage
+</level3>
+<level3>
 Respiratory tract haemorrhage
+</level3>
+<level3>
 Respiratory tract haemorrhage neonatal
+</level3>
+<level3>
 Retroperitoneal haematoma
+</level3>
+<level3>
 Retroperitoneal haemorrhage
+</level3>
+<level3>
 Rift Valley fever
+</level3>
+<level3>
 Severe fever with thrombocytopenia syndrome
+</level3>
+<level3>
 Skin neoplasm bleeding
+</level3>
+<level3>
 Skin ulcer haemorrhage
+</level3>
+<level3>
 Soft tissue haemorrhage
+</level3>
+<level3>
 Splenic haematoma
+</level3>
+<level3>
 Splenic haemorrhage
+</level3>
+<level3>
 Splenic varices haemorrhage
+</level3>
+<level3>
 Splinter haemorrhages
+</level3>
+<level3>
 Spontaneous haematoma
+</level3>
+<level3>
 Spontaneous haemorrhage
+</level3>
+<level3>
 Stoma site haemorrhage
+</level3>
+<level3>
 Subcutaneous haematoma
+</level3>
+<level3>
 Subgaleal haematoma
+</level3>
+<level3>
 Thoracic haemorrhage
+</level3>
+<level3>
 Thyroid haemorrhage
+</level3>
+<level3>
 Tonsillar haemorrhage
+</level3>
+<level3>
 Tracheal haemorrhage
+</level3>
+<level3>
 Traumatic haematoma
+</level3>
+<level3>
 Traumatic haemorrhage
+</level3>
+<level3>
 Traumatic haemothorax
+</level3>
+<level3>
 Tumour haemorrhage
+</level3>
+<level3>
 Ulcer haemorrhage
+</level3>
+<level3>
 Urinary bladder haemorrhage
+</level3>
+<level3>
 Urogenital haemorrhage
+</level3>
+<level3>
 Vaccination site haematoma
+</level3>
+<level3>
 Vaccination site haemorrhage
+</level3>
+<level3>
 Vascular access site haematoma
+</level3>
+<level3>
 Vascular access site haemorrhage
+</level3>
+<level3>
 Vascular graft haemorrhage
+</level3>
+<level3>
 Venous haemorrhage
+</level3>
+<level3>
 Vessel puncture site haematoma
+</level3>
+<level3>
 Vessel puncture site haemorrhage
+</level3>
+<level3>
 Weil's disease
+</level3>
+<level3>
 Wound haematoma
+</level3>
+<level3>
 Wound haemorrhage
+</level3>
+<level3>
 Yellow fever
-l2</ Haemorrhages NEC >
-l2< Nervous system haemorrhagic disorders >
+</level3>
+</level2>
+<level2 name =" Nervous system haemorrhagic disorders">
+<level3>
 Basal ganglia haematoma
+</level3>
+<level3>
 Basal ganglia haemorrhage
+</level3>
+<level3>
 Brain stem haematoma
+</level3>
+<level3>
 Brain stem haemorrhage
+</level3>
+<level3>
 Brain stem microhaemorrhage
+</level3>
+<level3>
 Central nervous system haemorrhage
+</level3>
+<level3>
 Cerebellar haematoma
+</level3>
+<level3>
 Cerebellar haemorrhage
+</level3>
+<level3>
 Cerebellar microhaemorrhage
+</level3>
+<level3>
 Cerebral arteriovenous malformation haemorrhagic
+</level3>
+<level3>
 Cerebral haematoma
+</level3>
+<level3>
 Cerebral haemorrhage
+</level3>
+<level3>
 Cerebral haemorrhage foetal
+</level3>
+<level3>
 Cerebral haemorrhage neonatal
+</level3>
+<level3>
 Cerebral microhaemorrhage
+</level3>
+<level3>
 Epidural haemorrhage
+</level3>
+<level3>
 Extra-axial haemorrhage
+</level3>
+<level3>
 Extradural haematoma
+</level3>
+<level3>
 Haemorrhage intracranial
+</level3>
+<level3>
 Haemorrhagic cerebral infarction
+</level3>
+<level3>
 Haemorrhagic stroke
+</level3>
+<level3>
 Haemorrhagic transformation stroke
+</level3>
+<level3>
 Intracranial haematoma
+</level3>
+<level3>
 Intracranial tumour haemorrhage
+</level3>
+<level3>
 Intraventricular haemorrhage
+</level3>
+<level3>
 Intraventricular haemorrhage neonatal
+</level3>
+<level3>
 Meningorrhagia
+</level3>
+<level3>
 Periventricular haemorrhage neonatal
+</level3>
+<level3>
 Pituitary haemorrhage
+</level3>
+<level3>
 Purpura cerebri
+</level3>
+<level3>
 Putamen haemorrhage
+</level3>
+<level3>
 Spinal cord haematoma
+</level3>
+<level3>
 Spinal cord haemorrhage
+</level3>
+<level3>
 Spinal epidural haematoma
+</level3>
+<level3>
 Spinal epidural haemorrhage
+</level3>
+<level3>
 Spinal subarachnoid haemorrhage
+</level3>
+<level3>
 Spinal subdural haematoma
+</level3>
+<level3>
 Spinal subdural haemorrhage
+</level3>
+<level3>
 Subarachnoid haematoma
+</level3>
+<level3>
 Subarachnoid haemorrhage
+</level3>
+<level3>
 Subarachnoid haemorrhage neonatal
+</level3>
+<level3>
 Subdural haematoma
+</level3>
+<level3>
 Subdural haemorrhage
+</level3>
+<level3>
 Subdural haemorrhage neonatal
+</level3>
+<level3>
 Thalamus haemorrhage
+</level3>
+<level3>
 Traumatic intracranial haematoma
+</level3>
+<level3>
 Traumatic intracranial haemorrhage
-l2</ Nervous system haemorrhagic disorders >
-l2< Ocular haemorrhagic disorders >
+</level3>
+</level2>
+<level2 name =" Ocular haemorrhagic disorders">
+<level3>
 Acute haemorrhagic conjunctivitis
+</level3>
+<level3>
 Choroidal haematoma
+</level3>
+<level3>
 Choroidal haemorrhage
+</level3>
+<level3>
 Ciliary body haemorrhage
+</level3>
+<level3>
 Conjunctival haemorrhage
+</level3>
+<level3>
 Corneal bleeding
+</level3>
+<level3>
 Eye haematoma
+</level3>
+<level3>
 Eye haemorrhage
+</level3>
+<level3>
 Eyelid bleeding
+</level3>
+<level3>
 Eyelid haematoma
+</level3>
+<level3>
 Hyphaema
+</level3>
+<level3>
 Intraocular haematoma
+</level3>
+<level3>
 Iris haemorrhage
+</level3>
+<level3>
 Lacrimal haemorrhage
+</level3>
+<level3>
 Ocular retrobulbar haemorrhage
+</level3>
+<level3>
 Optic disc haemorrhage
+</level3>
+<level3>
 Optic nerve sheath haemorrhage
+</level3>
+<level3>
 Periorbital haematoma
+</level3>
+<level3>
 Periorbital haemorrhage
+</level3>
+<level3>
 Retinal haemorrhage
+</level3>
+<level3>
 Retinopathy haemorrhagic
+</level3>
+<level3>
 Scleral haemorrhage
+</level3>
+<level3>
 Spontaneous hyphaema
+</level3>
+<level3>
 Subretinal haematoma
+</level3>
+<level3>
 Vitreous haematoma
+</level3>
+<level3>
 Vitreous haemorrhage
-l2</ Ocular haemorrhagic disorders >
-l2< Renal haemorrhagic disorders >
+</level3>
+</level2>
+<level2 name =" Renal haemorrhagic disorders">
+<level3>
 Benign familial haematuria
+</level3>
+<level3>
 Nephritis haemorrhagic
+</level3>
+<level3>
 Renal cyst haemorrhage
+</level3>
+<level3>
 Renal haematoma
+</level3>
+<level3>
 Renal haemorrhage
+</level3>
+<level3>
 Ureteric haemorrhage
-l2</ Renal haemorrhagic disorders >
-l2< Reproductive system haemorrhages >
+</level3>
+</level2>
+<level2 name =" Reproductive system haemorrhages">
+<level3>
 Breast haematoma
+</level3>
+<level3>
 Breast haemorrhage
+</level3>
+<level3>
 Broad ligament haematoma
+</level3>
+<level3>
 Cervix haematoma uterine
+</level3>
+<level3>
 Cervix haemorrhage uterine
+</level3>
+<level3>
 Genital haemorrhage
+</level3>
+<level3>
 Haematosalpinx
+</level3>
+<level3>
 Haematospermia
+</level3>
+<level3>
 Haemorrhage in pregnancy
+</level3>
+<level3>
 Haemorrhagic breast cyst
+</level3>
+<level3>
 Haemorrhagic ovarian cyst
+</level3>
+<level3>
 Induced abortion haemorrhage
+</level3>
+<level3>
 Intrapartum haemorrhage
+</level3>
+<level3>
 Ovarian haematoma
+</level3>
+<level3>
 Ovarian haemorrhage
+</level3>
+<level3>
 Pelvic haematoma
+</level3>
+<level3>
 Pelvic haematoma obstetric
+</level3>
+<level3>
 Pelvic haemorrhage
+</level3>
+<level3>
 Penile haematoma
+</level3>
+<level3>
 Penile haemorrhage
+</level3>
+<level3>
 Perineal haematoma
+</level3>
+<level3>
 Peripartum haemorrhage
+</level3>
+<level3>
 Placenta praevia haemorrhage
+</level3>
+<level3>
 Post abortion haemorrhage
+</level3>
+<level3>
 Postmenopausal haemorrhage
+</level3>
+<level3>
 Postpartum haemorrhage
+</level3>
+<level3>
 Premature separation of placenta
+</level3>
+<level3>
 Prostatic haemorrhage
+</level3>
+<level3>
 Retroplacental haematoma
+</level3>
+<level3>
 Scrotal haematocoele
+</level3>
+<level3>
 Scrotal haematoma
+</level3>
+<level3>
 Spermatic cord haemorrhage
+</level3>
+<level3>
 Subchorionic haematoma
+</level3>
+<level3>
 Subchorionic haemorrhage
+</level3>
+<level3>
 Testicular haemorrhage
+</level3>
+<level3>
 Third stage postpartum haemorrhage
+</level3>
+<level3>
 Umbilical cord haemorrhage
+</level3>
+<level3>
 Urethral haemorrhage
+</level3>
+<level3>
 Uterine haematoma
+</level3>
+<level3>
 Uterine haemorrhage
+</level3>
+<level3>
 Vaginal haematoma
+</level3>
+<level3>
 Vaginal haemorrhage
+</level3>
+<level3>
 Vulval haematoma
+</level3>
+<level3>
 Vulval haemorrhage
-l2</ Reproductive system haemorrhages >
-l1</ Vascular haemorrhagic disorders >
-l1< Vascular hypertensive disorders >
-l2< Accelerated and malignant hypertension >
+</level3>
+</level2>
+</level1>
+<level1 name =" Vascular hypertensive disorders">
+<level2 name =" Accelerated and malignant hypertension">
+<level3>
 Accelerated hypertension
+</level3>
+<level3>
 Hypertensive crisis
+</level3>
+<level3>
 Hypertensive emergency
+</level3>
+<level3>
 Malignant hypertension
+</level3>
+<level3>
 Malignant hypertensive heart disease
+</level3>
+<level3>
 Malignant renal hypertension
+</level3>
+<level3>
 Tyramine reaction
-l2</ Accelerated and malignant hypertension >
-l2< Endocrine and metabolic secondary hypertension >
+</level3>
+</level2>
+<level2 name =" Endocrine and metabolic secondary hypertension">
+<level3>
 Acquired apparent mineralocorticoid excess
+</level3>
+<level3>
 Acral overgrowth
+</level3>
+<level3>
 Acromegaly
+</level3>
+<level3>
 Adrenal medulla hyperfunction
+</level3>
+<level3>
 Alcoholic pseudo Cushing's syndrome
+</level3>
+<level3>
 Apparent mineralocorticoid excess
+</level3>
+<level3>
 Cushing's syndrome
+</level3>
+<level3>
 Endocrine hypertension
+</level3>
+<level3>
 Hyperadrenalism
+</level3>
+<level3>
 Hyperaldosteronism
+</level3>
+<level3>
 Hypercorticoidism
+</level3>
+<level3>
 Primary hyperaldosteronism
+</level3>
+<level3>
 Pseudoaldosteronism
+</level3>
+<level3>
 Pseudophaeochromocytoma
+</level3>
+<level3>
 Secondary aldosteronism
-l2</ Endocrine and metabolic secondary hypertension >
-l2< Hypertension complications >
+</level3>
+</level2>
+<level2 name =" Hypertension complications">
+<level3>
 Angiosclerosis
+</level3>
+<level3>
 Hypertensive angiopathy
+</level3>
+<level3>
 Hypertensive cardiomegaly
+</level3>
+<level3>
 Hypertensive cardiomyopathy
+</level3>
+<level3>
 Hypertensive cerebrovascular disease
+</level3>
+<level3>
 Hypertensive encephalopathy
+</level3>
+<level3>
 Hypertensive end-organ damage
+</level3>
+<level3>
 Hypertensive heart disease
+</level3>
+<level3>
 Hypertensive nephropathy
+</level3>
+<level3>
 Retinopathy hypertensive
-l2</ Hypertension complications >
-l2< Portal hypertensions >
+</level3>
+</level2>
+<level2 name =" Portal hypertensions">
+<level3>
 Banti's syndrome
+</level3>
+<level3>
 Gallbladder varices
+</level3>
+<level3>
 Hepatic fibrosis
+</level3>
+<level3>
 Hepatic steato-fibrosis
+</level3>
+<level3>
 Non-cirrhotic portal hypertension
+</level3>
+<level3>
 Portal fibrosis
+</level3>
+<level3>
 Portal hypertension
+</level3>
+<level3>
 Portal hypertensive colopathy
+</level3>
+<level3>
 Portal hypertensive enteropathy
+</level3>
+<level3>
 Portal hypertensive gastropathy
+</level3>
+<level3>
 Portal shunt
+</level3>
+<level3>
 Portal vein dilatation
+</level3>
+<level3>
 Splenic varices
+</level3>
+<level3>
 Splenorenal shunt
+</level3>
+<level3>
 Varicose veins of abdominal wall
-l2</ Portal hypertensions >
-l2< Pregnancy associated hypertension >
+</level3>
+</level2>
+<level2 name =" Pregnancy associated hypertension">
+<level3>
 Eclampsia
+</level3>
+<level3>
 Gestational hypertension
+</level3>
+<level3>
 HELLP syndrome
+</level3>
+<level3>
 Pre-eclampsia
-l2</ Pregnancy associated hypertension >
-l2< Pulmonary hypertensions >
+</level3>
+</level2>
+<level2 name =" Pulmonary hypertensions">
+<level3>
 Alveolar capillary dysplasia
+</level3>
+<level3>
 Cor pulmonale
+</level3>
+<level3>
 Cor pulmonale acute
+</level3>
+<level3>
 Cor pulmonale chronic
+</level3>
+<level3>
 Portopulmonary hypertension
+</level3>
+<level3>
 Pulmonary arterial hypertension
+</level3>
+<level3>
 Pulmonary artery wall hypertrophy
+</level3>
+<level3>
 Pulmonary hypertension
+</level3>
+<level3>
 Pulmonary hypertensive crisis
+</level3>
+<level3>
 Right ventricular hypertension
+</level3>
+<level3>
 Right-to-left cardiac shunt
-l2</ Pulmonary hypertensions >
-l2< Renal hypertensions >
+</level3>
+</level2>
+<level2 name =" Renal hypertensions">
+<level3>
 Liddle's syndrome
+</level3>
+<level3>
 Page kidney
+</level3>
+<level3>
 Renal hypertension
+</level3>
+<level3>
 Renovascular hypertension
+</level3>
+<level3>
 Scleroderma renal crisis
-l2</ Renal hypertensions >
-l2< Vascular hypertensive disorders NEC >
+</level3>
+</level2>
+<level2 name =" Vascular hypertensive disorders NEC">
+<level3>
 Autonomic dysreflexia
+</level3>
+<level3>
 Cushingoid
+</level3>
+<level3>
 Diastolic hypertension
+</level3>
+<level3>
 Essential hypertension
+</level3>
+<level3>
 Hyperadrenocorticism
+</level3>
+<level3>
 Hypertension
+</level3>
+<level3>
 Hypertension neonatal
+</level3>
+<level3>
 Labile hypertension
+</level3>
+<level3>
 Maternal hypertension affecting foetus
+</level3>
+<level3>
 Metabolic syndrome
+</level3>
+<level3>
 Neurogenic hypertension
+</level3>
+<level3>
 Orthostatic hypertension
+</level3>
+<level3>
 Paradoxical pressor response
+</level3>
+<level3>
 Prehypertension
+</level3>
+<level3>
 Procedural hypertension
+</level3>
+<level3>
 Secondary hypertension
+</level3>
+<level3>
 Supine hypertension
+</level3>
+<level3>
 Systolic hypertension
+</level3>
+<level3>
 Withdrawal hypertension
-l2</ Vascular hypertensive disorders NEC >
-l1</ Vascular hypertensive disorders >
-l1< Vascular inflammations >
-l2< Aortic inflammatory disorders >
+</level3>
+</level2>
+</level1>
+<level1 name =" Vascular inflammations">
+<level2 name =" Aortic inflammatory disorders">
+<level3>
 Aortitis
+</level3>
+<level3>
 Aortitis salmonella
+</level3>
+<level3>
 Aortitis syphilitic
+</level3>
+<level3>
 Infective aortitis
-l2</ Aortic inflammatory disorders >
-l2< Arterial inflammations >
+</level3>
+</level2>
+<level2 name =" Arterial inflammations">
+<level3>
 Arteritis
+</level3>
+<level3>
 Arteritis coronary
+</level3>
+<level3>
 Arteritis infective
+</level3>
+<level3>
 Cerebral arteritis
+</level3>
+<level3>
 Diabetic arteritis
+</level3>
+<level3>
 Kawasaki's disease
+</level3>
+<level3>
 Renal arteritis
+</level3>
+<level3>
 Takayasu's arteritis
+</level3>
+<level3>
 Temporal arteritis
-l2</ Arterial inflammations >
-l2< Phlebitis NEC >
+</level3>
+</level2>
+<level2 name =" Phlebitis NEC">
+<level3>
 Administration site phlebitis
+</level3>
+<level3>
 Application site phlebitis
+</level3>
+<level3>
 Catheter site phlebitis
+</level3>
+<level3>
 Implant site phlebitis
+</level3>
+<level3>
 Infusion site phlebitis
+</level3>
+<level3>
 Injection site phlebitis
+</level3>
+<level3>
 Medical device site phlebitis
+</level3>
+<level3>
 Periphlebitis
+</level3>
+<level3>
 Phlebitis
+</level3>
+<level3>
 Phlebitis deep
+</level3>
+<level3>
 Phlebitis infective
+</level3>
+<level3>
 Phlebitis superficial
+</level3>
+<level3>
 Portal vein phlebitis
+</level3>
+<level3>
 Septic phlebitis
+</level3>
+<level3>
 Stoma site phlebitis
+</level3>
+<level3>
 Vaccination site phlebitis
+</level3>
+<level3>
 Vessel puncture site phlebitis
-l2</ Phlebitis NEC >
-l2< Vasculitides NEC >
+</level3>
+</level2>
+<level2 name =" Vasculitides NEC">
+<level3>
 Acute haemorrhagic oedema of infancy
+</level3>
+<level3>
 Administration site vasculitis
+</level3>
+<level3>
 Angiopathic neuropathy
+</level3>
+<level3>
 Anti-neutrophil cytoplasmic antibody positive vasculitis
+</level3>
+<level3>
 Application site vasculitis
+</level3>
+<level3>
 Behcet's syndrome
+</level3>
+<level3>
 Capillaritis
+</level3>
+<level3>
 Catheter site vasculitis
+</level3>
+<level3>
 Cogan's syndrome
+</level3>
+<level3>
 Cryoglobulinaemia
+</level3>
+<level3>
 Cutaneous vasculitis
+</level3>
+<level3>
 Diffuse vasculitis
+</level3>
+<level3>
 Eosinophilic granulomatosis with polyangiitis
+</level3>
+<level3>
 Erythema induratum
+</level3>
+<level3>
 Granulomatosis with polyangiitis
+</level3>
+<level3>
 Haemorrhagic vasculitis
+</level3>
+<level3>
 Hypersensitivity vasculitis
+</level3>
+<level3>
 Infusion site vasculitis
+</level3>
+<level3>
 Injection site vasculitis
+</level3>
+<level3>
 IRVAN syndrome
+</level3>
+<level3>
 Lupus vasculitis
+</level3>
+<level3>
 MAGIC syndrome
+</level3>
+<level3>
 Medical device site vasculitis
+</level3>
+<level3>
 Microscopic polyangiitis
+</level3>
+<level3>
 Nodular vasculitis
+</level3>
+<level3>
 Ocular vasculitis
+</level3>
+<level3>
 Palpable purpura
+</level3>
+<level3>
 Polyarteritis nodosa
+</level3>
+<level3>
 Pseudovasculitis
+</level3>
+<level3>
 Radiation vasculitis
+</level3>
+<level3>
 Renal vasculitis
+</level3>
+<level3>
 Rheumatoid vasculitis
+</level3>
+<level3>
 Segmented hyalinising vasculitis
+</level3>
+<level3>
 Septic vasculitis
+</level3>
+<level3>
 Stoma site vasculitis
+</level3>
+<level3>
 Susac's syndrome
+</level3>
+<level3>
 Thromboangiitis obliterans
+</level3>
+<level3>
 Type 2 lepra reaction
+</level3>
+<level3>
 Urticarial vasculitis
+</level3>
+<level3>
 Vaccination site vasculitis
+</level3>
+<level3>
 Vasculitic rash
+</level3>
+<level3>
 Vasculitic ulcer
+</level3>
+<level3>
 Vasculitis
+</level3>
+<level3>
 Vasculitis cerebral
+</level3>
+<level3>
 Vasculitis gastrointestinal
+</level3>
+<level3>
 Vasculitis necrotising
+</level3>
+<level3>
 Viral vasculitis
-l2</ Vasculitides NEC >
-l1</ Vascular inflammations >
-l1< Vascular injuries >
-l2< Arterial and aortic injuries >
+</level3>
+</level2>
+</level1>
+<level1 name =" Vascular injuries">
+<level2 name =" Arterial and aortic injuries">
+<level3>
 Aortic injury
+</level3>
+<level3>
 Aortic perforation
+</level3>
+<level3>
 Arterial injury
+</level3>
+<level3>
 Arterial perforation
+</level3>
+<level3>
 Basilar artery perforation
+</level3>
+<level3>
 Carotid artery perforation
+</level3>
+<level3>
 Cerebral artery perforation
+</level3>
+<level3>
 Femoral artery perforation
+</level3>
+<level3>
 Iliac artery perforation
+</level3>
+<level3>
 Lower limb artery perforation
+</level3>
+<level3>
 Renal artery perforation
+</level3>
+<level3>
 Splenic artery perforation
+</level3>
+<level3>
 Subclavian artery perforation
+</level3>
+<level3>
 Vertebral artery perforation
-l2</ Arterial and aortic injuries >
-l2< Vascular injuries NEC >
+</level3>
+</level2>
+<level2 name =" Vascular injuries NEC">
+<level3>
 Vascular injury
+</level3>
+<level3>
 Vessel perforation
-l2</ Vascular injuries NEC >
-l2< Venous and vena caval injuries >
+</level3>
+</level2>
+<level2 name =" Venous and vena caval injuries">
+<level3>
 Femoral vein perforation
+</level3>
+<level3>
 Iliac vein perforation
+</level3>
+<level3>
 Inferior vena cava perforation
+</level3>
+<level3>
 Subclavian vein perforation
+</level3>
+<level3>
 Superior vena cava perforation
+</level3>
+<level3>
 Vena cava injury
+</level3>
+<level3>
 Venous injury
+</level3>
+<level3>
 Venous perforation
-l2</ Venous and vena caval injuries >
-l1</ Vascular injuries >
-l1< Venous varices >
-l2< Gastrointestinal varicosities and haemorrhoids >
+</level3>
+</level2>
+</level1>
+<level1 name =" Venous varices">
+<level2 name =" Gastrointestinal varicosities and haemorrhoids">
+<level3>
 Anorectal varices
+</level3>
+<level3>
 Anorectal varices haemorrhage
+</level3>
+<level3>
 Duodenal varices
+</level3>
+<level3>
 Gastric varices
+</level3>
+<level3>
 Haemorrhoid infection
+</level3>
+<level3>
 Haemorrhoidal haemorrhage
+</level3>
+<level3>
 Haemorrhoids
+</level3>
+<level3>
 Haemorrhoids thrombosed
+</level3>
+<level3>
 Intestinal varices
+</level3>
+<level3>
 Peripancreatic varices
+</level3>
+<level3>
 Stomal varices
+</level3>
+<level3>
 Varices oesophageal
+</level3>
+<level3>
 Varicose veins sublingual
+</level3>
+<level3>
 White nipple sign
-l2</ Gastrointestinal varicosities and haemorrhoids >
-l2< Reproductive system varicosities >
+</level3>
+</level2>
+<level2 name =" Reproductive system varicosities">
+<level3>
 Congenital varicocele
+</level3>
+<level3>
 Prostatic varices
+</level3>
+<level3>
 Scrotal varicose veins
+</level3>
+<level3>
 Varicocele
+</level3>
+<level3>
 Varicocele ovarian
+</level3>
+<level3>
 Varicocele utero-ovarian
+</level3>
+<level3>
 Varicose veins pelvic
+</level3>
+<level3>
 Varicose veins vaginal
+</level3>
+<level3>
 Varicose veins vulval
-l2</ Reproductive system varicosities >
-l2< Varicose veins NEC >
+</level3>
+</level2>
+<level2 name =" Varicose veins NEC">
+<level3>
 Bleeding varicose vein
+</level3>
+<level3>
 Bronchial varices
+</level3>
+<level3>
 Endocardial varices
+</level3>
+<level3>
 Infected varicose vein
+</level3>
+<level3>
 Nasal varices
+</level3>
+<level3>
 Renal vein varices
+</level3>
+<level3>
 Spider vein
+</level3>
+<level3>
 Stasis dermatitis
+</level3>
+<level3>
 Thrombosed varicose vein
+</level3>
+<level3>
 Varicophlebitis
+</level3>
+<level3>
 Varicose ulceration
+</level3>
+<level3>
 Varicose vein
+</level3>
+<level3>
 Varicose vein ruptured
+</level3>
+<level3>
 Venous valve ruptured
-l2</ Varicose veins NEC >
-l1</ Venous varices >
-l0</ Vascular disorders>
+</level3>
+</level2>
+</level1>
+</level0>

@@ -1,1257 +1,3523 @@
-l0< Respiratory, thoracic and mediastinal disorders>
-l1< Bronchial disorders (excl neoplasms) >
-l2< Bronchial conditions NEC >
+<level0 name =" Respiratory, thoracic and mediastinal">
+<level1 name =" Bronchial disorders (excl neoplasms)">
+<level2 name =" Bronchial conditions NEC">
+<level3>
 Acquired bronchial cyst
+</level3>
+<level3>
 Allergic bronchitis
+</level3>
+<level3>
 Biliary-bronchial fistula
+</level3>
+<level3>
 Bronchial anastomosis complication
+</level3>
+<level3>
 Bronchial disorder
+</level3>
+<level3>
 Bronchial dysplasia
+</level3>
+<level3>
 Bronchial fistula
+</level3>
+<level3>
 Bronchial haemorrhage
+</level3>
+<level3>
 Bronchial injury
+</level3>
+<level3>
 Bronchial polyp
+</level3>
+<level3>
 Bronchial secretion retention
+</level3>
+<level3>
 Bronchial ulceration
+</level3>
+<level3>
 Bronchial varices
+</level3>
+<level3>
 Bronchial varices haemorrhage
+</level3>
+<level3>
 Bronchial wall thickening
+</level3>
+<level3>
 Bronchiectasis
+</level3>
+<level3>
 Bronchiolitis
+</level3>
+<level3>
 Bronchitis chemical
+</level3>
+<level3>
 Broncholithiasis
+</level3>
+<level3>
 Bronchomalacia
+</level3>
+<level3>
 Congenital bronchiectasis
+</level3>
+<level3>
 Congenital bronchomalacia
+</level3>
+<level3>
 Eosinophilic bronchitis
+</level3>
+<level3>
 Fibrinous bronchitis
+</level3>
+<level3>
 Infective exacerbation of bronchiectasis
+</level3>
+<level3>
 Noninfective bronchitis
+</level3>
+<level3>
 Oesophagobronchial fistula
+</level3>
+<level3>
 Primary ciliary dyskinesia
+</level3>
+<level3>
 Yellow nail syndrome
-l2</ Bronchial conditions NEC >
-l2< Bronchospasm and obstruction >
+</level3>
+</level2>
+<level2 name =" Bronchospasm and obstruction">
+<level3>
 Acute post asthmatic amyotrophy
+</level3>
+<level3>
 Airway remodelling
+</level3>
+<level3>
 Aspirin-exacerbated respiratory disease
+</level3>
+<level3>
 Asthma
+</level3>
+<level3>
 Asthma exercise induced
+</level3>
+<level3>
 Asthma late onset
+</level3>
+<level3>
 Asthma-chronic obstructive pulmonary disease overlap syndrome
+</level3>
+<level3>
 Asthmatic crisis
+</level3>
+<level3>
 Bronchial hyperreactivity
+</level3>
+<level3>
 Bronchial obstruction
+</level3>
+<level3>
 Bronchial oedema
+</level3>
+<level3>
 Bronchitis chronic
+</level3>
+<level3>
 Bronchospasm
+</level3>
+<level3>
 Bronchospasm paradoxical
+</level3>
+<level3>
 Bronchostenosis
+</level3>
+<level3>
 Chronic obstructive pulmonary disease
+</level3>
+<level3>
 Cystic fibrosis
+</level3>
+<level3>
 Cystic fibrosis lung
+</level3>
+<level3>
 Infantile asthma
+</level3>
+<level3>
 Infective exacerbation of chronic obstructive airways disease
+</level3>
+<level3>
 Infective pulmonary exacerbation of cystic fibrosis
+</level3>
+<level3>
 Obliterative bronchiolitis
+</level3>
+<level3>
 Obstructive airways disorder
+</level3>
+<level3>
 Occupational asthma
+</level3>
+<level3>
 Reactive airways dysfunction syndrome
+</level3>
+<level3>
 Reversible airways obstruction
+</level3>
+<level3>
 Severe asthma with fungal sensitisation
+</level3>
+<level3>
 Status asthmaticus
+</level3>
+<level3>
 Unilateral bronchospasm
+</level3>
+<level3>
 Wheezing
-l2</ Bronchospasm and obstruction >
-l1</ Bronchial disorders (excl neoplasms) >
-l1< Congenital respiratory tract disorders >
-l2< Congenital lower respiratory tract disorders >
+</level3>
+</level2>
+</level1>
+<level1 name =" Congenital respiratory tract disorders">
+<level2 name =" Congenital lower respiratory tract disorders">
+<level3>
 Azygos lobe
+</level3>
+<level3>
 Bronchogenic cyst
+</level3>
+<level3>
 Congenital cystic lung
+</level3>
+<level3>
 Fryns syndrome
+</level3>
+<level3>
 Pulmonary aplasia
+</level3>
+<level3>
 Pulmonary hypoplasia
+</level3>
+<level3>
 Pulmonary malformation
+</level3>
+<level3>
 Pulmonary sequestration
-l2</ Congenital lower respiratory tract disorders >
-l2< Congenital upper respiratory tract disorders >
+</level3>
+</level2>
+<level2 name =" Congenital upper respiratory tract disorders">
+<level3>
 CHARGE syndrome
+</level3>
+<level3>
 Choanal atresia
+</level3>
+<level3>
 Choanal stenosis
+</level3>
+<level3>
 Congenital epiglottal anomaly
+</level3>
+<level3>
 Congenital laryngeal stridor
+</level3>
+<level3>
 Congenital nose malformation
+</level3>
+<level3>
 Congenital pharyngeal anomaly
+</level3>
+<level3>
 Diverticulum of pharynx, congenital
+</level3>
+<level3>
 Laryngeal cleft
+</level3>
+<level3>
 Laryngeal web
+</level3>
+<level3>
 Laryngocele
+</level3>
+<level3>
 Nasopharyngeal atresia
+</level3>
+<level3>
 Oculopharyngeal dystrophy
-l2</ Congenital upper respiratory tract disorders >
-l1</ Congenital respiratory tract disorders >
-l1< Lower respiratory tract disorders (excl obstruction and infection) >
-l2< Lower respiratory tract inflammatory and immunologic conditions >
+</level3>
+</level2>
+</level1>
+<level1 name =" Lower respiratory tract disorders (excl obstruction and infection)">
+<level2 name =" Lower respiratory tract inflammatory and immunologic conditions">
+<level3>
 Alveolitis
+</level3>
+<level3>
 Alveolitis allergic
+</level3>
+<level3>
 Alveolitis necrotising
+</level3>
+<level3>
 Diffuse alveolar damage
+</level3>
+<level3>
 Diffuse panbronchiolitis
+</level3>
+<level3>
 Eosinophilia myalgia syndrome
+</level3>
+<level3>
 Eosinophilic granulomatosis with polyangiitis
+</level3>
+<level3>
 Eosinophilic pneumonia
+</level3>
+<level3>
 Eosinophilic pneumonia acute
+</level3>
+<level3>
 Eosinophilic pneumonia chronic
+</level3>
+<level3>
 Goodpasture's syndrome
+</level3>
+<level3>
 Graft versus host disease in lung
+</level3>
+<level3>
 Granulomatosis with polyangiitis
+</level3>
+<level3>
 Granulomatous pneumonitis
+</level3>
+<level3>
 Heart-lung transplant rejection
+</level3>
+<level3>
 Langerhans' cell histiocytosis
+</level3>
+<level3>
 Loeffler's syndrome
+</level3>
+<level3>
 Lower respiratory tract inflammation
+</level3>
+<level3>
 Lung transplant rejection
+</level3>
+<level3>
 Lupus pneumonitis
+</level3>
+<level3>
 Mendelson's syndrome
+</level3>
+<level3>
 Necrotising bronchiolitis
+</level3>
+<level3>
 Organic dust toxic syndrome
+</level3>
+<level3>
 Pneumonia aspiration
+</level3>
+<level3>
 Pneumonia lipoid
+</level3>
+<level3>
 Pneumonitis
+</level3>
+<level3>
 Pulmonary eosinophilia
+</level3>
+<level3>
 Pulmonary granuloma
+</level3>
+<level3>
 Pulmonary renal syndrome
+</level3>
+<level3>
 Pulmonary sarcoidosis
+</level3>
+<level3>
 Pulmonary sensitisation
+</level3>
+<level3>
 Pulmonary vasculitis
+</level3>
+<level3>
 Rheumatoid lung
+</level3>
+<level3>
 Systemic sclerosis pulmonary
+</level3>
+<level3>
 Toxic oil syndrome
+</level3>
+<level3>
 Tropical eosinophilia
-l2</ Lower respiratory tract inflammatory and immunologic conditions >
-l2< Lower respiratory tract radiation disorders >
+</level3>
+</level2>
+<level2 name =" Lower respiratory tract radiation disorders">
+<level3>
 Pulmonary radiation injury
+</level3>
+<level3>
 Radiation alveolitis
+</level3>
+<level3>
 Radiation fibrosis - lung
+</level3>
+<level3>
 Radiation pneumonitis
-l2</ Lower respiratory tract radiation disorders >
-l2< Occupational parenchymal lung disorders >
+</level3>
+</level2>
+<level2 name =" Occupational parenchymal lung disorders">
+<level3>
 Asbestosis
+</level3>
+<level3>
 Berylliosis
+</level3>
+<level3>
 Byssinosis
+</level3>
+<level3>
 Caplan's syndrome
+</level3>
+<level3>
 Dust inhalation pneumopathy
+</level3>
+<level3>
 Pneumoconiosis
+</level3>
+<level3>
 Pneumonitis chemical
+</level3>
+<level3>
 Silicosis
+</level3>
+<level3>
 Silicotuberculosis
-l2</ Occupational parenchymal lung disorders >
-l2< Parenchymal lung disorders NEC >
+</level3>
+</level2>
+<level2 name =" Parenchymal lung disorders NEC">
+<level3>
 Acute interstitial pneumonitis
+</level3>
+<level3>
 Alveolar lung disease
+</level3>
+<level3>
 Alveolar proteinosis
+</level3>
+<level3>
 Antisynthetase syndrome
+</level3>
+<level3>
 Atelectasis
+</level3>
+<level3>
 Bronchopulmonary disease
+</level3>
+<level3>
 Combined pulmonary fibrosis and emphysema
+</level3>
+<level3>
 Complications of transplanted lung
+</level3>
+<level3>
 Congenital emphysema
+</level3>
+<level3>
 Cystic lung disease
+</level3>
+<level3>
 Emphysema
+</level3>
+<level3>
 Engraftment syndrome
+</level3>
+<level3>
 Idiopathic interstitial pneumonia
+</level3>
+<level3>
 Idiopathic pneumonia syndrome
+</level3>
+<level3>
 Idiopathic pulmonary fibrosis
+</level3>
+<level3>
 Interstitial lung disease
+</level3>
+<level3>
 Lung consolidation
+</level3>
+<level3>
 Lung cyst
+</level3>
+<level3>
 Lung induration
+</level3>
+<level3>
 Lung infiltration
+</level3>
+<level3>
 Lung perforation
+</level3>
+<level3>
 Lymphangioleiomyomatosis
+</level3>
+<level3>
 MacLeod's syndrome
+</level3>
+<level3>
 Middle lobe syndrome
+</level3>
+<level3>
 Multifocal micronodular pneumocyte hyperplasia
+</level3>
+<level3>
 Neuroendocrine cell hyperplasia of infancy
+</level3>
+<level3>
 Organising pneumonia
+</level3>
+<level3>
 Progressive massive fibrosis
+</level3>
+<level3>
 Pulmonary air leakage
+</level3>
+<level3>
 Pulmonary alveolar haemorrhage
+</level3>
+<level3>
 Pulmonary alveolar microlithiasis
+</level3>
+<level3>
 Pulmonary amyloidosis
+</level3>
+<level3>
 Pulmonary calcification
+</level3>
+<level3>
 Pulmonary cavitation
+</level3>
+<level3>
 Pulmonary contusion
+</level3>
+<level3>
 Pulmonary fibrosis
+</level3>
+<level3>
 Pulmonary fistula
+</level3>
+<level3>
 Pulmonary haemosiderosis
+</level3>
+<level3>
 Pulmonary interstitial emphysema syndrome
+</level3>
+<level3>
 Pulmonary necrosis
+</level3>
+<level3>
 Pulmonary nodular lymphoid hyperplasia
+</level3>
+<level3>
 Pulmonary ossification
+</level3>
+<level3>
 Pulmonary pneumatocele
+</level3>
+<level3>
 Pulmonary toxicity
+</level3>
+<level3>
 Restrictive allograft syndrome
+</level3>
+<level3>
 Restrictive pulmonary disease
+</level3>
+<level3>
 Traumatic lung injury
-l2</ Parenchymal lung disorders NEC >
-l2< Pulmonary oedemas >
+</level3>
+</level2>
+<level2 name =" Pulmonary oedemas">
+<level3>
 Acute lung injury
+</level3>
+<level3>
 Acute pulmonary oedema
+</level3>
+<level3>
 Acute respiratory distress syndrome
+</level3>
+<level3>
 Leukostasis syndrome
+</level3>
+<level3>
 Non-cardiogenic pulmonary oedema
+</level3>
+<level3>
 Polymer fume fever
+</level3>
+<level3>
 Pulmonary congestion
+</level3>
+<level3>
 Pulmonary oedema
+</level3>
+<level3>
 Pulmonary oedema neonatal
+</level3>
+<level3>
 Pulmonary oedema post fume inhalation
+</level3>
+<level3>
 Reexpansion pulmonary oedema
+</level3>
+<level3>
 Transfusion-related acute lung injury
-l2</ Pulmonary oedemas >
-l1</ Lower respiratory tract disorders (excl obstruction and infection) >
-l1< Neonatal respiratory disorders >
-l2< Neonatal hypoxic conditions >
+</level3>
+</level2>
+</level1>
+<level1 name =" Neonatal respiratory disorders">
+<level2 name =" Neonatal hypoxic conditions">
+<level3>
 Apparent life threatening event
+</level3>
+<level3>
 Cardio-respiratory arrest neonatal
+</level3>
+<level3>
 Cyanosis neonatal
+</level3>
+<level3>
 Dry lung syndrome
+</level3>
+<level3>
 Gasping syndrome
+</level3>
+<level3>
 Hypoventilation neonatal
+</level3>
+<level3>
 Infantile apnoea
+</level3>
+<level3>
 Neonatal anoxia
+</level3>
+<level3>
 Neonatal asphyxia
+</level3>
+<level3>
 Neonatal behavioural syndrome
+</level3>
+<level3>
 Neonatal hypoxia
+</level3>
+<level3>
 Neonatal respiratory arrest
+</level3>
+<level3>
 Neonatal respiratory depression
+</level3>
+<level3>
 Neonatal respiratory distress syndrome
+</level3>
+<level3>
 Neonatal respiratory failure
+</level3>
+<level3>
 Pulmonary lymphangiectasia
-l2</ Neonatal hypoxic conditions >
-l2< Newborn respiratory disorders NEC >
+</level3>
+</level2>
+<level2 name =" Newborn respiratory disorders NEC">
+<level3>
 Atelectasis neonatal
+</level3>
+<level3>
 Bronchopulmonary dysplasia
+</level3>
+<level3>
 Congenital pneumonia
+</level3>
+<level3>
 Congenital pulmonary hypertension
+</level3>
+<level3>
 Immature larynx
+</level3>
+<level3>
 Immature respiratory system
+</level3>
+<level3>
 Meconium aspiration syndrome
+</level3>
+<level3>
 Neonatal alveolar aeration excessive
+</level3>
+<level3>
 Neonatal aspiration
+</level3>
+<level3>
 Neonatal respiratory acidosis
+</level3>
+<level3>
 Neonatal respiratory alkalosis
+</level3>
+<level3>
 Neonatal tachypnoea
+</level3>
+<level3>
 Pulmonary dysmaturity syndrome
+</level3>
+<level3>
 Respiratory disorder neonatal
+</level3>
+<level3>
 Respiratory tract haemorrhage neonatal
+</level3>
+<level3>
 Transient tachypnoea of the newborn
-l2</ Newborn respiratory disorders NEC >
-l1</ Neonatal respiratory disorders >
-l1< Pleural disorders >
-l2< Pleural conditions NEC >
+</level3>
+</level2>
+</level1>
+<level1 name =" Pleural disorders">
+<level2 name =" Pleural conditions NEC">
+<level3>
 Bronchopleural fistula
+</level3>
+<level3>
 Gastropleural fistula
+</level3>
+<level3>
 Oesophagopleural fistula
+</level3>
+<level3>
 Pleural adhesion
+</level3>
+<level3>
 Pleural calcification
+</level3>
+<level3>
 Pleural cyst
+</level3>
+<level3>
 Pleural disorder
+</level3>
+<level3>
 Pleural fibrosis
+</level3>
+<level3>
 Pleural fistula
+</level3>
+<level3>
 Pleural thickening
+</level3>
+<level3>
 Pleurocutaneous fistula
-l2</ Pleural conditions NEC >
-l2< Pleural infections and inflammations >
+</level3>
+</level2>
+<level2 name =" Pleural infections and inflammations">
+<level3>
 Dressler's syndrome
+</level3>
+<level3>
 Epidemic pleurodynia
+</level3>
+<level3>
 Infectious pleural effusion
+</level3>
+<level3>
 Lupus pleurisy
+</level3>
+<level3>
 Pleural infection
+</level3>
+<level3>
 Pleural infection bacterial
+</level3>
+<level3>
 Pleurisy
+</level3>
+<level3>
 Pleurisy viral
+</level3>
+<level3>
 Pleuropericarditis
+</level3>
+<level3>
 Pyopneumothorax
+</level3>
+<level3>
 Tuberculous pleurisy
-l2</ Pleural infections and inflammations >
-l2< Pleural neoplasms >
+</level3>
+</level2>
+<level2 name =" Pleural neoplasms">
+<level3>
 Benign pleural mesothelioma
+</level3>
+<level3>
 Benign pleural neoplasm
+</level3>
+<level3>
 Malignant neoplasm of pleura
+</level3>
+<level3>
 Malignant neoplasm of pleura metastatic
+</level3>
+<level3>
 Malignant pleural effusion
+</level3>
+<level3>
 Meigs' syndrome
+</level3>
+<level3>
 Metastases to pleura
+</level3>
+<level3>
 Pleural mesothelioma
+</level3>
+<level3>
 Pleural mesothelioma malignant
+</level3>
+<level3>
 Pleural mesothelioma malignant recurrent
+</level3>
+<level3>
 Pleural neoplasm
+</level3>
+<level3>
 Pleural sarcoma
-l2</ Pleural neoplasms >
-l2< Pneumothorax and pleural effusions NEC >
+</level3>
+</level2>
+<level2 name =" Pneumothorax and pleural effusions NEC">
+<level3>
 Capnothorax
+</level3>
+<level3>
 Chylothorax
+</level3>
+<level3>
 Congenital chylothorax
+</level3>
+<level3>
 Eosinophilic pleural effusion
+</level3>
+<level3>
 Haemothorax
+</level3>
+<level3>
 Hepatic hydrothorax
+</level3>
+<level3>
 Hydrothorax
+</level3>
+<level3>
 Paraneoplastic pleural effusion
+</level3>
+<level3>
 Pleural effusion
+</level3>
+<level3>
 Pleuroperitoneal communication
+</level3>
+<level3>
 Pneumothorax
+</level3>
+<level3>
 Pneumothorax spontaneous
+</level3>
+<level3>
 Pneumothorax traumatic
+</level3>
+<level3>
 Procedural pneumothorax
+</level3>
+<level3>
 Traumatic haemothorax
-l2</ Pneumothorax and pleural effusions NEC >
-l1</ Pleural disorders >
-l1< Pulmonary vascular disorders >
-l2< Pulmonary hypertensions >
+</level3>
+</level2>
+</level1>
+<level1 name =" Pulmonary vascular disorders">
+<level2 name =" Pulmonary hypertensions">
+<level3>
 Alveolar capillary dysplasia
+</level3>
+<level3>
 Cor pulmonale
+</level3>
+<level3>
 Cor pulmonale acute
+</level3>
+<level3>
 Cor pulmonale chronic
+</level3>
+<level3>
 Portopulmonary hypertension
+</level3>
+<level3>
 Pulmonary arterial hypertension
+</level3>
+<level3>
 Pulmonary artery wall hypertrophy
+</level3>
+<level3>
 Pulmonary hypertension
+</level3>
+<level3>
 Pulmonary hypertensive crisis
+</level3>
+<level3>
 Right ventricular hypertension
+</level3>
+<level3>
 Right-to-left cardiac shunt
-l2</ Pulmonary hypertensions >
-l2< Pulmonary thrombotic and embolic conditions >
+</level3>
+</level2>
+<level2 name =" Pulmonary thrombotic and embolic conditions">
+<level3>
 Anaphylactoid syndrome of pregnancy
+</level3>
+<level3>
 Cement embolism
+</level3>
+<level3>
 Metastatic pulmonary embolism
+</level3>
+<level3>
 Obstetrical pulmonary embolism
+</level3>
+<level3>
 Post procedural pulmonary embolism
+</level3>
+<level3>
 Pulmonary artery thrombosis
+</level3>
+<level3>
 Pulmonary embolism
+</level3>
+<level3>
 Pulmonary infarction
+</level3>
+<level3>
 Pulmonary microemboli
+</level3>
+<level3>
 Pulmonary oil microembolism
+</level3>
+<level3>
 Pulmonary thrombosis
+</level3>
+<level3>
 Pulmonary tumour thrombotic microangiopathy
+</level3>
+<level3>
 Pulmonary venous thrombosis
-l2</ Pulmonary thrombotic and embolic conditions >
-l2< Vascular pulmonary disorders NEC >
+</level3>
+</level2>
+<level2 name =" Vascular pulmonary disorders NEC">
+<level3>
 Acute chest syndrome
+</level3>
+<level3>
 Bronchial artery aneurysm
+</level3>
+<level3>
 Hepatopulmonary syndrome
+</level3>
+<level3>
 Pulmonary arteriopathy
+</level3>
+<level3>
 Pulmonary arteriovenous fistula
+</level3>
+<level3>
 Pulmonary artery aneurysm
+</level3>
+<level3>
 Pulmonary artery dilatation
+</level3>
+<level3>
 Pulmonary artery occlusion
+</level3>
+<level3>
 Pulmonary artery stenosis
+</level3>
+<level3>
 Pulmonary artery stenosis congenital
+</level3>
+<level3>
 Pulmonary capillary haemangiomatosis
+</level3>
+<level3>
 Pulmonary hypoperfusion
+</level3>
+<level3>
 Pulmonary vascular disorder
+</level3>
+<level3>
 Pulmonary vascular resistance abnormality
+</level3>
+<level3>
 Pulmonary vein occlusion
+</level3>
+<level3>
 Pulmonary vein stenosis
+</level3>
+<level3>
 Pulmonary veno-occlusive disease
-l2</ Vascular pulmonary disorders NEC >
-l1</ Pulmonary vascular disorders >
-l1< Respiratory disorders NEC >
-l2< Breathing abnormalities >
+</level3>
+</level2>
+</level1>
+<level1 name =" Respiratory disorders NEC">
+<level2 name =" Breathing abnormalities">
+<level3>
 Acute promyelocytic leukaemia differentiation syndrome
+</level3>
+<level3>
 Apnoea
+</level3>
+<level3>
 Apnoeic attack
+</level3>
+<level3>
 Bendopnoea
+</level3>
+<level3>
 Bradypnoea
+</level3>
+<level3>
 Breath holding
+</level3>
+<level3>
 Breathing-related sleep disorder
+</level3>
+<level3>
 Cardiac asthma
+</level3>
+<level3>
 Central-alveolar hypoventilation
+</level3>
+<level3>
 Cheyne-Stokes respiration
+</level3>
+<level3>
 Congenital central hypoventilation syndrome
+</level3>
+<level3>
 Dyspnoea
+</level3>
+<level3>
 Dyspnoea at rest
+</level3>
+<level3>
 Dyspnoea exertional
+</level3>
+<level3>
 Dyspnoea paroxysmal nocturnal
+</level3>
+<level3>
 Grunting
+</level3>
+<level3>
 Hyperventilation
+</level3>
+<level3>
 Hypopnoea
+</level3>
+<level3>
 Hypoventilation
+</level3>
+<level3>
 IDH differentiation syndrome
+</level3>
+<level3>
 Irregular breathing
+</level3>
+<level3>
 Kussmaul respiration
+</level3>
+<level3>
 Mouth breathing
+</level3>
+<level3>
 Nocturnal dyspnoea
+</level3>
+<level3>
 Orthopnoea
+</level3>
+<level3>
 Perry syndrome
+</level3>
+<level3>
 Pickwickian syndrome
+</level3>
+<level3>
 Platypnoea
+</level3>
+<level3>
 Prolonged expiration
+</level3>
+<level3>
 Psychogenic respiratory distress
+</level3>
+<level3>
 Respiration abnormal
+</level3>
+<level3>
 Respiratory arrest
+</level3>
+<level3>
 Respiratory depression
+</level3>
+<level3>
 Respiratory depth decreased
+</level3>
+<level3>
 Respiratory depth increased
+</level3>
+<level3>
 Respiratory distress
+</level3>
+<level3>
 Respiratory dyskinesia
+</level3>
+<level3>
 Respiratory fatigue
+</level3>
+<level3>
 Sleep apnoea syndrome
+</level3>
+<level3>
 Tachypnoea
+</level3>
+<level3>
 Transfusion-associated dyspnoea
+</level3>
+<level3>
 Trepopnoea
+</level3>
+<level3>
 Upper airway resistance syndrome
-l2</ Breathing abnormalities >
-l2< Conditions associated with abnormal gas exchange >
+</level3>
+</level2>
+<level2 name =" Conditions associated with abnormal gas exchange">
+<level3>
 Alveolar aeration excessive
+</level3>
+<level3>
 Anaemic hypoxia
+</level3>
+<level3>
 Anoxia
+</level3>
+<level3>
 Asphyxia
+</level3>
+<level3>
 Brain hypoxia
+</level3>
+<level3>
 Cyanosis
+</level3>
+<level3>
 Cyanosis central
+</level3>
+<level3>
 Hypercapnia
+</level3>
+<level3>
 Hypercapnic coma
+</level3>
+<level3>
 Hyperoxia
+</level3>
+<level3>
 Hypocapnia
+</level3>
+<level3>
 Hypoxia
+</level3>
+<level3>
 Hypoxia intolerance
+</level3>
+<level3>
 Hypoxic-ischaemic encephalopathy
+</level3>
+<level3>
 Respiratory acidosis
+</level3>
+<level3>
 Respiratory alkalosis
+</level3>
+<level3>
 Respiratory gas exchange disorder
-l2</ Conditions associated with abnormal gas exchange >
-l2< Coughing and associated symptoms >
+</level3>
+</level2>
+<level2 name =" Coughing and associated symptoms">
+<level3>
 Allergic cough
+</level3>
+<level3>
 Cough
+</level3>
+<level3>
 Cough decreased
+</level3>
+<level3>
 Haemoptysis
+</level3>
+<level3>
 Post-tussive vomiting
+</level3>
+<level3>
 Productive cough
+</level3>
+<level3>
 Sputum decreased
+</level3>
+<level3>
 Sputum discoloured
+</level3>
+<level3>
 Sputum increased
+</level3>
+<level3>
 Sputum purulent
+</level3>
+<level3>
 Sputum retention
-l2</ Coughing and associated symptoms >
-l2< Respiratory failures (excl neonatal) >
+</level3>
+</level2>
+<level2 name =" Respiratory failures (excl neonatal)">
+<level3>
 Acute respiratory failure
+</level3>
+<level3>
 Cardio-respiratory arrest
+</level3>
+<level3>
 Cardio-respiratory distress
+</level3>
+<level3>
 Cardiopulmonary failure
+</level3>
+<level3>
 Chronic respiratory failure
+</level3>
+<level3>
 Postoperative respiratory distress
+</level3>
+<level3>
 Postoperative respiratory failure
+</level3>
+<level3>
 Respiratory failure
+</level3>
+<level3>
 Respiratory paralysis
-l2</ Respiratory failures (excl neonatal) >
-l2< Respiratory tract disorders NEC >
+</level3>
+</level2>
+<level2 name =" Respiratory tract disorders NEC">
+<level3>
 Airway burns
+</level3>
+<level3>
 Airway complication of anaesthesia
+</level3>
+<level3>
 Allergic respiratory disease
+</level3>
+<level3>
 Anaesthetic complication pulmonary
+</level3>
+<level3>
 Aspiration
+</level3>
+<level3>
 Bronchial metaplasia
+</level3>
+<level3>
 Bronchopneumopathy
+</level3>
+<level3>
 Chemical burn of respiratory tract
+</level3>
+<level3>
 Chronic respiratory disease
+</level3>
+<level3>
 Dependence on respirator
+</level3>
+<level3>
 Foreign body aspiration
+</level3>
+<level3>
 Foreign body in respiratory tract
+</level3>
+<level3>
 Lung disorder
+</level3>
+<level3>
 Lung hernia
+</level3>
+<level3>
 Mechanical ventilation complication
+</level3>
+<level3>
 Post pneumonectomy syndrome
+</level3>
+<level3>
 Pulmonary mass
+</level3>
+<level3>
 Respiratory complication associated with device
+</level3>
+<level3>
 Respiratory disorder
+</level3>
+<level3>
 Respiratory fume inhalation disorder
+</level3>
+<level3>
 Respiratory tract congestion
+</level3>
+<level3>
 Respiratory tract haemorrhage
+</level3>
+<level3>
 Respiratory tract inflammation
+</level3>
+<level3>
 Respiratory tract irritation
+</level3>
+<level3>
 Respiratory tract malformation
+</level3>
+<level3>
 Respiratory tract oedema
+</level3>
+<level3>
 Respiratory tract ulceration
+</level3>
+<level3>
 TEMPI syndrome
+</level3>
+<level3>
 Thoracic haemorrhage
+</level3>
+<level3>
 Upper airway necrosis
+</level3>
+<level3>
 Ventilation perfusion mismatch
-l2</ Respiratory tract disorders NEC >
-l1</ Respiratory disorders NEC >
-l1< Respiratory tract infections >
-l2< Bacterial lower respiratory tract infections >
+</level3>
+</level2>
+</level1>
+<level1 name =" Respiratory tract infections">
+<level2 name =" Bacterial lower respiratory tract infections">
+<level3>
 Atypical mycobacterial lower respiratory tract infection
+</level3>
+<level3>
 Atypical mycobacterial pneumonia
+</level3>
+<level3>
 Bronchitis bacterial
+</level3>
+<level3>
 Bronchitis haemophilus
+</level3>
+<level3>
 Bronchitis moraxella
+</level3>
+<level3>
 Bronchitis pneumococcal
+</level3>
+<level3>
 Lower respiratory tract infection bacterial
+</level3>
+<level3>
 Lung infection pseudomonal
+</level3>
+<level3>
 Pneumonia acinetobacter
+</level3>
+<level3>
 Pneumonia anthrax
+</level3>
+<level3>
 Pneumonia bacterial
+</level3>
+<level3>
 Pneumonia bordetella
+</level3>
+<level3>
 Pneumonia chlamydial
+</level3>
+<level3>
 Pneumonia escherichia
+</level3>
+<level3>
 Pneumonia haemophilus
+</level3>
+<level3>
 Pneumonia klebsiella
+</level3>
+<level3>
 Pneumonia legionella
+</level3>
+<level3>
 Pneumonia moraxella
+</level3>
+<level3>
 Pneumonia pneumococcal
+</level3>
+<level3>
 Pneumonia proteus
+</level3>
+<level3>
 Pneumonia pseudomonal
+</level3>
+<level3>
 Pneumonia salmonella
+</level3>
+<level3>
 Pneumonia serratia
+</level3>
+<level3>
 Pneumonia staphylococcal
+</level3>
+<level3>
 Pneumonia streptococcal
+</level3>
+<level3>
 Pneumonia tularaemia
+</level3>
+<level3>
 Pseudomonas bronchitis
+</level3>
+<level3>
 Psittacosis
+</level3>
+<level3>
 Pulmonary syphilis
+</level3>
+<level3>
 Pulmonary tuberculoma
+</level3>
+<level3>
 Pulmonary tuberculosis
-l2</ Bacterial lower respiratory tract infections >
-l2< Bacterial upper respiratory tract infections >
+</level3>
+</level2>
+<level2 name =" Bacterial upper respiratory tract infections">
+<level3>
 Bacterial rhinitis
+</level3>
+<level3>
 Bacterial tracheitis
+</level3>
+<level3>
 Diphtheria
+</level3>
+<level3>
 Enterobacter tracheobronchitis
+</level3>
+<level3>
 Epiglottitis haemophilus
+</level3>
+<level3>
 Laryngitis bacterial
+</level3>
+<level3>
 Lemierre syndrome
+</level3>
+<level3>
 Oropharyngeal gonococcal infection
+</level3>
+<level3>
 Pertussis
+</level3>
+<level3>
 Pharyngitis bacterial
+</level3>
+<level3>
 Pharyngitis streptococcal
+</level3>
+<level3>
 Rhinoscleroma
+</level3>
+<level3>
 Sinusitis bacterial
+</level3>
+<level3>
 Staphylococcal pharyngitis
+</level3>
+<level3>
 Tonsillitis bacterial
+</level3>
+<level3>
 Tonsillitis streptococcal
+</level3>
+<level3>
 Tuberculous laryngitis
+</level3>
+<level3>
 Upper respiratory tract infection bacterial
-l2</ Bacterial upper respiratory tract infections >
-l2< Fungal lower respiratory tract infections >
+</level3>
+</level2>
+<level2 name =" Fungal lower respiratory tract infections">
+<level3>
 Actinomycotic pulmonary infection
+</level3>
+<level3>
 Acute pulmonary histoplasmosis
+</level3>
+<level3>
 Aspergilloma
+</level3>
+<level3>
 Bronchitis fungal
+</level3>
+<level3>
 Bronchopulmonary aspergillosis
+</level3>
+<level3>
 Candida pneumonia
+</level3>
+<level3>
 Chronic pulmonary histoplasmosis
+</level3>
+<level3>
 Coccidioidomycosis
+</level3>
+<level3>
 Lower respiratory tract infection fungal
+</level3>
+<level3>
 Pneumocystis jirovecii pneumonia
+</level3>
+<level3>
 Pneumonia blastomyces
+</level3>
+<level3>
 Pneumonia cryptococcal
+</level3>
+<level3>
 Pneumonia fungal
+</level3>
+<level3>
 Pulmonary mycosis
+</level3>
+<level3>
 Pulmonary trichosporonosis
-l2</ Fungal lower respiratory tract infections >
-l2< Fungal upper respiratory tract infections >
+</level3>
+</level2>
+<level2 name =" Fungal upper respiratory tract infections">
+<level3>
 Candidiasis of trachea
+</level3>
+<level3>
 Fungal pharyngitis
+</level3>
+<level3>
 Fungal rhinitis
+</level3>
+<level3>
 Fungal tracheitis
+</level3>
+<level3>
 Laryngitis fungal
+</level3>
+<level3>
 Oropharyngitis fungal
+</level3>
+<level3>
 Sinusitis fungal
+</level3>
+<level3>
 Tonsillitis fungal
+</level3>
+<level3>
 Upper respiratory fungal infection
-l2</ Fungal upper respiratory tract infections >
-l2< Lower respiratory tract infections NEC >
+</level3>
+</level2>
+<level2 name =" Lower respiratory tract infections NEC">
+<level3>
 Atypical pneumonia
+</level3>
+<level3>
 Bronchitis
+</level3>
+<level3>
 Bronchitis mycoplasmal
+</level3>
+<level3>
 Bronchopulmonary aspergillosis allergic
+</level3>
+<level3>
 Embolic pneumonia
+</level3>
+<level3>
 Enterobacter pneumonia
+</level3>
+<level3>
 Haemorrhagic pneumonia
+</level3>
+<level3>
 Lower respiratory tract infection
+</level3>
+<level3>
 Lung abscess
+</level3>
+<level3>
 Lung infection
+</level3>
+<level3>
 Miliary pneumonia
+</level3>
+<level3>
 Neonatal pneumonia
+</level3>
+<level3>
 Pneumonia
+</level3>
+<level3>
 Pneumonia mycoplasmal
+</level3>
+<level3>
 Pneumonia necrotising
+</level3>
+<level3>
 Post procedural pneumonia
+</level3>
+<level3>
 Pulmonary sepsis
+</level3>
+<level3>
 Young's syndrome
-l2</ Lower respiratory tract infections NEC >
-l2< Parasitic lower respiratory tract infections >
+</level3>
+</level2>
+<level2 name =" Parasitic lower respiratory tract infections">
+<level3>
 Amoebic lung abscess
+</level3>
+<level3>
 Dirofilariasis
+</level3>
+<level3>
 Paragonimiasis
+</level3>
+<level3>
 Parasitic lung infection
+</level3>
+<level3>
 Parasitic pneumonia
+</level3>
+<level3>
 Pneumonia helminthic
+</level3>
+<level3>
 Pneumonia toxoplasmal
+</level3>
+<level3>
 Pulmonary echinococciasis
-l2</ Parasitic lower respiratory tract infections >
-l2< Respiratory tract infections NEC >
+</level3>
+</level2>
+<level2 name =" Respiratory tract infections NEC">
+<level3>
 Mucormycosis
+</level3>
+<level3>
 Parainfluenzae virus infection
+</level3>
+<level3>
 Respiratory moniliasis
+</level3>
+<level3>
 Respiratory tract infection
+</level3>
+<level3>
 Respiratory tract infection bacterial
+</level3>
+<level3>
 Respiratory tract infection fungal
+</level3>
+<level3>
 Respiratory tract infection viral
-l2</ Respiratory tract infections NEC >
-l2< Upper respiratory tract infections NEC >
+</level3>
+</level2>
+<level2 name =" Upper respiratory tract infections NEC">
+<level3>
 Acute sinusitis
+</level3>
+<level3>
 Adenoiditis
+</level3>
+<level3>
 Cellulitis laryngeal
+</level3>
+<level3>
 Cellulitis pharyngeal
+</level3>
+<level3>
 Chronic sinusitis
+</level3>
+<level3>
 Chronic tonsillitis
+</level3>
+<level3>
 Croup infectious
+</level3>
+<level3>
 Epiglottitis
+</level3>
+<level3>
 Epiglottitis obstructive
+</level3>
+<level3>
 Laryngitis
+</level3>
+<level3>
 Laryngotracheitis obstructive
+</level3>
+<level3>
 Nasal abscess
+</level3>
+<level3>
 Nasal candidiasis
+</level3>
+<level3>
 Nasal vestibulitis
+</level3>
+<level3>
 Nasopharyngitis
+</level3>
+<level3>
 Oro-pharyngeal aspergillosis
+</level3>
+<level3>
 Oropharyngeal candidiasis
+</level3>
+<level3>
 Peritonsillar abscess
+</level3>
+<level3>
 Peritonsillitis
+</level3>
+<level3>
 Pharyngeal abscess
+</level3>
+<level3>
 Pharyngeal chlamydia infection
+</level3>
+<level3>
 Pharyngitis
+</level3>
+<level3>
 Pharyngitis mycoplasmal
+</level3>
+<level3>
 Pharyngoconjunctival fever of children
+</level3>
+<level3>
 Pharyngolaryngeal abscess
+</level3>
+<level3>
 Pharyngotonsillitis
+</level3>
+<level3>
 Pseudocroup
+</level3>
+<level3>
 Rhinitis
+</level3>
+<level3>
 Rhinolaryngitis
+</level3>
+<level3>
 Rhinotracheitis
+</level3>
+<level3>
 Sinobronchitis
+</level3>
+<level3>
 Sinusitis
+</level3>
+<level3>
 Sinusitis aspergillus
+</level3>
+<level3>
 Subglottic laryngitis
+</level3>
+<level3>
 Thornwaldt disease
+</level3>
+<level3>
 Tonsillitis
+</level3>
+<level3>
 Tracheitis
+</level3>
+<level3>
 Tracheitis obstructive
+</level3>
+<level3>
 Tracheobronchitis
+</level3>
+<level3>
 Tracheobronchitis mycoplasmal
+</level3>
+<level3>
 Upper aerodigestive tract infection
+</level3>
+<level3>
 Upper respiratory tract infection
+</level3>
+<level3>
 Upper respiratory tract infection helminthic
-l2</ Upper respiratory tract infections NEC >
-l2< Viral lower respiratory tract infections >
+</level3>
+</level2>
+<level2 name =" Viral lower respiratory tract infections">
+<level3>
 Bronchitis viral
+</level3>
+<level3>
 Hantavirus pulmonary infection
+</level3>
+<level3>
 Herpes simplex pneumonia
+</level3>
+<level3>
 Lower respiratory tract herpes infection
+</level3>
+<level3>
 Lower respiratory tract infection viral
+</level3>
+<level3>
 Metapneumovirus infection
+</level3>
+<level3>
 Middle East respiratory syndrome
+</level3>
+<level3>
 Pneumonia adenoviral
+</level3>
+<level3>
 Pneumonia cytomegaloviral
+</level3>
+<level3>
 Pneumonia herpes viral
+</level3>
+<level3>
 Pneumonia influenzal
+</level3>
+<level3>
 Pneumonia measles
+</level3>
+<level3>
 Pneumonia parainfluenzae viral
+</level3>
+<level3>
 Pneumonia respiratory syncytial viral
+</level3>
+<level3>
 Pneumonia viral
+</level3>
+<level3>
 Respiratory syncytial virus bronchiolitis
+</level3>
+<level3>
 Respiratory syncytial virus bronchitis
+</level3>
+<level3>
 Severe acute respiratory syndrome
+</level3>
+<level3>
 Varicella zoster pneumonia
-l2</ Viral lower respiratory tract infections >
-l2< Viral upper respiratory tract infections >
+</level3>
+</level2>
+<level2 name =" Viral upper respiratory tract infections">
+<level3>
 Adenoviral upper respiratory infection
+</level3>
+<level3>
 Avian influenza
+</level3>
+<level3>
 H1N1 influenza
+</level3>
+<level3>
 H2N2 influenza
+</level3>
+<level3>
 Herpes pharyngitis
+</level3>
+<level3>
 Herpes simplex pharyngitis
+</level3>
+<level3>
 Herpes zoster pharyngitis
+</level3>
+<level3>
 Influenza
+</level3>
+<level3>
 Laryngitis viral
+</level3>
+<level3>
 Nasal herpes
+</level3>
+<level3>
 Parainfluenzae viral laryngotracheobronchitis
+</level3>
+<level3>
 Respiratory syncytial virus infection
+</level3>
+<level3>
 Tracheobronchitis viral
+</level3>
+<level3>
 Viral epiglottitis
+</level3>
+<level3>
 Viral pharyngitis
+</level3>
+<level3>
 Viral rhinitis
+</level3>
+<level3>
 Viral sinusitis
+</level3>
+<level3>
 Viral tonsillitis
+</level3>
+<level3>
 Viral tracheitis
+</level3>
+<level3>
 Viral upper respiratory tract infection
-l2</ Viral upper respiratory tract infections >
-l1</ Respiratory tract infections >
-l1< Respiratory tract neoplasms >
-l2< Lower respiratory tract neoplasms >
+</level3>
+</level2>
+</level1>
+<level1 name =" Respiratory tract neoplasms">
+<level2 name =" Lower respiratory tract neoplasms">
+<level3>
 Adenosquamous cell lung cancer
+</level3>
+<level3>
 Adenosquamous cell lung cancer recurrent
+</level3>
+<level3>
 Adenosquamous cell lung cancer stage 0
+</level3>
+<level3>
 Adenosquamous cell lung cancer stage I
+</level3>
+<level3>
 Adenosquamous cell lung cancer stage II
+</level3>
+<level3>
 Adenosquamous cell lung cancer stage III
+</level3>
+<level3>
 Adenosquamous cell lung cancer stage IV
+</level3>
+<level3>
 Benign lung neoplasm
+</level3>
+<level3>
 Benign respiratory tract neoplasm
+</level3>
+<level3>
 Bronchial carcinoma
+</level3>
+<level3>
 Bronchial neoplasm
+</level3>
+<level3>
 Bronchial neoplasm benign
+</level3>
+<level3>
 Bronchioloalveolar carcinoma
+</level3>
+<level3>
 Carcinoid tumour pulmonary
+</level3>
+<level3>
 Endobronchial lipoma
+</level3>
+<level3>
 Large cell lung cancer
+</level3>
+<level3>
 Large cell lung cancer metastatic
+</level3>
+<level3>
 Large cell lung cancer recurrent
+</level3>
+<level3>
 Large cell lung cancer stage 0
+</level3>
+<level3>
 Large cell lung cancer stage I
+</level3>
+<level3>
 Large cell lung cancer stage II
+</level3>
+<level3>
 Large cell lung cancer stage III
+</level3>
+<level3>
 Large cell lung cancer stage IV
+</level3>
+<level3>
 Leukaemic infiltration pulmonary
+</level3>
+<level3>
 Lung adenocarcinoma
+</level3>
+<level3>
 Lung adenocarcinoma recurrent
+</level3>
+<level3>
 Lung adenocarcinoma stage 0
+</level3>
+<level3>
 Lung adenocarcinoma stage I
+</level3>
+<level3>
 Lung adenocarcinoma stage II
+</level3>
+<level3>
 Lung adenocarcinoma stage III
+</level3>
+<level3>
 Lung adenocarcinoma stage IV
+</level3>
+<level3>
 Lung cancer metastatic
+</level3>
+<level3>
 Lung carcinoma cell type unspecified recurrent
+</level3>
+<level3>
 Lung carcinoma cell type unspecified stage 0
+</level3>
+<level3>
 Lung carcinoma cell type unspecified stage I
+</level3>
+<level3>
 Lung carcinoma cell type unspecified stage II
+</level3>
+<level3>
 Lung carcinoma cell type unspecified stage III
+</level3>
+<level3>
 Lung carcinoma cell type unspecified stage IV
+</level3>
+<level3>
 Lung infiltration malignant
+</level3>
+<level3>
 Lung neoplasm
+</level3>
+<level3>
 Lung neoplasm malignant
+</level3>
+<level3>
 Lung squamous cell carcinoma metastatic
+</level3>
+<level3>
 Lung squamous cell carcinoma recurrent
+</level3>
+<level3>
 Lung squamous cell carcinoma stage 0
+</level3>
+<level3>
 Lung squamous cell carcinoma stage I
+</level3>
+<level3>
 Lung squamous cell carcinoma stage II
+</level3>
+<level3>
 Lung squamous cell carcinoma stage III
+</level3>
+<level3>
 Lung squamous cell carcinoma stage IV
+</level3>
+<level3>
 Metastases to lung
+</level3>
+<level3>
 Metastatic bronchial carcinoma
+</level3>
+<level3>
 Neuroendocrine tumour of the lung
+</level3>
+<level3>
 Neuroendocrine tumour of the lung metastatic
+</level3>
+<level3>
 Non-small cell lung cancer
+</level3>
+<level3>
 Non-small cell lung cancer metastatic
+</level3>
+<level3>
 Non-small cell lung cancer recurrent
+</level3>
+<level3>
 Non-small cell lung cancer stage 0
+</level3>
+<level3>
 Non-small cell lung cancer stage I
+</level3>
+<level3>
 Non-small cell lung cancer stage II
+</level3>
+<level3>
 Non-small cell lung cancer stage III
+</level3>
+<level3>
 Non-small cell lung cancer stage IIIA
+</level3>
+<level3>
 Non-small cell lung cancer stage IIIB
+</level3>
+<level3>
 Non-small cell lung cancer stage IV
+</level3>
+<level3>
 Small cell lung cancer
+</level3>
+<level3>
 Small cell lung cancer extensive stage
+</level3>
+<level3>
 Small cell lung cancer limited stage
+</level3>
+<level3>
 Small cell lung cancer metastatic
+</level3>
+<level3>
 Small cell lung cancer recurrent
+</level3>
+<level3>
 Squamous cell carcinoma of lung
-l2</ Lower respiratory tract neoplasms >
-l2< Respiratory tract neoplasms NEC >
+</level3>
+</level2>
+<level2 name =" Respiratory tract neoplasms NEC">
+<level3>
 Diaphragm neoplasm
+</level3>
+<level3>
 Malignant neoplasm of thorax
+</level3>
+<level3>
 Metastases to the respiratory system
+</level3>
+<level3>
 Metastases to thorax
+</level3>
+<level3>
 Pancoast's syndrome
+</level3>
+<level3>
 Pancoast's tumour
+</level3>
+<level3>
 Respiratory papilloma
-l2</ Respiratory tract neoplasms NEC >
-l2< Upper respiratory tract neoplasms >
+</level3>
+</level2>
+<level2 name =" Upper respiratory tract neoplasms">
+<level3>
 Benign laryngeal neoplasm
+</level3>
+<level3>
 Benign tracheal neoplasm
+</level3>
+<level3>
 Carcinoma in situ of trachea
+</level3>
+<level3>
 Epiglottic carcinoma
+</level3>
+<level3>
 Glottis carcinoma
+</level3>
+<level3>
 Hypopharyngeal cancer
+</level3>
+<level3>
 Hypopharyngeal cancer recurrent
+</level3>
+<level3>
 Hypopharyngeal cancer stage 0
+</level3>
+<level3>
 Hypopharyngeal cancer stage I
+</level3>
+<level3>
 Hypopharyngeal cancer stage II
+</level3>
+<level3>
 Hypopharyngeal cancer stage III
+</level3>
+<level3>
 Hypopharyngeal cancer stage IV
+</level3>
+<level3>
 Hypopharyngeal neoplasm
+</level3>
+<level3>
 Hypopharyngeal neoplasm benign
+</level3>
+<level3>
 Juvenile angiofibroma
+</level3>
+<level3>
 Keratinising squamous cell carcinoma of nasopharynx
+</level3>
+<level3>
 Laryngeal cancer
+</level3>
+<level3>
 Laryngeal cancer metastatic
+</level3>
+<level3>
 Laryngeal cancer recurrent
+</level3>
+<level3>
 Laryngeal cancer stage 0
+</level3>
+<level3>
 Laryngeal cancer stage I
+</level3>
+<level3>
 Laryngeal cancer stage II
+</level3>
+<level3>
 Laryngeal cancer stage III
+</level3>
+<level3>
 Laryngeal cancer stage IV
+</level3>
+<level3>
 Laryngeal neoplasm
+</level3>
+<level3>
 Laryngeal papilloma
+</level3>
+<level3>
 Laryngeal squamous cell carcinoma
+</level3>
+<level3>
 Maxillofacial sinus neoplasm
+</level3>
+<level3>
 Metastases to larynx
+</level3>
+<level3>
 Metastases to nasal sinuses
+</level3>
+<level3>
 Metastases to pharynx
+</level3>
+<level3>
 Metastases to tonsils
+</level3>
+<level3>
 Metastases to trachea
+</level3>
+<level3>
 Nasal cavity cancer
+</level3>
+<level3>
 Nasal neoplasm
+</level3>
+<level3>
 Nasal neoplasm benign
+</level3>
+<level3>
 Nasal sinus cancer
+</level3>
+<level3>
 Nasopharyngeal cancer
+</level3>
+<level3>
 Nasopharyngeal cancer metastatic
+</level3>
+<level3>
 Nasopharyngeal cancer recurrent
+</level3>
+<level3>
 Nasopharyngeal cancer stage 0
+</level3>
+<level3>
 Nasopharyngeal cancer stage I
+</level3>
+<level3>
 Nasopharyngeal cancer stage II
+</level3>
+<level3>
 Nasopharyngeal cancer stage III
+</level3>
+<level3>
 Nasopharyngeal cancer stage IV
+</level3>
+<level3>
 Nasopharyngeal neoplasm benign
+</level3>
+<level3>
 Nasopharyngeal polyp
+</level3>
+<level3>
 Nonkeratinising carcinoma of nasopharynx
+</level3>
+<level3>
 Oropharyngeal cancer
+</level3>
+<level3>
 Oropharyngeal cancer recurrent
+</level3>
+<level3>
 Oropharyngeal cancer stage 0
+</level3>
+<level3>
 Oropharyngeal cancer stage I
+</level3>
+<level3>
 Oropharyngeal cancer stage II
+</level3>
+<level3>
 Oropharyngeal cancer stage III
+</level3>
+<level3>
 Oropharyngeal cancer stage IV
+</level3>
+<level3>
 Oropharyngeal lymphoepithelioma
+</level3>
+<level3>
 Oropharyngeal neoplasm
+</level3>
+<level3>
 Oropharyngeal neoplasm benign
+</level3>
+<level3>
 Oropharyngeal squamous cell carcinoma
+</level3>
+<level3>
 Paranasal sinus and nasal cavity malignant neoplasm
+</level3>
+<level3>
 Paranasal sinus and nasal cavity malignant neoplasm recurrent
+</level3>
+<level3>
 Paranasal sinus and nasal cavity malignant neoplasm stage 0
+</level3>
+<level3>
 Paranasal sinus and nasal cavity malignant neoplasm stage I
+</level3>
+<level3>
 Paranasal sinus and nasal cavity malignant neoplasm stage II
+</level3>
+<level3>
 Paranasal sinus and nasal cavity malignant neoplasm stage III
+</level3>
+<level3>
 Paranasal sinus and nasal cavity malignant neoplasm stage IV
+</level3>
+<level3>
 Paranasal sinus benign neoplasm
+</level3>
+<level3>
 Paranasal sinus neoplasm
+</level3>
+<level3>
 Pharyngeal cancer
+</level3>
+<level3>
 Pharyngeal cancer metastatic
+</level3>
+<level3>
 Pharyngeal cancer recurrent
+</level3>
+<level3>
 Pharyngeal cancer stage 0
+</level3>
+<level3>
 Pharyngeal cancer stage I
+</level3>
+<level3>
 Pharyngeal cancer stage II
+</level3>
+<level3>
 Pharyngeal cancer stage III
+</level3>
+<level3>
 Pharyngeal cancer stage IV
+</level3>
+<level3>
 Pharyngeal neoplasm
+</level3>
+<level3>
 Pharyngeal neoplasm benign
+</level3>
+<level3>
 Postcricoid cancer
+</level3>
+<level3>
 Sinonasal papilloma
+</level3>
+<level3>
 Sinus cancer metastatic
+</level3>
+<level3>
 Squamous cell carcinoma of pharynx
+</level3>
+<level3>
 Squamous cell carcinoma of the hypopharynx
+</level3>
+<level3>
 Throat cancer
+</level3>
+<level3>
 Tonsil cancer
+</level3>
+<level3>
 Tonsil cancer metastatic
+</level3>
+<level3>
 Tonsillar cyst
+</level3>
+<level3>
 Tonsillar neoplasm
+</level3>
+<level3>
 Tonsillar neoplasm benign
+</level3>
+<level3>
 Tracheal cancer
+</level3>
+<level3>
 Tracheal neoplasm
+</level3>
+<level3>
 Tracheal papilloma
+</level3>
+<level3>
 Undifferentiated nasopharyngeal carcinoma
+</level3>
+<level3>
 Vocal cord neoplasm
-l2</ Upper respiratory tract neoplasms >
-l1</ Respiratory tract neoplasms >
-l1< Respiratory tract signs and symptoms >
-l2< Lower respiratory tract signs and symptoms >
+</level3>
+</level2>
+</level1>
+<level1 name =" Respiratory tract signs and symptoms">
+<level2 name =" Lower respiratory tract signs and symptoms">
+<level3>
 Bronchial irritation
+</level3>
+<level3>
 Bronchoplegia
+</level3>
+<level3>
 Decreased bronchial secretion
+</level3>
+<level3>
 Egobronchophony
+</level3>
+<level3>
 Hiccups
+</level3>
+<level3>
 Increased bronchial secretion
+</level3>
+<level3>
 Increased viscosity of bronchial secretion
+</level3>
+<level3>
 Lower respiratory tract congestion
+</level3>
+<level3>
 Lung hyperinflation
+</level3>
+<level3>
 Lung hypoinflation
+</level3>
+<level3>
 Pleuritic pain
+</level3>
+<level3>
 Pulmonary haematoma
+</level3>
+<level3>
 Pulmonary haemorrhage
+</level3>
+<level3>
 Pulmonary pain
+</level3>
+<level3>
 Rales
+</level3>
+<level3>
 Respiratory fremitus
+</level3>
+<level3>
 Rhonchi
-l2</ Lower respiratory tract signs and symptoms >
-l2< Respiratory signs and symptoms NEC >
+</level3>
+</level2>
+<level2 name =" Respiratory signs and symptoms NEC">
+<level3>
 Allergic respiratory symptom
+</level3>
+<level3>
 Chest discomfort
+</level3>
+<level3>
 Chest pain
+</level3>
+<level3>
 Clubbing
+</level3>
+<level3>
 Diaphragmalgia
+</level3>
+<level3>
 Glossoptosis
+</level3>
+<level3>
 Hypertrophic osteoarthropathy
+</level3>
+<level3>
 Nasal flaring
+</level3>
+<level3>
 Non-cardiac chest pain
+</level3>
+<level3>
 Oculorespiratory syndrome
+</level3>
+<level3>
 Painful respiration
+</level3>
+<level3>
 Pleural rub
+</level3>
+<level3>
 Respiratory symptom
+</level3>
+<level3>
 Suffocation feeling
+</level3>
+<level3>
 Use of accessory respiratory muscles
+</level3>
+<level3>
 Xyphoid retraction
-l2</ Respiratory signs and symptoms NEC >
-l2< Upper respiratory tract signs and symptoms >
+</level3>
+</level2>
+<level2 name =" Upper respiratory tract signs and symptoms">
+<level3>
 Aphonia
+</level3>
+<level3>
 Catarrh
+</level3>
+<level3>
 Choking
+</level3>
+<level3>
 Choking sensation
+</level3>
+<level3>
 Dry throat
+</level3>
+<level3>
 Dysphonia
+</level3>
+<level3>
 Increased upper airway secretion
+</level3>
+<level3>
 Increased viscosity of upper respiratory secretion
+</level3>
+<level3>
 Laryngeal discomfort
+</level3>
+<level3>
 Laryngeal pain
+</level3>
+<level3>
 Nasal crease
+</level3>
+<level3>
 Nasal discharge discolouration
+</level3>
+<level3>
 Nasal discomfort
+</level3>
+<level3>
 Nasal obstruction
+</level3>
+<level3>
 Nasopharyngeal reflux
+</level3>
+<level3>
 Oropharyngeal blistering
+</level3>
+<level3>
 Oropharyngeal cobble stone mucosa
+</level3>
+<level3>
 Oropharyngeal discolouration
+</level3>
+<level3>
 Oropharyngeal discomfort
+</level3>
+<level3>
 Oropharyngeal pain
+</level3>
+<level3>
 Oropharyngeal plaque
+</level3>
+<level3>
 Oropharyngeal scar
+</level3>
+<level3>
 Paranasal sinus discomfort
+</level3>
+<level3>
 Presbyphonia
+</level3>
+<level3>
 Rhinalgia
+</level3>
+<level3>
 Rhinorrhoea
+</level3>
+<level3>
 Sinus headache
+</level3>
+<level3>
 Sinus pain
+</level3>
+<level3>
 Sneezing
+</level3>
+<level3>
 Snoring
+</level3>
+<level3>
 Spasmodic dysphonia
+</level3>
+<level3>
 Speech disorder
+</level3>
+<level3>
 Stertor
+</level3>
+<level3>
 Throat clearing
+</level3>
+<level3>
 Throat irritation
+</level3>
+<level3>
 Throat lesion
+</level3>
+<level3>
 Throat tightness
+</level3>
+<level3>
 Upper airway obstruction
+</level3>
+<level3>
 Upper respiratory tract congestion
+</level3>
+<level3>
 Upper respiratory tract inflammation
+</level3>
+<level3>
 Upper respiratory tract irritation
+</level3>
+<level3>
 Upper-airway cough syndrome
+</level3>
+<level3>
 Yawning
-l2</ Upper respiratory tract signs and symptoms >
-l1</ Respiratory tract signs and symptoms >
-l1< Thoracic disorders (excl lung and pleura) >
-l2< Diaphragmatic disorders >
+</level3>
+</level2>
+</level1>
+<level1 name =" Thoracic disorders (excl lung and pleura)">
+<level2 name =" Diaphragmatic disorders">
+<level3>
 Acquired diaphragmatic eventration
+</level3>
+<level3>
 Congenital diaphragmatic anomaly
+</level3>
+<level3>
 Congenital diaphragmatic eventration
+</level3>
+<level3>
 Congenital diaphragmatic hernia
+</level3>
+<level3>
 Congenital hiatus hernia
+</level3>
+<level3>
 Diaphragm muscle weakness
+</level3>
+<level3>
 Diaphragmatic abnormal relaxation
+</level3>
+<level3>
 Diaphragmatic aplasia
+</level3>
+<level3>
 Diaphragmatic disorder
+</level3>
+<level3>
 Diaphragmatic hernia
+</level3>
+<level3>
 Diaphragmatic hernia gangrenous
+</level3>
+<level3>
 Diaphragmatic hernia, obstructive
+</level3>
+<level3>
 Diaphragmatic injury
+</level3>
+<level3>
 Diaphragmatic paralysis
+</level3>
+<level3>
 Diaphragmatic rupture
+</level3>
+<level3>
 Diaphragmatic spasm
+</level3>
+<level3>
 Hiatus hernia
+</level3>
+<level3>
 Hiatus hernia strangulated
+</level3>
+<level3>
 Hiatus hernia, obstructive
+</level3>
+<level3>
 Incarcerated hiatus hernia
+</level3>
+<level3>
 Metastases to diaphragm
+</level3>
+<level3>
 Shrinking lung syndrome
-l2</ Diaphragmatic disorders >
-l2< Mediastinal disorders >
+</level3>
+</level2>
+<level2 name =" Mediastinal disorders">
+<level3>
 Benign mediastinal neoplasm
+</level3>
+<level3>
 Benign neoplasm of thymus
+</level3>
+<level3>
 Good syndrome
+</level3>
+<level3>
 Hilar lymphadenopathy
+</level3>
+<level3>
 Lymphadenopathy mediastinal
+</level3>
+<level3>
 Malignant mediastinal neoplasm
+</level3>
+<level3>
 Malignant neoplasm of thymus
+</level3>
+<level3>
 Mediastinal abscess
+</level3>
+<level3>
 Mediastinal cyst
+</level3>
+<level3>
 Mediastinal disorder
+</level3>
+<level3>
 Mediastinal effusion
+</level3>
+<level3>
 Mediastinal fibrosis
+</level3>
+<level3>
 Mediastinal haematoma
+</level3>
+<level3>
 Mediastinal haemorrhage
+</level3>
+<level3>
 Mediastinal mass
+</level3>
+<level3>
 Mediastinal shift
+</level3>
+<level3>
 Mediastinitis
+</level3>
+<level3>
 Mediastinum neoplasm
+</level3>
+<level3>
 Metastases to the mediastinum
+</level3>
+<level3>
 Neoplasm of thymus
+</level3>
+<level3>
 Paratracheal lymphadenopathy
+</level3>
+<level3>
 Pneumomediastinum
+</level3>
+<level3>
 Pulmonary hilar enlargement
+</level3>
+<level3>
 Pulmonary hilum mass
+</level3>
+<level3>
 Staphylococcal mediastinitis
+</level3>
+<level3>
 Thymic cancer metastatic
+</level3>
+<level3>
 Thymoma
+</level3>
+<level3>
 Thymoma malignant
+</level3>
+<level3>
 Thymoma malignant recurrent
-l2</ Mediastinal disorders >
-l2< Thoracic musculoskeletal disorders >
+</level3>
+</level2>
+<level2 name =" Thoracic musculoskeletal disorders">
+<level3>
 Barrel chest
+</level3>
+<level3>
 Deformity thorax
+</level3>
+<level3>
 Flail chest
+</level3>
+<level3>
 Flat chest
+</level3>
+<level3>
 Funnel chest acquired
+</level3>
+<level3>
 Keeled chest acquired
+</level3>
+<level3>
 Musculoskeletal chest pain
+</level3>
+<level3>
 Pectus carinatum
+</level3>
+<level3>
 Pectus excavatum
+</level3>
+<level3>
 Post-thoracotomy pain syndrome
+</level3>
+<level3>
 Postoperative thoracic procedure complication
+</level3>
+<level3>
 Respiratory muscle weakness
+</level3>
+<level3>
 Scoliosis
+</level3>
+<level3>
 Sternitis
-l2</ Thoracic musculoskeletal disorders >
-l1</ Thoracic disorders (excl lung and pleura) >
-l1< Upper respiratory tract disorders (excl infections) >
-l2< Laryngeal and adjacent sites disorders NEC (excl infections and neoplasms) >
+</level3>
+</level2>
+</level1>
+<level1 name =" Upper respiratory tract disorders (excl infections)">
+<level2 name =" Laryngeal and adjacent sites disorders NEC (excl infections and neoplasms)">
+<level3>
 Adductor vocal cord weakness
+</level3>
+<level3>
 Epiglottic cyst
+</level3>
+<level3>
 Epiglottic erythema
+</level3>
+<level3>
 Epiglottic mass
+</level3>
+<level3>
 Epiglottis ulcer
+</level3>
+<level3>
 Laryngeal atrophy
+</level3>
+<level3>
 Laryngeal cyst
+</level3>
+<level3>
 Laryngeal disorder
+</level3>
+<level3>
 Laryngeal dysplasia
+</level3>
+<level3>
 Laryngeal dyspnoea
+</level3>
+<level3>
 Laryngeal erythema
+</level3>
+<level3>
 Laryngeal fistula
+</level3>
+<level3>
 Laryngeal granuloma
+</level3>
+<level3>
 Laryngeal haematoma
+</level3>
+<level3>
 Laryngeal haemorrhage
+</level3>
+<level3>
 Laryngeal hypertrophy
+</level3>
+<level3>
 Laryngeal infiltration
+</level3>
+<level3>
 Laryngeal inflammation
+</level3>
+<level3>
 Laryngeal injury
+</level3>
+<level3>
 Laryngeal keratotic plaque
+</level3>
+<level3>
 Laryngeal leukoplakia
+</level3>
+<level3>
 Laryngeal mass
+</level3>
+<level3>
 Laryngeal necrosis
+</level3>
+<level3>
 Laryngeal pachyderma
+</level3>
+<level3>
 Laryngeal polyp
+</level3>
+<level3>
 Laryngeal rheumatoid arthritis
+</level3>
+<level3>
 Laryngeal tremor
+</level3>
+<level3>
 Laryngeal ulceration
+</level3>
+<level3>
 Laryngeal ventricle prolapse
+</level3>
+<level3>
 Laryngitis allergic
+</level3>
+<level3>
 Laryngo-onycho-cutaneous syndrome
+</level3>
+<level3>
 Larynx irritation
+</level3>
+<level3>
 Ortner's syndrome
+</level3>
+<level3>
 Paralysis recurrent laryngeal nerve
+</level3>
+<level3>
 Radiation larynx injury
+</level3>
+<level3>
 Reflux laryngitis
+</level3>
+<level3>
 Sulcus vocalis
+</level3>
+<level3>
 Vocal cord atrophy
+</level3>
+<level3>
 Vocal cord cyst
+</level3>
+<level3>
 Vocal cord disorder
+</level3>
+<level3>
 Vocal cord dysfunction
+</level3>
+<level3>
 Vocal cord inflammation
+</level3>
+<level3>
 Vocal cord leukoplakia
+</level3>
+<level3>
 Vocal cord paralysis
+</level3>
+<level3>
 Vocal cord paresis
+</level3>
+<level3>
 Vocal cord polyp
+</level3>
+<level3>
 Vocal cord thickening
-l2</ Laryngeal and adjacent sites disorders NEC (excl infections and neoplasms) >
-l2< Laryngeal spasm, oedema and obstruction >
+</level3>
+</level2>
+<level2 name =" Laryngeal spasm, oedema and obstruction">
+<level3>
 Angioedema
+</level3>
+<level3>
 Congenital high airway obstruction syndrome
+</level3>
+<level3>
 Croup noninfectious
+</level3>
+<level3>
 Epiglottic oedema
+</level3>
+<level3>
 Laryngeal obstruction
+</level3>
+<level3>
 Laryngeal oedema
+</level3>
+<level3>
 Laryngeal stenosis
+</level3>
+<level3>
 Laryngomalacia
+</level3>
+<level3>
 Laryngospasm
+</level3>
+<level3>
 Laryngotracheal oedema
+</level3>
+<level3>
 Stridor
-l2</ Laryngeal spasm, oedema and obstruction >
-l2< Nasal congestion and inflammations >
+</level3>
+</level2>
+<level2 name =" Nasal congestion and inflammations">
+<level3>
 Eosinophilic rhinitis
+</level3>
+<level3>
 Nasal congestion
+</level3>
+<level3>
 Nasal inflammation
+</level3>
+<level3>
 Rebound nasal congestion
+</level3>
+<level3>
 Rhinitis allergic
+</level3>
+<level3>
 Rhinitis atrophic
+</level3>
+<level3>
 Rhinitis hypertrophic
+</level3>
+<level3>
 Rhinitis perennial
+</level3>
+<level3>
 Rhinitis ulcerative
+</level3>
+<level3>
 Seasonal allergy
+</level3>
+<level3>
 Vasomotor rhinitis
-l2</ Nasal congestion and inflammations >
-l2< Nasal disorders NEC >
+</level3>
+</level2>
+<level2 name =" Nasal disorders NEC">
+<level3>
 Anosmia
+</level3>
+<level3>
 Congenital anosmia
+</level3>
+<level3>
 Congenital perforated nasal septum
+</level3>
+<level3>
 Empty nose syndrome
+</level3>
+<level3>
 Epistaxis
+</level3>
+<level3>
 Hyposmia
+</level3>
+<level3>
 Intranasal hypoaesthesia
+</level3>
+<level3>
 Intranasal paraesthesia
+</level3>
+<level3>
 Nasal adhesions
+</level3>
+<level3>
 Nasal cavity mass
+</level3>
+<level3>
 Nasal cavity toxicity
+</level3>
+<level3>
 Nasal crusting
+</level3>
+<level3>
 Nasal cyst
+</level3>
+<level3>
 Nasal disorder
+</level3>
+<level3>
 Nasal dryness
+</level3>
+<level3>
 Nasal injury
+</level3>
+<level3>
 Nasal mucosa atrophy
+</level3>
+<level3>
 Nasal mucosal discolouration
+</level3>
+<level3>
 Nasal mucosal disorder
+</level3>
+<level3>
 Nasal mucosal erosion
+</level3>
+<level3>
 Nasal mucosal hypertrophy
+</level3>
+<level3>
 Nasal mucosal ulcer
+</level3>
+<level3>
 Nasal necrosis
+</level3>
+<level3>
 Nasal odour
+</level3>
+<level3>
 Nasal oedema
+</level3>
+<level3>
 Nasal polyps
+</level3>
+<level3>
 Nasal pruritus
+</level3>
+<level3>
 Nasal septum deviation
+</level3>
+<level3>
 Nasal septum disorder
+</level3>
+<level3>
 Nasal septum haematoma
+</level3>
+<level3>
 Nasal septum perforation
+</level3>
+<level3>
 Nasal septum ulceration
+</level3>
+<level3>
 Nasal turbinate abnormality
+</level3>
+<level3>
 Nasal turbinate hypertrophy
+</level3>
+<level3>
 Nasal ulcer
+</level3>
+<level3>
 Nasal valve collapse
+</level3>
+<level3>
 Nasal varices
+</level3>
+<level3>
 Parosmia
+</level3>
+<level3>
 Rhinolithiasis
-l2</ Nasal disorders NEC >
-l2< Paranasal sinus disorders (excl infections and neoplasms) >
+</level3>
+</level2>
+<level2 name =" Paranasal sinus disorders (excl infections and neoplasms)">
+<level3>
 Allergic sinusitis
+</level3>
+<level3>
 Chronic eosinophilic rhinosinusitis
+</level3>
+<level3>
 Chronic hyperplastic eosinophilic sinusitis
+</level3>
+<level3>
 Chronic rhinosinusitis with nasal polyps
+</level3>
+<level3>
 Maxillary sinus pseudocyst
+</level3>
+<level3>
 Oroantral fistula
+</level3>
+<level3>
 Paranasal cyst
+</level3>
+<level3>
 Paranasal sinus aplasia
+</level3>
+<level3>
 Paranasal sinus haematoma
+</level3>
+<level3>
 Paranasal sinus haemorrhage
+</level3>
+<level3>
 Paranasal sinus hypersecretion
+</level3>
+<level3>
 Paranasal sinus hyposecretion
+</level3>
+<level3>
 Paranasal sinus injury
+</level3>
+<level3>
 Paranasal sinus mucosal hypertrophy
+</level3>
+<level3>
 Paranasal sinus necrosis
+</level3>
+<level3>
 Silent sinus syndrome
+</level3>
+<level3>
 Sinus barotrauma
+</level3>
+<level3>
 Sinus congestion
+</level3>
+<level3>
 Sinus disorder
+</level3>
+<level3>
 Sinus perforation
+</level3>
+<level3>
 Sinus polyp
+</level3>
+<level3>
 Sinus polyp degeneration
+</level3>
+<level3>
 Sinusitis noninfective
-l2</ Paranasal sinus disorders (excl infections and neoplasms) >
-l2< Pharyngeal disorders (excl infections and neoplasms) >
+</level3>
+</level2>
+<level2 name =" Pharyngeal disorders (excl infections and neoplasms)">
+<level3>
 Adenoidal disorder
+</level3>
+<level3>
 Adenoidal hypertrophy
+</level3>
+<level3>
 Allergic pharyngitis
+</level3>
+<level3>
 Angina gangrenous
+</level3>
+<level3>
 Atrophic pharyngitis
+</level3>
+<level3>
 Corrosive oropharyngeal injury
+</level3>
+<level3>
 Dysaesthesia pharynx
+</level3>
+<level3>
 Hyperactive pharyngeal reflex
+</level3>
+<level3>
 Hypopharyngeal synechiae
+</level3>
+<level3>
 Oropharyngeal dysplasia
+</level3>
+<level3>
 Oropharyngeal oedema
+</level3>
+<level3>
 Oropharyngeal spasm
+</level3>
+<level3>
 Oropharyngeal swelling
+</level3>
+<level3>
 PFAPA syndrome
+</level3>
+<level3>
 Pharyngeal anastomotic leak
+</level3>
+<level3>
 Pharyngeal cyst
+</level3>
+<level3>
 Pharyngeal disorder
+</level3>
+<level3>
 Pharyngeal dyskinesia
+</level3>
+<level3>
 Pharyngeal enanthema
+</level3>
+<level3>
 Pharyngeal erosion
+</level3>
+<level3>
 Pharyngeal erythema
+</level3>
+<level3>
 Pharyngeal exfoliation
+</level3>
+<level3>
 Pharyngeal exudate
+</level3>
+<level3>
 Pharyngeal fistula
+</level3>
+<level3>
 Pharyngeal haematoma
+</level3>
+<level3>
 Pharyngeal haemorrhage
+</level3>
+<level3>
 Pharyngeal hypertrophy
+</level3>
+<level3>
 Pharyngeal hypoaesthesia
+</level3>
+<level3>
 Pharyngeal inflammation
+</level3>
+<level3>
 Pharyngeal injury
+</level3>
+<level3>
 Pharyngeal lesion
+</level3>
+<level3>
 Pharyngeal leukoplakia
+</level3>
+<level3>
 Pharyngeal mass
+</level3>
+<level3>
 Pharyngeal necrosis
+</level3>
+<level3>
 Pharyngeal oedema
+</level3>
+<level3>
 Pharyngeal paraesthesia
+</level3>
+<level3>
 Pharyngeal polyp
+</level3>
+<level3>
 Pharyngeal pouch
+</level3>
+<level3>
 Pharyngeal stenosis
+</level3>
+<level3>
 Pharyngeal ulceration
+</level3>
+<level3>
 Pharyngo-oesophageal diverticulum
+</level3>
+<level3>
 Pharynx radiation injury
+</level3>
+<level3>
 Tonsillar atrophy
+</level3>
+<level3>
 Tonsillar disorder
+</level3>
+<level3>
 Tonsillar erythema
+</level3>
+<level3>
 Tonsillar exudate
+</level3>
+<level3>
 Tonsillar haemorrhage
+</level3>
+<level3>
 Tonsillar hypertrophy
+</level3>
+<level3>
 Tonsillar inflammation
+</level3>
+<level3>
 Tonsillar ulcer
+</level3>
+<level3>
 Tonsillolith
+</level3>
+<level3>
 Tornwaldt cyst
+</level3>
+<level3>
 Velopharyngeal incompetence
-l2</ Pharyngeal disorders (excl infections and neoplasms) >
-l2< Tracheal disorders (excl infections and neoplasms) >
+</level3>
+</level2>
+<level2 name =" Tracheal disorders (excl infections and neoplasms)">
+<level3>
 Acquired tracheo-oesophageal fistula
+</level3>
+<level3>
 Congenital tracheomalacia
+</level3>
+<level3>
 Endotracheal intubation complication
+</level3>
+<level3>
 Excessive dynamic airway collapse
+</level3>
+<level3>
 Tracheal atresia
+</level3>
+<level3>
 Tracheal calcification
+</level3>
+<level3>
 Tracheal deviation
+</level3>
+<level3>
 Tracheal dilatation
+</level3>
+<level3>
 Tracheal disorder
+</level3>
+<level3>
 Tracheal diverticulum
+</level3>
+<level3>
 Tracheal erythema
+</level3>
+<level3>
 Tracheal fistula
+</level3>
+<level3>
 Tracheal haemorrhage
+</level3>
+<level3>
 Tracheal inflammation
+</level3>
+<level3>
 Tracheal mass
+</level3>
+<level3>
 Tracheal obstruction
+</level3>
+<level3>
 Tracheal obstruction extrinsic
+</level3>
+<level3>
 Tracheal oedema
+</level3>
+<level3>
 Tracheal pain
+</level3>
+<level3>
 Tracheal radiation injury
+</level3>
+<level3>
 Tracheal stenosis
+</level3>
+<level3>
 Tracheal ulcer
+</level3>
+<level3>
 Tracheal web
+</level3>
+<level3>
 Tracheo-oesophageal fistula
+</level3>
+<level3>
 Tracheobroncheopathia osteoclastica
+</level3>
+<level3>
 Tracheobronchial dyskinesia
+</level3>
+<level3>
 Tracheobronchomegaly
+</level3>
+<level3>
 Tracheomalacia
+</level3>
+<level3>
 Tracheostomy malfunction
+</level3>
+<level3>
 VACTERL syndrome
-l2</ Tracheal disorders (excl infections and neoplasms) >
-l1</ Upper respiratory tract disorders (excl infections) >
-l0</ Respiratory, thoracic and mediastinal disorders>
+</level3>
+</level2>
+</level1>
+</level0>

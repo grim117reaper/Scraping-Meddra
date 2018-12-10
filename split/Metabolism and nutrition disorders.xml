@@ -1,0 +1,2427 @@
+<level0 name =" Metabolism and nutrition">
+<level1 name =" Acid-base disorders">
+<level2 name =" Metabolic acidoses (excl diabetic acidoses)">
+<level3>
+Acetate intolerance
+</level3>
+<level3>
+Acetonaemia
+</level3>
+<level3>
+Acetonaemic vomiting
+</level3>
+<level3>
+Acidosis hyperchloraemic
+</level3>
+<level3>
+Alcoholic ketoacidosis
+</level3>
+<level3>
+Beta ketothiolase deficiency
+</level3>
+<level3>
+Fanconi syndrome
+</level3>
+<level3>
+Fanconi syndrome acquired
+</level3>
+<level3>
+Hyperlactacidaemia
+</level3>
+<level3>
+Ketoacidosis
+</level3>
+<level3>
+Ketosis
+</level3>
+<level3>
+Kussmaul respiration
+</level3>
+<level3>
+Lactic acidosis
+</level3>
+<level3>
+Late metabolic acidosis of newborn
+</level3>
+<level3>
+MELAS syndrome
+</level3>
+<level3>
+Metabolic acidosis
+</level3>
+<level3>
+MLASA syndrome
+</level3>
+<level3>
+Propofol infusion syndrome
+</level3>
+<level3>
+Renal tubular acidosis
+</level3>
+<level3>
+Uraemic acidosis
+</level3>
+</level2>
+<level2 name =" Metabolic alkaloses">
+<level3>
+Alkalosis
+</level3>
+<level3>
+Alkalosis hypochloraemic
+</level3>
+<level3>
+Alkalosis hypokalaemic
+</level3>
+<level3>
+Liddle's syndrome
+</level3>
+<level3>
+Metabolic alkalosis
+</level3>
+<level3>
+Milk-alkali syndrome
+</level3>
+</level2>
+<level2 name =" Mixed acid-base disorders">
+<level3>
+Acid-base balance disorder mixed
+</level3>
+<level3>
+Acidosis
+</level3>
+<level3>
+Coma acidotic
+</level3>
+</level2>
+<level2 name =" Respiratory acidoses">
+<level3>
+Acute respiratory failure
+</level3>
+<level3>
+Chronic respiratory failure
+</level3>
+<level3>
+Hypercapnia
+</level3>
+<level3>
+Hypercapnic coma
+</level3>
+<level3>
+Neonatal respiratory acidosis
+</level3>
+<level3>
+Respiratory acidosis
+</level3>
+<level3>
+Respiratory failure
+</level3>
+</level2>
+<level2 name =" Respiratory alkaloses">
+<level3>
+Neonatal respiratory alkalosis
+</level3>
+<level3>
+Respiratory alkalosis
+</level3>
+</level2>
+</level1>
+<level1 name =" Appetite and general nutritional disorders">
+<level2 name =" Alcohol related nutritional disorders">
+<level3>
+Amblyopia alcohol
+</level3>
+<level3>
+Polyneuropathy alcoholic
+</level3>
+</level2>
+<level2 name =" Anorexia nervosa and bulimia">
+<level3>
+Anorexia and bulimia syndrome
+</level3>
+<level3>
+Anorexia nervosa
+</level3>
+<level3>
+Bulimia nervosa
+</level3>
+<level3>
+Hypersomnia-bulimia syndrome
+</level3>
+</level2>
+<level2 name =" Appetite disorders">
+<level3>
+Adiposogenital dystrophy
+</level3>
+<level3>
+Appetite disorder
+</level3>
+<level3>
+Bradyphagia
+</level3>
+<level3>
+Decreased appetite
+</level3>
+<level3>
+Diet refusal
+</level3>
+<level3>
+Early satiety
+</level3>
+<level3>
+Eating disorder
+</level3>
+<level3>
+Eating disorder symptom
+</level3>
+<level3>
+Food craving
+</level3>
+<level3>
+Food refusal
+</level3>
+<level3>
+Hyperphagia
+</level3>
+<level3>
+Hypophagia
+</level3>
+<level3>
+Increased appetite
+</level3>
+<level3>
+Kluver-Bucy syndrome
+</level3>
+<level3>
+Lack of satiety
+</level3>
+<level3>
+Prader-Willi syndrome
+</level3>
+<level3>
+Salt craving
+</level3>
+<level3>
+Sleep-related eating disorder
+</level3>
+</level2>
+<level2 name =" General nutritional disorders NEC">
+<level3>
+Abnormal loss of weight
+</level3>
+<level3>
+Abnormal weight gain
+</level3>
+<level3>
+Adult failure to thrive
+</level3>
+<level3>
+Cachexia
+</level3>
+<level3>
+Central obesity
+</level3>
+<level3>
+Deficiency anaemia
+</level3>
+<level3>
+Failure to thrive
+</level3>
+<level3>
+Feeding disorder
+</level3>
+<level3>
+Food aversion
+</level3>
+<level3>
+Growth failure
+</level3>
+<level3>
+Hunger
+</level3>
+<level3>
+Kwashiorkor
+</level3>
+<level3>
+Malnutrition
+</level3>
+<level3>
+Malnutrition-inflammation-atherosclerosis syndrome
+</level3>
+<level3>
+Marasmus
+</level3>
+<level3>
+Neonatal insufficient breast milk syndrome
+</level3>
+<level3>
+Obesity
+</level3>
+<level3>
+Overfeeding of infant
+</level3>
+<level3>
+Overweight
+</level3>
+<level3>
+Pantothenic acid deficiency
+</level3>
+<level3>
+Pica
+</level3>
+<level3>
+Poor feeding infant
+</level3>
+<level3>
+Protein deficiency
+</level3>
+<level3>
+Protein-losing gastroenteropathy
+</level3>
+<level3>
+Pseudogynaecomastia
+</level3>
+<level3>
+Selective eating disorder
+</level3>
+<level3>
+Starvation
+</level3>
+<level3>
+Thirst
+</level3>
+<level3>
+Thirst decreased
+</level3>
+<level3>
+Underweight
+</level3>
+<level3>
+Weight fluctuation
+</level3>
+<level3>
+Weight gain poor
+</level3>
+<level3>
+Weight loss poor
+</level3>
+</level2>
+</level1>
+<level1 name =" Bone, calcium, magnesium and phosphorus metabolism disorders">
+<level2 name =" Bone metabolism disorders">
+<level3>
+Bone atrophy
+</level3>
+<level3>
+Bone decalcification
+</level3>
+<level3>
+Bone metabolism disorder
+</level3>
+<level3>
+Brown tumour
+</level3>
+<level3>
+Chronic kidney disease-mineral and bone disorder
+</level3>
+<level3>
+Craniotabes
+</level3>
+<level3>
+Gorham's disease
+</level3>
+<level3>
+Hereditary hypophosphataemic rickets
+</level3>
+<level3>
+High turnover osteopathy
+</level3>
+<level3>
+Hungry bone syndrome
+</level3>
+<level3>
+Hypochondroplasia
+</level3>
+<level3>
+Hypophosphataemic rickets
+</level3>
+<level3>
+Itai-itai disease
+</level3>
+<level3>
+Low turnover osteopathy
+</level3>
+<level3>
+Oncogenic osteomalacia
+</level3>
+<level3>
+Osteolysis
+</level3>
+<level3>
+Osteomalacia
+</level3>
+<level3>
+Osteopenia
+</level3>
+<level3>
+Osteoporosis
+</level3>
+<level3>
+Osteoporosis circumscripta cranii
+</level3>
+<level3>
+Osteoporosis postmenopausal
+</level3>
+<level3>
+Osteoporotic fracture
+</level3>
+<level3>
+Rachitic rosary
+</level3>
+<level3>
+Resorption bone decreased
+</level3>
+<level3>
+Resorption bone increased
+</level3>
+<level3>
+Rickets
+</level3>
+<level3>
+Senile osteoporosis
+</level3>
+<level3>
+Spinal compression fracture
+</level3>
+</level2>
+<level2 name =" Calcium metabolism disorders">
+<level3>
+Calcification metastatic
+</level3>
+<level3>
+Calciphylaxis
+</level3>
+<level3>
+Calcium deficiency
+</level3>
+<level3>
+Calcium intoxication
+</level3>
+<level3>
+Calcium metabolism disorder
+</level3>
+<level3>
+Chondrocalcinosis pyrophosphate
+</level3>
+<level3>
+Chvostek's sign
+</level3>
+<level3>
+Dent's disease
+</level3>
+<level3>
+Familial hypocalciuric hypercalcaemia
+</level3>
+<level3>
+Gastric mucosal calcinosis
+</level3>
+<level3>
+Hypercalcaemia
+</level3>
+<level3>
+Hypercalcaemia of malignancy
+</level3>
+<level3>
+Hypercalcaemic nephropathy
+</level3>
+<level3>
+Hypercalcitoninaemia
+</level3>
+<level3>
+Hypercalciuria
+</level3>
+<level3>
+Hypocalcaemia
+</level3>
+<level3>
+Hypocalcaemic seizure
+</level3>
+<level3>
+Hypocalciuria
+</level3>
+<level3>
+Hypoparathyroidism
+</level3>
+<level3>
+Hypoparathyroidism secondary
+</level3>
+<level3>
+Latent tetany
+</level3>
+<level3>
+Neonatal hypocalcaemia
+</level3>
+<level3>
+Parathyroid hyperplasia
+</level3>
+<level3>
+Periarthritis calcarea
+</level3>
+<level3>
+Primary familial brain calcification
+</level3>
+<level3>
+Primary hypoparathyroidism
+</level3>
+<level3>
+Pseudohypercalcaemia
+</level3>
+<level3>
+Pseudohypoparathyroidism
+</level3>
+<level3>
+Tetany
+</level3>
+<level3>
+Tooth demineralisation
+</level3>
+<level3>
+Trousseau's sign
+</level3>
+<level3>
+Williams syndrome
+</level3>
+</level2>
+<level2 name =" Magnesium metabolism disorders">
+<level3>
+Hypermagnesaemia
+</level3>
+<level3>
+Hypermagnesuria
+</level3>
+<level3>
+Hypomagnesaemia
+</level3>
+<level3>
+Magnesium deficiency
+</level3>
+<level3>
+Magnesium metabolism disorder
+</level3>
+<level3>
+Neonatal tetany
+</level3>
+<level3>
+Primary familial hypomagnesaemia
+</level3>
+</level2>
+<level2 name =" Phosphorus metabolism disorders">
+<level3>
+Acute phosphate nephropathy
+</level3>
+<level3>
+Hyperphosphataemia
+</level3>
+<level3>
+Hyperphosphaturia
+</level3>
+<level3>
+Hypophosphataemia
+</level3>
+<level3>
+Phosphorus metabolism disorder
+</level3>
+<level3>
+Pseudohyperphosphataemia
+</level3>
+<level3>
+Renal rickets
+</level3>
+</level2>
+</level1>
+<level1 name =" Diabetic complications">
+<level2 name =" Diabetic complications cardiovascular">
+<level3>
+Cardiac autonomic neuropathy
+</level3>
+<level3>
+Diabetic arteritis
+</level3>
+<level3>
+Diabetic cardiomyopathy
+</level3>
+<level3>
+Diabetic macroangiopathy
+</level3>
+<level3>
+Diabetic microangiopathy
+</level3>
+<level3>
+Diabetic vascular disorder
+</level3>
+</level2>
+<level2 name =" Diabetic complications dermal">
+<level3>
+Diabetic bullosis
+</level3>
+<level3>
+Diabetic cheiroarthropathy
+</level3>
+<level3>
+Diabetic dermopathy
+</level3>
+<level3>
+Diabetic foot
+</level3>
+<level3>
+Diabetic foot infection
+</level3>
+<level3>
+Diabetic gangrene
+</level3>
+<level3>
+Diabetic ulcer
+</level3>
+<level3>
+Necrobiosis lipoidica diabeticorum
+</level3>
+</level2>
+<level2 name =" Diabetic complications gastrointestinal">
+<level3>
+Diabetic enteropathy
+</level3>
+<level3>
+Diabetic gastroenteropathy
+</level3>
+<level3>
+Diabetic gastroparesis
+</level3>
+<level3>
+Diabetic gastropathy
+</level3>
+</level2>
+<level2 name =" Diabetic complications NEC">
+<level3>
+Diabetic arthropathy
+</level3>
+<level3>
+Diabetic complication
+</level3>
+<level3>
+Diabetic dyslipidaemia
+</level3>
+<level3>
+Diabetic endorgan damage
+</level3>
+<level3>
+Diabetic foetopathy
+</level3>
+<level3>
+Diabetic hepatopathy
+</level3>
+<level3>
+Diabetic ketoacidosis
+</level3>
+<level3>
+Diabetic ketosis
+</level3>
+<level3>
+Diabetic mastopathy
+</level3>
+<level3>
+Diabetic metabolic decompensation
+</level3>
+<level3>
+Euglycaemic diabetic ketoacidosis
+</level3>
+<level3>
+Mauriac syndrome
+</level3>
+<level3>
+Somogyi phenomenon
+</level3>
+</level2>
+<level2 name =" Diabetic complications neurological">
+<level3>
+Acute painful neuropathy of rapid glycaemic control
+</level3>
+<level3>
+Diabetic amyotrophy
+</level3>
+<level3>
+Diabetic autonomic neuropathy
+</level3>
+<level3>
+Diabetic coma
+</level3>
+<level3>
+Diabetic encephalopathy
+</level3>
+<level3>
+Diabetic hyperglycaemic coma
+</level3>
+<level3>
+Diabetic hyperosmolar coma
+</level3>
+<level3>
+Diabetic ketoacidotic hyperglycaemic coma
+</level3>
+<level3>
+Diabetic mononeuropathy
+</level3>
+<level3>
+Diabetic neuropathic ulcer
+</level3>
+<level3>
+Diabetic neuropathy
+</level3>
+<level3>
+Hyperglycaemic hyperosmolar nonketotic syndrome
+</level3>
+<level3>
+Small fibre neuropathy
+</level3>
+</level2>
+<level2 name =" Diabetic complications ophthalmic">
+<level3>
+Cataract diabetic
+</level3>
+<level3>
+Diabetic blindness
+</level3>
+<level3>
+Diabetic eye disease
+</level3>
+<level3>
+Diabetic glaucoma
+</level3>
+<level3>
+Diabetic keratopathy
+</level3>
+<level3>
+Diabetic ophthalmoplegia
+</level3>
+<level3>
+Diabetic retinal oedema
+</level3>
+<level3>
+Diabetic retinopathy
+</level3>
+<level3>
+Diabetic uveitis
+</level3>
+<level3>
+Retinal neovascularisation
+</level3>
+<level3>
+Retinopathy haemorrhagic
+</level3>
+<level3>
+Retinopathy proliferative
+</level3>
+</level2>
+<level2 name =" Diabetic complications renal">
+<level3>
+Diabetic cystopathy
+</level3>
+<level3>
+Diabetic end stage renal disease
+</level3>
+<level3>
+Diabetic nephropathy
+</level3>
+<level3>
+Emphysematous pyelonephritis
+</level3>
+<level3>
+Intercapillary glomerulosclerosis
+</level3>
+<level3>
+Microalbuminuria
+</level3>
+<level3>
+Renal papillary necrosis
+</level3>
+</level2>
+</level1>
+<level1 name =" Electrolyte and fluid balance conditions">
+<level2 name =" Antidiuretic hormone related conditions">
+<level3>
+Antidiuretic hormone abnormality
+</level3>
+<level3>
+Congenital central diabetes insipidus
+</level3>
+<level3>
+Congenital nephrogenic diabetes insipidus
+</level3>
+<level3>
+Diabetes insipidus
+</level3>
+<level3>
+Inappropriate antidiuretic hormone secretion
+</level3>
+<level3>
+Nephrogenic diabetes insipidus
+</level3>
+</level2>
+<level2 name =" Chloride imbalance">
+<level3>
+Hyperchloraemia
+</level3>
+<level3>
+Hyperchloruria
+</level3>
+<level3>
+Hypochloraemia
+</level3>
+</level2>
+<level2 name =" Electrolyte imbalance NEC">
+<level3>
+Acquired apparent mineralocorticoid excess
+</level3>
+<level3>
+Apparent mineralocorticoid excess
+</level3>
+<level3>
+Bartter's syndrome
+</level3>
+<level3>
+Blood hyposmosis
+</level3>
+<level3>
+Electrolyte depletion
+</level3>
+<level3>
+Electrolyte imbalance
+</level3>
+<level3>
+Fluid imbalance
+</level3>
+<level3>
+Gitelman's syndrome
+</level3>
+<level3>
+Hyperosmolar state
+</level3>
+<level3>
+Hypoosmolar state
+</level3>
+<level3>
+Potassium wasting nephropathy
+</level3>
+<level3>
+Pseudo-Bartter syndrome
+</level3>
+<level3>
+Renal salt-wasting syndrome
+</level3>
+<level3>
+Tumour lysis syndrome
+</level3>
+</level2>
+<level2 name =" Fluid intake decreased">
+<level3>
+Fluid intake reduced
+</level3>
+<level3>
+Oligodipsia
+</level3>
+</level2>
+<level2 name =" Fluid intake increased">
+<level3>
+Polydipsia
+</level3>
+<level3>
+Polydipsia psychogenic
+</level3>
+</level2>
+<level2 name =" Potassium imbalance">
+<level3>
+Hyperkalaemia
+</level3>
+<level3>
+Hyperkaliuria
+</level3>
+<level3>
+Hypokalaemia
+</level3>
+<level3>
+Hypokalaemic syndrome
+</level3>
+<level3>
+Pseudohyperkalaemia
+</level3>
+</level2>
+<level2 name =" Sodium imbalance">
+<level3>
+Cerebral salt-wasting syndrome
+</level3>
+<level3>
+Hyperaldosteronism
+</level3>
+<level3>
+Hypernatraemia
+</level3>
+<level3>
+Hypernatriuria
+</level3>
+<level3>
+Hyponatraemia
+</level3>
+<level3>
+Hyponatraemic coma
+</level3>
+<level3>
+Hyponatraemic encephalopathy
+</level3>
+<level3>
+Hyponatraemic seizure
+</level3>
+<level3>
+Hyponatraemic syndrome
+</level3>
+<level3>
+Hyponatriuria
+</level3>
+<level3>
+Neonatal hyponatraemia
+</level3>
+<level3>
+Primary hyperaldosteronism
+</level3>
+<level3>
+Pseudoaldosteronism
+</level3>
+<level3>
+Pseudohyponatraemia
+</level3>
+<level3>
+Salt intoxication
+</level3>
+<level3>
+Sodium retention
+</level3>
+</level2>
+<level2 name =" Total fluid volume decreased">
+<level3>
+Dehydration
+</level3>
+<level3>
+Fontanelle depressed
+</level3>
+<level3>
+Hypovolaemia
+</level3>
+<level3>
+Shock haemorrhagic
+</level3>
+</level2>
+<level2 name =" Total fluid volume increased">
+<level3>
+Extensive interdialytic weight gain
+</level3>
+<level3>
+Fluid overload
+</level3>
+<level3>
+Fluid retention
+</level3>
+<level3>
+Generalised oedema
+</level3>
+<level3>
+Gingival oedema
+</level3>
+<level3>
+Hydraemia
+</level3>
+<level3>
+Hypervolaemia
+</level3>
+<level3>
+Localised oedema
+</level3>
+<level3>
+Mirror syndrome
+</level3>
+<level3>
+Oedema
+</level3>
+<level3>
+Oedema peripheral
+</level3>
+<level3>
+Peripheral oedema neonatal
+</level3>
+<level3>
+Transurethral resection syndrome
+</level3>
+<level3>
+Water intoxication
+</level3>
+</level2>
+</level1>
+<level1 name =" Food intolerance syndromes">
+<level2 name =" Food malabsorption and intolerance syndromes (excl sugar intolerance)">
+<level3>
+Alcohol intolerance
+</level3>
+<level3>
+Breast milk substitute intolerance
+</level3>
+<level3>
+Coeliac disease
+</level3>
+<level3>
+Cow's milk intolerance
+</level3>
+<level3>
+Cronkhite-Canada syndrome
+</level3>
+<level3>
+Fat intolerance
+</level3>
+<level3>
+Feeding intolerance
+</level3>
+<level3>
+Food intolerance
+</level3>
+<level3>
+Gluten sensitivity
+</level3>
+<level3>
+Histamine intolerance
+</level3>
+<level3>
+Malabsorption
+</level3>
+<level3>
+Milk soy protein intolerance
+</level3>
+<level3>
+Reaction to food additive
+</level3>
+<level3>
+Sprue-like enteropathy
+</level3>
+</level2>
+<level2 name =" Sugar intolerance (excl glucose intolerance)">
+<level3>
+Carbohydrate intolerance
+</level3>
+<level3>
+Disaccharidase deficiency
+</level3>
+<level3>
+Disaccharide metabolism disorder
+</level3>
+<level3>
+Fructose intolerance
+</level3>
+<level3>
+Galactose intolerance
+</level3>
+<level3>
+Lactase deficiency
+</level3>
+<level3>
+Lactose intolerance
+</level3>
+<level3>
+Sucrose intolerance
+</level3>
+</level2>
+</level1>
+<level1 name =" Glucose metabolism disorders (incl diabetes mellitus)">
+<level2 name =" Diabetes mellitus (incl subtypes)">
+<level3>
+Acquired lipoatrophic diabetes
+</level3>
+<level3>
+Congenital generalised lipodystrophy
+</level3>
+<level3>
+Cystic fibrosis related diabetes
+</level3>
+<level3>
+Decreased insulin requirement
+</level3>
+<level3>
+Diabetes complicating pregnancy
+</level3>
+<level3>
+Diabetes mellitus
+</level3>
+<level3>
+Diabetes mellitus inadequate control
+</level3>
+<level3>
+Diabetes mellitus malnutrition-related
+</level3>
+<level3>
+Diabetes with hyperosmolarity
+</level3>
+<level3>
+Fulminant type 1 diabetes mellitus
+</level3>
+<level3>
+Gestational diabetes
+</level3>
+<level3>
+Increased insulin requirement
+</level3>
+<level3>
+Insulin autoimmune syndrome
+</level3>
+<level3>
+Insulin resistant diabetes
+</level3>
+<level3>
+Insulin-requiring type 2 diabetes mellitus
+</level3>
+<level3>
+Ketosis-prone diabetes mellitus
+</level3>
+<level3>
+Latent autoimmune diabetes in adults
+</level3>
+<level3>
+Monogenic diabetes
+</level3>
+<level3>
+Neonatal diabetes mellitus
+</level3>
+<level3>
+Pancreatogenous diabetes
+</level3>
+<level3>
+Type 1 diabetes mellitus
+</level3>
+<level3>
+Type 2 diabetes mellitus
+</level3>
+<level3>
+Type 3 diabetes mellitus
+</level3>
+<level3>
+Wolfram syndrome
+</level3>
+</level2>
+<level2 name =" Hyperglycaemic conditions NEC">
+<level3>
+Dawn phenomenon
+</level3>
+<level3>
+Glucose tolerance impaired
+</level3>
+<level3>
+Glucose tolerance impaired in pregnancy
+</level3>
+<level3>
+Glycosuria during pregnancy
+</level3>
+<level3>
+HAIR-AN syndrome
+</level3>
+<level3>
+Hyperglycaemia
+</level3>
+<level3>
+Hyperglycaemic seizure
+</level3>
+<level3>
+Hyperglycaemic unconsciousness
+</level3>
+<level3>
+Hypoinsulinaemia
+</level3>
+<level3>
+Hypoinsulinaemia postoperative
+</level3>
+<level3>
+Impaired fasting glucose
+</level3>
+<level3>
+Impaired insulin secretion
+</level3>
+<level3>
+Insulin resistance
+</level3>
+<level3>
+Insulin resistance syndrome
+</level3>
+</level2>
+<level2 name =" Hypoglycaemic conditions NEC">
+<level3>
+Diencephalic syndrome of infancy
+</level3>
+<level3>
+Hyperinsulinaemia
+</level3>
+<level3>
+Hyperinsulinaemic hypoglycaemia
+</level3>
+<level3>
+Hyperinsulinism
+</level3>
+<level3>
+Hyperinsulinism syndrome
+</level3>
+<level3>
+Hypoglycaemia
+</level3>
+<level3>
+Hypoglycaemia neonatal
+</level3>
+<level3>
+Hypoglycaemia unawareness
+</level3>
+<level3>
+Hypoglycaemic coma
+</level3>
+<level3>
+Hypoglycaemic encephalopathy
+</level3>
+<level3>
+Hypoglycaemic seizure
+</level3>
+<level3>
+Hypoglycaemic unconsciousness
+</level3>
+<level3>
+Nesidioblastosis
+</level3>
+<level3>
+Neuroglycopenia
+</level3>
+<level3>
+Postprandial hypoglycaemia
+</level3>
+<level3>
+Pseudohypoglycaemia
+</level3>
+<level3>
+Shock hypoglycaemic
+</level3>
+</level2>
+</level1>
+<level1 name =" Inborn errors of metabolism">
+<level2 name =" Inborn errors of amino acid metabolism">
+<level3>
+Albinism
+</level3>
+<level3>
+Alkaptonuria
+</level3>
+<level3>
+Aminoaciduria
+</level3>
+<level3>
+Arginase deficiency
+</level3>
+<level3>
+Argininosuccinate lyase deficiency
+</level3>
+<level3>
+Argininosuccinate synthetase deficiency
+</level3>
+<level3>
+Aspartate-glutamate-transporter deficiency
+</level3>
+<level3>
+Biotinidase deficiency
+</level3>
+<level3>
+Carbamoyl phosphate synthetase deficiency
+</level3>
+<level3>
+Cystathionine beta-synthase deficiency
+</level3>
+<level3>
+Cystinosis
+</level3>
+<level3>
+Cystinuria
+</level3>
+<level3>
+Glutathione synthetase deficiency
+</level3>
+<level3>
+Hartnup disease
+</level3>
+<level3>
+Homocystinaemia
+</level3>
+<level3>
+Homocystinuria
+</level3>
+<level3>
+Hydroxyprolinaemia
+</level3>
+<level3>
+Hypermethioninaemia
+</level3>
+<level3>
+Hypermethioniuria
+</level3>
+<level3>
+Hyperprolinaemia
+</level3>
+<level3>
+Lysinuric protein intolerance
+</level3>
+<level3>
+Maple syrup disease
+</level3>
+<level3>
+Methylenetetrahydrofolate reductase deficiency
+</level3>
+<level3>
+Methylenetetrahydrofolate reductase gene mutation
+</level3>
+<level3>
+Methylmalonic aciduria
+</level3>
+<level3>
+Molybdenum cofactor deficiency
+</level3>
+<level3>
+Multiple carboxylase deficiency
+</level3>
+<level3>
+N-acetylglutamate synthase deficiency
+</level3>
+<level3>
+Nonketotic hyperglycinaemia
+</level3>
+<level3>
+Ornithine transcarbamoylase deficiency
+</level3>
+<level3>
+Phenylketonuria
+</level3>
+<level3>
+Rett syndrome
+</level3>
+<level3>
+Sarcosinaemia
+</level3>
+<level3>
+Tetrahydrobiopterin deficiency
+</level3>
+<level3>
+Tyrosinaemia
+</level3>
+<level3>
+Urea cycle disorder
+</level3>
+</level2>
+<level2 name =" Inborn errors of bilirubin metabolism">
+<level3>
+Crigler-Najjar syndrome
+</level3>
+<level3>
+Dubin-Johnson syndrome
+</level3>
+<level3>
+Gilbert's syndrome
+</level3>
+<level3>
+Inborn error of bilirubin metabolism
+</level3>
+<level3>
+Rotor's syndrome
+</level3>
+</level2>
+<level2 name =" Inborn errors of carbohydrate metabolism (excl glucose)">
+<level3>
+Carbohydrate metabolism disorder
+</level3>
+<level3>
+Congenital disorder of glycosylation
+</level3>
+<level3>
+Essential fructosuria
+</level3>
+<level3>
+Galactosaemia
+</level3>
+<level3>
+Glucose-6-phosphate dehydrogenase deficiency
+</level3>
+<level3>
+Glucose-galactose malabsorption
+</level3>
+<level3>
+Glycogen storage disease type I
+</level3>
+<level3>
+Glycogen storage disease type II
+</level3>
+<level3>
+Glycogen storage disease type III
+</level3>
+<level3>
+Glycogen storage disease type IV
+</level3>
+<level3>
+Glycogen storage disease type V
+</level3>
+<level3>
+Glycogen storage disease type VI
+</level3>
+<level3>
+Glycogen storage disease type VII
+</level3>
+<level3>
+Glycogen storage disease type VIII
+</level3>
+<level3>
+Glycogen storage disorder
+</level3>
+<level3>
+Hereditary fructose intolerance
+</level3>
+<level3>
+Metabolic myopathy
+</level3>
+<level3>
+Pyruvate carboxylase deficiency
+</level3>
+<level3>
+Sucrase-isomaltase deficiency
+</level3>
+</level2>
+<level2 name =" Inborn errors of metabolism NEC">
+<level3>
+2-Hydroxyglutaric aciduria
+</level3>
+<level3>
+Acetylcholinesterase deficiency
+</level3>
+<level3>
+Alpha-1 anti-trypsin deficiency
+</level3>
+<level3>
+Citrate transporter deficiency
+</level3>
+<level3>
+Congenital intrinsic factor deficiency
+</level3>
+<level3>
+Congenital oxalosis
+</level3>
+<level3>
+Hyper IgD syndrome
+</level3>
+<level3>
+Hypophosphatasia
+</level3>
+<level3>
+Inborn error of metabolism
+</level3>
+<level3>
+Mevalonate kinase deficiency
+</level3>
+<level3>
+Mitochondrial enzyme deficiency
+</level3>
+<level3>
+Primary insulin like growth factor-1 deficiency
+</level3>
+<level3>
+Pseudocholinesterase deficiency
+</level3>
+<level3>
+Trimethylaminuria
+</level3>
+</level2>
+<level2 name =" Inborn errors of porphyrin metabolism">
+<level3>
+Porphyria
+</level3>
+<level3>
+Porphyria acute
+</level3>
+<level3>
+Porphyria non-acute
+</level3>
+<level3>
+Porphyrin metabolism disorder
+</level3>
+<level3>
+Porphyrinuria
+</level3>
+</level2>
+<level2 name =" Inborn errors of steroid synthesis">
+<level3>
+11-beta-hydroxylase deficiency
+</level3>
+<level3>
+17,20-desmolase deficiency
+</level3>
+<level3>
+17-alpha-hydroxylase deficiency
+</level3>
+<level3>
+20,22-desmolase deficiency
+</level3>
+<level3>
+21-hydroxylase deficiency
+</level3>
+<level3>
+5-alpha-reductase deficiency
+</level3>
+<level3>
+Inborn error in primary bile acid synthesis
+</level3>
+</level2>
+<level2 name =" Lysosomal storage disorders">
+<level3>
+Aspartylglucosaminuria
+</level3>
+<level3>
+Canavan disease
+</level3>
+<level3>
+Dysmyelination
+</level3>
+<level3>
+Fabry's disease
+</level3>
+<level3>
+Gaucher's disease
+</level3>
+<level3>
+Gaucher's disease type I
+</level3>
+<level3>
+Gaucher's disease type II
+</level3>
+<level3>
+Gaucher's disease type III
+</level3>
+<level3>
+Hermansky-Pudlak syndrome
+</level3>
+<level3>
+Krabbe's disease
+</level3>
+<level3>
+Leukodystrophy
+</level3>
+<level3>
+Lipidosis
+</level3>
+<level3>
+Lysosomal acid lipase deficiency
+</level3>
+<level3>
+Metachromatic leukodystrophy
+</level3>
+<level3>
+Mucolipidosis
+</level3>
+<level3>
+Mucolipidosis type I
+</level3>
+<level3>
+Mucolipidosis type II
+</level3>
+<level3>
+Mucolipidosis type III
+</level3>
+<level3>
+Mucolipidosis type IV
+</level3>
+<level3>
+Mucopolysaccharidosis
+</level3>
+<level3>
+Mucopolysaccharidosis I
+</level3>
+<level3>
+Mucopolysaccharidosis II
+</level3>
+<level3>
+Mucopolysaccharidosis III
+</level3>
+<level3>
+Mucopolysaccharidosis IV
+</level3>
+<level3>
+Mucopolysaccharidosis V
+</level3>
+<level3>
+Mucopolysaccharidosis VI
+</level3>
+<level3>
+Mucopolysaccharidosis VII
+</level3>
+<level3>
+Neuronal ceroid lipofuscinosis
+</level3>
+<level3>
+Niemann-Pick disease
+</level3>
+<level3>
+Pelizaeus-Merzbacher disease
+</level3>
+<level3>
+Refsum's disease
+</level3>
+<level3>
+Tay-Sachs disease
+</level3>
+</level2>
+</level1>
+<level1 name =" Iron and trace metal metabolism disorders">
+<level2 name =" Copper metabolism disorders">
+<level3>
+Copper deficiency
+</level3>
+<level3>
+Copper metabolism disorder
+</level3>
+<level3>
+Hepato-lenticular degeneration
+</level3>
+<level3>
+Kayser-Fleischer ring
+</level3>
+<level3>
+Menkes' syndrome
+</level3>
+</level2>
+<level2 name =" Iron deficiencies">
+<level3>
+Anaemia of pregnancy
+</level3>
+<level3>
+Hyposideraemia
+</level3>
+<level3>
+Iron deficiency
+</level3>
+<level3>
+Iron deficiency anaemia
+</level3>
+</level2>
+<level2 name =" Iron excess">
+<level3>
+Cardiac siderosis
+</level3>
+<level3>
+Cerebral haemosiderin deposition
+</level3>
+<level3>
+Haemochromatosis
+</level3>
+<level3>
+Haemochromatosis trait
+</level3>
+<level3>
+Haemosiderosis
+</level3>
+<level3>
+Hepatic siderosis
+</level3>
+<level3>
+Hereditary haemochromatosis
+</level3>
+<level3>
+Hyperferritinaemia
+</level3>
+<level3>
+Iron overload
+</level3>
+<level3>
+Neonatal haemochromatosis
+</level3>
+<level3>
+Pulmonary haemosiderosis
+</level3>
+<level3>
+Superficial siderosis of central nervous system
+</level3>
+</level2>
+<level2 name =" Iron metabolism disorders NEC">
+<level3>
+Iron metabolism disorder
+</level3>
+</level2>
+<level2 name =" Mineral related disorders NEC">
+<level3>
+Aluminium overload
+</level3>
+<level3>
+Iodine deficiency
+</level3>
+<level3>
+Iodine overload
+</level3>
+<level3>
+Mineral deficiency
+</level3>
+<level3>
+Mineral metabolism disorder
+</level3>
+<level3>
+Trace element deficiency
+</level3>
+</level2>
+<level2 name =" Trace metal disorders NEC">
+<level3>
+Selenium deficiency
+</level3>
+</level2>
+<level2 name =" Zinc disorders">
+<level3>
+Acquired acrodermatitis enteropathica
+</level3>
+<level3>
+Acrodermatitis enteropathica
+</level3>
+<level3>
+Hyperzincaemia
+</level3>
+<level3>
+Hypozincaemia
+</level3>
+<level3>
+Zinc deficiency
+</level3>
+</level2>
+</level1>
+<level1 name =" Lipid metabolism disorders">
+<level2 name =" Elevated cholesterol">
+<level3>
+Cholesterosis
+</level3>
+<level3>
+Hypercholesterolaemia
+</level3>
+<level3>
+Primary hypercholesterolaemia
+</level3>
+<level3>
+Type II hyperlipidaemia
+</level3>
+<level3>
+Type IIa hyperlipidaemia
+</level3>
+</level2>
+<level2 name =" Elevated cholesterol with elevated triglycerides">
+<level3>
+Acquired mixed hyperlipidaemia
+</level3>
+<level3>
+Hyperchylomicronaemia
+</level3>
+<level3>
+Remnant hyperlipidaemia
+</level3>
+<level3>
+Type IIb hyperlipidaemia
+</level3>
+<level3>
+Type III hyperlipidaemia
+</level3>
+</level2>
+<level2 name =" Elevated triglycerides">
+<level3>
+Familial hypertriglyceridaemia
+</level3>
+<level3>
+Hypertriglyceridaemia
+</level3>
+<level3>
+Type I hyperlipidaemia
+</level3>
+<level3>
+Type IV hyperlipidaemia
+</level3>
+<level3>
+Type V hyperlipidaemia
+</level3>
+</level2>
+<level2 name =" Hyperlipidaemias NEC">
+<level3>
+Autoimmune hyperlipidaemia
+</level3>
+<level3>
+Hyperlipidaemia
+</level3>
+<level3>
+Phytosterolaemia
+</level3>
+<level3>
+Zieve syndrome
+</level3>
+</level2>
+<level2 name =" Lipid metabolism and deposit disorders NEC">
+<level3>
+3-hydroxyacetyl-coenzyme A dehydrogenase deficiency
+</level3>
+<level3>
+Barth syndrome
+</level3>
+<level3>
+Body fat disorder
+</level3>
+<level3>
+CANDLE syndrome
+</level3>
+<level3>
+Cardiac steatosis
+</level3>
+<level3>
+Carnitine deficiency
+</level3>
+<level3>
+Carnitine palmitoyltransferase deficiency
+</level3>
+<level3>
+Carnitine-acylcarnitine translocase deficiency
+</level3>
+<level3>
+Congenital carnitine deficiency
+</level3>
+<level3>
+Dyslipidaemia
+</level3>
+<level3>
+Epidural lipomatosis
+</level3>
+<level3>
+Facial wasting
+</level3>
+<level3>
+Familial high density lipoprotein deficiency
+</level3>
+<level3>
+Fat redistribution
+</level3>
+<level3>
+Fatty acid deficiency
+</level3>
+<level3>
+Fatty acid oxidation disorder
+</level3>
+<level3>
+Fatty liver alcoholic
+</level3>
+<level3>
+Gastric xanthoma
+</level3>
+<level3>
+Hepatic steato-fibrosis
+</level3>
+<level3>
+Hepatic steatosis
+</level3>
+<level3>
+HIV lipodystrophy
+</level3>
+<level3>
+Hyper HDL cholesterolaemia
+</level3>
+<level3>
+Hypo HDL cholesterolaemia
+</level3>
+<level3>
+Hypocarnitinaemia
+</level3>
+<level3>
+Hypocholesterolaemia
+</level3>
+<level3>
+Hypolipidaemia
+</level3>
+<level3>
+Hypotriglyceridaemia
+</level3>
+<level3>
+Inborn error of lipid metabolism
+</level3>
+<level3>
+Intestinal steatosis
+</level3>
+<level3>
+Lecithin-cholesterol acyltransferase deficiency
+</level3>
+<level3>
+Lipaemia retinalis
+</level3>
+<level3>
+Lipid metabolism disorder
+</level3>
+<level3>
+Lipid proteinosis
+</level3>
+<level3>
+Lipoatrophy
+</level3>
+<level3>
+Lipodystrophy acquired
+</level3>
+<level3>
+Lipoedema
+</level3>
+<level3>
+Lipohypertrophy
+</level3>
+<level3>
+Lipomatosis
+</level3>
+<level3>
+Lipoprotein deficiency
+</level3>
+<level3>
+Long-chain acyl-coenzyme A dehydrogenase deficiency
+</level3>
+<level3>
+Medium-chain acyl-coenzyme A dehydrogenase deficiency
+</level3>
+<level3>
+Non-alcoholic fatty liver
+</level3>
+<level3>
+Non-alcoholic steatohepatitis
+</level3>
+<level3>
+Pancreatic steatosis
+</level3>
+<level3>
+Parotid lipomatosis
+</level3>
+<level3>
+Partial lipodystrophy
+</level3>
+<level3>
+Phospholipidosis
+</level3>
+<level3>
+Renal lipomatosis
+</level3>
+<level3>
+Short-chain acyl-coenzyme A dehydrogenase deficiency
+</level3>
+<level3>
+Steatohepatitis
+</level3>
+<level3>
+Tangier disease
+</level3>
+<level3>
+Thyroid steatosis
+</level3>
+<level3>
+Trifunctional protein deficiency
+</level3>
+<level3>
+Very long-chain acyl-coenzyme A dehydrogenase deficiency
+</level3>
+<level3>
+Xanthelasma
+</level3>
+<level3>
+Xanthoma
+</level3>
+<level3>
+Xanthomatosis
+</level3>
+</level2>
+</level1>
+<level1 name =" Metabolism disorders NEC">
+<level2 name =" Cell metabolism disorders NEC">
+<level3>
+Apoptosis
+</level3>
+<level3>
+Cell death
+</level3>
+<level3>
+Cell-mediated cytotoxicity
+</level3>
+<level3>
+Congenital mitochondrial cytopathy
+</level3>
+<level3>
+Mitochondrial cytopathy
+</level3>
+<level3>
+Mitochondrial DNA deletion
+</level3>
+<level3>
+Mitochondrial DNA depletion
+</level3>
+<level3>
+Mitochondrial DNA mutation
+</level3>
+<level3>
+Mitochondrial toxicity
+</level3>
+<level3>
+Phagocytosis
+</level3>
+<level3>
+Sick cell syndrome
+</level3>
+</level2>
+<level2 name =" Metabolic disorders NEC">
+<level3>
+Acquired porphyria
+</level3>
+<level3>
+Acral overgrowth
+</level3>
+<level3>
+Acromegaly
+</level3>
+<level3>
+Addison's disease
+</level3>
+<level3>
+Adrenal atrophy
+</level3>
+<level3>
+Adrenal cortex necrosis
+</level3>
+<level3>
+Adrenal insufficiency
+</level3>
+<level3>
+Adrenal insufficiency neonatal
+</level3>
+<level3>
+Adrenal medulla hyperfunction
+</level3>
+<level3>
+Adrenal suppression
+</level3>
+<level3>
+Adrenocortical insufficiency acute
+</level3>
+<level3>
+Adrenocortical insufficiency neonatal
+</level3>
+<level3>
+Alcoholic pseudo Cushing's syndrome
+</level3>
+<level3>
+Bilirubin excretion disorder
+</level3>
+<level3>
+Catabolic state
+</level3>
+<level3>
+Citrate toxicity
+</level3>
+<level3>
+Congenital hyperthyroidism
+</level3>
+<level3>
+Congenital hypothyroidism
+</level3>
+<level3>
+Cortisol deficiency
+</level3>
+<level3>
+Crystal arthropathy
+</level3>
+<level3>
+Crystal nephropathy
+</level3>
+<level3>
+Cushing's syndrome
+</level3>
+<level3>
+Cushingoid
+</level3>
+<level3>
+Ectopic hyperthyroidism
+</level3>
+<level3>
+Endocrine ophthalmopathy
+</level3>
+<level3>
+Enzyme abnormality
+</level3>
+<level3>
+Enzyme induction
+</level3>
+<level3>
+Enzyme inhibition
+</level3>
+<level3>
+Glucocorticoid deficiency
+</level3>
+<level3>
+Goitre
+</level3>
+<level3>
+Hyperadrenalism
+</level3>
+<level3>
+Hyperadrenocorticism
+</level3>
+<level3>
+Hyperamylasaemia
+</level3>
+<level3>
+Hyperbilirubinaemia
+</level3>
+<level3>
+Hyperbilirubinaemia neonatal
+</level3>
+<level3>
+Hypercarotinaemia
+</level3>
+<level3>
+Hypercatabolism
+</level3>
+<level3>
+Hypercorticoidism
+</level3>
+<level3>
+Hypercreatinaemia
+</level3>
+<level3>
+Hypercreatininaemia
+</level3>
+<level3>
+Hyperlipasaemia
+</level3>
+<level3>
+Hypermetabolism
+</level3>
+<level3>
+Hyperoxalaemia
+</level3>
+<level3>
+Hyperphosphatasaemia
+</level3>
+<level3>
+Hyperthyroidism
+</level3>
+<level3>
+Hypoaldosteronism
+</level3>
+<level3>
+Hypometabolism
+</level3>
+<level3>
+Hypothyroidic goitre
+</level3>
+<level3>
+Hypothyroidism
+</level3>
+<level3>
+Macroamylasaemia
+</level3>
+<level3>
+Marine Lenhart syndrome
+</level3>
+<level3>
+Metabolic cardiomyopathy
+</level3>
+<level3>
+Metabolic disorder
+</level3>
+<level3>
+Metabolic encephalopathy
+</level3>
+<level3>
+Metabolic syndrome
+</level3>
+<level3>
+Mineralocorticoid deficiency
+</level3>
+<level3>
+Myxoedema coma
+</level3>
+<level3>
+Oxalosis
+</level3>
+<level3>
+Post procedural hypothyroidism
+</level3>
+<level3>
+Primary adrenal insufficiency
+</level3>
+<level3>
+Primary hyperthyroidism
+</level3>
+<level3>
+Primary hypothyroidism
+</level3>
+<level3>
+Pseudophaeochromocytoma
+</level3>
+<level3>
+Refeeding syndrome
+</level3>
+<level3>
+Secondary adrenocortical insufficiency
+</level3>
+<level3>
+Secondary hyperthyroidism
+</level3>
+<level3>
+Secondary hypothyroidism
+</level3>
+<level3>
+Tertiary hypothyroidism
+</level3>
+<level3>
+Thyrotoxic cardiomyopathy
+</level3>
+<level3>
+Thyrotoxic crisis
+</level3>
+<level3>
+Thyrotoxic periodic paralysis
+</level3>
+<level3>
+Toxic goitre
+</level3>
+<level3>
+Toxic nodular goitre
+</level3>
+</level2>
+</level1>
+<level1 name =" Protein and amino acid metabolism disorders NEC">
+<level2 name =" Amino acid metabolism disorders NEC">
+<level3>
+Acquired aminoaciduria
+</level3>
+<level3>
+Amino acid catabolism disorder
+</level3>
+<level3>
+Amino acid metabolism disorder
+</level3>
+<level3>
+Hyperhomocysteinaemia
+</level3>
+</level2>
+<level2 name =" Protein metabolism disorders NEC">
+<level3>
+Bisalbuminaemia
+</level3>
+<level3>
+Coma uraemic
+</level3>
+<level3>
+Hyperalbuminaemia
+</level3>
+<level3>
+Hyperammonaemia
+</level3>
+<level3>
+Hyperammonaemic crisis
+</level3>
+<level3>
+Hyperammonaemic encephalopathy
+</level3>
+<level3>
+Hyperproteinaemia
+</level3>
+<level3>
+Hypoalbuminaemia
+</level3>
+<level3>
+Hypoproteinaemia
+</level3>
+<level3>
+Plasma protein metabolism disorder
+</level3>
+<level3>
+Protein anabolism increased
+</level3>
+<level3>
+Protein deficiency anaemia
+</level3>
+<level3>
+Uraemic encephalopathy
+</level3>
+</level2>
+</level1>
+<level1 name =" Purine and pyrimidine metabolism disorders">
+<level2 name =" Disorders of purine metabolism">
+<level3>
+Adenine phosphoribosyl transferase deficiency
+</level3>
+<level3>
+Gout
+</level3>
+<level3>
+Gouty arthritis
+</level3>
+<level3>
+Gouty tophus
+</level3>
+<level3>
+Hyperuricaemia
+</level3>
+<level3>
+Hypouricaemia
+</level3>
+<level3>
+Hypoxanthine-guanine phosphoribosyl transferase deficiency
+</level3>
+<level3>
+Purine metabolism disorder
+</level3>
+<level3>
+Urate nephropathy
+</level3>
+</level2>
+<level2 name =" Disorders of pyrimidine metabolism">
+<level3>
+Acquired pyrimidine metabolism disorder
+</level3>
+<level3>
+Dihydropyrimidine dehydrogenase deficiency
+</level3>
+<level3>
+Oroticaciduria
+</level3>
+<level3>
+Oroticaciduria congenital
+</level3>
+</level2>
+</level1>
+<level1 name =" Vitamin related disorders">
+<level2 name =" Fat soluble vitamin deficiencies and disorders">
+<level3>
+Haemorrhagic disease of newborn
+</level3>
+<level3>
+Keratomalacia
+</level3>
+<level3>
+Night blindness
+</level3>
+<level3>
+Vitamin A deficiency
+</level3>
+<level3>
+Vitamin A deficiency eye disorder
+</level3>
+<level3>
+Vitamin A deficiency related conjunctival disorder
+</level3>
+<level3>
+Vitamin A deficiency related corneal disorder
+</level3>
+<level3>
+Vitamin D deficiency
+</level3>
+<level3>
+Vitamin E deficiency
+</level3>
+<level3>
+Vitamin K deficiency
+</level3>
+<level3>
+Xerophthalmia
+</level3>
+</level2>
+<level2 name =" Hypervitaminoses NEC">
+<level3>
+Hypervitaminosis
+</level3>
+<level3>
+Hypervitaminosis A
+</level3>
+<level3>
+Hypervitaminosis D
+</level3>
+</level2>
+<level2 name =" Vitamin deficiencies NEC">
+<level3>
+Anaemia macrocytic
+</level3>
+<level3>
+Anaemia megaloblastic
+</level3>
+<level3>
+Hypovitaminosis
+</level3>
+<level3>
+Multi-vitamin deficiency
+</level3>
+<level3>
+Tropical sprue
+</level3>
+</level2>
+<level2 name =" Water soluble vitamin deficiencies">
+<level3>
+Amblyopia tobacco
+</level3>
+<level3>
+Anaemia folate deficiency
+</level3>
+<level3>
+Anaemia vitamin B12 deficiency
+</level3>
+<level3>
+Anaemia vitamin B6 deficiency
+</level3>
+<level3>
+Biotin deficiency
+</level3>
+<level3>
+Folate deficiency
+</level3>
+<level3>
+Infantile scurvy
+</level3>
+<level3>
+Korsakoff's syndrome
+</level3>
+<level3>
+Neuropathy vitamin B12 deficiency
+</level3>
+<level3>
+Neuropathy vitamin B6 deficiency
+</level3>
+<level3>
+Nicotinic acid deficiency
+</level3>
+<level3>
+Shoshin beriberi
+</level3>
+<level3>
+Subacute combined cord degeneration
+</level3>
+<level3>
+Vitamin B complex deficiency
+</level3>
+<level3>
+Vitamin B1 deficiency
+</level3>
+<level3>
+Vitamin B12 deficiency
+</level3>
+<level3>
+Vitamin B2 deficiency
+</level3>
+<level3>
+Vitamin B6 deficiency
+</level3>
+<level3>
+Vitamin C deficiency
+</level3>
+<level3>
+Wernicke's encephalopathy
+</level3>
+<level3>
+Wernicke-Korsakoff syndrome
+</level3>
+</level2>
+</level1>
+</level0>

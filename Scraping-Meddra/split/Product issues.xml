@@ -1,0 +1,516 @@
+<level0 name =" Product issues">
+<level1 name =" Device issues">
+<level2 name =" Device computer issues">
+<level3>
+Device computer issue
+</level3>
+</level2>
+<level2 name =" Device electrical issues">
+<level3>
+Device electrical finding
+</level3>
+<level3>
+Device electrical impedance issue
+</level3>
+<level3>
+Electromagnetic interference
+</level3>
+</level2>
+<level2 name =" Device incompatibility issues">
+<level3>
+Device-device incompatibility
+</level3>
+<level3>
+Drug-device incompatibility
+</level3>
+<level3>
+Patient-device incompatibility
+</level3>
+</level2>
+<level2 name =" Device information output issues">
+<level3>
+Device alarm issue
+</level3>
+<level3>
+Device information output issue
+</level3>
+<level3>
+Device telemetry issue
+</level3>
+</level2>
+<level2 name =" Device issues NEC">
+<level3>
+Absorbable device issue
+</level3>
+<level3>
+Device adhesion issue
+</level3>
+<level3>
+Device catching fire
+</level3>
+<level3>
+Device connection issue
+</level3>
+<level3>
+Device dislocation
+</level3>
+<level3>
+Device effect decreased
+</level3>
+<level3>
+Device effect delayed
+</level3>
+<level3>
+Device effect incomplete
+</level3>
+<level3>
+Device effect increased
+</level3>
+<level3>
+Device effect variable
+</level3>
+<level3>
+Device end of service
+</level3>
+<level3>
+Device expulsion
+</level3>
+<level3>
+Device extrusion
+</level3>
+<level3>
+Device failure
+</level3>
+<level3>
+Device ineffective
+</level3>
+<level3>
+Device inversion
+</level3>
+<level3>
+Device issue
+</level3>
+<level3>
+Device lead issue
+</level3>
+<level3>
+Device leakage
+</level3>
+<level3>
+Device loosening
+</level3>
+<level3>
+Embedded device
+</level3>
+<level3>
+Implant subsidence
+</level3>
+<level3>
+Lead dislodgement
+</level3>
+<level3>
+Mobile medical application issue
+</level3>
+</level2>
+<level2 name =" Device malfunction events NEC">
+<level3>
+Device battery issue
+</level3>
+<level3>
+Device capturing issue
+</level3>
+<level3>
+Device inappropriate shock delivery
+</level3>
+<level3>
+Device infusion issue
+</level3>
+<level3>
+Device malfunction
+</level3>
+<level3>
+Device occlusion
+</level3>
+<level3>
+Device optical issue
+</level3>
+<level3>
+Device pacing issue
+</level3>
+<level3>
+Device power source issue
+</level3>
+<level3>
+Device signal detection issue
+</level3>
+<level3>
+Device stimulation issue
+</level3>
+<level3>
+Medical device entrapment
+</level3>
+<level3>
+Oversensing
+</level3>
+<level3>
+Stent malfunction
+</level3>
+<level3>
+Thrombosis in device
+</level3>
+<level3>
+Undersensing
+</level3>
+</level2>
+<level2 name =" Device operational issues NEC">
+<level3>
+Device operational issue
+</level3>
+</level2>
+<level2 name =" Device physical property and chemical issues">
+<level3>
+Device battery explosion
+</level3>
+<level3>
+Device breakage
+</level3>
+<level3>
+Device chemical property issue
+</level3>
+<level3>
+Device colour issue
+</level3>
+<level3>
+Device damage
+</level3>
+<level3>
+Device defective
+</level3>
+<level3>
+Device deposit issue
+</level3>
+<level3>
+Device extension damage
+</level3>
+<level3>
+Device fastener issue
+</level3>
+<level3>
+Device kink
+</level3>
+<level3>
+Device lead damage
+</level3>
+<level3>
+Device material issue
+</level3>
+<level3>
+Device material opacification
+</level3>
+<level3>
+Device physical property issue
+</level3>
+<level3>
+Needle issue
+</level3>
+<level3>
+Syringe issue
+</level3>
+</level2>
+</level1>
+<level1 name =" Product quality, supply, distribution, manufacturing and quality system issues">
+<level2 name =" Counterfeit, falsified and substandard products">
+<level3>
+Product counterfeit
+</level3>
+<level3>
+Product label counterfeit
+</level3>
+<level3>
+Product packaging counterfeit
+</level3>
+<level3>
+Suspected counterfeit product
+</level3>
+</level2>
+<level2 name =" Manufacturing facilities and equipment issues">
+<level3>
+Manufacturing equipment cleaning issue
+</level3>
+<level3>
+Manufacturing equipment issue
+</level3>
+<level3>
+Manufacturing facilities issue
+</level3>
+</level2>
+<level2 name =" Manufacturing issues NEC">
+<level3>
+Manufacturing issue
+</level3>
+</level2>
+<level2 name =" Manufacturing laboratory controls issues">
+<level3>
+Manufacturing laboratory analytical testing issue
+</level3>
+<level3>
+Manufacturing laboratory controls calibration issue
+</level3>
+<level3>
+Manufacturing laboratory controls issue
+</level3>
+<level3>
+Manufacturing stability testing issue
+</level3>
+<level3>
+Out of specification test results
+</level3>
+</level2>
+<level2 name =" Manufacturing materials issues">
+<level3>
+Manufacturing material testing deviation
+</level3>
+<level3>
+Manufacturing materials contamination
+</level3>
+<level3>
+Manufacturing materials issue
+</level3>
+</level2>
+<level2 name =" Manufacturing production issues">
+<level3>
+Inadequate aseptic technique in manufacturing of product
+</level3>
+<level3>
+Manufacturing process control procedure incorrectly performed
+</level3>
+<level3>
+Manufacturing process control procedure issue
+</level3>
+<level3>
+Manufacturing process control procedure not performed
+</level3>
+<level3>
+Manufacturing production issue
+</level3>
+<level3>
+Product process control issue
+</level3>
+<level3>
+Product quality control issue
+</level3>
+</level2>
+<level2 name =" Product contamination and sterility issues">
+<level3>
+Exposure via contaminated device
+</level3>
+<level3>
+Product cleaning inadequate
+</level3>
+<level3>
+Product contamination
+</level3>
+<level3>
+Product contamination chemical
+</level3>
+<level3>
+Product contamination microbial
+</level3>
+<level3>
+Product contamination physical
+</level3>
+<level3>
+Product contamination with body fluid
+</level3>
+<level3>
+Product sterility lacking
+</level3>
+<level3>
+Suspected product contamination
+</level3>
+<level3>
+Suspected transmission of an infectious agent via product
+</level3>
+<level3>
+Transmission of an infectious agent via product
+</level3>
+</level2>
+<level2 name =" Product distribution and storage issues">
+<level3>
+Inappropriate release of product for distribution
+</level3>
+<level3>
+Manufacturing product shipping issue
+</level3>
+<level3>
+Manufacturing product storage issue
+</level3>
+<level3>
+Product distribution issue
+</level3>
+<level3>
+Wrong product stored
+</level3>
+</level2>
+<level2 name =" Product label issues">
+<level3>
+Physical product label issue
+</level3>
+<level3>
+Product barcode issue
+</level3>
+<level3>
+Product expiration date issue
+</level3>
+<level3>
+Product identification number issue
+</level3>
+<level3>
+Product label issue
+</level3>
+<level3>
+Product label on wrong product
+</level3>
+<level3>
+Product lot number issue
+</level3>
+</level2>
+<level2 name =" Product packaging issues">
+<level3>
+Failure of child resistant mechanism for pharmaceutical product
+</level3>
+<level3>
+Packaging design issue
+</level3>
+<level3>
+Product blister packaging issue
+</level3>
+<level3>
+Product closure issue
+</level3>
+<level3>
+Product closure removal difficult
+</level3>
+<level3>
+Product commingling
+</level3>
+<level3>
+Product container issue
+</level3>
+<level3>
+Product container seal issue
+</level3>
+<level3>
+Product dropper issue
+</level3>
+<level3>
+Product outer packaging issue
+</level3>
+<level3>
+Product package associated injury
+</level3>
+<level3>
+Product packaging issue
+</level3>
+<level3>
+Product packaging quantity issue
+</level3>
+</level2>
+<level2 name =" Product physical issues">
+<level3>
+Liquid product physical issue
+</level3>
+<level3>
+Product caught fire
+</level3>
+<level3>
+Product coating issue
+</level3>
+<level3>
+Product colour issue
+</level3>
+<level3>
+Product deposit
+</level3>
+<level3>
+Product dosage form issue
+</level3>
+<level3>
+Product friable
+</level3>
+<level3>
+Product gel formation
+</level3>
+<level3>
+Product leakage
+</level3>
+<level3>
+Product odour abnormal
+</level3>
+<level3>
+Product physical consistency issue
+</level3>
+<level3>
+Product physical issue
+</level3>
+<level3>
+Product reconstitution quality issue
+</level3>
+<level3>
+Product shape issue
+</level3>
+<level3>
+Product size issue
+</level3>
+<level3>
+Product solubility abnormal
+</level3>
+<level3>
+Product taste abnormal
+</level3>
+</level2>
+<level2 name =" Product quality issues NEC">
+<level3>
+Product adhesion issue
+</level3>
+<level3>
+Product compounding quality issue
+</level3>
+<level3>
+Product formulation issue
+</level3>
+<level3>
+Product impurity
+</level3>
+<level3>
+Product measured potency issue
+</level3>
+<level3>
+Product origin unknown
+</level3>
+<level3>
+Product quality issue
+</level3>
+<level3>
+Product substitution issue
+</level3>
+<level3>
+Product tampering
+</level3>
+<level3>
+Suspected product tampering
+</level3>
+</level2>
+<level2 name =" Product supply and availability issues">
+<level3>
+Product availability issue
+</level3>
+<level3>
+Product supply issue
+</level3>
+<level3>
+Recalled product
+</level3>
+</level2>
+</level1>
+</level0>
